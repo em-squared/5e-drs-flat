@@ -1,52 +1,48 @@
 ---
-title: "Chort"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "12"
+title: Chort
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '12'
 hitDiceCount: 15
-abilityScores:
-  for: 24
-  dex: 20
-  con: 26
-  int: 18
-  sag: 20
-  cha: 20
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "int"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - for
+  - dex
+  - con
+  - int
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 36
+  - name: athletisme
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "c-p-t-non-argent"
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "froid"
-  - "poison"
+  - feu
+  - froid
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "infernal"
+  - céleste
+  - commun
+  - draconique
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 107
+abilityScores_for: 24
+abilityScores_dex: 20
+abilityScores_con: 26
+abilityScores_int: 18
+abilityScores_sag: 20
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

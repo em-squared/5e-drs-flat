@@ -1,48 +1,44 @@
 ---
-title: "Nuée d'insectes"
+title: Nuée d'insectes
 isSwarm: true
-swarmSize: "TP"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+swarmSize: TP
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 3
-  dex: 13
-  con: 10
-  int: 1
-  sag: 7
-  cha: 1
-ac:
-  armorType: "armure naturelle"
-  value: 1
-movement:
-  walk: 6
-  climb: 6
-senses:
-  blindsight: 3
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoigne
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 languages:
-  - ""
+  - ''
 environments:
   - Bois / Forêt
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 315
+abilityScores_for: 3
+abilityScores_dex: 13
+abilityScores_con: 10
+abilityScores_int: 1
+abilityScores_sag: 7
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_climb: 6
+senses_blindsight: 3
 ---
 ## Capacités
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un insecte de taille TP. Elle ne peut pas récupérer de point de vie ou gagner de point de vie temporaire.

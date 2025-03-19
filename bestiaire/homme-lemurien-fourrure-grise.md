@@ -1,36 +1,32 @@
 ---
-title: "Homme-lémurien, fourrure grise"
-type: "Humanoïde"
-subtype: "homme-lémurien"
-size: "P"
-alignment: "Neutre"
-challenge: "4"
+title: 'Homme-lémurien, fourrure grise'
+type: Humanoïde
+subtype: homme-lémurien
+size: P
+alignment: Neutre
+challenge: '4'
 hitDiceCount: 15
-abilityScores:
-  for: 9
-  dex: 16
-  con: 12
-  int: 16
-  sag: 12
-  cha: 10
-ac:
-  armorType: "armure du mage"
 skills:
-  - name: "acrobaties"
-  - name: "discretion"
-movement:
-  walk: 6
-  climb: 3
-  fly: 12
-senses:
-  darkvision: 18
+  - name: acrobaties
+  - name: discretion
 languages:
-  - "commun"
-  - "homme-lémurien"
+  - commun
+  - homme-lémurien
 environments:
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 243
+abilityScores_for: 9
+abilityScores_dex: 16
+abilityScores_con: 12
+abilityScores_int: 16
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: armure du mage
+movement_walk: 6
+movement_climb: 3
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Planeur silencieux**_. L'homme-lémurien peut planer jusqu'à une minute sans faire de bruit. Il gagne une vitesse de 12 mètres et doit se déplacer d'au moins 6 mètres à son tour pour continuer à voler. Un homme-lémurien qui plane est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion).

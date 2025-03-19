@@ -1,22 +1,20 @@
 ---
-title: "Nimbe de bienfaisance"
-description: "Aura qui soigne et aide les alliés et blesse les morts-vivants."
-school: "Abjuration"
+title: Nimbe de bienfaisance
+description: Aura qui soigne et aide les alliés et blesse les morts-vivants.
+school: Abjuration
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: personnelle
 ritual: false
 classes:
-    - Paladin
-
-source: "Manuel des règles"
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du sort. Au moment de l'incantation, les créatures vivantes situées à 3 mètres ou moins de vous récupèrent autant de points de vie que leur bonus de maîtrise, sans dépasser leur maximum. De plus, toutes bénéficient d'une résistance aux dégâts nécrotiques pour toute la durée du sort. Les morts-vivants présents dans cette zone au début de leur tour subissent 1d6 points de dégâts radiants.
 

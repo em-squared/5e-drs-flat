@@ -1,37 +1,33 @@
 ---
-title: "Chien-anguille"
-type: "Fée"
-size: "M"
-alignment: "Neutre"
-challenge: "2"
+title: Chien-anguille
+type: Fée
+size: M
+alignment: Neutre
+challenge: '2'
 hitDiceCount: 14
-abilityScores:
-  for: 19
-  dex: 16
-  con: 13
-  int: 6
-  sag: 13
-  cha: 16
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-skills: 
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 9
-  swim: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "sylvestre"
+skills:
+  - name: discretion
+  - name: perception
+languages:
+  - sylvestre
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 59
+abilityScores_for: 19
+abilityScores_dex: 16
+abilityScores_con: 13
+abilityScores_int: 6
+abilityScores_sag: 13
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_swim: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Un chien-anguille peut respirer à l'air libre et sous l'eau.

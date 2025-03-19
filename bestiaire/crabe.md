@@ -1,36 +1,32 @@
 ---
-title: "Crabe"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0"
+title: Crabe
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 2
-  dex: 11
-  con: 10
-  int: 1
-  sag: 8
-  cha: 2
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "discretion"
-movement:
-  walk: 6
-  swim: 6
-senses:
-  blindsight: 9
+  - name: discretion
 languages:
-  - ""
+  - ''
 environments:
   - Littoral
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 303
+abilityScores_for: 2
+abilityScores_dex: 11
+abilityScores_con: 10
+abilityScores_int: 1
+abilityScores_sag: 8
+abilityScores_cha: 2
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_swim: 6
+senses_blindsight: 9
 ---
 ## Capacités
 _**Amphibie**_. Le crabe peut respirer à l'air libre et sous l'eau.

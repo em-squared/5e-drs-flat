@@ -1,40 +1,37 @@
 ---
-title: "Géant du feu"
-type: "Géant"
-size: "TG"
-alignment: "Loyal Mauvais"
-challenge: "9"
+title: Géant du feu
+type: Géant
+size: TG
+alignment: Loyal Mauvais
+challenge: '9'
 hitDiceCount: 13
-abilityScores:
-  for: 25
-  dex: 9
-  con: 23
-  int: 10
-  sag: 14
-  cha: 13
-savingThrows: 
-  - "dex"
-  - "con"
-  - "cha"
-ac: 
-  armorType: "harnois"
-skills: 
-  - name: "athletisme"
-  - name: "perception"
-movement: 
-  walk: 9
-senses: 
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "géant"
+savingThrows:
+  - dex
+  - con
+  - cha
+skills:
+  - name: athletisme
+  - name: perception
+senses: null
+damageTypeImmunities:
+  - feu
+languages:
+  - géant
 environments:
   - Désert chaud
   - Montagnes
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 155
+abilityScores_for: 25
+abilityScores_dex: 9
+abilityScores_con: 23
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 13
+ac_armorType: harnois
+movement_walk: 9
 ---
 ## Actions
 _**Attaques multiples**_. Le géant effectue deux attaques avec son épée à deux mains.

@@ -1,50 +1,48 @@
 ---
-title: "Spectre"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "1"
+title: Spectre
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '1'
 hitDiceCount: 5
-abilityScores:
-  for: 1
-  dex: 14
-  con: 11
-  int: 10
-  sag: 10
-  cha: 11
-ac:
-  armorType: null
-movement:
-  walk: 0
-  fly: 15
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - entrave
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler"
+  - >-
+    comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas
+    parler
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 260
+abilityScores_for: 1
+abilityScores_dex: 14
+abilityScores_con: 11
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 11
+ac_armorType: null
+movement_walk: 0
+movement_fly: 15
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Déplacement intangible**_. Le spectre peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.

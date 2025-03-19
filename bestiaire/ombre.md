@@ -1,54 +1,52 @@
 ---
-title: "Ombre"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "0.5"
+title: Ombre
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 6
-  dex: 14
-  con: 13
-  int: 6
-  sag: 10
-  cha: 8
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-customSkills: "Discrétion +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - name: discretion
+customSkills: >-
+  Discrétion +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité
+  totale)
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - entrave
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeVulnerabilities:
-  - "radiant"
+  - radiant
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Donjon maçonné
   - Ruines extérieures
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 237
+abilityScores_for: 6
+abilityScores_dex: 14
+abilityScores_con: 13
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Affaiblie par la lumière du soleil**_. L'ombre subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque, des [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) et des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) lorsqu'elle est exposée à la lumière du soleil.

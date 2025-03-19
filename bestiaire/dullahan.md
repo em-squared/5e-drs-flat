@@ -1,43 +1,39 @@
 ---
-title: "Dullahan"
-type: "Fée"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "11"
+title: Dullahan
+type: Fée
+size: G
+alignment: Loyal Mauvais
+challenge: '11'
 hitDiceCount: 17
-abilityScores:
-  for: 19
-  dex: 18
-  con: 20
-  int: 13
-  sag: 15
-  cha: 17
-ac:
-  armorType: "armure naturelle"
-  value: 3
 skills:
-  - name: "intimidation"
-  - name: "perception"
-  - name: "persuasion"
-  - name: "survie"
-movement:
-  walk: 18
-senses:
-  blindsight: 18
+  - name: intimidation
+  - name: perception
+  - name: persuasion
+  - name: survie
 conditionImmunities:
-  - "aveugle"
-  - "empoisonne"
-  - "terrorise"
+  - aveugle
+  - empoisonne
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
+  - necrotique
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - sylvestre
+source: Livre des monstres
 source_page: 160
+abilityScores_for: 19
+abilityScores_dex: 18
+abilityScores_con: 20
+abilityScores_int: 13
+abilityScores_sag: 15
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 18
+senses_blindsight: 18
 ---
 ## Capacités
 _**Regard lugubre**_. Si une créature commence son tour dans un rayon de 9 mètres d'un dullahan, qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et qui peut la voir, et que cette créature peut également voir les yeux du dullahan dans sa tête tranchée, celui-ci peut forcer la créature à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 15. Sur un échec, elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) jusqu'au début de son prochain tour. Tant qu'elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise), la créature est forcée de s'éloigner du dullahan et elle ne peut utiliser son action que pour _se précipiter_. Par contre, si la créature est sous l'effet du trait _destin funeste_ du dullahan, elle se trouve [_entravée_](/gerer-la-sante-du-personnage/#entrave) tant qu'elle est [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise).

@@ -1,45 +1,41 @@
 ---
-title: "Dragon blanc, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: 'Dragon blanc, dragonnet'
+type: Dragon
+size: M
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 5
-abilityScores:
-  for: 14
-  dex: 10
-  con: 14
-  int: 5
-  sag: 10
-  cha: 11
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-  burrow: 4,50
-  swim: 9
-  fly: 18
-senses:
-  blindsight: 3
-  darkvision: 18
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "draconique"
+  - draconique
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 83
+abilityScores_for: 14
+abilityScores_dex: 10
+abilityScores_con: 14
+abilityScores_int: 5
+abilityScores_sag: 10
+abilityScores_cha: 11
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 9
+movement_burrow: '4,50'
+movement_swim: 9
+movement_fly: 18
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  

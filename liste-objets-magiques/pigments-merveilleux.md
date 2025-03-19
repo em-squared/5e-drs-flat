@@ -1,10 +1,10 @@
 ---
-title: "Pigments merveilleux"
-type: "Objet merveilleux"
+title: Pigments merveilleux
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
+rarity: Très rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ces pigments se trouvent généralement dans 1d4 pots rangés dans une boîte de bois en compagnie d'un pinceau (le tout pesant 0,5 kilo). Ils vous permettent de créer des objets en trois dimensions en les peignant en deux dimensions. La peinture coule du pinceau pour dessiner l'objet désiré alors que vous vous concentrez sur son image.
 

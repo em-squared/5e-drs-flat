@@ -1,38 +1,34 @@
 ---
-title: "Guenaude des sables"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "5"
+title: Guenaude des sables
+type: Créature monstrueuse
+size: M
+alignment: Chaotique Mauvais
+challenge: '5'
 hitDiceCount: 15
-abilityScores:
-  for: 18
-  dex: 15
-  con: 16
-  int: 16
-  sag: 14
-  cha: 16
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-  burrow: 9
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: perception
+  - name: supercherie
 languages:
-  - "commun"
-  - "nain"
-  - "géant"
-  - "gnome"
+  - commun
+  - nain
+  - géant
+  - gnome
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 228
+abilityScores_for: 18
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 16
+abilityScores_sag: 14
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_burrow: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. La guenaude est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

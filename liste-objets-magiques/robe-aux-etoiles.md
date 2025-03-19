@@ -1,10 +1,10 @@
 ---
-title: "Robe aux étoiles"
-type: "Objet merveilleux"
+title: Robe aux étoiles
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Cette robe noire ou bleue foncée est brodée de petites étoiles blanches ou argentées. Vous bénéficiez d'un bonus de +1 aux jets de sauvegarde tant que vous la portez.
 

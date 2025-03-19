@@ -1,45 +1,41 @@
 ---
-title: "Voile-de-givre"
-type: "Plante"
-size: "M"
-alignment: "non-alignée"
-challenge: "4"
+title: Voile-de-givre
+type: Plante
+size: M
+alignment: non-alignée
+challenge: '4'
 hitDiceCount: 9
-abilityScores:
-  for: 20
-  dex: 20
-  con: 16
-  int: 1
-  sag: 11
-  cha: 1
-ac:
-  armorType: "custom"
-  value: "16"
 skills:
-  - name: "discretion"
-movement:
-  walk: 3
-  special: "vol (variable ; voir le trait porté par le vent)"
-senses:
-  blindsight: 30
+  - name: discretion
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "c-p-non-magique"
+  - c-p-non-magique
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "—"
+  - —
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 408
+abilityScores_for: 20
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 1
+abilityScores_sag: 11
+abilityScores_cha: 1
+ac_armorType: custom
+ac_value: '16'
+movement_walk: 3
+movement_special: vol (variable ; voir le trait porté par le vent)
+senses_blindsight: 30
 ---
 ## Capacités
 _**Acide réfrigérant**_. La brume acide que dégage un voile-de-givre est capable de réduire la chair et les matières organiques en nutriments qu'il peut absorber. Les créatures qui frappent un voile-de-givre avec une arme de corps à corps sans portée ou avec une attaque à mains nues subissent 4 (1d8) dégâts d'acide.

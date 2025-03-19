@@ -1,23 +1,21 @@
 ---
-title: "Aura magique de l'arcaniste"
-description: "Crée une fausse aura magique autour de la cible."
-school: "Illusion"
+title: Aura magique de l'arcaniste
+description: Crée une fausse aura magique autour de la cible.
+school: Illusion
 level: 2
 concentration: false
-casting_time: "1 action"
-duration: "24 heures"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un petit carré de soie"
+casting_time: 1 action
+duration: 24 heures
+range: contact
 ritual: false
 classes:
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un petit carré de soie
 ---
 Vous enveloppez la créature ou l'objet touché d'une illusion, afin que les sorts de divination révèlent des informations erronées à son propos. La cible du sort doit être une créature consentante ou un objet qui n'est ni porté ni transporté par une autre créature.
 

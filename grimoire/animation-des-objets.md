@@ -1,23 +1,21 @@
 ---
-title: "Animation des objets"
-description: "Permet d'animer jusqu'à 10 objets et de les contrôler."
-school: "Transmutation"
+title: Animation des objets
+description: Permet d'animer jusqu'à 10 objets et de les contrôler.
+school: Transmutation
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 36 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Les objets prennent vie sur votre ordre. Choisissez jusqu'à dix objets non magiques à portée que personne ne porte ni ne transporte. Les cibles de taille M comptent comme deux objets, celles de taille G comme quatre et celles de taille TG comme huit. Vous ne pouvez pas animer d'objet de taille supérieure. Chaque cible s'anime et devient une créature placée sous votre contrôle jusqu'à la fin du sort, ou jusqu'à tomber à 0 point de vie.
 

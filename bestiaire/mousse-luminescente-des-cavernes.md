@@ -1,44 +1,40 @@
 ---
-title: "Mousse luminescente des cavernes"
-type: "Plante"
-size: "G"
-alignment: "Neutre"
-challenge: "4"
+title: Mousse luminescente des cavernes
+type: Plante
+size: G
+alignment: Neutre
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 24
-  dex: 10
-  con: 18
-  int: 1
-  sag: 13
-  cha: 5
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 1,50
-  climb: 1,50
-senses:
-  tremorsense: 18
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "charme"
-  - "etourdi"
-  - "inconscient"
-  - "paralyse"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - charme
+  - etourdi
+  - inconscient
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "froid"
-  - "t-non-magique"
+  - acide
+  - feu
+  - froid
+  - t-non-magique
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 313
+abilityScores_for: 24
+abilityScores_dex: 10
+abilityScores_con: 18
+abilityScores_int: 1
+abilityScores_sag: 13
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: '1,50'
+movement_climb: '1,50'
+senses_tremorsense: 18
 ---
 ## Capacités
 _**Luminescence**_. Les produits chimiques dont est composée une mousse luminescente des cavernes la font briller avec la même force qu'une torche. Une mousse luminescente des cavernes ne peut pas mettre fin à cet effet. Elle peut cependant réduire la quantité de lumière qu'elle produit pour n'émettre qu'une lumière équivalente à une bougie.

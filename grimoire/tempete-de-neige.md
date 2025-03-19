@@ -1,24 +1,22 @@
 ---
-title: "Tempête de neige"
-description: "Invoque une tempête qui fait chuter les créatures."
-school: "Invocation"
+title: Tempête de neige
+description: Invoque une tempête qui fait chuter les créatures.
+school: Invocation
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "45 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pincée de poussière et quelques gouttes d'eau"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 45 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une pincée de poussière et quelques gouttes d'eau
 ---
 Jusqu'à la fin du sort, une averse de flocons et de neige fondue s'abat dans un cylindre de 6 mètres de haut pour un rayon de 12 mètres centré sur un point de votre choix situé à portée. Dans la zone, la visibilité est nulle et les flammes à nu s'éteignent.
 

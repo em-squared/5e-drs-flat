@@ -1,33 +1,29 @@
 ---
-title: "Doppelrat"
-type: "Créature monstrueuse"
-size: "TP"
-alignment: "non-alignée"
-challenge: "2"
+title: Doppelrat
+type: Créature monstrueuse
+size: TP
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 5
-abilityScores:
-  for: 2
-  dex: 17
-  con: 14
-  int: 2
-  sag: 13
-  cha: 2
 savingThrows:
-  - "dex"
-ac:
-  armorType: null
+  - dex
 skills:
-  - name: "discretion"
-movement:
-  walk: 4,50
-  climb: 4,50
-  swim: 4,50
-senses:
-  darkvision: 18
+  - name: discretion
 languages:
-  - "—"
-source: "Livre des monstres"
+  - —
+source: Livre des monstres
 source_page: 124
+abilityScores_for: 2
+abilityScores_dex: 17
+abilityScores_con: 14
+abilityScores_int: 2
+abilityScores_sag: 13
+abilityScores_cha: 2
+ac_armorType: null
+movement_walk: '4,50'
+movement_climb: '4,50'
+movement_swim: '4,50'
+senses_darkvision: 18
 ---
 ## Capacités
 _**Odorat aiguisé**_. Un doppelrat est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de Sagesse (Perception) basés sur l'odorat.

@@ -1,43 +1,39 @@
 ---
-title: "Golem oculaire"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "11"
+title: Golem oculaire
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '11'
 hitDiceCount: 15
-abilityScores:
-  for: 22
-  dex: 9
-  con: 20
-  int: 5
-  sag: 11
-  cha: 1
-ac:
-  armorType: "armure naturelle"
-  value: 11
 skills:
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "feu"
-  - "poison"
-  - "psychique"
-  - "c-p-t-non-adamantium"
+  - feu
+  - poison
+  - psychique
+  - c-p-t-non-adamantium
 languages:
-  - "comprend les langues de son créateur mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend les langues de son créateur mais ne peut pas parler
+source: Livre des monstres
 source_page: 214
+abilityScores_for: 22
+abilityScores_dex: 9
+abilityScores_con: 20
+abilityScores_int: 5
+abilityScores_sag: 11
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 11
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Forme immuable**_. Le golem est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

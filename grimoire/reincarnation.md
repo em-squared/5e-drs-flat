@@ -1,22 +1,20 @@
 ---
-title: "Réincarnation"
-description: "Ramène à la vie, dans un nouveau corps, une créature morte depuis 10 jours."
-school: "Transmutation"
+title: Réincarnation
+description: 'Ramène à la vie, dans un nouveau corps, une créature morte depuis 10 jours.'
+school: Transmutation
 level: 5
 concentration: false
-casting_time: "1 heure"
-duration: "instantanée"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "huiles et onguents rares d'une valeur minimale de 1000 po, que le sort consume"
+casting_time: 1 heure
+duration: instantanée
+range: contact
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'huiles et onguents rares d''une valeur minimale de 1000 po, que le sort consume'
 ---
 Vous touchez un humanoïde mort ou un morceau du cadavre d'une telle créature. Si la créature est morte depuis 10 jours ou moins, le sort lui fabrique un nouveau corps adulte et y appelle son âme. Le sort échoue si l'âme n'est pas libre de gagner ce corps ou si elle ne le désire pas.
 

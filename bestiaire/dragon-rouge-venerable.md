@@ -1,47 +1,43 @@
 ---
-title: "Dragon rouge, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Chaotique Mauvais"
-challenge: "24"
+title: 'Dragon rouge, vénérable'
+type: Dragon
+size: Gig
+alignment: Chaotique Mauvais
+challenge: '24'
 hitDiceCount: 28
-abilityScores:
-  for: 30
-  dex: 10
-  con: 29
-  int: 18
-  sag: 15
-  cha: 23
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 12
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  climb: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
 environments:
   - Montagnes
 dungeonTypes:
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 92
+abilityScores_for: 30
+abilityScores_dex: 10
+abilityScores_con: 29
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 23
+ac_armorType: armure naturelle
+ac_value: 12
+movement_walk: 12
+movement_climb: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

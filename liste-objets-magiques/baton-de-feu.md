@@ -1,10 +1,10 @@
 ---
-title: "Bâton de feu"
-type: "Bâton"
+title: Bâton de feu
+type: Bâton
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: 'harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée'
+source: Cadre de campagne
 ---
 Vous bénéficiez d'une résistance contre les dégâts de feu tant que vous tenez ce bâton en main.
 

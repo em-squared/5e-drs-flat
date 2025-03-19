@@ -1,10 +1,10 @@
 ---
-title: "Protectrice"
-type: "Arme"
-subtype: "Épée"
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Protectrice
+type: Arme
+subtype: Épée
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 

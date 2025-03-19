@@ -1,51 +1,47 @@
 ---
-title: "Ostinato"
-type: "Aberration"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "4"
+title: Ostinato
+type: Aberration
+size: M
+alignment: Chaotique Neutre
+challenge: '4'
 hitDiceCount: 6
-abilityScores:
-  for: 1
-  dex: 20
-  con: 15
-  int: 5
-  sag: 12
-  cha: 17
-ac:
-  armorType: null
 skills:
-  - name: "perception"
-movement:
-  fly: 15
-  hover: true
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeVulnerabilities:
-  - "tonnerre"
+  - tonnerre
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - ""
+  - ''
 telepathy: 60
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 335
+abilityScores_for: 1
+abilityScores_dex: 20
+abilityScores_con: 15
+abilityScores_int: 5
+abilityScores_sag: 12
+abilityScores_cha: 17
+ac_armorType: null
+movement_fly: 15
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Déplacement intangible**_. L'ostinato peut se déplacer au travers des autres créatures et des objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.

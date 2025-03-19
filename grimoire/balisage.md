@@ -1,21 +1,19 @@
 ---
-title: "Balisage"
-description: "Rayon infligeant 4d6 dégâts radiants. La cible brille pendant un tour."
-school: "Évocation"
+title: Balisage
+description: Rayon infligeant 4d6 dégâts radiants. La cible brille pendant un tour.
+school: Évocation
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 round"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 1 round
+range: 36 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Un rayon de lumière frappe une créature de votre choix située à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre elle. Si vous le réussissez, elle subit 4d6 dégâts radiants et scintille d'une faible lumière mystique jusqu'à la fin de votre prochain tour. D'ici là et grâce à cette lueur, le prochain [jet d'attaque](/combattre/#jets-d-attaque) effectué contre elle bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).
 

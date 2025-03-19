@@ -1,22 +1,20 @@
 ---
-title: "Bouclier de feu"
-description: "Protection contre les dégâts de feu ou de froid qui blesse les assaillants."
-school: "Évocation"
+title: Bouclier de feu
+description: Protection contre les dégâts de feu ou de froid qui blesse les assaillants.
+school: Évocation
 level: 4
 concentration: false
-casting_time: "1 action"
-duration: "10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un morceau de phosphore ou une luciole"
+casting_time: 1 action
+duration: 10 minutes
+range: personnelle
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un morceau de phosphore ou une luciole
 ---
 De fines volutes de flammes enveloppent votre corps pendant toute la durée du sort, émettant une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon additionnel de 3 mètres. Vous pouvez mettre prématurément un terme au sort en utilisant une action.
 

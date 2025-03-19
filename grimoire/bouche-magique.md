@@ -1,23 +1,23 @@
 ---
-title: "Bouche magique"
-description: "Délivre un message quand on la déclenche."
-school: "Illusion"
+title: Bouche magique
+description: Délivre un message quand on la déclenche.
+school: Illusion
 level: 2
 concentration: false
-casting_time: "1 minute"
-duration: "jusqu'à dissipation"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un rayon de miel et de la poussière de jade d'une valeur de 10  po, que le sort consume"
+casting_time: 1 minute
+duration: jusqu'à dissipation
+range: 9 mètres
 ritual: true
 classes:
-    - Barde
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un rayon de miel et de la poussière de jade d'une valeur de 10  po, que le
+  sort consume
 ---
 Vous implantez un message dans un objet situé à portée. On entend le message dès que les conditions qui le déclenchent sont remplies. Choisissez un objet situé dans votre champ de vision qui n'est ni porté ni transporté par une autre créature. Prononcez ensuite le message, qui doit comprendre au maximum vingt-cinq mots, mais peut se répéter pendant un maximum de 10 minutes. Enfin, déterminez les circonstances dans lesquelles le message s'active.
 

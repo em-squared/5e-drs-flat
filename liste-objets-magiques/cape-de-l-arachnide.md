@@ -1,10 +1,10 @@
 ---
-title: "Cape de l'arachnide"
-type: "Objet merveilleux"
+title: Cape de l'arachnide
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant que vous le portez, vous bénéficiez des avantages suivants.
 * Vous êtes résistant aux dégâts de poison.

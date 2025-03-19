@@ -1,45 +1,41 @@
 ---
-title: "Chapeau rouge"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Chapeau rouge
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 14
-abilityScores:
-  for: 20
-  dex: 10
-  con: 17
-  int: 11
-  sag: 13
-  cha: 8
 savingThrows:
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - con
 skills:
-  - name: "athletisme"
-  - name: "intimidation"
+  - name: athletisme
+  - name: intimidation
     isExpert: true
-movement:
-  walk: 12
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "sylvestre"
-  - "commun des profondeurs"
+  - commun
+  - sylvestre
+  - commun des profondeurs
 environments:
   - Bois / Forêt
   - Collines / Valées
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 55
+abilityScores_for: 20
+abilityScores_dex: 10
+abilityScores_con: 17
+abilityScores_int: 11
+abilityScores_sag: 13
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Lourdes bottes**_. Le chapeau rouge est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion).

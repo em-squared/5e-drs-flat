@@ -1,38 +1,34 @@
 ---
-title: "Blême"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: Blême
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 16
-  dex: 17
-  con: 10
-  int: 11
-  sag: 10
-  cha: 8
-ac: 
-  armorType: null
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-damageTypeResistances: 
-  - "necrotique"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "commun"
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+damageTypeResistances:
+  - necrotique
+damageTypeImmunities:
+  - poison
+languages:
+  - commun
 dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 174
+abilityScores_for: 16
+abilityScores_dex: 17
+abilityScores_con: 10
+abilityScores_int: 11
+abilityScores_sag: 10
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Mépris du renvoi**_. Le blême et toutes les goules situées à 9 mètres ou moins de lui bénéficient d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les effets qui renvoient les morts-vivants.

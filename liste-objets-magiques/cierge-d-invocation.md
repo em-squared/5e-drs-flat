@@ -1,10 +1,10 @@
 ---
-title: "Cierge d'invocation"
-type: "Objet merveilleux"
+title: Cierge d'invocation
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Ce mince cierge est dédié à une divinité précise et partage son alignement. On peut détecter ce dernier avec le sort [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/). C'est au MJ de choisir le dieu et l'alignement associé ou de les déterminer au hasard.
 

@@ -1,45 +1,41 @@
 ---
-title: "Cheval de guerre céleste"
-type: "Bête"
-size: "G"
-alignment: "Loyal Bon"
-challenge: "2"
+title: Cheval de guerre céleste
+type: Bête
+size: G
+alignment: Loyal Bon
+challenge: '2'
 hitDiceCount: 7
-abilityScores:
-  for: 18
-  dex: 12
-  con: 17
-  int: 8
-  sag: 14
-  cha: 10
 savingThrows:
-  - "for"
-  - "sag"
-  - "cha"
-customSavingThrows: "For +7, Sag +5, Cha +3"
-ac:
-  armorType: "custom"
-  value: "13"
+  - for
+  - sag
+  - cha
+customSavingThrows: 'For +7, Sag +5, Cha +3'
 skills:
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 18
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "necrotique"
+  - necrotique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "comprend le commun et le céleste mais ne peut pas parler"
-source: "Créatures & Oppositions"
+  - comprend le commun et le céleste mais ne peut pas parler
+source: Créatures & Oppositions
 source_page: 300
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 17
+abilityScores_int: 8
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: custom
+ac_value: '13'
+movement_walk: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Charge écrasante**_. Si le cheval se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de sabots lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le cheval peut effectuer contre elle une attaque de sabots par une action bonus.

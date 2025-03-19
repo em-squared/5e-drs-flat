@@ -1,38 +1,34 @@
 ---
-title: "Xhkarsh"
-type: "Aberration"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "8"
+title: Xhkarsh
+type: Aberration
+size: G
+alignment: Neutre Mauvais
+challenge: '8'
 hitDiceCount: 14
-abilityScores:
-  for: 17
-  dex: 21
-  con: 18
-  int: 15
-  sag: 16
-  cha: 15
 savingThrows:
-  - "cha"
-ac:
-  armorType: "custom"
-  value: "19 (armure naturelle et mystique)"
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 15
-  climb: 9
-senses:
-  darkvision: 18
-  tremorsense: 36
+  - name: discretion
+  - name: perception
+  - name: perspicacite
 languages:
-  - "commun"
-  - "commun des profondeurs"
-  - "profond"
-source: "Livre des monstres"
+  - commun
+  - commun des profondeurs
+  - profond
+source: Livre des monstres
 source_page: 412
+abilityScores_for: 17
+abilityScores_dex: 21
+abilityScores_con: 18
+abilityScores_int: 15
+abilityScores_sag: 16
+abilityScores_cha: 15
+ac_armorType: custom
+ac_value: 19 (armure naturelle et mystique)
+movement_walk: 15
+movement_climb: 9
+senses_darkvision: 18
+senses_tremorsense: 36
 ---
 ## Capacités
 _**Saisir un fil du destin**_. Le xhkarsh vise une créature dont il a déjà corrompu le destin située dans un rayon de 1,50 mètre. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 15, sans quoi une portion de la conscience du xhkarsh s'installe dans son corps. La cible contrôle toujours sa personne, mais le xhkarsh peut contrôler ses actions pendant 1 minute par jour et modifier ses souvenirs par une action bonus (comme s'il utilisait le sort [_modification de mémoire_](/grimoire/modification-de-memoire/) DD 15). La cible ignore la présence du xhkarsh, mais peut faire un test de Sagesse (Perspicacité) DD 18 une fois par 24 heures pour le remarquer. L'effet persiste jusqu'à ce le xhkarsh y mette un terme ou que le destin de la cible soit restauré avec [_dissipation du mal et du bien_](/grimoire/dissipation-du-mal-et-du-bien/) ou une magie similaire. La victime est immunisée contre cet effet pendant 24 heures quand elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre lui et après que l'effet s'est terminé, pour une raison ou une autre. Un xhkarsh peut tenir jusqu'à quatre fils du destin à la fois.

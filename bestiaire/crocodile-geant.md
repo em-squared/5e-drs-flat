@@ -1,35 +1,32 @@
 ---
-title: "Crocodile géant"
-type: "Bête"
-size: "TG"
-alignment: "non-alignée"
-challenge: "5"
+title: Crocodile géant
+type: Bête
+size: TG
+alignment: non-alignée
+challenge: '5'
 hitDiceCount: 9
-abilityScores:
-  for: 21
-  dex: 9
-  con: 17
-  int: 2
-  sag: 10
-  cha: 7
-ac: 
-  armorType: "armure naturelle"
-  value: 5
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-movement: 
-  walk: 9
-  swim: 15
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 environments:
   - Désert chaud
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 305
+abilityScores_for: 21
+abilityScores_dex: 9
+abilityScores_con: 17
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_swim: 15
 ---
 ## Capacités
 _**Retenir son souffle**_. Le crocodile peut retenir son souffle pendant 30 minutes.

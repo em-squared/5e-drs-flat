@@ -1,35 +1,31 @@
 ---
-title: "Titan dégénéré"
-type: "Géant"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "8"
+title: Titan dégénéré
+type: Géant
+size: TG
+alignment: Chaotique Mauvais
+challenge: '8'
 hitDiceCount: 14
-abilityScores:
-  for: 24
-  dex: 6
-  con: 20
-  int: 6
-  sag: 9
-  cha: 7
-ac: 
-  armorType: "custom"
-  value: "12 (manteau renforcé rudimentaire)"
-skills: 
-  - name: "intimidation"
-  - name: "perception"
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "titan"
+skills:
+  - name: intimidation
+  - name: perception
+languages:
+  - titan
 environments:
   - Plaine / Champs / Prairie / Savane
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 382
+abilityScores_for: 24
+abilityScores_dex: 6
+abilityScores_con: 20
+abilityScores_int: 6
+abilityScores_sag: 9
+abilityScores_cha: 7
+ac_armorType: custom
+ac_value: 12 (manteau renforcé rudimentaire)
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. Le titan dégénéré est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

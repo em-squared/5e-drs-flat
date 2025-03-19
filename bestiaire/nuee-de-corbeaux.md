@@ -1,49 +1,46 @@
 ---
-title: "Nuée de corbeaux"
+title: Nuée de corbeaux
 isSwarm: true
-swarmSize: "TP"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.25"
+swarmSize: TP
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 7
-abilityScores:
-  for: 6
-  dex: 14
-  con: 8
-  int: 3
-  sag: 12
-  cha: 6
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
+skills:
+  - name: perception
     isExpert: true
-movement: 
-  walk: 3
-  fly: 15
-senses: 
-conditionImmunities: 
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeResistances: 
-  - "contondant"
-  - "perforant"
-  - "tranchant"
-languages: 
-  - ""
+senses: null
+conditionImmunities:
+  - a-terre
+  - charme
+  - empoigne
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeResistances:
+  - contondant
+  - perforant
+  - tranchant
+languages:
+  - ''
 environments:
   - Montagnes
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 314
+abilityScores_for: 6
+abilityScores_dex: 14
+abilityScores_con: 8
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 6
+ac_armorType: null
+movement_walk: 3
+movement_fly: 15
 ---
 ## Capacités
 _**Nuée**_. La nuée peut occuper l'emplacement d'une autre créature, et vice versa. Elle peut passer par n'importe quelle ouverture suffisamment large pour un corbeau de taille TP. Elle ne peut pas récupérer de point de vie ni gagner de point de vie temporaire.

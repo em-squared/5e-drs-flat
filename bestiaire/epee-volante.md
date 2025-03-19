@@ -1,47 +1,43 @@
 ---
-title: "Épée volante"
-type: "Créature artificielle"
-size: "P"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Épée volante
+type: Créature artificielle
+size: P
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 5
-abilityScores:
-  for: 12
-  dex: 15
-  con: 11
-  int: 1
-  sag: 5
-  cha: 1
 savingThrows:
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 0
-  fly: 15
-  hover: true
-senses:
-  blindsight: 18
-  customBlindSight: "18 m (aveugle au-delà de cette distance)"
+  - dex
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - assourdi
+  - aveugle
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
+  - poison
+  - psychique
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 233
+abilityScores_for: 12
+abilityScores_dex: 15
+abilityScores_con: 11
+abilityScores_int: 1
+abilityScores_sag: 5
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 0
+movement_fly: 15
+movement_hover: true
+senses_blindsight: 18
+senses_customBlindSight: 18 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Faux semblant**_. Tant que l'épée reste immobile, il est impossible de la distinguer d'une épée ordinaire.

@@ -1,39 +1,36 @@
 ---
-title: "Archimage"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "12"
+title: Archimage
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement
+challenge: '12'
 hitDiceCount: 18
-abilityScores:
-  for: 10
-  dex: 14
-  con: 12
-  int: 20
-  sag: 15
-  cha: 16
 savingThrows:
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure du mage"
+  - int
+  - sag
 skills:
-  - name: "arcanes"
+  - name: arcanes
     isExpert: true
-  - name: "histoire"
+  - name: histoire
     isExpert: true
-movement:
-  walk: 9
-senses:
+senses: null
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 languages:
-  - "six langues au choix"
-source: "Créatures & Oppositions"
+  - six langues au choix
+source: Créatures & Oppositions
 source_page: 328
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 20
+abilityScores_sag: 15
+abilityScores_cha: 16
+ac_armorType: armure du mage
+movement_walk: 9
 ---
 ## Capacités
 _**Incantation**_. L'archimage est un lanceur de sorts de niveau 18. Sa caractéristique d'incantation est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). L'archimage peut lancer déguisement et invisibilité à volonté et dispose des sorts de magicien préparés suivants :

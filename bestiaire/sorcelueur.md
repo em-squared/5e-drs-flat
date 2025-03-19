@@ -1,39 +1,35 @@
 ---
-title: "Sorcelueur"
-type: "Créature artificielle"
-size: "TP"
-alignment: "Neutre"
-challenge: "0.25"
+title: Sorcelueur
+type: Créature artificielle
+size: TP
+alignment: Neutre
+challenge: '0.25'
 hitDiceCount: 4
-abilityScores:
-  for: 1
-  dex: 18
-  con: 10
-  int: 10
-  sag: 13
-  cha: 7
-ac:
-  armorType: null
 skills:
-  - name: "perception"
-movement:
-  fly: 15
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "radiant"
+  - poison
+  - radiant
 languages:
-  - "comprend les langues de son créateur mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend les langues de son créateur mais ne peut pas parler
+source: Livre des monstres
 source_page: 367
+abilityScores_for: 1
+abilityScores_dex: 18
+abilityScores_con: 10
+abilityScores_int: 10
+abilityScores_sag: 13
+abilityScores_cha: 7
+ac_armorType: null
+movement_fly: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Faiblesse face à la dissipation de la magie**_. Le sort [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) lancé sur la sorcelueur la paralyse pendant 1d10 rounds.

@@ -1,22 +1,22 @@
 ---
-title: "Séquestration"
-description: "Rend un objet <em>invisible</em>, tant visuellement qu'à la divination."
-school: "Transmutation"
+title: Séquestration
+description: 'Rend un objet <em>invisible</em>, tant visuellement qu''à la divination.'
+school: Transmutation
 level: 7
 concentration: false
-casting_time: "1 action"
-duration: "jusqu'à dissipation"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum de 5000 po, que le sort consume"
+casting_time: 1 action
+duration: jusqu'à dissipation
+range: contact
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une poudre de diamant, d'émeraude, de rubis et de saphir d'une valeur minimum
+  de 5000 po, que le sort consume
 ---
 Grâce à ce sort, vous pouvez dissimuler une créature consentante ou un objet qui sera invisible à tout moyen de détection pendant toute la durée du sort. Quand vous lancez le sort et touchez la cible, elle devient invisible et ne peut plus être la cible de sorts de divination. De plus, les organes sensoriels de scrutation issus d'un sort de divination ne la perçoivent plus.
 

@@ -1,55 +1,51 @@
 ---
-title: "Dragon du vide, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Chaotique Neutre"
-challenge: "24"
+title: 'Dragon du vide, vénérable'
+type: Dragon
+size: Gig
+alignment: Chaotique Neutre
+challenge: '24'
 hitDiceCount: 23
-abilityScores:
-  for: 28
-  dex: 10
-  con: 29
-  int: 18
-  sag: 15
-  cha: 23
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 12
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
+  - name: arcanes
     isExpert: true
-  - name: "discretion"
-  - name: "histoire"
+  - name: discretion
+  - name: histoire
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "persuasion"
-movement:
-  walk: 12
-  fly: 24
-  hover: true
-senses:
-  blindsight: 18
-  darkvision: 36
+  - name: persuasion
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "infernal"
-  - "langue du Vide"
-  - "primordial"
-source: "Livre des monstres"
+  - céleste
+  - commun
+  - draconique
+  - infernal
+  - langue du Vide
+  - primordial
+source: Livre des monstres
 source_page: 142
+abilityScores_for: 28
+abilityScores_dex: 10
+abilityScores_con: 29
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 23
+ac_armorType: armure naturelle
+ac_value: 12
+movement_walk: 12
+movement_fly: 24
+movement_hover: true
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Frisson du vide**_. Les dégâts de froid infligés par le dragon du vide passent outre la résistance au froid, mais pas l'immunité contre le froid.

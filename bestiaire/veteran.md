@@ -1,30 +1,27 @@
 ---
-title: "Vétéran"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "3"
+title: Vétéran
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement
+challenge: '3'
 hitDiceCount: 9
-abilityScores:
-  for: 16
-  dex: 13
-  con: 14
-  int: 10
-  sag: 11
-  cha: 10
-ac: 
-  armorType: "clibanion"
-skills: 
-  - name: "athletisme"
-  - name: "perception"
-movement: 
-  walk: 9
-senses: 
-languages: 
-  - "une langue au choix (commun le plus souvent)"
-source: "Créatures & Oppositions"
+skills:
+  - name: athletisme
+  - name: perception
+senses: null
+languages:
+  - une langue au choix (commun le plus souvent)
+source: Créatures & Oppositions
 source_page: 338
+abilityScores_for: 16
+abilityScores_dex: 13
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 10
+ac_armorType: clibanion
+movement_walk: 9
 ---
 ## Actions
 _**Arbalète lourde**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 30/120 m, une cible.  

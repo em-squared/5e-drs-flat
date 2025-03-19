@@ -1,23 +1,21 @@
 ---
-title: "Apparence trompeuse"
-description: "Illusion permettant de déguiser plusieurs cibles."
-school: "Illusion"
+title: Apparence trompeuse
+description: Illusion permettant de déguiser plusieurs cibles.
+school: Illusion
 level: 5
 concentration: false
-casting_time: "1 action"
-duration: "8 heures"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 8 heures
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Ce sort vous permet de modifier l'apparence d'autant de créatures que vous voulez, à condition qu'elles se trouvent à portée et dans votre champ de vision. Vous donnez à chacune d'entre elles une nouvelle apparence illusoire. Une cible non consentante peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Si elle le réussit, le sort ne l'affecte pas.
 

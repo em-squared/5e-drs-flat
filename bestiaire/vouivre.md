@@ -1,34 +1,30 @@
 ---
-title: "Vouivre"
-type: "Dragon"
-size: "G"
-alignment: "non-alignée"
-challenge: "6"
+title: Vouivre
+type: Dragon
+size: G
+alignment: non-alignée
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 19
-  dex: 10
-  con: 16
-  int: 5
-  sag: 12
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "perception"
-movement: 
-  walk: 6
-  fly: 24
-senses: 
-  darkvision: 18
-languages: 
-  - ""
+skills:
+  - name: perception
+languages:
+  - ''
 environments:
   - Littoral
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 288
+abilityScores_for: 19
+abilityScores_dex: 10
+abilityScores_con: 16
+abilityScores_int: 5
+abilityScores_sag: 12
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 6
+movement_fly: 24
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. La vouivre effectue deux attaques : une avec sa morsure et une avec son dard caudal. En vol, elle peut utiliser ses griffes à la place de l'une de ses autres attaques.

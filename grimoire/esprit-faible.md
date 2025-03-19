@@ -1,25 +1,23 @@
 ---
-title: "Esprit faible"
-description: "4d6 dégâts et la cible voit son Intelligence et son Charisme réduits à 1."
-school: "Enchantement"
+title: Esprit faible
+description: 4d6 dégâts et la cible voit son Intelligence et son Charisme réduits à 1.
+school: Enchantement
 level: 8
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "45 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une poignée de sphères en argile, en cristal, en verre ou minérales"
+casting_time: 1 action
+duration: instantanée
+range: 45 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une poignée de sphères en argile, en cristal, en verre ou minérales'
 ---
 Vous vous attaquez à l'esprit d'une créature située à portée et dans votre champ de vision en essayant de briser son intellect et sa personnalité. La cible subit 4d6 dégâts psychiques et doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence.
 

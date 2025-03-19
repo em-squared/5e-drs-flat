@@ -1,35 +1,31 @@
 ---
-title: "Tigre"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "1"
+title: Tigre
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 5
-abilityScores:
-  for: 17
-  dex: 15
-  con: 14
-  int: 3
-  sag: 12
-  cha: 8
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-languages: 
-  - ""
+  - name: perception
+languages:
+  - ''
 environments:
   - Arctique / Subarctique
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 324
+abilityScores_for: 17
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Bond agressif**_. Si le tigre se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le tigre peut effectuer une attaque de morsure contre elle par une action bonus.

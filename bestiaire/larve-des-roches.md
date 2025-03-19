@@ -1,38 +1,34 @@
 ---
-title: "Larve des roches"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Neutre"
-challenge: "1"
+title: Larve des roches
+type: Créature monstrueuse
+size: M
+alignment: Neutre
+challenge: '1'
 hitDiceCount: 5
-abilityScores:
-  for: 15
-  dex: 12
-  con: 14
-  int: 3
-  sag: 14
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "discretion"
-  - name: "perception"
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 6
-  burrow: 6
-senses: 
-  tremorsense: 12
-  blindsight: 12
-conditionImmunities: 
-  - "aveugle"
-languages: 
-  - ""
+conditionImmunities:
+  - aveugle
+languages:
+  - ''
 dungeonTypes:
   - Caverne naturelle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 273
+abilityScores_for: 15
+abilityScores_dex: 12
+abilityScores_con: 14
+abilityScores_int: 3
+abilityScores_sag: 14
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 6
+movement_burrow: 6
+senses_tremorsense: 12
+senses_blindsight: 12
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  

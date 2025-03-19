@@ -1,41 +1,37 @@
 ---
-title: "Aboleth"
-type: "Aberration"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "10"
+title: Aboleth
+type: Aberration
+size: G
+alignment: Loyal Mauvais
+challenge: '10'
 hitDiceCount: 18
-abilityScores:
-  for: 21
-  dex: 9
-  con: 15
-  int: 18
-  sag: 15
-  cha: 18
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 8
+  - con
+  - int
+  - sag
 skills:
-  - name: "histoire"
+  - name: histoire
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 3
-  swim: 12
-senses:
-  darkvision: 36
 languages:
-  - "profond"
+  - profond
 telepathy: 36
 environments:
   - Littoral
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 21
+abilityScores_for: 21
+abilityScores_dex: 9
+abilityScores_con: 15
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 3
+movement_swim: 12
+senses_darkvision: 36
 ---
 ## Capacités
 **_Amphibie_**. L'aboleth peut respirer à l'air libre et sous l'eau.

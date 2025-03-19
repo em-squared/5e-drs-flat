@@ -1,44 +1,40 @@
 ---
-title: "Mécanique, Gendarme"
-type: "Créature artificielle"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+title: 'Mécanique, Gendarme'
+type: Créature artificielle
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 10
-abilityScores:
-  for: 14
-  dex: 12
-  con: 12
-  int: 5
-  sag: 10
-  cha: 1
-savingThrows: 
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "athletisme"
-  - name: "perception"
+savingThrows:
+  - con
+skills:
+  - name: athletisme
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeImmunities: 
-  - "poison"
-  - "psychique"
-languages: 
-  - "commun"
-source: "Livre des monstres"
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeImmunities:
+  - poison
+  - psychique
+languages:
+  - commun
+source: Livre des monstres
 source_page: 294
+abilityScores_for: 14
+abilityScores_dex: 12
+abilityScores_con: 12
+abilityScores_int: 5
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un gendarme mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

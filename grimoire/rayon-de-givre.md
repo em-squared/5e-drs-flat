@@ -1,23 +1,21 @@
 ---
-title: "Rayon de givre"
-description: "Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible."
-school: "Évocation"
+title: Rayon de givre
+description: Rayon infligeant 1d8 dégâts de froid et qui ralentit la cible.
+school: Évocation
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Un rayon de lumière d'un blanc bleuté file vers une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, elle subit 1d8 dégâts de froid et sa vitesse est réduite de 3 mètres jusqu'au début de votre prochain tour.
 

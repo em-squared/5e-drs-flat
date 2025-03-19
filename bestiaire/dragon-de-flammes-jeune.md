@@ -1,54 +1,50 @@
 ---
-title: "Dragon de flammes, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "9"
+title: 'Dragon de flammes, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Mauvais
+challenge: '9'
 hitDiceCount: 17
-abilityScores:
-  for: 15
-  dex: 14
-  con: 19
-  int: 15
-  sag: 13
-  cha: 18
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 6
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement: 
-  walk: 12
-  climb: 12
-  fly: 24
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
-  - "géant"
-  - "igné"
-  - "infernal"
-  - "orc"
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
+  - géant
+  - igné
+  - infernal
+  - orc
 environments:
   - Montagnes
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 128
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 19
+abilityScores_int: 15
+abilityScores_sag: 13
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_climb: 12
+movement_fly: 24
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Incarnation du feu**_. Les dégâts de feu infligés par ce dragon passent outre la résistance au feu, mais pas l'immunité contre le feu.

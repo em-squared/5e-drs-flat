@@ -1,24 +1,22 @@
 ---
 title: Alarme
-description: "Place une alarme sonore ou mentale sur une porte, une fenêtre ou une zone."
+description: 'Place une alarme sonore ou mentale sur une porte, une fenêtre ou une zone.'
 school: Abjuration
 level: 1
 concentration: false
-casting_time: "1 minute"
-duration: "8 heures"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une minuscule clochette et un filament en argent"
+casting_time: 1 minute
+duration: 8 heures
+range: 9 mètres
 ritual: true
 classes:
   - Magicien
   - Ombrelame
   - Rôdeur
-
 source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une minuscule clochette et un filament en argent
 ---
 Vous installez une alarme pour vous avertir en cas d'intrusion. Choisissez une porte, une fenêtre ou une zone à portée qui n'occupe pas plus d'espace qu'un cube de 6 mètres de côté. Tant que le sort fait effet, une alarme vous prévient dès qu'une créature de taille TP ou supérieure touche la zone protégée ou y pénètre. Au moment où vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi choisir si l'alarme sera audible ou mentale.
 

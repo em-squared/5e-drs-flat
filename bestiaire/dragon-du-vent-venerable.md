@@ -1,57 +1,53 @@
 ---
-title: "Dragon du vent, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Chaotique Neutre"
-challenge: "22"
+title: 'Dragon du vent, vénérable'
+type: Dragon
+size: Gig
+alignment: Chaotique Neutre
+challenge: '22'
 hitDiceCount: 23
-abilityScores:
-  for: 28
-  dex: 19
-  con: 26
-  int: 18
-  sag: 17
-  cha: 20
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "arcanes"
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
+  - name: acrobaties
+  - name: arcanes
+  - name: discretion
+  - name: intimidation
+  - name: perception
     isExpert: true
-movement:
-  walk: 12
-  fly: 36
-senses:
-  blindsight: 3
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
+  - charme
+  - epuise
+  - entrave
+  - paralyse
 damageTypeResistances:
-  - "c-p-t-non-magique"
-customDamageTypeImmunities: "de foudre, infligés par des armes à distance"
+  - c-p-t-non-magique
+customDamageTypeImmunities: 'de foudre, infligés par des armes à distance'
 languages:
-  - "commun"
-  - "draconique"
-  - "elfique"
-  - "nain"
-  - "primordial"
+  - commun
+  - draconique
+  - elfique
+  - nain
+  - primordial
 environments:
   - Montagnes
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 138
+abilityScores_for: 28
+abilityScores_dex: 19
+abilityScores_con: 26
+abilityScores_int: 18
+abilityScores_sag: 17
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_fly: 36
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée du dragon est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 20). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

@@ -1,45 +1,41 @@
 ---
-title: "Dragon bleu, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "3"
+title: 'Dragon bleu, dragonnet'
+type: Dragon
+size: M
+alignment: Loyal Mauvais
+challenge: '3'
 hitDiceCount: 8
-abilityScores:
-  for: 17
-  dex: 10
-  con: 15
-  int: 12
-  sag: 11
-  cha: 15
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-  burrow: 4,50
-  fly: 18
-senses:
-  blindsight: 3
-  darkvision: 18
 damageTypeImmunities:
-  - "foudre"
+  - foudre
 languages:
-  - "draconique"
+  - draconique
 environments:
   - Désert chaud
   - Littoral
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 87
+abilityScores_for: 17
+abilityScores_dex: 10
+abilityScores_con: 15
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 9
+movement_burrow: '4,50'
+movement_fly: 18
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  

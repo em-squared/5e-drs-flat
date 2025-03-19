@@ -1,26 +1,24 @@
 ---
-title: "Terrain hallucinatoire"
-description: "Permet de maquiller le terrain naturel en un autre."
-school: "Illusion"
+title: Terrain hallucinatoire
+description: Permet de maquiller le terrain naturel en un autre.
+school: Illusion
 level: 4
 concentration: false
-casting_time: "10 minutes"
-duration: "24 heures"
-range: "90 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pierre, une brindille et un bout de plante verte"
+casting_time: 10 minutes
+duration: 24 heures
+range: 90 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une pierre, une brindille et un bout de plante verte'
 ---
 Vous maquillez le terrain naturel dans un cube de 45 mètres d'arête situé à portée et lui attribuez l'apparence, les bruits et les odeurs d'un autre type de terrain naturel. Ainsi, vous pouvez faire passer un champ ou une route pour un marais, une colline, une crevasse ou un autre terrain difficile voire impossible à traverser. Vous pouvez aussi déguiser une mare en prairie, un précipice en pente douce ou un goulet semé de rocaille en route large et aplanie. Les structures manufacturées, l'équipement et les créatures de la zone ne changent pas d'apparence.
 

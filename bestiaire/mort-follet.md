@@ -1,55 +1,51 @@
 ---
-title: "Mort follet"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "7"
+title: Mort follet
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 11
-abilityScores:
-  for: 6
-  dex: 20
-  con: 16
-  int: 18
-  sag: 16
-  cha: 20
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: null
+  - dex
+  - con
+  - sag
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 0
-  fly: 18
-  hover: true
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "tonnerre"
-  - "c-p-t-non-argent"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - tonnerre
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "celles qu'il parlait de son vivant"
-source: "Livre des monstres"
+  - celles qu'il parlait de son vivant
+source: Livre des monstres
 source_page: 312
+abilityScores_for: 6
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 18
+abilityScores_sag: 16
+abilityScores_cha: 20
+ac_armorType: null
+movement_walk: 0
+movement_fly: 18
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Vacillement**_. Un mort follet vacille sans cesse, comme s'il clignotait, et les attaques d'armes à distance faites contre lui sont donc [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

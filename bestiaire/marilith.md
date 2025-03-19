@@ -1,44 +1,40 @@
 ---
-title: "Marilith"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "16"
+title: Marilith
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '16'
 hitDiceCount: 18
-abilityScores:
-  for: 18
-  dex: 20
-  con: 20
-  int: 18
-  sag: 16
-  cha: 20
 savingThrows:
-  - "for"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 12
-senses:
-  truesight: 36
+  - for
+  - con
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 54
+abilityScores_for: 18
+abilityScores_dex: 20
+abilityScores_con: 20
+abilityScores_int: 18
+abilityScores_sag: 16
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme de la marilith sont magiques.

@@ -1,10 +1,10 @@
 ---
-title: "Anneau de maîtrise élémentaire"
-type: "Anneau"
+title: Anneau de maîtrise élémentaire
+type: Anneau
 subtype: false
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Cet anneau est lié à l'un des quatre plans Élémentaires. Le MJ choisit ou détermine au hasard le plan concerné.
 

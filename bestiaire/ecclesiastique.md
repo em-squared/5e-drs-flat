@@ -1,34 +1,31 @@
 ---
-title: "Ecclésiastique"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "2"
+title: Ecclésiastique
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement
+challenge: '2'
 hitDiceCount: 5
-abilityScores:
-  for: 10
-  dex: 10
-  con: 12
-  int: 13
-  sag: 16
-  cha: 13
-ac:
-  armorType: "chemise de mailles"
 skills:
-  - name: "medecine"
+  - name: medecine
     isExpert: true
-  - name: "persuasion"
-  - name: "religion"
+  - name: persuasion
+  - name: religion
     invalid: true
     value: 4
-movement:
-  walk: 7,50
-senses:
+senses: null
 languages:
-  - "deux langues au choix"
-source: "Créatures & Oppositions"
+  - deux langues au choix
+source: Créatures & Oppositions
 source_page: 333
+abilityScores_for: 10
+abilityScores_dex: 10
+abilityScores_con: 12
+abilityScores_int: 13
+abilityScores_sag: 16
+abilityScores_cha: 13
+ac_armorType: chemise de mailles
+movement_walk: '7,50'
 ---
 ## Capacités
 _**Distinction divine**_. Par une action bonus, l'ecclésiastique peut dépenser un emplacement de sort pour que ses attaques d'arme au corps à corps infligent par magie 10 (3d6) dégâts radiants supplémentaires à une cible qu'il parvient à toucher. Cet avantage dure jusqu'à la fin du tour. Si le clerc dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau au-dessus du 1er.

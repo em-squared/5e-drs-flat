@@ -1,10 +1,10 @@
 ---
-title: "Corde d'enchevêtrement"
-type: "Objet merveilleux"
+title: Corde d'enchevêtrement
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette corde fait 9 mètres de long et pèse 1,5 kilo. Si vous tenez en main une extrémité de la corde et utilisez une action pour prononcer son mot de commande, l'autre extrémité se jette sur une créature située à 6 mètres ou moins de vous dans votre champ de vision pour l'enchevêtrer. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15 pour ne pas se retrouver [_entravée_](/gerer-la-sante-du-personnage/#entrave).
 

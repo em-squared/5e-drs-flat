@@ -1,35 +1,31 @@
 ---
-title: "Rat-garou"
-type: "Humanoïde"
-subtype: "humain, métamorphe"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "2"
+title: Rat-garou
+type: Humanoïde
+subtype: 'humain, métamorphe'
+size: M
+alignment: Loyal Mauvais
+challenge: '2'
 hitDiceCount: 6
-abilityScores:
-  for: 10
-  dex: 15
-  con: 12
-  int: 11
-  sag: 10
-  cha: 8
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
-damageTypeImmunities: 
-  - "c-p-t-non-argent"
+  - name: discretion
+  - name: perception
+damageTypeImmunities:
+  - c-p-t-non-argent
 languages:
-  - "commun (ne peut pas parler sous forme de rat)"
+  - commun (ne peut pas parler sous forme de rat)
 dungeonTypes:
   - Caverne naturelle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 209
+abilityScores_for: 10
+abilityScores_dex: 15
+abilityScores_con: 12
+abilityScores_int: 11
+abilityScores_sag: 10
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Métamorphe**_. Le rat-garou peut utiliser son action pour se métamorphoser en hybride d'humanoïde et de rat, en rat géant, ou pour reprendre sa véritable forme d'humanoïde. Ses statistiques, à l'exception de sa CA, restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Le rat-garou reprend sa forme véritable s'il meurt.

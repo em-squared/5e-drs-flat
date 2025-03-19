@@ -1,50 +1,46 @@
 ---
-title: "Claquepiège"
-type: "Créature artificielle"
-size: "P"
-alignment: "non-alignée"
-challenge: "6"
+title: Claquepiège
+type: Créature artificielle
+size: P
+alignment: non-alignée
+challenge: '6'
 hitDiceCount: 14
-abilityScores:
-  for: 13
-  dex: 22
-  con: 12
-  int: 2
-  sag: 14
-  cha: 1
 savingThrows:
-  - "dex"
-ac:
-  armorType: null
+  - dex
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  blindsight: 9
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
-  - "psychique"
+  - necrotique
+  - poison
+  - psychique
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Donjon maçonné
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 64
+abilityScores_for: 13
+abilityScores_dex: 22
+abilityScores_con: 12
+abilityScores_int: 2
+abilityScores_sag: 14
+abilityScores_cha: 1
+ac_armorType: null
+movement_walk: 9
+senses_blindsight: 9
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +9 pour toucher, allonge 1,50 m, une cible.  

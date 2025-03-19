@@ -1,44 +1,40 @@
 ---
-title: "Méphite de poussière"
-type: "Élémentaire"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Méphite de poussière
+type: Élémentaire
+size: P
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 5
-  dex: 14
-  con: 10
-  int: 9
-  sag: 11
-  cha: 10
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "aérien"
-  - "terreux"
+  - aérien
+  - terreux
 environments:
   - Désert chaud
   - Plans élémentaires
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 219
+abilityScores_for: 5
+abilityScores_dex: 14
+abilityScores_con: 10
+abilityScores_int: 9
+abilityScores_sag: 11
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 9
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en une gerbe de poussière. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 pour ne pas être [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) pendant 1 minute. Une créature [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) peut retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à chacun de ses tours et mettre fin à l'effet dont elle est victime en cas de réussite.

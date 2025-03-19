@@ -1,22 +1,20 @@
 ---
-title: "Arrêt du temps"
-description: "Le PJ arrête le temps pendant 1d4+1 rounds pour tout le monde sauf lui."
-school: "Transmutation"
+title: Arrêt du temps
+description: Le PJ arrête le temps pendant 1d4+1 rounds pour tout le monde sauf lui.
+school: Transmutation
 level: 9
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: false
-  material: false
+casting_time: 1 action
+duration: instantanée
+range: personnelle
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
 ---
 Vous arrêtez brièvement le cours du temps pour tout le monde sauf vous. Le temps ne s'écoule plus pour les autres créatures, tandis que vous disposez de 1d4+1  tours d'affilée, pendant lesquels vous pouvez faire des actions et vous déplacer normalement.
 

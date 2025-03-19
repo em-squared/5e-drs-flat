@@ -1,44 +1,40 @@
 ---
-title: "Dragon de cuivre, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Bon"
-challenge: "1"
+title: 'Dragon de cuivre, dragonnet'
+type: Dragon
+size: M
+alignment: Chaotique Bon
+challenge: '1'
 hitDiceCount: 4
-abilityScores:
-  for: 15
-  dex: 12
-  con: 13
-  int: 14
-  sag: 11
-  cha: 13
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 5
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-  climb: 9
-  fly: 18
-senses: 
-  blindsight: 3
-  darkvision: 18
-damageTypeImmunities: 
-  - "acide"
-languages: 
-  - "draconique"
+damageTypeImmunities:
+  - acide
+languages:
+  - draconique
 environments:
   - Collines / Vallées
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 119
+abilityScores_for: 15
+abilityScores_dex: 12
+abilityScores_con: 13
+abilityScores_int: 14
+abilityScores_sag: 11
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_climb: 9
+movement_fly: 18
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  

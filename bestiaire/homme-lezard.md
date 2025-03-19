@@ -1,40 +1,37 @@
 ---
-title: "Homme-lézard"
-type: "Humanoïde"
-subtype: "homme-lézard"
-size: "M"
-alignment: "Neutre"
-challenge: "0.5"
+title: Homme-lézard
+type: Humanoïde
+subtype: homme-lézard
+size: M
+alignment: Neutre
+challenge: '0.5'
 hitDiceCount: 4
-abilityScores:
-  for: 15
-  dex: 10
-  con: 13
-  int: 7
-  sag: 12
-  cha: 7
-ac:
-  armorType: "armure naturelle"
-  value: 3
-  hasShield: true
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
-  - name: "survie"
+  - name: perception
+  - name: survie
     isExpert: true
-movement:
-  walk: 9
-  swim: 9
-senses:
+senses: null
 languages:
-  - "draconique"
+  - draconique
 environments:
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 189
+abilityScores_for: 15
+abilityScores_dex: 10
+abilityScores_con: 13
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 3
+ac_hasShield: true
+movement_walk: 9
+movement_swim: 9
 ---
 ## Capacités
 _**Retenir son souffle**_. L'homme-lézard peut retenir son souffle pendant 15 minutes.

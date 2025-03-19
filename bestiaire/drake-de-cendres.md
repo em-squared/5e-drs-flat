@@ -1,41 +1,37 @@
 ---
-title: "Drake de cendres"
-type: "Dragon"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "4"
+title: Drake de cendres
+type: Dragon
+size: P
+alignment: Neutre Mauvais
+challenge: '4'
 hitDiceCount: 18
-abilityScores:
-  for: 14
-  dex: 15
-  con: 16
-  int: 9
-  sag: 15
-  cha: 12
 savingThrows:
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - dex
 skills:
-  - name: "discretion"
-movement:
-  walk: 9
-  fly: 18
-senses:
-  darkvision: 18
+  - name: discretion
 damageTypeResistances:
-  - "feu"
+  - feu
 conditionImmunities:
-  - "inconscient"
-  - "paralyse"
+  - inconscient
+  - paralyse
 languages:
-  - "commun"
-  - "draconique"
+  - commun
+  - draconique
 environments:
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 149
+abilityScores_for: 14
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 9
+abilityScores_sag: 15
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. Le drake de cendres fait une attaque de _morsure_ et deux attaques de _griffes_.

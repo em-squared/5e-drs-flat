@@ -1,45 +1,41 @@
 ---
-title: "Guenaude sanglante"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "11"
+title: Guenaude sanglante
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '11'
 hitDiceCount: 21
-abilityScores:
-  for: 20
-  dex: 16
-  con: 18
-  int: 19
-  sag: 21
-  cha: 17
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: intimidation
+  - name: perception
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
+  - charme
+  - empoisonne
 languages:
-  - "commun"
-  - "géant"
-  - "infernal"
-  - "sylvestre"
-  - "trollien"
-source: "Livre des monstres"
+  - commun
+  - géant
+  - infernal
+  - sylvestre
+  - trollien
+source: Livre des monstres
 source_page: 231
+abilityScores_for: 20
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 19
+abilityScores_sag: 21
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Perception du sang**_. Une guenaude sanglante perçoit automatiquement le sang des créatures vivantes dans un rayon de 27 mètres et repère leur emplacement exact dans un rayon de 9 mètres.

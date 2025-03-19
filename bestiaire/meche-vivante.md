@@ -1,46 +1,42 @@
 ---
-title: "Mèche vivante"
-type: "Créature artificielle"
-size: "P"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Mèche vivante
+type: Créature artificielle
+size: P
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 8
-abilityScores:
-  for: 10
-  dex: 10
-  con: 10
-  int: 5
-  sag: 5
-  cha: 5
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 6
-senses:
-  custom: "vision 6 m (aveugle au-delà du rayon de sa propre lumière)"
-  customPassivePerception: 10
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - assourdi
+  - aveugle
+  - charme
+  - empoisonne
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
+  - poison
+  - psychique
 languages:
-  - "partage un lien télépathique avec celui qui a allumé sa mèche."
+  - partage un lien télépathique avec celui qui a allumé sa mèche.
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 297
+abilityScores_for: 10
+abilityScores_dex: 10
+abilityScores_con: 10
+abilityScores_int: 5
+abilityScores_sag: 5
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 6
+senses_custom: vision 6 m (aveugle au-delà du rayon de sa propre lumière)
+senses_customPassivePerception: 10
 ---
 ## Capacités
 _**Contrôlé**_. Une mèche vivante ne peut pas se déplacer, attaquer ou accomplir une action tant qu'elle n'est pas allumée. Elle obéit uniquement aux ordres télépathiques de l'individu qui l'a allumée.

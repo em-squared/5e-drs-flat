@@ -1,49 +1,45 @@
 ---
-title: "Sphinx, Gypsosphinx"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "14"
+title: 'Sphinx, Gypsosphinx'
+type: Créature monstrueuse
+size: G
+alignment: Neutre Mauvais
+challenge: '14'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 14
-  con: 18
-  int: 18
-  sag: 18
-  cha: 18
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "perception"
-  - name: "religion"
-movement:
-  walk: 12
-  fly: 21
-senses:
-  truesight: 27
+  - name: arcanes
+  - name: histoire
+  - name: perception
+  - name: religion
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
+  - poison
+  - psychique
 languages:
-  - "abyssal"
-  - "commun"
-  - "darakhul"
-  - "sphinx"
+  - abyssal
+  - commun
+  - darakhul
+  - sphinx
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 369
+abilityScores_for: 20
+abilityScores_dex: 14
+abilityScores_con: 18
+abilityScores_int: 18
+abilityScores_sag: 18
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+movement_fly: 21
+senses_truesight: 27
 ---
 ## Capacités
 _**Insondable**_. Le sphinx est immunisé contre tout effet permettant de sentir ses émotions ou de lire ses pensées, ainsi que contre les sorts de divination qu'il refuse. Les tests de Sagesse (Perspicacité) destinés à estimer les intentions ou la sincérité du gypsosphinx sont [_désavantagés_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

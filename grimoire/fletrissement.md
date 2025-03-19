@@ -1,25 +1,23 @@
 ---
-title: "Flétrissement"
-description: "Inflige 8d8 dégâts, le maximum aux créatures végétales."
-school: "Nécromancie"
+title: Flétrissement
+description: 'Inflige 8d8 dégâts, le maximum aux créatures végétales.'
+school: Nécromancie
 level: 4
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: instantanée
+range: 9 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 L'énergie nécromantique inonde une créature de votre choix située à portée et dans votre champ de vision, et draine ses fluides corporels et sa vitalité. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle échoue, elle reçoit 8d8 dégâts nécrotiques, la moitié seulement si elle réussit son jet. Ce sort n'a aucun effet sur les morts-vivants ou les créatures artificielles.
 

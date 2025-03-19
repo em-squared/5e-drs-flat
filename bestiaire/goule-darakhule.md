@@ -1,42 +1,38 @@
 ---
-title: "Goule darakhule"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "3"
+title: Goule darakhule
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '3'
 hitDiceCount: 12
-abilityScores:
-  for: 16
-  dex: 17
-  con: 14
-  int: 14
-  sag: 12
-  cha: 12
-ac:
-  armorType: "armure d'écailles"
-  hasShield: true
 skills:
-  - name: "discretion"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
+  - charme
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "necrotique"
+  - necrotique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "darakhul"
+  - commun
+  - darakhul
 environments:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 217
+abilityScores_for: 16
+abilityScores_dex: 17
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 12
+abilityScores_cha: 12
+ac_armorType: armure d'écailles
+ac_hasShield: true
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Maître du déguisement**_. Un darakhul qui revêt un déguisement préparé est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme (Supercherie) afin de passer pour un vivant. Quand le darakhul utilise ce pouvoir, il perd sa puanteur.

@@ -1,31 +1,27 @@
 ---
-title: "Serpent constricteur"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Serpent constricteur
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 15
-  dex: 14
-  con: 12
-  int: 1
-  sag: 10
-  cha: 3
-ac: 
-  armorType: null
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  blindsight: 3
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 322
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 9
+movement_swim: 9
+senses_blindsight: 3
 ---
 ## Actions
 _**Comprimer**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  

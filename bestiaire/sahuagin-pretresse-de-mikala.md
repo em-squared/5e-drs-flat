@@ -1,43 +1,39 @@
 ---
-title: "Sahuagin, prêtresse de Mikala"
-type: "Humanoïde"
-subtype: "sahuagin"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "3"
+title: 'Sahuagin, prêtresse de Mikala'
+type: Humanoïde
+subtype: sahuagin
+size: M
+alignment: Loyal Mauvais
+challenge: '3'
 hitDiceCount: 9
-customHP: "50 (9d8+9)"
-abilityScores:
-  for: 13
-  dex: 11
-  con: 12
-  int: 12
-  sag: 17
-  cha: 11
-ac:
-  armorType: "custom"
-  value: "14 (armure de coquillages)"
+customHP: 50 (9d8+9)
 skills:
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 6
-  - name: "religion"
+  - name: religion
     invalid: true
     value: 6
-movement:
-  walk: 9
-  swim: 12
-senses:
-  darkvision: 36
 languages:
-  - "sahuagin"
+  - sahuagin
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 252
+abilityScores_for: 13
+abilityScores_dex: 11
+abilityScores_con: 12
+abilityScores_int: 12
+abilityScores_sag: 17
+abilityScores_cha: 11
+ac_armorType: custom
+ac_value: 14 (armure de coquillages)
+movement_walk: 9
+movement_swim: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie limitée**_. Le sahuagin peut respirer à l'air libre et sous l'eau, mais il a besoin de s'immerger au moins une fois toutes les 4 heures pour éviter de s'asphyxier.

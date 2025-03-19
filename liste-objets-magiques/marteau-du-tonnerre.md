@@ -1,10 +1,10 @@
 ---
-title: "Marteau du tonnerre"
-type: "Arme"
-subtype: "Merlin"
-rarity: "Légendaire"
+title: Marteau du tonnerre
+type: Arme
+subtype: Merlin
+rarity: Légendaire
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 

@@ -1,51 +1,47 @@
 ---
-title: "Dragon vert, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Loyal Mauvais"
-challenge: "22"
+title: 'Dragon vert, vénérable'
+type: Dragon
+size: Gig
+alignment: Loyal Mauvais
+challenge: '22'
 hitDiceCount: 22
-abilityScores:
-  for: 27
-  dex: 12
-  con: 25
-  int: 20
-  sag: 17
-  cha: 19
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 10
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement: 
-  walk: 12
-  swim: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-conditionImmunities: 
-  - "empoisonne"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "commun"
-  - "draconique"
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
+conditionImmunities:
+  - empoisonne
+damageTypeImmunities:
+  - poison
+languages:
+  - commun
+  - draconique
 environments:
   - Bois / Forêt
   - Jungle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 96
+abilityScores_for: 27
+abilityScores_dex: 12
+abilityScores_con: 25
+abilityScores_int: 20
+abilityScores_sag: 17
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 10
+movement_walk: 12
+movement_swim: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

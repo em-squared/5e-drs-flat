@@ -1,21 +1,19 @@
 ---
-title: "Arme spirituelle"
-description: "Crée une arme spectrale que vous envoyez attaquer vos ennemis."
-school: "Évocation"
+title: Arme spirituelle
+description: Crée une arme spectrale que vous envoyez attaquer vos ennemis.
+school: Évocation
 level: 2
 concentration: false
-casting_time: "1 action bonus"
-duration: "1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action bonus
+duration: 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous créez à portée une arme spectrale flottante qui persiste pendant toute la durée du sort ou jusqu'à ce que vous le lanciez de nouveau. Lors de l'incantation, vous pouvez faire une attaque de sort au corps-à-corps contre une créature située dans un rayon de 1,50 mètre autour de l'arme. L'attaque inflige des dégâts de force égaux à 1d8 + votre modificateur de caractéristique d'incantation.
 

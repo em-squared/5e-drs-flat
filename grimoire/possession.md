@@ -1,22 +1,24 @@
 ---
-title: "Possession"
-description: "Le PJ envoie son âme dans le corps d'autrui, l'âme de la cible est prisonnière."
-school: "Nécromancie"
+title: Possession
+description: >-
+  Le PJ envoie son âme dans le corps d'autrui, l'âme de la cible est
+  prisonnière.
+school: Nécromancie
 level: 6
 concentration: false
-casting_time: "1 minute"
-duration: "jusqu'à dissipation"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po"
+casting_time: 1 minute
+duration: jusqu'à dissipation
+range: personnelle
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une
+  valeur minimale de 500 po
 ---
 Votre corps tombe en catatonie tandis que votre âme le quitte et pénètre dans le réceptacle utilisé comme composante de sort. Tant qu'elle se trouve là, vous percevez votre environnement comme si votre corps occupait le même espace que le réceptacle. En revanche, vous ne pouvez pas bouger ni utiliser de réaction. Vous ne pouvez accomplir qu'une action : projeter votre âme dans un rayon de 30 mètres au maximum autour du réceptacle, soit pour retourner dans votre corps (ce qui met fin au sort), soit pour prendre possession d'un autre corps humanoïde.
 

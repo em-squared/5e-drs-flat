@@ -1,30 +1,26 @@
 ---
-title: "Shadhavar"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Neutre"
-challenge: "2"
+title: Shadhavar
+type: Créature monstrueuse
+size: G
+alignment: Neutre
+challenge: '2'
 hitDiceCount: 13
-abilityScores:
-  for: 14
-  dex: 15
-  con: 14
-  int: 8
-  sag: 10
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "discretion"
-movement:
-  walk: 15
-senses:
-  darkvision: 18
+  - name: discretion
 languages:
-  - "comprend l'elfique et l'umbral mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend l'elfique et l'umbral mais ne peut pas parler
+source: Livre des monstres
 source_page: 364
+abilityScores_for: 14
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 8
+abilityScores_sag: 10
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. Le shadhavar utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants sans composantes matérielles :

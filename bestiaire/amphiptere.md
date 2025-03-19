@@ -1,36 +1,32 @@
 ---
-title: "Amphiptère"
-type: "Bête"
-size: "M"
-alignment: "non alignée"
-challenge: "3"
+title: Amphiptère
+type: Bête
+size: M
+alignment: non alignée
+challenge: '3'
 hitDiceCount: 8
-abilityScores:
-  for: 11
-  dex: 18
-  con: 17
-  int: 2
-  sag: 16
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "perception"
-movement:
-  walk: 6
-  climb: 6
-  fly: 18
-  swim: 6
-senses:
-  blindsight: 3
+  - name: perception
 languages:
-  - "—"
+  - —
 environments:
   - Bois / Forêt
   - Littoral
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 15
+abilityScores_for: 11
+abilityScores_dex: 18
+abilityScores_con: 17
+abilityScores_int: 2
+abilityScores_sag: 16
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_climb: 6
+movement_fly: 18
+movement_swim: 6
+senses_blindsight: 3
 ---
 ## Capacités
 _**Repli aérien**_. Un amphiptère ne provoque par d'attaque d'opportunité quand il vole hors de portée d'un ennemi.

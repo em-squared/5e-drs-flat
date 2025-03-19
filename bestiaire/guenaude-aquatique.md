@@ -1,37 +1,33 @@
 ---
-title: "Guenaude aquatique"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: Guenaude aquatique
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 7
-abilityScores:
-  for: 16
-  dex: 13
-  con: 16
-  int: 12
-  sag: 12
-  cha: 13
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 9
-  swim: 12
-senses:
-  darkvision: 18
 languages:
-  - "aquatique"
-  - "commun"
-  - "géant"
+  - aquatique
+  - commun
+  - géant
 environments:
   - Littoral
   - Mer / Océan
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 179
+abilityScores_for: 16
+abilityScores_dex: 13
+abilityScores_con: 16
+abilityScores_int: 12
+abilityScores_sag: 12
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_swim: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. La guenaude peut respirer à l'air libre et sous l'eau.

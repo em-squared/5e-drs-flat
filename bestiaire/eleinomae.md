@@ -1,44 +1,41 @@
 ---
-title: "Eleinomae"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "5"
+title: Eleinomae
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '5'
 hitDiceCount: 15
-abilityScores:
-  for: 13
-  dex: 19
-  con: 16
-  int: 14
-  sag: 14
-  cha: 19
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "custom"
-  value: "18"
+  - for
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 9
-  swim: 9
-senses:
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
+senses: null
 languages:
-  - "aquatique"
-  - "commun"
-  - "elfique"
-  - "sylvestre"
+  - aquatique
+  - commun
+  - elfique
+  - sylvestre
 environments:
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 164
+abilityScores_for: 13
+abilityScores_dex: 19
+abilityScores_con: 16
+abilityScores_int: 14
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: custom
+ac_value: '18'
+movement_walk: 9
+movement_swim: 9
 ---
 ## Capacités
 _**Grâce surnaturelle**_. Le modificateur de Charisme d'une eleinomae est ajouté à sa classe d'armure (inclus dans les statistiques).

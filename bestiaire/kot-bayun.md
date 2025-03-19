@@ -1,37 +1,33 @@
 ---
-title: "Kot bayun"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Neutre"
-challenge: "2"
+title: Kot bayun
+type: Créature monstrueuse
+size: M
+alignment: Neutre
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 16
-  dex: 16
-  con: 13
-  int: 12
-  sag: 16
-  cha: 17
 savingThrows:
-  - "dex"
-ac:
-  armorType: "custom"
-  value: "15"
-movement:
-  walk: 12
-  climb: 6
-senses:
-  darkvision: 18
+  - dex
 languages:
-  - "commun"
-  - "sylvestre"
+  - commun
+  - sylvestre
 environments:
   - Collines / Vallées
   - Montagnes
 dungeonTypes:
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 261
+abilityScores_for: 16
+abilityScores_dex: 16
+abilityScores_con: 13
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 17
+ac_armorType: custom
+ac_value: '15'
+movement_walk: 12
+movement_climb: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Guérison**_. Les contes du kot bayun ont, à volonté, le même effet que [_restauration inférieure_](/grimoire/restauration-inferieure/) et une fois par semaine le même que [_restauration supérieure_](/grimoire/restauration-superieure/). Le félin désigne un auditeur qui bénéficiera de ce pouvoir. Cet auditeur doit passer une heure à l'écouter sans interruption. Les kot bayuns répugnent à accorder ces soins, il faut donc négocier avec eux ou leur forcer la main avec un effet de [_domination_](/grimoire/dominer-un-monstre/).

@@ -1,34 +1,30 @@
 ---
-title: "Marionnette des lianes"
-type: "Plante"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "2"
+title: Marionnette des lianes
+type: Plante
+size: M
+alignment: Loyal Neutre
+challenge: '2'
 hitDiceCount: 4
-abilityScores:
-  for: 16
-  dex: 12
-  con: 18
-  int: 6
-  sag: 6
-  cha: 8
-ac:
-  armorType: "armure de cuir clouté"
-movement:
-  walk: 9
-senses:
-  customBlindSight: "9 m (aveugle au-delà de cette distance)"
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
+  - assourdi
+  - aveugle
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 languages:
-  - "—"
+  - —
 environments:
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 359
+abilityScores_for: 16
+abilityScores_dex: 12
+abilityScores_con: 18
+abilityScores_int: 6
+abilityScores_sag: 6
+abilityScores_cha: 8
+ac_armorType: armure de cuir clouté
+movement_walk: 9
+senses_customBlindSight: 9 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Régénération**_. La marionnette des lianes récupère 5 points de vie au début de son tour s'il lui reste au moins 1 point de vie et qu'elle se trouve dans la jungle.

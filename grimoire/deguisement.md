@@ -1,24 +1,22 @@
 ---
-title: "Déguisement"
-description: "Modifie l'apparence du PJ."
-school: "Illusion"
+title: Déguisement
+description: Modifie l'apparence du PJ.
+school: Illusion
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 1 heure
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous faites en sorte que votre personne (y compris vos vêtements, votre armure, vos armes et les autres objets en votre possession) prenne une apparence différente jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez une action pour y mettre un terme. Vous pouvez passer pour une personne de 30 centimètres de plus ou de moins, sembler gros, maigre ou entre les deux. Vous ne pouvez pas changer de morphologie, vous devez choisir une forme possédant la même conformation que vous au niveau des membres. En dehors de cela, les détails de l'illusion sont laissés à votre imagination.
 

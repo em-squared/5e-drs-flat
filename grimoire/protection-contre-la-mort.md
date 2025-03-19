@@ -1,23 +1,21 @@
 ---
-title: "Protection contre la mort"
-description: "Évite à la cible de tomber à 0 PV ou de subir un effet mortel."
-school: "Abjuration"
+title: Protection contre la mort
+description: Évite à la cible de tomber à 0 PV ou de subir un effet mortel.
+school: Abjuration
 level: 4
 concentration: false
-casting_time: "1 action"
-duration: "8 heures"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 8 heures
+range: contact
 ritual: false
 classes:
-    - Clerc
-    - Paladin
-
-source: "Manuel des règles"
+  - Clerc
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous touchez une créature et lui donnez une protection relative contre la mort. Quand elle devrait tomber à 0 point de vie pour la première fois suite à des dégâts, elle tombe à la place à 1 point de vie et le sort se termine.
 

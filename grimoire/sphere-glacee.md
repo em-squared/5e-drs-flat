@@ -1,22 +1,20 @@
 ---
-title: "Sphère glacée"
-description: "Crée une bille gelée qui explose et inflige 10d6 dégâts de froid."
-school: "Évocation"
+title: Sphère glacée
+description: Crée une bille gelée qui explose et inflige 10d6 dégâts de froid.
+school: Évocation
 level: 6
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "90 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une petite sphère de cristal"
+casting_time: 1 action
+duration: instantanée
+range: 90 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une petite sphère de cristal
 ---
 Un globe d'énergie gelée jaillit de la pointe de votre doigt tendu et file vers un point de votre choix situé à portée. Là, il explose en une sphère de 18 mètres de rayon. Chaque créature dans la zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 10d6 dégâts de froid, les autres la moitié seulement. Si le globe frappe une surface aqueuse ou un liquide principalement constitué d'eau (ce qui n'inclut pas les créatures majoritairement composées d'eau), il gèle le liquide sur une épaisseur de 15 centimètres dans une zone de 9 mètres de côté. La glace subsiste une minute. Les créatures qui nageaient à la surface de l'étendue d'eau se retrouvent prises dans la glace. Une telle créature peut utiliser une action pour faire un test de Force contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort afin de se libérer.
 

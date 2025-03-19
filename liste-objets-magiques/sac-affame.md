@@ -1,10 +1,10 @@
 ---
-title: "Sac affamé"
-type: "Objet merveilleux"
+title: Sac affamé
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
+rarity: Très rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 À première vue, ce sac ressemble à un [_sac sans fond_](/liste-objets-magiques/sac-sans-fond/), mais en réalité, il s'agit de l'orifice nourricier d'une créature extradimensionnelle gigantesque. L'orifice se ferme si l'on met le sac sur l'envers, c'est-à-dire la paroi interne devenant la paroi externe.
 

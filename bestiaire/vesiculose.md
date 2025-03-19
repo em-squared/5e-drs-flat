@@ -1,43 +1,39 @@
 ---
-title: "Vésiculose"
-type: "Plante"
-size: "Gig"
-alignment: "non-alignée"
-challenge: "11"
+title: Vésiculose
+type: Plante
+size: Gig
+alignment: non-alignée
+challenge: '11'
 hitDiceCount: 14
-abilityScores:
-  for: 20
-  dex: 10
-  con: 19
-  int: 2
-  sag: 14
-  cha: 2
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "perception"
-movement:
-  walk: 0
-  burrow: 1,50
-senses:
-  tremorsense: 18
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "feu"
-  - "perforant"
+  - contondant
+  - feu
+  - perforant
 languages:
-  - "—"
+  - —
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 403
+abilityScores_for: 20
+abilityScores_dex: 10
+abilityScores_con: 19
+abilityScores_int: 2
+abilityScores_sag: 14
+abilityScores_cha: 2
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 0
+movement_burrow: '1,50'
+senses_tremorsense: 18
 ---
 ## Capacités
 _**Faux-semblant**_. Tant que la vésiculose reste immobile, il est impossible de la distinguer d'un bassin d'eau ordinaire.

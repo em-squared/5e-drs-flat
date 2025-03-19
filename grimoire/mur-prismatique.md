@@ -1,22 +1,20 @@
 ---
-title: "Mur prismatique"
-description: "Crée un mur aveuglant dont chaque couche à un effet différent."
-school: "Abjuration"
+title: Mur prismatique
+description: Crée un mur aveuglant dont chaque couche à un effet différent.
+school: Abjuration
 level: 9
 concentration: false
-casting_time: "1 action"
-duration: "10 minutes"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 10 minutes
+range: 18 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Un plan de lumière scintillante multicolore forme un mur opaque vertical centré sur un point situé à portée et dans votre champ de vision. Ce mur fait au maximum 27 mètres de long, 9 mètres de haut et 2,5 centimètres d'épaisseur. Sinon, vous pouvez façonner le mur de manière à ce qu'il forme une sphère d'au maximum 9 mètres de diamètre centrée sur un point de votre choix situé à portée. Le mur reste en place pendant toute la durée du sort. Si vous positionnez le mur de manière à ce qu'il passe par un emplacement occupé par une créature, le sort échoue : votre action et l'emplacement du sort sont gaspillés.
 

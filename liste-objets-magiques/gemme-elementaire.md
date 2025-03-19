@@ -1,10 +1,10 @@
 ---
-title: "Gemme élémentaire"
-type: "Objet merveilleux"
+title: Gemme élémentaire
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette gemme contient une particule d'énergie élémentaire. Quand vous brisez la gemme par une action, un élémentaire apparaît, comme si vous l'aviez invoqué avec un sort d'[_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/) et la gemme perd toute magie. Le type d'élémentaire invoqué dépend de la gemme utilisée.
 

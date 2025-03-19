@@ -1,10 +1,10 @@
 ---
-title: "Baguette des entraves"
-type: "Baguette"
+title: Baguette des entraves
+type: Baguette
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation avec un lanceur de sorts exigée"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: harmonisation avec un lanceur de sorts exigée
+source: Cadre de campagne
 ---
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. Sur un 1, elle est détruite et tombe en cendres.
 

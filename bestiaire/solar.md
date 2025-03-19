@@ -1,48 +1,44 @@
 ---
-title: "Solar"
-type: "Céleste"
-subtype: "Ange"
-size: "G"
-alignment: "Loyal Bon"
-challenge: "21"
+title: Solar
+type: Céleste
+subtype: Ange
+size: G
+alignment: Loyal Bon
+challenge: '21'
 hitDiceCount: 18
-abilityScores:
-  for: 26
-  dex: 22
-  con: 26
-  int: 25
-  sag: 25
-  cha: 30
 savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 15
-  fly: 45
-senses:
-  truesight: 36
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "terrorise"
-  - "empoisonne"
-  - "epuise"
+  - charme
+  - terrorise
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "radiant"
-  - "c-p-t-non-magique"
+  - radiant
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "toutes"
+  - toutes
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 28
+abilityScores_for: 26
+abilityScores_dex: 22
+abilityScores_con: 26
+abilityScores_int: 25
+abilityScores_sag: 25
+abilityScores_cha: 30
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 15
+movement_fly: 45
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes angéliques**_. Les attaques d'arme du solar sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 6d8 dégâts radiants supplémentaires (inclus dans l'attaque).

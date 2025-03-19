@@ -1,39 +1,35 @@
 ---
-title: "Lorelei"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "5"
+title: Lorelei
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '5'
 hitDiceCount: 9
-abilityScores:
-  for: 10
-  dex: 21
-  con: 18
-  int: 16
-  sag: 16
-  cha: 23
 savingThrows:
-  - "dex"
-  - "cha"
-ac:
-  armorType: "armure du mage"
+  - dex
+  - cha
 skills:
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "representation"
-  - name: "supercherie"
-movement:
-  walk: 9
-  swim: 9
-senses:
-  darkvision: 18
+  - name: representation
+  - name: supercherie
 languages:
-  - "commun"
-  - "sylvestre"
+  - commun
+  - sylvestre
 environments:
   - Littoral
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 275
+abilityScores_for: 10
+abilityScores_dex: 21
+abilityScores_con: 18
+abilityScores_int: 16
+abilityScores_sag: 16
+abilityScores_cha: 23
+ac_armorType: armure du mage
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Présence séduisante**_. Tous les humanoïdes dans un rayon de 9 mètres autour de la lorelei qui la regardent directement doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 17, sans quoi ils la rejoignent par le plus court chemin, sans se soucier du danger. Cette attirance se dissipe dès que la personne arrive à 1,50 mètre de la lorelei. Une créature peut éviter cet effet pendant un round entier si elle détourne le regard au début de son tour, mais elle est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaques et autres directement dirigés contre la lorelei jusqu'au début de son prochain tour. La lorelei peut supprimer ou activer ce pouvoir par une action bonus. Une personne qui réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre cet effet ne peut plus être affectée ainsi par la même lorelei pendant 24 heures.

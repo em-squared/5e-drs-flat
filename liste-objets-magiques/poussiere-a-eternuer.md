@@ -1,10 +1,10 @@
 ---
-title: "Poussière à éternuer"
-type: "Objet merveilleux"
+title: Poussière à éternuer
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette poudre se trouve dans un petit récipient et ressemble à du sable fin. On dirait de la [_poussière de disparition_](/liste-objets-magiques/poussiere-de-disparition/) et le sort d'[_identification_](/grimoire/identification/) confirme cette erreur. Il y en a assez pour une seule utilisation.
 

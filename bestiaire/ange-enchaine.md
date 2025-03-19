@@ -1,42 +1,38 @@
 ---
-title: "Ange enchaîné"
-type: "Céleste"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "8"
+title: Ange enchaîné
+type: Céleste
+size: M
+alignment: Neutre Mauvais
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 18
-  dex: 16
-  con: 12
-  int: 12
-  sag: 18
-  cha: 20
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 18
-senses:
-  darkvision: 60
+  - name: perception
 damageTypeResistances:
-  - "perforant"
+  - perforant
 damageTypeImmunities:
-  - "feu"
-  - "radiant"
+  - feu
+  - radiant
 languages:
-  - "commun"
-  - "céleste"
-  - "infernal"
-source: "Livre des monstres"
+  - commun
+  - céleste
+  - infernal
+source: Livre des monstres
 source_page: 19
+abilityScores_for: 18
+abilityScores_dex: 16
+abilityScores_con: 12
+abilityScores_int: 12
+abilityScores_sag: 18
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_fly: 18
+senses_darkvision: 60
 ---
 ## Capacités
 _**Rédemption**_. Tout lanceur de sorts assez courageux pour lancer le sort [_déblocage_](/grimoire/deblocage/) sur un ange enchaîné peut tenter de le libérer de ses chaînes, mais il s'expose en réaction à une explosion de flammes impies. Le lanceur de sorts subit 16 (3d10) dégâts de feu et 16 (3d10) dégâts radiants, ou moitié moins s'il réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 16. Si le lanceur de sorts survit, l'ange fait immédiatement un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 20. S'il réussit, ses chaînes tombent, il reprend ses esprits et son alignement redevient Bon. S'il échoue, toute nouvelle tentative de lancer [_déblocage_](/grimoire/deblocage/) sur ses chaînes échoue automatiquement pendant une semaine.

@@ -1,22 +1,20 @@
 ---
-title: "Dominer une bête"
-description: "La bête ciblée est <em>charmée</em> et obéit au PJ."
-school: "Enchantement"
+title: Dominer une bête
+description: La bête ciblée est <em>charmée</em> et obéit au PJ.
+school: Enchantement
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous tentez d'envoûter une bête située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Elle dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si vous ou des créatures amicales envers vous êtes en train de la combattre.
 

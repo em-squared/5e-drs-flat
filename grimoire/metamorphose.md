@@ -1,25 +1,23 @@
 ---
-title: "Métamorphose"
-description: "Transforme la cible en bête au choix du PJ."
-school: "Transmutation"
+title: Métamorphose
+description: Transforme la cible en bête au choix du PJ.
+school: Transmutation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un cocon de chenille"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un cocon de chenille
 ---
 Ce sort change la forme d'une créature située à portée et dans votre champ de vision. Une créature non consentante doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse pour éviter cet effet. Le sort n'a aucun effet sur un métamorphe ou une créature à 0 point de vie.
 

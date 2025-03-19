@@ -1,45 +1,41 @@
 ---
-title: "Élémentaire de la terre"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre"
-challenge: "5"
+title: Élémentaire de la terre
+type: Élémentaire
+size: G
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 20
-  dex: 8
-  con: 20
-  int: 5
-  sag: 10
-  cha: 5
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-movement: 
-  walk: 9
-  burrow: 9
-senses: 
-  tremorsense: 18
-  darkvision: 18
-conditionImmunities: 
-  - "empoisonne"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
-damageTypeVulnerabilities: 
-  - "tonnerre"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "terreux"
+conditionImmunities:
+  - empoisonne
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
+damageTypeVulnerabilities:
+  - tonnerre
+damageTypeResistances:
+  - c-p-t-non-magique
+damageTypeImmunities:
+  - poison
+languages:
+  - terreux
 environments:
   - Bois / Forêt
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 137
+abilityScores_for: 20
+abilityScores_dex: 8
+abilityScores_con: 20
+abilityScores_int: 5
+abilityScores_sag: 10
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 9
+movement_burrow: 9
+senses_tremorsense: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Monstre assiégeur**_. L'élémentaire inflige des dégâts doublés aux objets et aux structures.

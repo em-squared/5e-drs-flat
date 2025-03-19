@@ -1,41 +1,37 @@
 ---
-title: "Verminhantée"
-type: "Vase"
-size: "G"
-alignment: "non-alignée"
-challenge: "4"
+title: Verminhantée
+type: Vase
+size: G
+alignment: non-alignée
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 15
-  dex: 11
-  con: 19
-  int: 1
-  sag: 7
-  cha: 1
-ac:
-  armorType: "armure naturelle"
-  value: 4
-movement:
-  walk: 9
-senses:
-  customBlindSight: "18 m (aveugle au-delà de cette distance)"
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - terrorise
 damageTypeImmunities:
-  - "acide"
+  - acide
 languages:
-  - "—"
+  - —
 environments:
   - Désert chaud
 dungeonTypes:
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 402
+abilityScores_for: 15
+abilityScores_dex: 11
+abilityScores_con: 19
+abilityScores_int: 1
+abilityScores_sag: 7
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_customBlindSight: 18 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Carapace brisée**_. Si une créature touche la verminhantée avec une attaque de corps à corps alors qu'elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts d'acide.

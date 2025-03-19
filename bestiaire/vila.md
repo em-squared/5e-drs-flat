@@ -1,46 +1,42 @@
 ---
-title: "Vila"
-type: "Fée"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "5"
+title: Vila
+type: Fée
+size: M
+alignment: Loyal Neutre
+challenge: '5'
 hitDiceCount: 14
-abilityScores:
-  for: 12
-  dex: 20
-  con: 13
-  int: 11
-  sag: 14
-  cha: 16
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: null
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "dressage"
+  - name: discretion
+  - name: dressage
     isExpert: true
-  - name: "intimidation"
-  - name: "perception"
+  - name: intimidation
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: perspicacite
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "sylvestre"
-  - "télépathie à 18 m (bêtes seulement)"
+  - commun
+  - sylvestre
+  - télépathie à 18 m (bêtes seulement)
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 407
+abilityScores_for: 12
+abilityScores_dex: 20
+abilityScores_con: 13
+abilityScores_int: 11
+abilityScores_sag: 14
+abilityScores_cha: 16
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Danse du malchanceux (1/jour)**_. Une vila qui danse pendant 1 heure crée un cercle des fées fait de petits champignons gris. Il persiste sept jours et fait 15 mètres de diamètre par vila participant à la danse. Les créatures autres que les vilas qui s'endorment (y compris par magie) au sein de ce cercle sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de compétence pendant 24 heures à partir du moment où elles se réveillent.

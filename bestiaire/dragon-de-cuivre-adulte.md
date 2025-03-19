@@ -1,46 +1,42 @@
 ---
-title: "Dragon de cuivre, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Chaotique Bon"
-challenge: "14"
+title: 'Dragon de cuivre, adulte'
+type: Dragon
+size: TG
+alignment: Chaotique Bon
+challenge: '14'
 hitDiceCount: 16
-abilityScores:
-  for: 23
-  dex: 12
-  con: 21
-  int: 18
-  sag: 15
-  cha: 17
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 7
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "supercherie"
-movement: 
-  walk: 12
-  climb: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "acide"
-languages: 
-  - "commun"
-  - "draconique"
+  - name: supercherie
+damageTypeImmunities:
+  - acide
+languages:
+  - commun
+  - draconique
 environments:
   - Collines / Vallées
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 117
+abilityScores_for: 23
+abilityScores_dex: 12
+abilityScores_con: 21
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+movement_climb: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

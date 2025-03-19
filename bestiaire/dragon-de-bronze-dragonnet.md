@@ -1,45 +1,41 @@
 ---
-title: "Dragon de bronze, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Loyal Bon"
-challenge: "2"
+title: 'Dragon de bronze, dragonnet'
+type: Dragon
+size: M
+alignment: Loyal Bon
+challenge: '2'
 hitDiceCount: 5
-abilityScores:
-  for: 17
-  dex: 10
-  con: 15
-  int: 12
-  sag: 11
-  cha: 15
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 7
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-  swim: 9
-  fly: 18
-senses: 
-  blindsight: 3
-  darkvision: 18
-damageTypeImmunities: 
-  - "foudre"
-languages: 
-  - "draconique"
+damageTypeImmunities:
+  - foudre
+languages:
+  - draconique
 environments:
   - Littoral
   - Mer / Océan
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 114
+abilityScores_for: 17
+abilityScores_dex: 10
+abilityScores_con: 15
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 9
+movement_swim: 9
+movement_fly: 18
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

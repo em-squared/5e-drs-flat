@@ -1,10 +1,10 @@
 ---
-title: "Cape de prestidigitateur"
-type: "Objet merveilleux"
+title: Cape de prestidigitateur
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette cape sent légèrement le soufre. Tant que vous la portez, vous pouvez l'utiliser pour lancer le sort [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/) par une action. Vous devez attendre l'aube suivante pour réutiliser ce pouvoir.
 

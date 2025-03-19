@@ -1,23 +1,23 @@
 ---
-title: "Répulsion/attirance"
-description: "Oblige ou empêche un type de créature de s'approcher d'une zone."
-school: "Enchantement"
+title: Répulsion/attirance
+description: Oblige ou empêche un type de créature de s'approcher d'une zone.
+school: Enchantement
 level: 8
 concentration: false
-casting_time: "1 heure"
-duration: "10 jours"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance"
+casting_time: 1 heure
+duration: 10 jours
+range: 18 mètres
 ritual: false
 classes:
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel
+  pour attirance
 ---
 Ce sort attire ou refoule les créatures de votre choix. Vous choisissez un objet ou une créature de taille TG ou inférieure situés à portée ou une zone pas plus grande qu'un cube de 60 mètres de côté. Ensuite, vous décrivez une catégorie de créatures intelligentes, comme les dragons rouges, les gobelins ou les vampires. La cible est alors baignée d'une aura qui attire ou refoule ces créatures pendant toute la durée du sort. Vous devez choisir la répulsion ou l'attirance comme effet de l'aura.
 

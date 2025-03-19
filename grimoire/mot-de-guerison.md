@@ -1,24 +1,22 @@
 ---
-title: "Mot de guérison"
-description: "Sort en action bonus qui permet de rendre 1d4+modificateur points de vie."
-school: "Évocation"
+title: Mot de guérison
+description: Sort en action bonus qui permet de rendre 1d4+modificateur points de vie.
+school: Évocation
 level: 1
 concentration: false
-casting_time: "1 action bonus"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action bonus
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Une créature de votre choix située à portée et dans votre champ de vision récupère un nombre de points de vie égal à 1d4 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les créatures artificielles et les morts-vivants.
 

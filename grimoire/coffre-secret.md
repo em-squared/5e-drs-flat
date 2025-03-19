@@ -1,22 +1,23 @@
 ---
-title: "Coffre secret"
-description: "Dissimule un coffre sur le plan éthéré."
-school: "Invocation"
+title: Coffre secret
+description: Dissimule un coffre sur le plan éthéré.
+school: Invocation
 level: 4
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une valeur minimale de 5000 po et une réplique du coffre de taille TP, faite des mêmes matériaux et valant au moins 50 po"
+casting_time: 1 action
+duration: instantanée
+range: contact
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un superbe coffre de 90x60x60 centimètres, fait de matériaux rares d'une
+  valeur minimale de 5000 po et une réplique du coffre de taille TP, faite des
+  mêmes matériaux et valant au moins 50 po
 ---
 Vous dissimulez un coffre et son contenu sur le plan éthéré. Pour cela, vous devez toucher le coffre et la réplique qui sert de composante matérielle au sort. Le coffre peut contenir un maximum de 324 décimètres cubes (90 × 60 × 60 centimètres) de matière non vivante.
 

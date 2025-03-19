@@ -1,37 +1,33 @@
 ---
-title: "Gnome des profondeurs (svirfneblin)"
-type: "Humanoïde"
-subtype: "gnome"
-size: "P"
-alignment: "Neutre Bon"
-challenge: "0.5"
+title: Gnome des profondeurs (svirfneblin)
+type: Humanoïde
+subtype: gnome
+size: P
+alignment: Neutre Bon
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 15
-  dex: 14
-  con: 14
-  int: 12
-  sag: 10
-  cha: 9
-ac:
-  armorType: "chemise de mailles"
 skills:
-  - name: "discretion"
-  - name: "investigation"
-  - name: "perception"
-movement:
-  walk: 6
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: investigation
+  - name: perception
 languages:
-  - "commun des profondeurs"
-  - "gnome"
-  - "terreux"
+  - commun des profondeurs
+  - gnome
+  - terreux
 dungeonTypes:
   - Caverne aménagée
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 163
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 14
+abilityScores_int: 12
+abilityScores_sag: 10
+abilityScores_cha: 9
+ac_armorType: chemise de mailles
+movement_walk: 6
+senses_darkvision: 36
 ---
 ## Capacités
 _**Camouflage dans la rocaille**_. Le gnome obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux.

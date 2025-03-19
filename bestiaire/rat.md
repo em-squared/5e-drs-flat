@@ -1,29 +1,25 @@
 ---
-title: "Rat"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0"
+title: Rat
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 2
-  dex: 11
-  con: 9
-  int: 2
-  sag: 10
-  cha: 4
-ac: 
-  armorType: null
-movement: 
-  walk: 6
-senses: 
-  darkvision: 9
-languages: 
-  - ""
+languages:
+  - ''
 dungeonTypes:
   - Caverne aménagée
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 318
+abilityScores_for: 2
+abilityScores_dex: 11
+abilityScores_con: 9
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 4
+ac_armorType: null
+movement_walk: 6
+senses_darkvision: 9
 ---
 ## Capacités
 _**Odorat aiguisé**_. Le rat obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.

@@ -1,47 +1,43 @@
 ---
-title: "Manteau vide"
-type: "Créature artificielle"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Manteau vide
+type: Créature artificielle
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 10
-abilityScores:
-  for: 18
-  dex: 14
-  con: 10
-  int: 10
-  sag: 10
-  cha: 1
-savingThrows: 
-  - "dex"
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-skills: 
-  - name: "discretion"
-movement: 
-  walk: 0
-  fly: 12
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeVulnerabilities: 
-  - "feu"
-damageTypeResistances: 
-  - "contondant"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "comprend l'elfique et l'umbral mais ne peut pas parler"
-source: "Livre des monstres"
+savingThrows:
+  - dex
+  - con
+skills:
+  - name: discretion
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeVulnerabilities:
+  - feu
+damageTypeResistances:
+  - contondant
+damageTypeImmunities:
+  - poison
+languages:
+  - comprend l'elfique et l'umbral mais ne peut pas parler
+source: Livre des monstres
 source_page: 285
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 10
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 0
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Sentinelle diligente**_. Les manteaux vides ont été conçus pour monter la garde contre les intrus. Ils sont [_avantagés_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs tests de Sagesse (Perception).

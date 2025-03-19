@@ -1,25 +1,23 @@
 ---
-title: "Protection contre le mal et le bien"
-description: "La cible est protégée contre certains types de créatures."
-school: "Abjuration"
+title: Protection contre le mal et le bien
+description: La cible est protégée contre certains types de créatures.
+school: Abjuration
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "eau bénite ou poudre de fer et d'argent, que le sort consume"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: contact
 ritual: false
 classes:
-    - Clerc
-    - Magicien
-    - Paladin
-    - Sorcier
-
-source: "Manuel des règles"
+  - Clerc
+  - Magicien
+  - Paladin
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'eau bénite ou poudre de fer et d''argent, que le sort consume'
 ---
 Jusqu'à la fin du sort, une créature consentante que vous touchez est protégée contre certains types de créatures : les aberrations, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants.
 

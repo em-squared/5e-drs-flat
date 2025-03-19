@@ -1,48 +1,44 @@
 ---
-title: "Tosculie, Reine du nid"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "12"
+title: 'Tosculie, Reine du nid'
+type: Créature monstrueuse
+size: G
+alignment: Loyal Mauvais
+challenge: '12'
 hitDiceCount: 15
-abilityScores:
-  for: 17
-  dex: 24
-  con: 20
-  int: 16
-  sag: 16
-  cha: 18
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
-movement: 
-  walk: 12
-  fly: 18
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "commun"
-  - "gnoll"
-  - "infernal"
-  - "profond"
-  - "tosculi"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: perception
+conditionImmunities:
+  - charme
+  - empoisonne
+damageTypeImmunities:
+  - poison
+languages:
+  - commun
+  - gnoll
+  - infernal
+  - profond
+  - tosculi
 environments:
   - Collines / Vallées
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 386
+abilityScores_for: 17
+abilityScores_dex: 24
+abilityScores_con: 20
+abilityScores_int: 16
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: null
+movement_walk: 12
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si la reine du nid rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle peut à la place le réussir.

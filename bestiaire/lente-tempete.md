@@ -1,45 +1,41 @@
 ---
-title: "Lente tempête"
-type: "Élémentaire"
-size: "TG"
-alignment: "Chaotique Neutre"
-challenge: "15"
+title: Lente tempête
+type: Élémentaire
+size: TG
+alignment: Chaotique Neutre
+challenge: '15'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 19
-  con: 22
-  int: 11
-  sag: 16
-  cha: 11
 savingThrows:
-  - "dex"
-  - "con"
-ac:
-  armorType: "custom"
-  value: "19"
-movement:
-  walk: 0
-  fly: 18
-  hover: true
-senses:
-  blindsight: 9
-  darkvision: 36
+  - dex
+  - con
 conditionImmunities:
-  - "a-terre"
+  - a-terre
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "froid"
+  - acide
+  - feu
+  - froid
 damageTypeImmunities:
-  - "foudre"
+  - foudre
 languages:
-  - "commun"
-  - "primordial"
+  - commun
+  - primordial
 environments:
   - Plans élémentaires
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 265
+abilityScores_for: 20
+abilityScores_dex: 19
+abilityScores_con: 22
+abilityScores_int: 11
+abilityScores_sag: 16
+abilityScores_cha: 11
+ac_armorType: custom
+ac_value: '19'
+movement_walk: 0
+movement_fly: 18
+movement_hover: true
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Ravages osseux**_. Quand la lente tempête touche une créature vivante avec une attaque de _coup_ ou de _souffle_, elle absorbe l'humidité de ses articulations, ce qui provoque raideurs et douleurs. En plus de ce drain de 1d4 Dextérité, si la créature est prise dans le souffle de la lente tempête et qu'elle rate un autre [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 18, elle souffre d'horribles douleurs dans les os et les articulations. À chaque round où elle se déplace alors qu'elle est souffrante, elle subit 1d4 dégâts nécrotiques pour chaque mètre cinquante qu'elle parcourt. La douleur des ravages osseux persiste jusqu'à ce que la créature récupère au moins 1 point de Dextérité perdu.

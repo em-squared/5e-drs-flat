@@ -1,34 +1,30 @@
 ---
-title: "Scorpion nocturne"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "3"
+title: Scorpion nocturne
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '3'
 hitDiceCount: 12
-abilityScores:
-  for: 15
-  dex: 14
-  con: 14
-  int: 1
-  sag: 9
-  cha: 3
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-movement: 
-  walk: 12
-senses: 
-  blindsight: 18
-languages: 
-  - "—"
+languages:
+  - —
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
 dungeonTypes:
   - Caverne aménagée
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 357
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 14
+abilityScores_int: 1
+abilityScores_sag: 9
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 12
+senses_blindsight: 18
 ---
 ## Actions
 _**Attaques multiples**_. Le scorpion fait trois attaques : deux avec ses _pinces_ et une avec son _dard_.

@@ -1,56 +1,52 @@
 ---
-title: "Mécanique, Abomination"
-type: "Créature artificielle"
-subtype: "diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "5"
+title: 'Mécanique, Abomination'
+type: Créature artificielle
+subtype: diable
+size: G
+alignment: Loyal Mauvais
+challenge: '5'
 hitDiceCount: 8
-abilityScores:
-  for: 21
-  dex: 12
-  con: 18
-  int: 10
-  sag: 10
-  cha: 12
 savingThrows:
-  - "dex"
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
 skills:
-  - name: "athletisme"
+  - name: athletisme
     invalid: true
     value: 9
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     invalid: true
     value: 4
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "infernal"
-source: "Livre des monstres"
+  - commun
+  - infernal
+source: Livre des monstres
 source_page: 290
+abilityScores_for: 21
+abilityScores_dex: 12
+abilityScores_con: 18
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Jambes supplémentaires**_. Une abomination mécanique est dotée de quatre jambes qui lui confèrent une vitesse d'escalade égale à la moitié de sa vitesse de base et lui permettent de se déplacer normalement en terrain difficile.

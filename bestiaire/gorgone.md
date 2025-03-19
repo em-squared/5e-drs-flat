@@ -1,34 +1,30 @@
 ---
-title: "Gorgone"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "non-alignée"
-challenge: "5"
+title: Gorgone
+type: Créature monstrueuse
+size: G
+alignment: non-alignée
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 20
-  dex: 11
-  con: 18
-  int: 2
-  sag: 12
-  cha: 7
-ac:
-  armorType: "armure naturelle"
-  value: 9
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "petrifie"
+  - petrifie
 languages:
-  - "—"
+  - —
 environments:
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 172
+abilityScores_for: 20
+abilityScores_dex: 11
+abilityScores_con: 18
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Charge écrasante**_. Si la gorgone se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle elle réussit ensuite une attaque de coup de corne lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 16 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), la gorgone peut effectuer contre elle une attaque de _sabots_ par une action bonus.

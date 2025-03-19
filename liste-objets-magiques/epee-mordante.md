@@ -1,10 +1,10 @@
 ---
-title: "Épée mordante"
-type: "Arme"
-subtype: "Épée"
-rarity: "Rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Épée mordante
+type: Arme
+subtype: Épée
+rarity: Rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Seul un repos court ou long permet de récupérer les points de vie perdus à cause des dégâts infligés par cette arme. Ni la régénération, ni la magie, ni aucun autre moyen ne peuvent soigner ces points de vie perdus.
 

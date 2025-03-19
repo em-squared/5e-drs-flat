@@ -1,39 +1,35 @@
 ---
-title: "Xorn"
-type: "Élémentaire"
-size: "M"
-alignment: "Neutre"
-challenge: "5"
+title: Xorn
+type: Élémentaire
+size: M
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 7
-abilityScores:
-  for: 17
-  dex: 10
-  con: 22
-  int: 11
-  sag: 10
-  cha: 11
-ac:
-  armorType: "armure naturelle"
-  value: 9
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 6
-  burrow: 6
-senses:
-  tremorsense: 18
-  darkvision: 18
 damageTypeResistances:
-  - "p-t-non-adamantium"
+  - p-t-non-adamantium
 languages:
-  - "terreux"
+  - terreux
 environments:
   - Montagnes
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 289
+abilityScores_for: 17
+abilityScores_dex: 10
+abilityScores_con: 22
+abilityScores_int: 11
+abilityScores_sag: 10
+abilityScores_cha: 11
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 6
+movement_burrow: 6
+senses_tremorsense: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Camouflage dans la rocaille**_. Le xorn obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux.

@@ -1,23 +1,21 @@
 ---
-title: "Injonction"
-description: "La cible doit obéir à un ordre d'un seul mot."
-school: "Enchantement"
+title: Injonction
+description: La cible doit obéir à un ordre d'un seul mot.
+school: Enchantement
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 round"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 1 round
+range: 18 mètres
 ritual: false
 classes:
-    - Clerc
-    - Paladin
-
-source: "Manuel des règles"
+  - Clerc
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Vous lancez un ordre d'un mot à une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle exécute votre ordre à son prochain tour. Le sort reste sans effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si votre ordre la met directement en danger.
 

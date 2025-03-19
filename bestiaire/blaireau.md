@@ -1,30 +1,26 @@
 ---
-title: "Blaireau"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0"
+title: Blaireau
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 4
-  dex: 11
-  con: 12
-  int: 2
-  sag: 12
-  cha: 5
-ac:
-  armorType: null
-movement:
-  walk: 6
-  burrow: 1,50
-senses:
-  darkvision: 9
 languages:
-  - ""
+  - ''
 environments:
   - Bois / Forêt
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 298
+abilityScores_for: 4
+abilityScores_dex: 11
+abilityScores_con: 12
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 5
+ac_armorType: null
+movement_walk: 6
+movement_burrow: '1,50'
+senses_darkvision: 9
 ---
 ## Capacités
 _**Odorat aiguisé**_. Le blaireau obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.

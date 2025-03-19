@@ -1,49 +1,45 @@
 ---
-title: "Dragon d'airain, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Chaotique Bon"
-challenge: "13"
+title: 'Dragon d''airain, adulte'
+type: Dragon
+size: TG
+alignment: Chaotique Bon
+challenge: '13'
 hitDiceCount: 15
-abilityScores:
-  for: 23
-  dex: 10
-  con: 21
-  int: 14
-  sag: 13
-  cha: 17
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-skills: 
-  - name: "discretion"
-  - name: "histoire"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: histoire
+  - name: perception
     isExpert: true
-  - name: "persuasion"
-movement: 
-  walk: 12
-  burrow: 9
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
+  - name: persuasion
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
 environments:
   - Désert chaud
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 103
+abilityScores_for: 23
+abilityScores_dex: 10
+abilityScores_con: 21
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_burrow: 9
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

@@ -1,22 +1,22 @@
 ---
-title: "Rayon de lune"
-description: "Rayon de lumière qui inflige 2d10 dégâts radiants et révèle les métamorphes."
-school: "Évocation"
+title: Rayon de lune
+description: Rayon de lumière qui inflige 2d10 dégâts radiants et révèle les métamorphes.
+school: Évocation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath opalescent"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 36 mètres
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  quelques graines de lierre, peu importe l'espèce, et un éclat de feldspath
+  opalescent
 ---
 Un pâle rayon de lune brille dans un cylindre de 1,50 mètre de rayon pour 12 mètres de haut centré sur un point à portée. Une faible lumière emplit le cylindre jusqu'à la fin du sort.
 

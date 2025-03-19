@@ -1,34 +1,30 @@
 ---
-title: "Blemmye"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "8"
+title: Blemmye
+type: Créature monstrueuse
+size: G
+alignment: Chaotique Mauvais
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 20
-  dex: 13
-  con: 20
-  int: 7
-  sag: 12
-  cha: 5
-ac:
-  armorType: "armure naturelle"
-  value: 4
 skills:
-  - name: "intimidation"
+  - name: intimidation
     isExpert: true
-movement:
-  walk: 12
-senses:
-  darkvision: 18
 languages:
-  - "géant"
+  - géant
 environments:
   - Collines / Vallées
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 42
+abilityScores_for: 20
+abilityScores_dex: 13
+abilityScores_con: 20
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Compulsion carnivore**_. Si un blemmye voit une créature [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise), il doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 11. Sur un échec, il ne peut résister à la tentation de se déplacer vers cette créature pour l'attaquer.

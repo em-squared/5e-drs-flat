@@ -1,47 +1,43 @@
 ---
-title: "Limon des sarcophages"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Limon des sarcophages
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 14
-  dex: 12
-  con: 18
-  int: 3
-  sag: 12
-  cha: 12
 savingThrows:
-  - "sag"
-  - "cha"
-ac:
-  armorType: null
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-movement:
-  walk: 6
-senses:
-  customBlindSight: "18 m (aveugle au-delà de cette distance)"
+  - name: discretion
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "necrotique"
+  - acide
+  - necrotique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "comprend les langues de son créateur mais ne peut pas parler"
+  - comprend les langues de son créateur mais ne peut pas parler
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 270
+abilityScores_for: 14
+abilityScores_dex: 12
+abilityScores_con: 18
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 12
+ac_armorType: null
+movement_walk: 6
+senses_customBlindSight: 18 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Informe**_. Le limon des sarcophages peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.

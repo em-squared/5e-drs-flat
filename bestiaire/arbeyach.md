@@ -1,59 +1,55 @@
 ---
-title: "Arbeyach"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "21"
+title: Arbeyach
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '21'
 hitDiceCount: 22
-abilityScores:
-  for: 22
-  dex: 20
-  con: 25
-  int: 19
-  sag: 21
-  cha: 25
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 12
-  burrow: 6
-  climb: 12
-  fly: 24
-  hover: true
-senses:
-  truesight: 36
+  - name: discretion
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "etourdi"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - etourdi
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "froid"
-  - "c-p-t-non-argent"
+  - acide
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "infernal"
+  - céleste
+  - commun
+  - draconique
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 98
+abilityScores_for: 22
+abilityScores_dex: 20
+abilityScores_con: 25
+abilityScores_int: 19
+abilityScores_sag: 21
+abilityScores_cha: 25
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 12
+movement_burrow: 6
+movement_climb: 12
+movement_fly: 24
+movement_hover: true
+senses_truesight: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si Arbeyach rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

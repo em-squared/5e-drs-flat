@@ -1,23 +1,23 @@
 ---
-title: "Lévitation"
-description: "La cible s'élève à 6 mètres du sol."
-school: "Transmutation"
+title: Lévitation
+description: La cible s'élève à 6 mètres du sol.
+school: Transmutation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "soit une petite boucle de cuir, soit un bout de fil de métal doré formant la silhouette d'une cuillère au long manche"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 18 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  soit une petite boucle de cuir, soit un bout de fil de métal doré formant la
+  silhouette d'une cuillère au long manche
 ---
 Une créature ou un objet situé à portée et dans votre champ de vision s'élève à la verticale à une hauteur de 6 mètres et reste suspendu là pendant toute la durée du sort. Ce dernier peut soulever une cible d'au maximum 250 kilogrammes. Si la créature visée n'est pas consentante, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution pour éviter d'être affectée par le sort.
 

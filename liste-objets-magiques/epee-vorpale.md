@@ -1,10 +1,10 @@
 ---
-title: "Épée vorpale"
-type: "Arme"
-subtype: "N'importe quel type d'épée qui inflige des dégâts tranchants"
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Épée vorpale
+type: Arme
+subtype: N'importe quel type d'épée qui inflige des dégâts tranchants
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous obtenez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, l'arme ignore toute résistance aux dégâts tranchants.
 

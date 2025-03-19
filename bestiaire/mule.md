@@ -1,30 +1,27 @@
 ---
-title: "Mule"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.125"
+title: Mule
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.125'
 hitDiceCount: 2
-abilityScores:
-  for: 14
-  dex: 10
-  con: 13
-  int: 2
-  sag: 10
-  cha: 5
-ac: 
-  armorType: null
-movement: 
-  walk: 12
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 environments:
   - Collines / Vallées
   - Montagnes
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 313
+abilityScores_for: 14
+abilityScores_dex: 10
+abilityScores_con: 13
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 5
+ac_armorType: null
+movement_walk: 12
 ---
 ## Capacités
 _**Bête de somme**_. On considère la mule comme une créature de taille G pour déterminer sa capacité de transport.

@@ -1,23 +1,21 @@
 ---
-title: "Communication avec les plantes"
-description: "Donner des ordres et poser des questions aux plantes."
-school: "Transmutation"
+title: Communication avec les plantes
+description: Donner des ordres et poser des questions aux plantes.
+school: Transmutation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "10 minutes"
-range: "personnelle (9 mètres de rayon)"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 10 minutes
+range: personnelle (9 mètres de rayon)
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous imprégnez la végétation située dans un rayon de 9 mètres autour de vous d'une conscience et d'une mobilité limitées, ce qui permet aux plantes de communiquer avec vous et de suivre des ordres simples. Vous pouvez interroger les végétaux sur les événements qui se sont déroulés la veille dans la zone du sort et ainsi obtenir des informations sur les créatures qui sont passées, sur les conditions météorologiques et autres.
 

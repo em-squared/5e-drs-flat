@@ -1,47 +1,43 @@
 ---
-title: "Araignée de Leng"
-type: "Aberration"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Araignée de Leng
+type: Aberration
+size: G
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 17
-abilityScores:
-  for: 14
-  dex: 16
-  con: 16
-  int: 17
-  sag: 10
-  cha: 10
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - int
 skills:
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-  climb: 6
-senses:
-  darkvision: 72
+  - name: athletisme
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "inconscient"
+  - charme
+  - empoisonne
+  - inconscient
 damageTypeResistances:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "langue du Vide"
+  - commun
+  - langue du Vide
 environments:
   - Collines / Vallées
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 24
+abilityScores_for: 14
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 17
+abilityScores_sag: 10
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_climb: 6
+senses_darkvision: 72
 ---
 ## Capacités
 _**Étrange compréhension**_. Une araignée de Leng peut lire et utiliser n'importe quel parchemin.

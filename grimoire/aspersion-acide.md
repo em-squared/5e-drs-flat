@@ -1,22 +1,20 @@
 ---
-title: "Aspersion acide"
-description: "Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts."
-school: "Invocation"
+title: Aspersion acide
+description: Boule d'acide visant une ou deux cibles proches pour 1d6 dégâts.
+school: Invocation
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous lancez une boule d'acide. Choisissez une créature à portée, ou deux créatures à portée situées à 1,50 mètre ou moins l'une de l'autre. Une cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, sinon elle subit 1d6 dégâts d'acide.
 

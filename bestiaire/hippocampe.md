@@ -1,29 +1,26 @@
 ---
-title: "Hippocampe"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0"
+title: Hippocampe
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 1
-  dex: 12
-  con: 8
-  int: 1
-  sag: 10
-  cha: 2
-ac: 
-  armorType: null
-movement: 
-  walk: 0
-  swim: 6
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 309
+abilityScores_for: 1
+abilityScores_dex: 12
+abilityScores_con: 8
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 2
+ac_armorType: null
+movement_walk: 0
+movement_swim: 6
 ---
 ## Capacités
 _**Respiration aquatique**_. L'hippocampe peut respirer uniquement sous l'eau.

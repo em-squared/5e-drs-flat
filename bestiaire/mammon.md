@@ -1,51 +1,47 @@
 ---
-title: "Mammon"
-type: "Fiélon"
-subtype: "Diable"
-size: "TG"
-alignment: "Loyal Mauvais"
-challenge: "25"
+title: Mammon
+type: Fiélon
+subtype: Diable
+size: TG
+alignment: Loyal Mauvais
+challenge: '25'
 hitDiceCount: 28
-abilityScores:
-  for: 22
-  dex: 13
-  con: 24
-  int: 23
-  sag: 21
-  cha: 26
 savingThrows:
-  - "dex"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 9
+  - dex
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 15
-senses:
-  truesight: 36
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "feu"
-  - "poison"
-  - "c-p-t-non-argent"
+  - feu
+  - poison
+  - c-p-t-non-argent
 languages:
-  - "toutes"
+  - toutes
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 102
+abilityScores_for: 22
+abilityScores_dex: 13
+abilityScores_con: 24
+abilityScores_int: 23
+abilityScores_sag: 21
+abilityScores_cha: 26
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 15
+senses_truesight: 36
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée de Mammon est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 24, +16 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

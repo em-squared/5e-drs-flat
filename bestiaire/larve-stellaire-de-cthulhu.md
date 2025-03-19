@@ -1,57 +1,53 @@
 ---
-title: "Larve stellaire de Cthulhu"
-type: "Fiélon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "15"
+title: Larve stellaire de Cthulhu
+type: Fiélon
+size: G
+alignment: Chaotique Mauvais
+challenge: '15'
 hitDiceCount: 15
-abilityScores:
-  for: 25
-  dex: 15
-  con: 24
-  int: 30
-  sag: 18
-  cha: 23
 savingThrows:
-  - "for"
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - for
+  - con
+  - int
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "perception"
+  - name: arcanes
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-  climb: 9
-  fly: 15
-senses:
-  darkvision: 90
 conditionImmunities:
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 damageTypeImmunities:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "poison"
-  - "psychique"
+  - feu
+  - foudre
+  - froid
+  - poison
+  - psychique
 languages:
-  - "commun"
-  - "infernal"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - commun
+  - infernal
+  - langue du Vide
+source: Livre des monstres
 source_page: 263
+abilityScores_for: 25
+abilityScores_dex: 15
+abilityScores_con: 24
+abilityScores_int: 30
+abilityScores_sag: 18
+abilityScores_cha: 23
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_climb: 9
+movement_fly: 15
+senses_darkvision: 90
 ---
 ## Capacités
 _**Déplacement interdimensionnel**_. Une larve stellaire de Cthulhu peut utiliser [_pas brumeux_](/grimoire/pas-brumeux/) par une action bonus une fois par round.

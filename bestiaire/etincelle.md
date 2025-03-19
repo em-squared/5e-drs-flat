@@ -1,49 +1,45 @@
 ---
-title: "Étincelle"
-type: "Élémentaire"
-size: "TP"
-alignment: "Chaotique Neutre"
-challenge: "7"
+title: Étincelle
+type: Élémentaire
+size: TP
+alignment: Chaotique Neutre
+challenge: '7'
 hitDiceCount: 13
-abilityScores:
-  for: 4
-  dex: 20
-  con: 18
-  int: 10
-  sag: 12
-  cha: 17
 savingThrows:
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 1
-movement:
-  walk: 3
-  fly: 18
-  hover: true
-senses:
-  darkvision: 18
+  - dex
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "force"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - force
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "foudre"
+  - foudre
 languages:
-  - "commun"
-  - "primordial"
-source: "Livre des monstres"
+  - commun
+  - primordial
+source: Livre des monstres
 source_page: 175
+abilityScores_for: 4
+abilityScores_dex: 20
+abilityScores_con: 18
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 3
+movement_fly: 18
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. L'étincelle utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de manière innée, sans composantes matérielles :

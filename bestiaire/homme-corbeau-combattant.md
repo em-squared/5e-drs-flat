@@ -1,42 +1,38 @@
 ---
-title: "Homme-corbeau, combattant"
-type: "Humanoïde"
-subtype: "homme-corbeau"
-size: "M"
-alignment: "Neutre"
-challenge: "3"
+title: 'Homme-corbeau, combattant'
+type: Humanoïde
+subtype: homme-corbeau
+size: M
+alignment: Neutre
+challenge: '3'
 hitDiceCount: 12
-abilityScores:
-  for: 12
-  dex: 16
-  con: 14
-  int: 10
-  sag: 13
-  cha: 10
-savingThrows: 
-  - "dex"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure de cuir clouté"
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "supercherie"
-movement: 
-  walk: 9
-senses: 
-  darkvision: 36
-languages: 
-  - "commun"
-  - "huginn"
-  - "langage des plumes"
+  - name: supercherie
+languages:
+  - commun
+  - huginn
+  - langage des plumes
 environments:
   - Bois / Forêt
   - Collines / Vallées
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 240
+abilityScores_for: 12
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: armure de cuir clouté
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Armes runiques**_. Les lances et bâtons runiques sont des armes à deux mains entretenues grâce à la magie runique considérées comme magiques, bien qu'elles ne donnent pas de bonus à l'attaque. Il faut qu'un croasseur funeste ou Odin lui-même renouvelle leur magie chaque semaine.

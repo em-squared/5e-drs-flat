@@ -1,34 +1,30 @@
 ---
-title: "Mille-pattes géant"
-type: "Bête"
-size: "P"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Mille-pattes géant
+type: Bête
+size: P
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 1
-abilityScores:
-  for: 5
-  dex: 14
-  con: 12
-  int: 1
-  sag: 7
-  cha: 3
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-movement: 
-  walk: 9
-  climb: 9
-senses: 
-  blindsight: 9
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Désert chaud
   - Jungle
 dungeonTypes:
   - Caverne naturelle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 313
+abilityScores_for: 5
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 1
+abilityScores_sag: 7
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_climb: 9
+senses_blindsight: 9
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  

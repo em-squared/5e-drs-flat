@@ -1,49 +1,45 @@
 ---
-title: "Belle noyée"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Belle noyée
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 20
-abilityScores:
-  for: 15
-  dex: 16
-  con: 10
-  int: 10
-  sag: 12
-  cha: 18
 savingThrows:
-  - "dex"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
-movement:
-  walk: 9
-  swim: 12
-senses:
-  darkvision: 18
+  - dex
+  - cha
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-argent"
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "commun"
+  - commun
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
   - Ruines sous-marines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 39
+abilityScores_for: 15
+abilityScores_dex: 16
+abilityScores_con: 10
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Cheveux agrippants**_. Les cheveux d'une belle noyée attaquent comme s'ils étaient trois membres séparés. Chacun peut ainsi être pris pour cible (CA 19 ; 15 points de vie ; immunité contre les dégâts nécrotiques, de poison et psychiques ; résistance aux dégâts contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent). Une mèche de cheveux peut être brisée par une créature si celle-ci, par une action, réussit un test de Force DD 15 contre elle.

@@ -1,48 +1,44 @@
 ---
-title: "Traqueur invisible"
-type: "Élémentaire"
-size: "M"
-alignment: "Neutre"
-challenge: "6"
+title: Traqueur invisible
+type: Élémentaire
+size: M
+alignment: Neutre
+challenge: '6'
 hitDiceCount: 16
-abilityScores:
-  for: 16
-  dex: 19
-  con: 14
-  int: 10
-  sag: 15
-  cha: 11
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement: 
-  walk: 15
-  fly: 15
-  hover: true
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "inconscient"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
-languages: 
-  - "aérien"
-  - "comprend le commun mais ne peut pas le parler"
+conditionImmunities:
+  - a-terre
+  - empoigne
+  - empoisonne
+  - epuise
+  - inconscient
+  - entrave
+  - paralyse
+  - petrifie
+damageTypeResistances:
+  - c-p-t-non-magique
+languages:
+  - aérien
+  - comprend le commun mais ne peut pas le parler
 environments:
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 275
+abilityScores_for: 16
+abilityScores_dex: 19
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 15
+abilityScores_cha: 11
+ac_armorType: null
+movement_walk: 15
+movement_fly: 15
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Invisibilité**_. Le traqueur est [_invisible_](/gerer-la-sante-du-personnage/#invisible).

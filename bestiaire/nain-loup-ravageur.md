@@ -1,33 +1,29 @@
 ---
-title: "Nain, Loup ravageur"
-type: "Humanoïde"
-subtype: "nain"
-size: "M"
-alignment: "n'importe quel alignement chaotique"
-challenge: "3"
+title: 'Nain, Loup ravageur'
+type: Humanoïde
+subtype: nain
+size: M
+alignment: n'importe quel alignement chaotique
+challenge: '3'
 hitDiceCount: 9
-abilityScores:
-  for: 18
-  dex: 12
-  con: 19
-  int: 9
-  sag: 11
-  cha: 9
-ac:
-  armorType: "chemise de mailles"
-  hasShield: true
 skills:
-  - name: "athletisme"
-  - name: "intimidation"
-movement:
-  walk: 10,50
-senses:
-  darkvision: 18
+  - name: athletisme
+  - name: intimidation
 languages:
-  - "commun"
-  - "nain"
-source: "Livre des monstres"
+  - commun
+  - nain
+source: Livre des monstres
 source_page: 424
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 19
+abilityScores_int: 9
+abilityScores_sag: 11
+abilityScores_cha: 9
+ac_armorType: chemise de mailles
+ac_hasShield: true
+movement_walk: '10,50'
+senses_darkvision: 18
 ---
 ## Capacités
 _**Sens du danger**_. Le nain loup ravageur est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité contre les attaques qu'il voit tant qu'il n'est pas [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi) ni [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).

@@ -1,45 +1,41 @@
 ---
-title: "Drake de corail"
-type: "Dragon"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "7"
+title: Drake de corail
+type: Dragon
+size: M
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 15
-abilityScores:
-  for: 19
-  dex: 17
-  con: 18
-  int: 10
-  sag: 13
-  cha: 10
-savingThrows: 
-  - "dex"
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "acrobaties"
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 9
-  swim: 18
-senses: 
-  darkvision: 36
-conditionImmunities: 
-  - "a-terre"
-  - "empoisonne"
-  - "inconscient"
-  - "paralyse"
-damageTypeResistances: 
-  - "froid"
-languages: 
-  - "draconique"
+savingThrows:
+  - dex
+skills:
+  - name: acrobaties
+  - name: discretion
+  - name: perception
+conditionImmunities:
+  - a-terre
+  - empoisonne
+  - inconscient
+  - paralyse
+damageTypeResistances:
+  - froid
+languages:
+  - draconique
 environments:
   - Littoral
   - Mer / Océan
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 150
+abilityScores_for: 19
+abilityScores_dex: 17
+abilityScores_con: 18
+abilityScores_int: 10
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_swim: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Camouflage**_. La couleur et la forme d'un drake de corail lui confèrent une discrétion accrue et il se trouve ainsi [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de tous ses tests de Discrétion quand il se trouve sous l'eau.

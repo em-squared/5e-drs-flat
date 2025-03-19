@@ -1,43 +1,39 @@
 ---
-title: "Myling"
-type: "Mort-vivant"
-size: "P"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: Myling
+type: Mort-vivant
+size: P
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 10
-abilityScores:
-  for: 15
-  dex: 10
-  con: 12
-  int: 10
-  sag: 12
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 3
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-movement:
-  walk: 9
-  burrow: 3
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "etourdi"
-  - "inconscient"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - etourdi
+  - inconscient
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-argent"
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "commun"
-source: "Livre des monstres"
+  - commun
+source: Livre des monstres
 source_page: 314
+abilityScores_for: 15
+abilityScores_dex: 10
+abilityScores_con: 12
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_burrow: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. Le myling fait une attaque de _morsure_ et deux de _griffes_.

@@ -1,39 +1,35 @@
 ---
-title: "Mécanique, Araignée tisseuse"
-type: "Créature artificielle"
-size: "TP"
-alignment: "non-alignée"
-challenge: "1"
+title: 'Mécanique, Araignée tisseuse'
+type: Créature artificielle
+size: TP
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 10
-abilityScores:
-  for: 10
-  dex: 16
-  con: 10
-  int: 9
-  sag: 8
-  cha: 8
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-movement: 
-  walk: 12
-  climb: 12
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "comprend le commun"
-source: "Livre des monstres"
+conditionImmunities:
+  - assourdi
+  - aveugle
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
+damageTypeImmunities:
+  - poison
+languages:
+  - comprend le commun
+source: Livre des monstres
 source_page: 291
+abilityScores_for: 10
+abilityScores_dex: 16
+abilityScores_con: 10
+abilityScores_int: 9
+abilityScores_sag: 8
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 12
+movement_climb: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Une araignée tisseuse mécanique est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.

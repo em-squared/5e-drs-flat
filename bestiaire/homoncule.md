@@ -1,36 +1,32 @@
 ---
-title: "Homoncule"
-type: "Créature artificielle"
-size: "TP"
-alignment: "Neutre"
-challenge: "0"
+title: Homoncule
+type: Créature artificielle
+size: TP
+alignment: Neutre
+challenge: '0'
 hitDiceCount: 2
-abilityScores:
-  for: 4
-  dex: 15
-  con: 11
-  int: 10
-  sag: 10
-  cha: 7
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-movement: 
-  walk: 6
-  fly: 12
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "comprend les langues de son créateur mais ne peut pas parler"
+conditionImmunities:
+  - charme
+  - empoisonne
+damageTypeImmunities:
+  - poison
+languages:
+  - comprend les langues de son créateur mais ne peut pas parler
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 191
+abilityScores_for: 4
+abilityScores_dex: 15
+abilityScores_con: 11
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Lien télépathique**_. Si l'homoncule se trouve sur le même plan d'existence que son maître, il peut lui transmettre par magie ce qu'il perçoit, et les deux peuvent communiquer par télépathie.

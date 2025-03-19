@@ -1,22 +1,20 @@
 ---
-title: "Embruns prismatiques"
-description: "Huit rayons aux effets aléatoires frappent les cibles à 18 mètres."
-school: "Évocation"
+title: Embruns prismatiques
+description: Huit rayons aux effets aléatoires frappent les cibles à 18 mètres.
+school: Évocation
 level: 7
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "personnelle (cône de 18 mètres)"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: instantanée
+range: personnelle (cône de 18 mètres)
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une couleur différente et possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Lancez 1d8 par cible pour savoir quelle couleur l'affecte.
 

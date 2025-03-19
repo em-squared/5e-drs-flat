@@ -1,46 +1,42 @@
 ---
-title: "Malakbel"
-type: "Fiélon"
-subtype: "Démon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "9"
+title: Malakbel
+type: Fiélon
+subtype: Démon
+size: M
+alignment: Chaotique Mauvais
+challenge: '9'
 hitDiceCount: 12
-abilityScores:
-  for: 14
-  dex: 17
-  con: 19
-  int: 13
-  sag: 16
-  cha: 20
-customSavingThrows: "Dex +7, Sag +7"
-ac:
-  armorType: "armure naturelle"
-  value: 1
+customSavingThrows: 'Dex +7, Sag +7'
 skills:
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 7
-movement:
-  walk: 12
-senses:
-  truesight: 9
 conditionImmunities:
-  - "aveugle"
-  - "empoisonne"
+  - aveugle
+  - empoisonne
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "feu"
-  - "poison"
-  - "radiant"
+  - feu
+  - poison
+  - radiant
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 80
+abilityScores_for: 14
+abilityScores_dex: 17
+abilityScores_con: 19
+abilityScores_int: 13
+abilityScores_sag: 16
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 12
+senses_truesight: 9
 ---
 ## Capacités
 _**Radiance torride**_. Un malakbel génère une aura de lumière et de chaleur intenses sur un rayon de 9 mètres. Une créature qui commence son tour dans l'aura ou qui y pénètre pour la première fois lors d'un tour subit 11 (2d10) dégâts radiants. La zone d'effet de l'aura est éclairée d'une lumière vive et elle projette une lumière faible sur 9 mètres supplémentaires. L'aura dissipe les ténèbres magiques de niveau 3 ou inférieur là où leurs zones d'effet se croisent.

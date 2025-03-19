@@ -1,10 +1,10 @@
 ---
-title: "Bâton du python"
-type: "Bâton"
+title: Bâton du python
+type: Bâton
 subtype: false
-rarity: "Peu courant"
-attunement: "harmonisation avec un clerc, un druide ou un sorcier exigée"
-source: "Cadre de campagne"
+rarity: Peu courant
+attunement: 'harmonisation avec un clerc, un druide ou un sorcier exigée'
+source: Cadre de campagne
 ---
 Vous pouvez utiliser une action pour prononcer le mot de commande de ce bâton et le lancer par terre, à 3 mètres ou moins de vous. Le bâton se transforme alors en [serpent constricteur géant](/bestiaire/serpent-constricteur-geant/). Il agit lors de son propre décompte d'initiative mais reste sous votre contrôle. En utilisant une action bonus pour prononcer une nouvelle fois le mot de commande, le bâton reprend sa forme normale dans le dernier espace occupé lorsqu'il était serpent.
 

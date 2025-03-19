@@ -1,44 +1,40 @@
 ---
-title: "Mécanique, Scarabée"
-type: "Créature artificielle"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0.5"
+title: 'Mécanique, Scarabée'
+type: Créature artificielle
+size: TP
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 6
-abilityScores:
-  for: 8
-  dex: 16
-  con: 10
-  int: 4
-  sag: 12
-  cha: 7
 savingThrows:
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 1
+  - dex
 skills:
-  - name: "discretion"
-movement:
-  walk: 9
-  fly: 15
-senses:
-  darkvision: 18
+  - name: discretion
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
+  - poison
+  - psychique
 languages:
-  - "comprend le commun"
-  - "télépathie 30 m (seulement avec son créateur)"
-source: "Livre des monstres"
+  - comprend le commun
+  - télépathie 30 m (seulement avec son créateur)
+source: Livre des monstres
 source_page: 296
+abilityScores_for: 8
+abilityScores_dex: 16
+abilityScores_con: 10
+abilityScores_int: 4
+abilityScores_sag: 12
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_fly: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un scarabée mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

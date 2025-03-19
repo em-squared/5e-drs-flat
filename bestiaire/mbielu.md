@@ -1,35 +1,32 @@
 ---
-title: "Mbielu"
-type: "Bête"
-subtype: "Dinosaure"
-size: "TG"
-alignment: "non-alignée"
-challenge: "3"
+title: Mbielu
+type: Bête
+subtype: Dinosaure
+size: TG
+alignment: non-alignée
+challenge: '3'
 hitDiceCount: 10
-abilityScores:
-  for: 19
-  dex: 14
-  con: 16
-  int: 2
-  sag: 12
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "perception"
-movement: 
-  walk: 9
-  swim: 6
-senses: 
-languages: 
-  - "—"
+skills:
+  - name: perception
+senses: null
+languages:
+  - —
 environments:
   - Littoral
   - Mangrove / Marécage
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 117
+abilityScores_for: 19
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_swim: 6
 ---
 ## Capacités
 _**Peau toxique**_. Une créature qui touche un mbielu ou le frappe avec une attaque de corps à corps s'expose au poison qui couvre sa peau. Cette créature doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou se trouver dans l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne) pendant 1 minute. Tant qu'elle est dans cet état, elle est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde)s d'Intelligence, de Sagesse et de Charisme.

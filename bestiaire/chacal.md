@@ -1,31 +1,28 @@
 ---
-title: "Chacal"
-type: "Bête"
-size: "P"
-alignment: "non-alignée"
-challenge: "0"
+title: Chacal
+type: Bête
+size: P
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 8
-  dex: 15
-  con: 11
-  int: 3
-  sag: 12
-  cha: 6
-ac:
-  armorType: null
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-senses:
+  - name: perception
+senses: null
 languages:
-  - ""
+  - ''
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 298
+abilityScores_for: 8
+abilityScores_dex: 15
+abilityScores_con: 11
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 6
+ac_armorType: null
+movement_walk: 12
 ---
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le chacal obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.

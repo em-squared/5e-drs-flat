@@ -1,29 +1,26 @@
 ---
-title: "Élan"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Élan
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 16
-  dex: 10
-  con: 12
-  int: 2
-  sag: 10
-  cha: 6
-ac: 
-  armorType: null
-movement: 
-  walk: 15
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 environments:
   - Arctique / Subarctique
   - Bois / Forêt
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 305
+abilityScores_for: 16
+abilityScores_dex: 10
+abilityScores_con: 12
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 6
+ac_armorType: null
+movement_walk: 15
 ---
 ## Capacités
 _**Charge**_. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

@@ -1,38 +1,34 @@
 ---
-title: "Apparition putride"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: Apparition putride
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 17
-  dex: 8
-  con: 13
-  int: 6
-  sag: 11
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 4
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
+  - charme
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "c-p-non-magique"
+  - c-p-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "—"
+  - —
 environments:
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 22
+abilityScores_for: 17
+abilityScores_dex: 8
+abilityScores_con: 13
+abilityScores_int: 6
+abilityScores_sag: 11
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Immobilité parfaite**_. L'apparition putride ensevelie sous la vase est considérée comme [_invisible_](/gerer-la-sante-du-personnage/#invisible).

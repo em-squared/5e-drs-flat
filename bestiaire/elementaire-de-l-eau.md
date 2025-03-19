@@ -1,48 +1,44 @@
 ---
-title: "Élémentaire de l'eau"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre"
-challenge: "5"
+title: Élémentaire de l'eau
+type: Élémentaire
+size: G
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 18
-  dex: 14
-  con: 18
-  int: 5
-  sag: 10
-  cha: 8
-ac:
-  armorType: "armure naturelle"
-  value: "2"
-movement:
-  walk: 9
-  swim: 27
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - entrave
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "acide"
-  - "c-p-t-non-magique"
+  - acide
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "aquatique"
+  - aquatique
 environments:
   - Mer / Océan
   - Plans élémentaires
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 135
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 18
+abilityScores_int: 5
+abilityScores_sag: 10
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: '2'
+movement_walk: 9
+movement_swim: 27
+senses_darkvision: 18
 ---
 ## Capacités
 _**Corps d'eau**_. L'élémentaire peut entrer dans un emplacement occupé par une créature hostile et s'y arrêter. Il peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler.

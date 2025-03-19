@@ -1,22 +1,20 @@
 ---
-title: "Manteau de givre"
-description: "Le PJ devient résistant aux dégâts de la prochaine attaque."
-school: "Abjuration"
+title: Manteau de givre
+description: Le PJ devient résistant aux dégâts de la prochaine attaque.
+school: Abjuration
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "8 heures"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un peu d'eau"
+casting_time: 1 action
+duration: 8 heures
+range: personnelle
 ritual: false
 classes:
-    - Sorcier
-
-source: "Manuel des règles"
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un peu d'eau
 ---
 Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
 

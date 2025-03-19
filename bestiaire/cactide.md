@@ -1,38 +1,34 @@
 ---
-title: "Cactide"
-type: "Plante"
-size: "G"
-alignment: "non-alignée"
-challenge: "3"
+title: Cactide
+type: Plante
+size: G
+alignment: non-alignée
+challenge: '3'
 hitDiceCount: 8
-abilityScores:
-  for: 16
-  dex: 8
-  con: 18
-  int: 7
-  sag: 10
-  cha: 9
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 1,50
-senses:
-  customBlindSight: "18 m (aveugle au-delà de cette distance)"
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
+  - assourdi
+  - aveugle
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
+  - contondant
+  - perforant
 languages:
-  - "comprend le sylvestre mais ne peut pas parler"
+  - comprend le sylvestre mais ne peut pas parler
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 51
+abilityScores_for: 16
+abilityScores_dex: 8
+abilityScores_con: 18
+abilityScores_int: 7
+abilityScores_sag: 10
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: '1,50'
+senses_customBlindSight: 18 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Pluie d'aiguilles (1/jour)**_. Quand le nombre de points de vie d'un cactide passe sous la barre de 10 pv (et même s'il se trouve en dessous de 0 pv), il projette en réaction une pluie d'aiguilles. Toutes les créatures qui se trouvent dans un rayon de 15 mètres subissent 21 (6d6) dégâts perforants, ou moitié moins si elles réussissent un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 14.

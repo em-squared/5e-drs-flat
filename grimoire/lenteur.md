@@ -1,23 +1,21 @@
 ---
-title: "Lenteur"
-description: "Les cibles voient leur vitesse, leur CA et leur nombre d'actions diminués."
-school: "Transmutation"
+title: Lenteur
+description: 'Les cibles voient leur vitesse, leur CA et leur nombre d''actions diminués.'
+school: Transmutation
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une goutte de mélasse"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 36 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une goutte de mélasse
 ---
 Vous modifiez le cours du temps autour d'un maximum de six créatures de votre choix situées dans un cube de 12 mètres d'arête situé à portée. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi le sort l'affecte pendant toute sa durée.
 

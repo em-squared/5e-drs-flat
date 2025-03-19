@@ -1,49 +1,45 @@
 ---
-title: "Liche"
-type: "Mort-vivant"
-size: "M"
-alignment: "alignement Mauvais"
-challenge: "21"
+title: Liche
+type: Mort-vivant
+size: M
+alignment: alignement Mauvais
+challenge: '21'
 hitDiceCount: 18
-abilityScores:
-  for: 11
-  dex: 16
-  con: 16
-  int: 20
-  sag: 14
-  cha: 16
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - con
+  - int
+  - sag
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  truesight: 36
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "epuise"
-  - "empoisonne"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - epuise
+  - empoisonne
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "necrotique"
+  - foudre
+  - froid
+  - necrotique
 damageTypeImmunities:
-  - "poison"
-  - "c-p-t-non-magique"
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "commun et jusqu'à cinq autres langues"
+  - commun et jusqu'à cinq autres langues
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 202
+abilityScores_for: 11
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 20
+abilityScores_sag: 14
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_truesight: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. La liche peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

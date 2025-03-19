@@ -1,53 +1,49 @@
 ---
-title: "Linceul"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "0.125"
+title: Linceul
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '0.125'
 hitDiceCount: 2
-abilityScores:
-  for: 4
-  dex: 13
-  con: 10
-  int: 2
-  sag: 10
-  cha: 8
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "discretion"
-movement:
-  walk: 0
-  fly: 9
-  hover: true
-senses:
-  darkvision: 18
+  - name: discretion
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeVulnerabilities:
-  - "radiant"
+  - radiant
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "tonnerre"
-  - "c-p-t-non-argent"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - tonnerre
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "commun"
-source: "Livre des monstres"
+  - commun
+source: Livre des monstres
 source_page: 271
+abilityScores_for: 4
+abilityScores_dex: 13
+abilityScores_con: 10
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 0
+movement_fly: 9
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Informe**_. Le linceul peut traverser un espace étroit d'au minimum 2,5 cm de large sans se faufiler.

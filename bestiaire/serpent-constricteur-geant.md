@@ -1,33 +1,29 @@
 ---
-title: "Serpent constricteur géant"
-type: "Bête"
-size: "TG"
-alignment: "non-alignée"
-challenge: "2"
+title: Serpent constricteur géant
+type: Bête
+size: TG
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 19
-  dex: 14
-  con: 12
-  int: 1
-  sag: 10
-  cha: 3
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  blindsight: 3
-languages: 
-  - ""
+skills:
+  - name: perception
+languages:
+  - ''
 environments:
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 323
+abilityScores_for: 19
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 9
+movement_swim: 9
+senses_blindsight: 3
 ---
 ## Actions
 _**Comprimer**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une créature.  

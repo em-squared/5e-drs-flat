@@ -1,55 +1,51 @@
 ---
-title: "Totivillus"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "24"
+title: Totivillus
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '24'
 hitDiceCount: 26
-abilityScores:
-  for: 18
-  dex: 18
-  con: 24
-  int: 26
-  sag: 22
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "investigation"
-  - name: "perception"
-  - name: "religion"
-movement:
-  walk: 12
-  fly: 18
-senses:
-  truesight: 9
-  darkvision: 18
+  - name: arcanes
+  - name: histoire
+  - name: investigation
+  - name: perception
+  - name: religion
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "commun"
-  - "céleste"
-  - "draconique"
-  - "infernal"
-  - "langue du Vide"
+  - commun
+  - céleste
+  - draconique
+  - infernal
+  - langue du Vide
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 104
+abilityScores_for: 18
+abilityScores_dex: 18
+abilityScores_con: 24
+abilityScores_int: 26
+abilityScores_sag: 22
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+movement_fly: 18
+senses_truesight: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

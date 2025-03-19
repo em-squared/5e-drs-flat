@@ -1,48 +1,44 @@
 ---
-title: "Dragon du vent, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "1"
+title: 'Dragon du vent, dragonnet'
+type: Dragon
+size: M
+alignment: Chaotique Neutre
+challenge: '1'
 hitDiceCount: 7
-abilityScores:
-  for: 16
-  dex: 19
-  con: 14
-  int: 12
-  sag: 11
-  cha: 14
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  fly: 24
-senses: 
-  blindsight: 3
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "epuise"
-  - "paralyse"
-damageTypeImmunities: 
-  - "foudre"
-languages: 
-  - "draconique"
-  - "primordial"
+conditionImmunities:
+  - charme
+  - epuise
+  - paralyse
+damageTypeImmunities:
+  - foudre
+languages:
+  - draconique
+  - primordial
 environments:
   - Montagnes
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 137
+abilityScores_for: 16
+abilityScores_dex: 19
+abilityScores_con: 14
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 12
+movement_fly: 24
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 1,50 m, une cible.  

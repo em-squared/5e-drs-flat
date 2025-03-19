@@ -1,51 +1,47 @@
 ---
-title: "Kishi"
-type: "Fiélon"
-subtype: "Démon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "8"
+title: Kishi
+type: Fiélon
+subtype: Démon
+size: M
+alignment: Chaotique Mauvais
+challenge: '8'
 hitDiceCount: 14
-abilityScores:
-  for: 19
-  dex: 20
-  con: 19
-  int: 15
-  sag: 11
-  cha: 22
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - sag
 skills:
-  - name: "perception"
-  - name: "representation"
-  - name: "supercherie"
-movement:
-  walk: 15
-senses:
-  darkvision: 36
+  - name: perception
+  - name: representation
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "poison"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - poison
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "infernal"
+  - céleste
+  - commun
+  - draconique
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 79
+abilityScores_for: 19
+abilityScores_dex: 20
+abilityScores_con: 19
+abilityScores_int: 15
+abilityScores_sag: 11
+abilityScores_cha: 22
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 15
+senses_darkvision: 36
 ---
 ## Capacités
 _**Bicéphale**_. Ce démon est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de Perception et lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les états [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), [_étourdi_](/gerer-la-sante-du-personnage/#etourdi) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient) (s'il est assommé).

@@ -1,22 +1,20 @@
 ---
-title: "Mur de glace"
-description: "Crée un mur de glace qui inflige des dégâts de froid à ceux qui l'approchent."
-school: "Évocation"
+title: Mur de glace
+description: Crée un mur de glace qui inflige des dégâts de froid à ceux qui l'approchent.
+school: Évocation
 level: 6
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un éclat de quartz"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 36 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un éclat de quartz
 ---
 Vous créez un mur de glace sur une surface solide à portée. Vous pouvez lui donner une forme de dôme hémisphérique ou de sphère d'un rayon maximal de 3 mètres ou en faire une surface plane composée de dix panneaux de 3 mètres d'arête. Chaque panneau doit être contigu à un autre. Quelle que soit sa forme, le mur fait 30 centimètres d'épaisseur et persiste pendant toute la durée du sort. Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre et elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle échoue, elle subit 10d6 dégâts de froid, la moitié seulement si elle réussit.
 

@@ -1,23 +1,21 @@
 ---
-title: "Graisse"
-description: "Une zone de 3 mètres de côté devient extrêmement glissante."
-school: "Invocation"
+title: Graisse
+description: Une zone de 3 mètres de côté devient extrêmement glissante.
+school: Invocation
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "de la couenne de porc ou du beurre"
+casting_time: 1 action
+duration: 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: de la couenne de porc ou du beurre
 ---
 Une couche de graisse particulièrement glissante recouvre le sol dans une zone de 3 mètres de côté centrée sur un point situé à portée et le change en terrain difficile pour toute la durée du sort.
 

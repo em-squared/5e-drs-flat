@@ -1,25 +1,23 @@
 ---
-title: "Texte illusoire"
-description: "Le véritable texte écrit n'est lisible que par les personnes désignées."
-school: "Illusion"
+title: Texte illusoire
+description: Le véritable texte écrit n'est lisible que par les personnes désignées.
+school: Illusion
 level: 1
 concentration: false
-casting_time: "1 minute"
-duration: "10 jours"
-range: "contact"
-components:
-  verbal: false
-  somatic: true
-  material: true
-  materials: "de l'encre à base de plomb valant au minimum 10 po, que le sort consume"
+casting_time: 1 minute
+duration: 10 jours
+range: contact
 ritual: true
 classes:
-    - Barde
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: false
+components_somatic: true
+components_material: true
+components_materials: 'de l''encre à base de plomb valant au minimum 10 po, que le sort consume'
 ---
 Vous écrivez sur un papier, un parchemin ou un autre matériau adapté à l'écriture et l'imprégnez d'une puissante illusion qui persiste pendant toute la durée du sort.
 

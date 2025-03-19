@@ -1,65 +1,61 @@
 ---
-title: "Liosalfar"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre"
-challenge: "8"
+title: Liosalfar
+type: Élémentaire
+size: G
+alignment: Neutre
+challenge: '8'
 hitDiceCount: 20
-abilityScores:
-  for: 10
-  dex: 25
-  con: 10
-  int: 18
-  sag: 18
-  cha: 12
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: null
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  fly: 18
-  hover: true
-senses:
-  darkvision: 36
-  truesight: 18
+  - name: arcanes
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "a-terre"
-  - "aveugle"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - aveugle
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
-  - "radiant"
+  - poison
+  - psychique
+  - radiant
 languages:
-  - "commun"
-  - "céleste"
-  - "élémentaire"
-  - "elfique"
-  - "géant"
-source: "Livre des monstres"
+  - commun
+  - céleste
+  - élémentaire
+  - elfique
+  - géant
+source: Livre des monstres
 source_page: 273
+abilityScores_for: 10
+abilityScores_dex: 25
+abilityScores_con: 10
+abilityScores_int: 18
+abilityScores_sag: 18
+abilityScores_cha: 12
+ac_armorType: null
+movement_fly: 18
+movement_hover: true
+senses_darkvision: 36
+senses_truesight: 18
 ---
 ## Capacités
 _**Mentalité étrangère**_. La conscience exotique du liosalfar l'immunise contre les effets psychiques. Une créature qui tente de lire ses pensées est confuse pendant 1 round.

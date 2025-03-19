@@ -1,37 +1,34 @@
 ---
-title: "Satyre"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "0.5"
+title: Satyre
+type: Fée
+size: M
+alignment: Chaotique Neutre
+challenge: '0.5'
 hitDiceCount: 7
-abilityScores:
-  for: 12
-  dex: 16
-  con: 11
-  int: 12
-  sag: 10
-  cha: 14
-ac: 
-  armorType: "armure de cuir"
-skills: 
-  - name: "discretion"
-  - name: "perception"
-  - name: "representation"
+skills:
+  - name: discretion
+  - name: perception
+  - name: representation
     isExpert: true
-movement: 
-  walk: 12
-senses: 
-languages: 
-  - "commun"
-  - "elfe"
-  - "sylvestre"
+senses: null
+languages:
+  - commun
+  - elfe
+  - sylvestre
 environments:
   - Bois / Forêt
   - Collines / Vallées
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 255
+abilityScores_for: 12
+abilityScores_dex: 16
+abilityScores_con: 11
+abilityScores_int: 12
+abilityScores_sag: 10
+abilityScores_cha: 14
+ac_armorType: armure de cuir
+movement_walk: 12
 ---
 ## Capacités
 _**Résistance à la magie**_. Le satyre obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

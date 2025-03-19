@@ -1,43 +1,39 @@
 ---
-title: "Guenaude rouge"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "7"
+title: Guenaude rouge
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 14
-abilityScores:
-  for: 19
-  dex: 16
-  con: 18
-  int: 18
-  sag: 22
-  cha: 15
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "arcanes"
+  - name: arcanes
     invalid: true
     value: 9
-  - name: "perception"
-  - name: "perspicacite"
+  - name: perception
+  - name: perspicacite
     invalid: true
     value: 7
-  - name: "supercherie"
-movement:
-  walk: 9
-  swim: 9
-senses:
-  darkvision: 18
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
+  - charme
+  - empoisonne
 languages:
-  - "commun"
-  - "druidique"
-  - "géant"
-source: "Livre des monstres"
+  - commun
+  - druidique
+  - géant
+source: Livre des monstres
 source_page: 230
+abilityScores_for: 19
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 18
+abilityScores_sag: 22
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. La guenaude respire à l'air libre et sous l'eau.

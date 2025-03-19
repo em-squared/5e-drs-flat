@@ -1,33 +1,30 @@
 ---
-title: "Ychen bannog"
-type: "Bête"
-size: "Gig"
-alignment: "non-alignée"
-challenge: "11"
+title: Ychen bannog
+type: Bête
+size: Gig
+alignment: non-alignée
+challenge: '11'
 hitDiceCount: 14
-abilityScores:
-  for: 28
-  dex: 10
-  con: 23
-  int: 3
-  sag: 12
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 7
-movement:
-  walk: 15
-senses:
+senses: null
 conditionImmunities:
-  - "epuise"
+  - epuise
 damageTypeResistances:
-  - "contondant"
+  - contondant
 languages:
-  - "—"
+  - —
 environments:
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 413
+abilityScores_for: 28
+abilityScores_dex: 10
+abilityScores_con: 23
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 15
 ---
 ## Capacités
 _**Cornes affûtées**_. L'ychen bannog inflige trois fois les dés de dégâts lorsqu'il réussit un coup critique avec une attaque de _coup de corne_.

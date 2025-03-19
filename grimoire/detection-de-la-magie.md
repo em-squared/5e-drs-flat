@@ -1,28 +1,26 @@
 ---
-title: "Détection de la magie"
-description: "Le PJ perçoit la présence de magie dans un rayon de 9 mètres."
-school: "Divination"
+title: Détection de la magie
+description: Le PJ perçoit la présence de magie dans un rayon de 9 mètres.
+school: Divination
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: personnelle
 ritual: true
 classes:
-    - Barde
-    - Clerc
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Paladin
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Paladin
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Pendant toute la durée du sort, vous percevez la présence de magie dans un rayon de 9 mètres autour de vous. Si vous percevez ainsi la magie, vous pouvez utiliser votre action pour discerner une faible aura autour d'une créature ou d'un objet visible dans la zone et imprégné de magie. Vous découvrez aussi à quelle école appartient cette magie, le cas échéant.
 

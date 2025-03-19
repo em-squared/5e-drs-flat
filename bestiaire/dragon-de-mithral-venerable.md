@@ -1,55 +1,51 @@
 ---
-title: "Dragon de mithral, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Neutre"
-challenge: "18"
+title: 'Dragon de mithral, vénérable'
+type: Dragon
+size: Gig
+alignment: Neutre
+challenge: '18'
 hitDiceCount: 17
-abilityScores:
-  for: 29
-  dex: 16
-  con: 25
-  int: 24
-  sag: 25
-  cha: 24
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "histoire"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-movement:
-  walk: 12
-  fly: 24
-senses:
-  blindsight: 18
-  darkvision: 36
+  - name: athletisme
+  - name: histoire
+  - name: intimidation
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
 conditionImmunities:
-  - "charme"
+  - charme
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "tonnerre"
+  - acide
+  - tonnerre
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "primordial"
+  - céleste
+  - commun
+  - draconique
+  - primordial
 environments:
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 131
+abilityScores_for: 29
+abilityScores_dex: 16
+abilityScores_con: 25
+abilityScores_int: 24
+abilityScores_sag: 25
+abilityScores_cha: 24
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si le dragon rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

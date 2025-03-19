@@ -1,10 +1,10 @@
 ---
-title: "Cube de force"
-type: "Objet merveilleux"
+title: Cube de force
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Ce cube fait 2,5 centimètres d'arête. Chaque face est dotée d'une marque distinctive sur laquelle on peut appuyer. Le cube a 36 charges au départ et, chaque matin à l'aube, il récupère 1d20 charges dépensées.
 

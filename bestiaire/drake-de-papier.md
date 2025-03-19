@@ -1,34 +1,30 @@
 ---
-title: "Drake de papier"
-type: "Dragon"
-size: "P"
-alignment: "Neutre"
-challenge: "2"
+title: Drake de papier
+type: Dragon
+size: P
+alignment: Neutre
+challenge: '2'
 hitDiceCount: 12
-abilityScores:
-  for: 7
-  dex: 17
-  con: 16
-  int: 10
-  sag: 12
-  cha: 13
-ac: 
-  armorType: null
-movement: 
-  walk: 12
-  fly: 30
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "inconscient"
-  - "paralyse"
-languages: 
-  - "commun"
-  - "draconique"
-  - "elfique"
-  - "nain"
-source: "Livre des monstres"
+conditionImmunities:
+  - inconscient
+  - paralyse
+languages:
+  - commun
+  - draconique
+  - elfique
+  - nain
+source: Livre des monstres
 source_page: 151
+abilityScores_for: 7
+abilityScores_dex: 17
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 13
+ac_armorType: null
+movement_walk: 12
+movement_fly: 30
+senses_darkvision: 18
 ---
 ## Capacités
 _**Mettre en rayon**_. Un drake de papier est capable de se plier sur lui-même afin de prendre une petite forme, presque plate, parfaite pour se cacher dans les rayons d'une bibliothèque. Quelqu'un qui manipule le drake (il ne suffit pas de jeter un coup d'oeil dans sa direction) est en mesure de déterminer qu'il ne s'agit pas un livre s'il réussit un test d'Intelligence (Nature ou Investigation) DD 11. Sous cette forme, le drake peut se déplacer par petits bonds ou voler (maladroitement, en battant des pages) de 1,50 m par tour.

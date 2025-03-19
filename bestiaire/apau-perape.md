@@ -1,52 +1,48 @@
 ---
-title: "Apau perape"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "6"
+title: Apau perape
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '6'
 hitDiceCount: 10
-abilityScores:
-  for: 21
-  dex: 18
-  con: 19
-  int: 10
-  sag: 12
-  cha: 15
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - sag
 skills:
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: intimidation
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
-  - "terrorise"
+  - empoisonne
+  - terrorise
 damageTypeVulnerabilities:
-  - "froid"
+  - froid
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "poison"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - poison
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "infernal"
-  - "simien"
+  - infernal
+  - simien
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 76
+abilityScores_for: 21
+abilityScores_dex: 18
+abilityScores_con: 19
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 36
 ---
 ## Capacités
 ***Ichor infectieux***. Chaque fois qu'un apau perape subit des dégâts perforants ou tranchants, un jet de sang caustique s'échappe de la plaie en direction de l'attaquant. Ce jet forme une ligne de 3 mètres de long sur 1,50 mètre de large. La première créature qui se trouve sur le trajet de cette ligne doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15 contre les maladies ou se trouver infectée par la maladie de l'ichor de Mechuiti. La créature reste [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) jusqu'à ce que la maladie soit guérie. Toutes les 24 heures, la cible retente son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution et, sur un échec, son maximum de points de vie est réduit de 5 (2d4). Sur un succès, la maladie est guérie. La cible meurt si la maladie réduit son maximum de points de vie à 0. La réduction du maximum de points de vie d'une créature persiste jusqu'à ce que la maladie soit guérie.

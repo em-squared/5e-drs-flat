@@ -1,39 +1,35 @@
 ---
-title: "Gobelin"
-type: "Humanoïde"
-subtype: "gobelinoïde"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.25"
+title: Gobelin
+type: Humanoïde
+subtype: gobelinoïde
+size: P
+alignment: Neutre Mauvais
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 8
-  dex: 14
-  con: 10
-  int: 10
-  sag: 8
-  cha: 8
-ac: 
-  armorType: "armure de cuir"
-  hasShield: true
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "commun"
-  - "gobelin"
+languages:
+  - commun
+  - gobelin
 environments:
   - Bois / Forêt
   - Collines / Vallées
   - Jungle
 dungeonTypes:
   - Caverne aménagée
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 164
+abilityScores_for: 8
+abilityScores_dex: 14
+abilityScores_con: 10
+abilityScores_int: 10
+abilityScores_sag: 8
+abilityScores_cha: 8
+ac_armorType: armure de cuir
+ac_hasShield: true
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Fuite agile**_. Le gobelin peut effectuer l'action [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher) par une action bonus à chacun de ses tours.

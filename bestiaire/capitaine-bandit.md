@@ -1,34 +1,31 @@
 ---
-title: "Capitaine bandit"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement autre que Loyal"
-challenge: "2"
+title: Capitaine bandit
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement autre que Loyal
+challenge: '2'
 hitDiceCount: 10
-abilityScores:
-  for: 15
-  dex: 16
-  con: 14
-  int: 14
-  sag: 11
-  cha: 14
-savingThrows: 
-  - "for"
-  - "dex"
-  - "sag"
-ac: 
-  armorType: "armure de cuir clouté"
-skills: 
-  - name: "athletisme"
-  - name: "supercherie"
-movement: 
-  walk: 9
-senses: 
-languages: 
-  - "deux langues au choix"
-source: "Créatures & Oppositions"
+savingThrows:
+  - for
+  - dex
+  - sag
+skills:
+  - name: athletisme
+  - name: supercherie
+senses: null
+languages:
+  - deux langues au choix
+source: Créatures & Oppositions
 source_page: 331
+abilityScores_for: 15
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 11
+abilityScores_cha: 14
+ac_armorType: armure de cuir clouté
+movement_walk: 9
 ---
 ## Actions
 _**Attaques multiples**_. Le capitaine effectue trois attaques au corps à corps : deux avec son cimeterre et une avec sa dague, ou il effectue deux attaques à distance avec ses dagues.

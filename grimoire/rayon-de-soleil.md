@@ -1,24 +1,24 @@
 ---
-title: "Rayon de soleil"
-description: "Le PJ lance des rayons de lumière qui infligent 6d8 dégâts et <em>aveuglent</em>."
-school: "Évocation"
+title: Rayon de soleil
+description: >-
+  Le PJ lance des rayons de lumière qui infligent 6d8 dégâts et
+  <em>aveuglent</em>.
+school: Évocation
 level: 6
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle (ligne de 18 mètres)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une loupe"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle (ligne de 18 mètres)
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une loupe
 ---
 Un rayon de vive lumière jaillit de votre main sur une ligne de 18 mètres de long pour 1,50 mètre de large. Chaque créature située sur cette ligne doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 6d8 dégâts radiants et sont [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) jusqu'à la fin de votre prochain tour. Les autres subissent seulement la moitié des dégâts et ne sont pas [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle). Les vases et les morts-vivants sont affectés par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 

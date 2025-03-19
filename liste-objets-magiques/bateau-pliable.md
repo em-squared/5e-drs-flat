@@ -1,10 +1,10 @@
 ---
-title: "Bateau pliable"
-type: "Objet merveilleux"
+title: Bateau pliable
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cet objet ressemble à une boîte en bois de 30 centimètres de long pour 15 de large et 15 de profondeur. Il pèse 2 kilos et flotte. On peut l'ouvrir pour stocker des objets à l'intérieur. Il répond à trois mots de commande, chacun nécessitant une action.
 

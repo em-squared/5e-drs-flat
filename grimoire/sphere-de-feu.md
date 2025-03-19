@@ -1,23 +1,21 @@
 ---
-title: "Sphère de feu"
-description: "Invoque un globe de feu qui inflige 2d6 dégâts à ceux qui s'en approchent."
-school: "Invocation"
+title: Sphère de feu
+description: Invoque un globe de feu qui inflige 2d6 dégâts à ceux qui s'en approchent.
+school: Invocation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un bout de suif, une pincée de soufre et un peu de poudre de fer"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'un bout de suif, une pincée de soufre et un peu de poudre de fer'
 ---
 Une sphère de feu de 1,50 mètre de diamètre apparaît dans un espace inoccupé de votre choix situé à portée et subsiste pendant toute la durée du sort. Chaque créature qui termine son tour dans un rayon de 1,50 mètre autour de la sphère doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 2d6 dégâts de feu, les autres la moitié seulement.
 

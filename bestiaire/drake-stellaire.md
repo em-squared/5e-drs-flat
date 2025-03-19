@@ -1,59 +1,55 @@
 ---
-title: "Drake stellaire"
-type: "Dragon"
-size: "G"
-alignment: "Neutre"
-challenge: "15"
+title: Drake stellaire
+type: Dragon
+size: G
+alignment: Neutre
+challenge: '15'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 17
-  con: 21
-  int: 16
-  sag: 24
-  cha: 20
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "religion"
-movement:
-  walk: 12
-  fly: 30
-senses:
-  truesight: 36
+  - name: arcanes
+  - name: histoire
+  - name: perception
+  - name: perspicacite
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "inconscient"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - inconscient
+  - paralyse
+  - terrorise
 damageTypeImmunities:
-  - "feu"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - froid
+  - c-p-t-non-magique
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "elfique"
-  - "infernal"
-  - "nain"
-  - "primordial"
+  - céleste
+  - commun
+  - draconique
+  - elfique
+  - infernal
+  - nain
+  - primordial
 environments:
   - Collines / Vallées
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 157
+abilityScores_for: 20
+abilityScores_dex: 17
+abilityScores_con: 21
+abilityScores_int: 16
+abilityScores_sag: 24
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_fly: 30
+senses_truesight: 36
 ---
 ## Capacités
 _**Résistance légendaire (2/jour)**_. Si le drake stellaire rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

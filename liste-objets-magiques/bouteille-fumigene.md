@@ -1,10 +1,10 @@
 ---
-title: "Bouteille fumigène"
-type: "Objet merveilleux"
+title: Bouteille fumigène
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 De la fumée s'échappe du goulot de cette bouteille pourtant scellée au plomb et pesant 0,5 kilo. Quand vous utilisez une action pour la déboucher, un épais nuage de fumée se déverse dans un rayon de 18 mètres autour de la bouteille. La visibilité est nulle dans le nuage. À chaque fois que la bouteille passe une minute ouverte au sein du nuage, le rayon de ce dernier augmente de 3 mètres, jusqu'à ce qu'il atteigne son rayon maximum, à savoir 36 mètres.
 

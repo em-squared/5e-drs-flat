@@ -1,43 +1,39 @@
 ---
-title: "Élémentaire du feu"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre"
-challenge: "5"
+title: Élémentaire du feu
+type: Élémentaire
+size: G
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 10
-  dex: 17
-  con: 16
-  int: 6
-  sag: 10
-  cha: 7
-ac: 
-  armorType: null
-movement: 
-  walk: 15
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
-damageTypeImmunities: 
-  - "feu"
-  - "poison"
-languages: 
-  - "ignée"
+conditionImmunities:
+  - a-terre
+  - empoigne
+  - empoisonne
+  - entrave
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
+damageTypeResistances:
+  - c-p-t-non-magique
+damageTypeImmunities:
+  - feu
+  - poison
+languages:
+  - ignée
 environments:
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 136
+abilityScores_for: 10
+abilityScores_dex: 17
+abilityScores_con: 16
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 7
+ac_armorType: null
+movement_walk: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Corps de feu**_. L'élémentaire peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler. Une créature qui touche l'élémentaire ou réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 5 (1d10) dégâts de feu. De plus, l'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. La première fois qu'il entre dans un emplacement occupé par une créature lors d'un tour, celle-ci subit 5 (1d10) dégâts de feu et prend feu. Elle subit 5 (1d10) dégâts de feu au début de chacun de ses tours, à moins que quelqu'un ne consacre une action à éteindre le feu.

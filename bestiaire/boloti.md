@@ -1,35 +1,31 @@
 ---
-title: "Boloti"
-type: "Fée"
-size: "TP"
-alignment: "Neutre Mauvais"
-challenge: "1"
+title: Boloti
+type: Fée
+size: TP
+alignment: Neutre Mauvais
+challenge: '1'
 hitDiceCount: 14
-abilityScores:
-  for: 12
-  dex: 20
-  con: 14
-  int: 13
-  sag: 12
-  cha: 11
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 6
-  swim: 18
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 languages:
-  - "commun"
-  - "primordial"
-  - "sylvestre"
+  - commun
+  - primordial
+  - sylvestre
 environments:
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 43
+abilityScores_for: 12
+abilityScores_dex: 20
+abilityScores_con: 14
+abilityScores_int: 13
+abilityScores_sag: 12
+abilityScores_cha: 11
+ac_armorType: null
+movement_walk: 6
+movement_swim: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Un boloti peut respirer à l'air libre et sous l'eau.

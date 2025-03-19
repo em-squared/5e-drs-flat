@@ -1,10 +1,10 @@
 ---
-title: "Miroir d'emprisonnement"
-type: "Objet merveilleux"
+title: Miroir d'emprisonnement
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
+rarity: Très rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Quand on regarde indirectement ce miroir de 1,20 mètre de haut, on y aperçoit vaguement les reflets de plusieurs créatures. Il pèse 25 kilos pour une CA de 11, a 10 points de vie et il est vulnérable aux dégâts contondants. Il vole en éclats et il est détruit s'il tombe à 0 point de vie.
 

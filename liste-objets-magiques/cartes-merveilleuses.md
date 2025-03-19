@@ -1,10 +1,10 @@
 ---
-title: "Cartes merveilleuses"
-type: "Objet merveilleux"
+title: Cartes merveilleuses
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
+rarity: Légendaire
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce jeu de cartes, en ivoire ou sur vélin, se trouve généralement dans une boîte ou une bourse. La plupart des jeux (75 %) n'ont que treize cartes, mais les autres en ont vingt-deux.
 

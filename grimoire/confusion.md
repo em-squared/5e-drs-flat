@@ -1,26 +1,24 @@
 ---
-title: "Confusion"
-description: "Les cibles agissent de manière aléatoire."
-school: "Enchantement"
+title: Confusion
+description: Les cibles agissent de manière aléatoire.
+school: Enchantement
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "trois coquilles de noix"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 27 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: trois coquilles de noix
 ---
 Ce sort assaille et pervertit l'esprit des créatures, génère des hallucinations et provoque des réactions incontrôlées. Toutes les créatures situées dans une sphère de 3 mètres de rayon autour d'un point de votre choix situé à portée doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être affectées par ce sort.
 

@@ -1,32 +1,28 @@
 ---
-title: "Maraudeur des forêts"
-type: "Géant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: Maraudeur des forêts
+type: Géant
+size: G
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 12
-abilityScores:
-  for: 21
-  dex: 10
-  con: 18
-  int: 6
-  sag: 10
-  cha: 7
-savingThrows: 
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 5
-movement: 
-  walk: 12
-senses: 
-  darkvision: 36
-languages: 
-  - "géant"
-  - "orc"
-  - "sylvestre"
-source: "Livre des monstres"
+savingThrows:
+  - con
+languages:
+  - géant
+  - orc
+  - sylvestre
+source: Livre des monstres
 source_page: 286
+abilityScores_for: 21
+abilityScores_dex: 10
+abilityScores_con: 18
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Sensibilité à la lumière du soleil**_. S'il est exposé à la lumière du soleil, un maraudeur des forêts est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue.

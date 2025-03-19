@@ -1,50 +1,46 @@
 ---
-title: "Rübezahl"
-type: "Fiélon"
-subtype: "Démon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "10"
+title: Rübezahl
+type: Fiélon
+subtype: Démon
+size: M
+alignment: Chaotique Mauvais
+challenge: '10'
 hitDiceCount: 17
-abilityScores:
-  for: 20
-  dex: 15
-  con: 14
-  int: 11
-  sag: 12
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - sag
 skills:
-  - name: "perception"
-  - name: "supercherie"
-  - name: "survie"
-movement:
-  walk: 15
-senses:
-  blindsight: 3
-  darkvision: 36
+  - name: perception
+  - name: supercherie
+  - name: survie
 conditionImmunities:
-  - "empoisonne"
-  - "etourdi"
+  - empoisonne
+  - etourdi
 damageTypeResistances:
-  - "feu"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "foudre"
-  - "poison"
-  - "tonnerre"
+  - foudre
+  - poison
+  - tonnerre
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 82
+abilityScores_for: 20
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 11
+abilityScores_sag: 12
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 15
+senses_blindsight: 3
+senses_darkvision: 36
 ---
 ## Capacités
 _**Compulsion de dénombrement**_. Si, par une action, une créature indique un groupe d'objets donnés à un rübezahl, le démon est forcé de dénombrer l'ensemble des objets de ce groupe. Jusqu'à la fin de son prochain tour, le rübezahl est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaques et de ses tests de caractéristiques et il ne peut pas faire de réaction. Une fois qu'il a compté un groupe d'objets donnés, il est impossible de le contraindre à compter ces objets de nouveau.

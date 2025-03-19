@@ -1,22 +1,20 @@
 ---
-title: "Danse irrésistible"
-description: "La cible danse sans cesse et subit un <em>désavantage</em>."
-school: "Enchantement"
+title: Danse irrésistible
+description: La cible danse sans cesse et subit un <em>désavantage</em>.
+school: Enchantement
 level: 6
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
 ---
 Choisissez une créature située à portée et dans votre champ de vision. La cible entame une danse comique, se mettant à taper du pied et à caracoler sur place. Les créatures qui ne peuvent être [_charmées_](/gerer-la-sante-du-personnage/#charme) sont immunisées contre ce sort.
 

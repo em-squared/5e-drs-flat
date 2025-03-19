@@ -1,47 +1,43 @@
 ---
-title: "Angatra"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Angatra
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 10
-abilityScores:
-  for: 14
-  dex: 20
-  con: 18
-  int: 8
-  sag: 12
-  cha: 15
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 15
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "necrotique"
-  - "p-t-non-magique"
+  - contondant
+  - necrotique
+  - p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "toutes les langues qu'il connaissait de son vivant"
+  - toutes les langues qu'il connaissait de son vivant
 environments:
   - Jungle
   - Mangrove / Marécage
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 18
+abilityScores_for: 14
+abilityScores_dex: 20
+abilityScores_con: 18
+abilityScores_int: 8
+abilityScores_sag: 12
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Regard d'agonie**_. Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9 mètres de celui-ci et que l'angatra n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et peut voir la créature, alors celle-ci doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) en détournant les yeux au début de son tour. Une créature qui détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).

@@ -1,48 +1,44 @@
 ---
-title: "Vent putrefacteur"
-type: "Mort-vivant"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Vent putrefacteur
+type: Mort-vivant
+size: G
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 11
-abilityScores:
-  for: 14
-  dex: 20
-  con: 15
-  int: 7
-  sag: 12
-  cha: 10
-ac:
-  armorType: null
-movement:
-  walk: 0
-  fly: 18
-  hover: true
-senses:
-  customBlindSight: "18 m (aveugle au-delà de cette distance)"
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "—"
+  - —
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 398
+abilityScores_for: 14
+abilityScores_dex: 20
+abilityScores_con: 15
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 0
+movement_fly: 18
+movement_hover: true
+senses_customBlindSight: 18 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Forme aérienne**_. Le vent putréfacteur peut entrer dans l'emplacement d'une créature hostile et s'y arrêter. Il peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.

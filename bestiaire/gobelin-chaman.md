@@ -1,42 +1,38 @@
 ---
-title: "Gobelin, chaman"
-type: "Humanoïde"
-subtype: "gobelinoïde"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "1"
+title: 'Gobelin, chaman'
+type: Humanoïde
+subtype: gobelinoïde
+size: P
+alignment: Neutre Mauvais
+challenge: '1'
 hitDiceCount: 6
-abilityScores:
-  for: 10
-  dex: 14
-  con: 12
-  int: 11
-  sag: 14
-  cha: 10
-ac:
-  armorType: "armure de cuir"
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 8
-  - name: "religion"
+  - name: religion
     invalid: true
     value: 5
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 languages:
-  - "commun"
-  - "gobelin"
+  - commun
+  - gobelin
 environments:
   - Bois / Forêt
   - Collines / Vallées
   - Jungle
 dungeonTypes:
   - Caverne aménagée
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 164
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 11
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: armure de cuir
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Fuite agile**_. Le gobelin peut effectuer l'action [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher) par une action bonus à chacun de ses tours.

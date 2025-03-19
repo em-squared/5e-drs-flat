@@ -1,33 +1,30 @@
 ---
-title: "Mage"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "6"
+title: Mage
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement
+challenge: '6'
 hitDiceCount: 9
-abilityScores:
-  for: 9
-  dex: 14
-  con: 11
-  int: 17
-  sag: 12
-  cha: 11
 savingThrows:
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure du mage"
+  - int
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-movement:
-  walk: 9
-senses:
+  - name: arcanes
+  - name: histoire
+senses: null
 languages:
-  - "quatre langues au choix"
-source: "Créatures & Oppositions"
+  - quatre langues au choix
+source: Créatures & Oppositions
 source_page: 336
+abilityScores_for: 9
+abilityScores_dex: 14
+abilityScores_con: 11
+abilityScores_int: 17
+abilityScores_sag: 12
+abilityScores_cha: 11
+ac_armorType: armure du mage
+movement_walk: 9
 ---
 ## Capacités
 _**Incantation**_. Le mage est un lanceur de sorts de niveau 9. Sa caractéristique d'incantation est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Le mage dispose des sorts de magicien préparés suivants :

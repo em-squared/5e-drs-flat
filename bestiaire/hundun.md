@@ -1,53 +1,49 @@
 ---
-title: "Hundun"
-type: "Céleste"
-size: "G"
-alignment: "Chaotique Bon"
-challenge: "10"
+title: Hundun
+type: Céleste
+size: G
+alignment: Chaotique Bon
+challenge: '10'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 14
-  con: 16
-  int: 4
-  sag: 20
-  cha: 18
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - con
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 12
-  fly: 12
-senses:
-  blindsight: 18
+  - name: athletisme
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "etourdi"
-  - "inconscient"
-  - "terrorise"
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - etourdi
+  - inconscient
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - foudre
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "psychique"
+  - acide
+  - psychique
 languages:
-  - "comprend le céleste et le primordial"
-  - "mais ne peut pas parler de façon intelligible"
-source: "Livre des monstres"
+  - comprend le céleste et le primordial
+  - mais ne peut pas parler de façon intelligible
+source: Livre des monstres
 source_page: 247
+abilityScores_for: 20
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 4
+abilityScores_sag: 20
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_fly: 12
+senses_blindsight: 18
 ---
 ## Capacités
 _**Sans cerveau**_. Les hunduns sont immunisés contre les sorts et effets autorisant un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence, Sagesse ou Charisme. Un lanceur de sorts qui tente d'entrer en contact avec l'esprit d'un hundun ou de le déchiffrer est _confus_ pendant 1 round, comme avec [_confusion_](/grimoire/confusion/).

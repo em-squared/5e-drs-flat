@@ -1,37 +1,33 @@
 ---
-title: "Rakshasa"
-type: "Fiélon"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "13"
+title: Rakshasa
+type: Fiélon
+size: M
+alignment: Loyal Mauvais
+challenge: '13'
 hitDiceCount: 13
-abilityScores:
-  for: 14
-  dex: 17
-  con: 18
-  int: 13
-  sag: 16
-  cha: 20
-ac:
-  armorType: "armure naturelle"
-  value: 3
 skills:
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - name: perspicacite
+  - name: supercherie
 damageTypeVulnerabilities:
-  - "perforant"
-customDamageTypeVulnerabilities: "perforants infligés par des armes magiques maniées par des créatures Bonnes"
+  - perforant
+customDamageTypeVulnerabilities: perforants infligés par des armes magiques maniées par des créatures Bonnes
 damageTypeImmunities:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "infernal"
-source: "Créatures & Oppositions"
+  - commun
+  - infernal
+source: Créatures & Oppositions
 source_page: 248
+abilityScores_for: 14
+abilityScores_dex: 17
+abilityScores_con: 18
+abilityScores_int: 13
+abilityScores_sag: 16
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Immunité limitée à la magie**_. Le rakshasa ne peut pas être affecté ou détecté par des sorts de niveau 6 ou moins, à moins qu'il ne le souhaite. Il obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre tous les autres sorts et effets magiques.

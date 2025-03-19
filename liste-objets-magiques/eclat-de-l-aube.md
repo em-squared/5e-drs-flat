@@ -1,10 +1,10 @@
 ---
-title: "Éclat de l'aube"
-type: "Arme"
-subtype: "N'importe quelle épée ou dague"
-rarity: "Peu courant"
-attunement: "harmonisation requise"
-source: "Warlock Grimoire - Kobold Press"
+title: Éclat de l'aube
+type: Arme
+subtype: N'importe quelle épée ou dague
+rarity: Peu courant
+attunement: harmonisation requise
+source: Warlock Grimoire - Kobold Press
 ---
 La lame de cette arme magique brille d'un léger éclat doré, et le pommeau est gravé d'un rayon de soleil. Vous pouvez commander à l'arme de diffuser une lumière faible jusqu'à 1,5&nbsp;m, une lumière vive jusqu'à 6&nbsp;m et une lumière faible sur 6&nbsp;m supplémentaires, ou d'atténuer la lumière.
 

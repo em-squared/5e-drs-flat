@@ -1,44 +1,40 @@
 ---
-title: "Planétar"
-type: "Céleste"
-subtype: "Ange"
-size: "G"
-alignment: "Loyal Bon"
-challenge: "16"
+title: Planétar
+type: Céleste
+subtype: Ange
+size: G
+alignment: Loyal Bon
+challenge: '16'
 hitDiceCount: 16
-abilityScores:
-  for: 24
-  dex: 20
-  con: 24
-  int: 19
-  sag: 22
-  cha: 25
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - con
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-  fly: 36
-senses:
-  truesight: 36
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "terrorise"
-  - "epuise"
+  - charme
+  - terrorise
+  - epuise
 damageTypeResistances:
-  - "radiant"
-  - "c-p-t-non-magique"
+  - radiant
+  - c-p-t-non-magique
 languages:
-  - "toutes"
+  - toutes
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 28
+abilityScores_for: 24
+abilityScores_dex: 20
+abilityScores_con: 24
+abilityScores_int: 19
+abilityScores_sag: 22
+abilityScores_cha: 25
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+movement_fly: 36
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes angéliques**_. Les attaques d'arme du planétar sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 5d8 dégâts radiants supplémentaires (inclus dans l'attaque).

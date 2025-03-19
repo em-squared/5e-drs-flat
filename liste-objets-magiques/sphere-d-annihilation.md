@@ -1,10 +1,10 @@
 ---
-title: "Sphère d'annihilation"
-type: "Objet merveilleux"
+title: Sphère d'annihilation
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
+rarity: Légendaire
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette sphère noire de 60 centimètres de diamètre est un trou dans le multivers, en lévitation dans l'espace et stabilisé grâce au champ magique qui l'enveloppe.
 

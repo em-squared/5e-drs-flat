@@ -1,49 +1,45 @@
 ---
-title: "Roi des rats"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "5"
+title: Roi des rats
+type: Créature monstrueuse
+size: M
+alignment: Chaotique Mauvais
+challenge: '5'
 hitDiceCount: 9
-abilityScores:
-  for: 6
-  dex: 16
-  con: 18
-  int: 11
-  sag: 15
-  cha: 16
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "discretion"
-movement:
-  walk: 9
-  burrow: 6
-senses:
-  darkvision: 18
+  - name: discretion
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "argot des voleurs"
+  - commun
+  - argot des voleurs
 dungeonTypes:
   - Caverne aménagée
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 352
+abilityScores_for: 6
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 11
+abilityScores_sag: 15
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_burrow: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Odorat aiguisé**_. Le roi des rats est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'odorat.

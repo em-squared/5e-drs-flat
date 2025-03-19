@@ -1,46 +1,42 @@
 ---
-title: "Diable osseux"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "9"
+title: Diable osseux
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '9'
 hitDiceCount: 15
-abilityScores:
-  for: 18
-  dex: 16
-  con: 18
-  int: 13
-  sag: 14
-  cha: 16
 savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 12
-  fly: 12
-senses:
-  darkvision: 36
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "infernal"
+  - infernal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 68
+abilityScores_for: 18
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 13
+abilityScores_sag: 14
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_fly: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

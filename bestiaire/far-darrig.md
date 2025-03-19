@@ -1,44 +1,40 @@
 ---
-title: "Far darrig"
-type: "Fée"
-size: "P"
-alignment: "Neutre"
-challenge: "3"
+title: Far darrig
+type: Fée
+size: P
+alignment: Neutre
+challenge: '3'
 hitDiceCount: 16
-abilityScores:
-  for: 15
-  dex: 16
-  con: 17
-  int: 11
-  sag: 15
-  cha: 17
-customSavingThrows: "Dex +5, Con +7, Cha +7"
-ac:
-  armorType: "armure de peau"
+customSavingThrows: 'Dex +5, Con +7, Cha +7'
 skills:
-  - name: "dressage"
+  - name: dressage
     isExpert: true
-  - name: "medecine"
+  - name: medecine
     isExpert: true
-  - name: "nature"
+  - name: nature
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "survie"
+  - name: survie
     isExpert: true
-movement:
-  walk: 6
-senses:
-  darkvision: 18
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
+  - commun
+  - elfique
+  - sylvestre
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 177
+abilityScores_for: 15
+abilityScores_dex: 16
+abilityScores_con: 17
+abilityScores_int: 11
+abilityScores_sag: 15
+abilityScores_cha: 17
+ac_armorType: armure de peau
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un far darrig est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13, +5 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

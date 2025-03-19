@@ -1,22 +1,20 @@
 ---
-title: "Fabrication"
-description: "Le PJ fabrique un produit fini à partir de matières premières."
-school: "Transmutation"
+title: Fabrication
+description: Le PJ fabrique un produit fini à partir de matières premières.
+school: Transmutation
 level: 4
 concentration: false
-casting_time: "10 minutes"
-duration: "instantanée"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 10 minutes
+duration: instantanée
+range: 36 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous convertissez des matériaux bruts en produits finis faits de la même matière. Par exemple, vous pouvez fabriquer un pont de bois à partir de souches d'arbres, une corde à base d'un tas de chanvre, et des habits à partir de lin ou de laine.
 

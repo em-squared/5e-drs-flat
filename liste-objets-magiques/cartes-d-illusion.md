@@ -1,10 +1,10 @@
 ---
-title: "Cartes d'illusion"
-type: "Objet merveilleux"
+title: Cartes d'illusion
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette boîte contient un jeu de cartes faites de parchemin. Le jeu complet compte 34 cartes mais, quand on trouve un jeu, il lui manque souvent 1d20 - 1 cartes.
 

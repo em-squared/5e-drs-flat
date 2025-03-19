@@ -1,22 +1,20 @@
 ---
-title: "Insecte géant"
-description: "Transforme des insectes en leur version géante qui obéissent au PJ."
-school: "Transmutation"
+title: Insecte géant
+description: Transforme des insectes en leur version géante qui obéissent au PJ.
+school: Transmutation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 9 mètres
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous transformez un maximum de dix mille-pattes, trois araignées, cinq guêpes ou un scorpion situés à portée en version géante de leur forme naturelle pendant toute la durée du sort. Un mille-pattes devient donc un mille-pattes géant, une araignée une araignée géante, une guêpe une guêpe géante et un scorpion un scorpion géant.
 

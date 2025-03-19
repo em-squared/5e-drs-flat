@@ -1,35 +1,31 @@
 ---
-title: "Hobgobelin, sergent"
-type: "Humanoïde"
-subtype: "gobelinoïde"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "2"
+title: 'Hobgobelin, sergent'
+type: Humanoïde
+subtype: gobelinoïde
+size: M
+alignment: Loyal Mauvais
+challenge: '2'
 hitDiceCount: 5
-customHP: "29 (5d8+7)"
-abilityScores:
-  for: 13
-  dex: 12
-  con: 12
-  int: 11
-  sag: 10
-  cha: 11
-ac:
-  armorType: "cotte de mailles"
-  hasShield: true
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+customHP: 29 (5d8+7)
 languages:
-  - "commun"
-  - "gobelin"
+  - commun
+  - gobelin
 environments:
   - Plaine / Champs / Prairie / Savane
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 188
+abilityScores_for: 13
+abilityScores_dex: 12
+abilityScores_con: 12
+abilityScores_int: 11
+abilityScores_sag: 10
+abilityScores_cha: 11
+ac_armorType: cotte de mailles
+ac_hasShield: true
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Avantage martial**_. Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).

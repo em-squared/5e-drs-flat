@@ -1,51 +1,47 @@
 ---
-title: "Roi des Rivières"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Bon"
-challenge: "16"
+title: Roi des Rivières
+type: Fée
+size: M
+alignment: Chaotique Bon
+challenge: '16'
 hitDiceCount: 16
-abilityScores:
-  for: 21
-  dex: 17
-  con: 20
-  int: 14
-  sag: 13
-  cha: 17
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
+  - sag
 skills:
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "nature"
-  - name: "perception"
-movement:
-  walk: 9
-  swim: 12
-senses:
-  blindsight: 3
-  darkvision: 18
+  - name: discretion
+  - name: intimidation
+  - name: nature
+  - name: perception
 conditionImmunities:
-  - "epuise"
+  - epuise
 damageTypeResistances:
-  - "feu"
-  - "froid"
-  - "tonnerre"
-  - "c-p-t-non-fer-froid"
+  - feu
+  - froid
+  - tonnerre
+  - c-p-t-non-fer-froid
 damageTypeImmunities:
-  - "foudre"
+  - foudre
 languages:
-  - "commun"
-  - "élémentaire"
-  - "elfique"
-  - "géant"
-source: "Livre des monstres"
+  - commun
+  - élémentaire
+  - elfique
+  - géant
+source: Livre des monstres
 source_page: 192
+abilityScores_for: 21
+abilityScores_dex: 17
+abilityScores_con: 20
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_swim: 12
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le Roi des Rivières peut respirer à l'air libre et sous l'eau.

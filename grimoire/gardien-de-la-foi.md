@@ -1,22 +1,20 @@
 ---
-title: "Gardien de la foi"
-description: "Crée un gardien spectral qui attaque quiconque passe à proximité."
-school: "Invocation"
+title: Gardien de la foi
+description: Crée un gardien spectral qui attaque quiconque passe à proximité.
+school: Invocation
 level: 4
 concentration: false
-casting_time: "1 action"
-duration: "8 heures"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 8 heures
+range: 9 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Un gardien spectral de taille G apparaît et flotte dans un emplacement inoccupé de votre choix situé dans votre champ de vision et à portée. Il occupe alors cet emplacement, mais sa silhouette reste indistincte, à l'exception de son arme luisante et de son bouclier frappé du symbole de votre divinité.
 

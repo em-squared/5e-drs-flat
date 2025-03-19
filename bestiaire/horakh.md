@@ -1,41 +1,37 @@
 ---
-title: "Horakh"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Neutre"
-challenge: "9"
+title: Horakh
+type: Créature monstrueuse
+size: M
+alignment: Neutre
+challenge: '9'
 hitDiceCount: 19
-abilityScores:
-  for: 18
-  dex: 19
-  con: 19
-  int: 8
-  sag: 15
-  cha: 10
-savingThrows: 
-  - "dex"
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 12
-  climb: 9
-senses: 
-  darkvision: 18
-  tremorsense: 9
-languages: 
-  - "comprend le commun des profondeurs"
+savingThrows:
+  - dex
+skills:
+  - name: athletisme
+  - name: discretion
+  - name: perception
+languages:
+  - comprend le commun des profondeurs
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
 dungeonTypes:
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 246
+abilityScores_for: 18
+abilityScores_dex: 19
+abilityScores_con: 19
+abilityScores_int: 8
+abilityScores_sag: 15
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+movement_climb: 9
+senses_darkvision: 18
+senses_tremorsense: 9
 ---
 ## Capacités
 _**Discrétion dans les ombres**_. Un horakh peut se cacher par une action bonus s'il se trouve dans une faible lumière ou dans les ténèbres.

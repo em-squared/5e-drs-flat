@@ -1,47 +1,43 @@
 ---
-title: "Anubien"
-type: "Élémentaire"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: Anubien
+type: Élémentaire
+size: M
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 12
-  dex: 16
-  con: 12
-  int: 10
-  sag: 12
-  cha: 10
-ac:
-  armorType: null
 skills:
-  - name: "custom"
-    value: "Discrétion +5 (+7 dans un terrain sablonneux)"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
-  tremorsense: 9
+  - name: custom
+    value: Discrétion +5 (+7 dans un terrain sablonneux)
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "primordial"
+  - primordial
 environments:
   - Désert chaud
   - Plans élémentaires
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 21
+abilityScores_for: 12
+abilityScores_dex: 16
+abilityScores_con: 12
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
+senses_tremorsense: 9
 ---
 ## Capacités
 _**Marche du sable**_. Au lieu de bouger, la forme humanoïde d'un anubien peut se fragmenter en un tas de sable et se reformer à un autre emplacement inoccupé dans un rayon de 3 mètres. Ce déplacement ne provoque pas d'attaque d'opportunité. Après avoir utilisé ce trait dans un terrain sablonneux, l'anubien peut se cacher dans le cadre de son déplacement, même s'il est en train d'être observé. Les anubiens peuvent utiliser leur marche du sable pour passer sous des portes ou traverser des obstacles similaires, pour peu que ceux-ci soient percés d'une ouverture assez large pour permettre le passage de sable.

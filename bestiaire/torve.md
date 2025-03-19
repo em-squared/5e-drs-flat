@@ -1,39 +1,35 @@
 ---
-title: "Torve"
-type: "Humanoïde"
-subtype: "torve"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "0.25"
+title: Torve
+type: Humanoïde
+subtype: torve
+size: M
+alignment: Neutre Mauvais
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 16
-  dex: 12
-  con: 12
-  int: 9
-  sag: 8
-  cha: 6
-ac:
-  armorType: null
 skills:
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "perception"
+  - name: athletisme
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-senses:
-  blindsight: 9
-  customBlindSight: "9 m ou 3 m s'il est assourdi (aveugle au-delà de cette distance)"
-  customPassivePerception: 12
 conditionImmunities:
-  - "aveugle"
+  - aveugle
 languages:
-  - "commun des profondeurs"
+  - commun des profondeurs
 dungeonTypes:
   - Caverne aménagée
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 275
+abilityScores_for: 16
+abilityScores_dex: 12
+abilityScores_con: 12
+abilityScores_int: 9
+abilityScores_sag: 8
+abilityScores_cha: 6
+ac_armorType: null
+movement_walk: 9
+senses_blindsight: 9
+senses_customBlindSight: 9 m ou 3 m s'il est assourdi (aveugle au-delà de cette distance)
+senses_customPassivePerception: 12
 ---
 ## Capacités
 _**Camouflage dans la rocaille**_. Le torve obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux.

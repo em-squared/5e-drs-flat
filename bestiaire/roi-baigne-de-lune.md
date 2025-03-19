@@ -1,53 +1,49 @@
 ---
-title: "Roi Baigné de Lune"
-type: "Fée"
-size: "M"
-alignment: "Neutre Bon"
-challenge: "17"
+title: Roi Baigné de Lune
+type: Fée
+size: M
+alignment: Neutre Bon
+challenge: '17'
 hitDiceCount: 20
-abilityScores:
-  for: 16
-  dex: 20
-  con: 18
-  int: 20
-  sag: 18
-  cha: 20
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "demi-plate"
+  - con
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "perception"
-movement:
-  walk: 15
-senses:
-  blindsight: 9
-  darkvision: 36
+  - name: arcanes
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "c-p-t-non-fer-froid"
+  - acide
+  - c-p-t-non-fer-froid
 damageTypeImmunities:
-  - "feu"
-  - "froid"
-  - "poison"
+  - feu
+  - froid
+  - poison
 languages:
-  - "abyssal"
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "elfique"
-  - "infernal"
-  - "umbral"
+  - abyssal
+  - céleste
+  - commun
+  - draconique
+  - elfique
+  - infernal
+  - umbral
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 188
+abilityScores_for: 16
+abilityScores_dex: 20
+abilityScores_con: 18
+abilityScores_int: 20
+abilityScores_sag: 18
+abilityScores_cha: 20
+ac_armorType: demi-plate
+movement_walk: 15
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Contrôle des rayons de lune**_. Par une action bonus, le Roi Baigné de Lune peut faire en sorte que toutes les zones éclairées par la lune dans un rayon de 30 mètres se déplacent d'un maximum de 3 mètres.

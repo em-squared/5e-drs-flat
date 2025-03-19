@@ -1,46 +1,42 @@
 ---
-title: "Dragon bleu, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Loyal Mauvais"
-challenge: "16"
+title: 'Dragon bleu, adulte'
+type: Dragon
+size: TG
+alignment: Loyal Mauvais
+challenge: '16'
 hitDiceCount: 18
-abilityScores:
-  for: 25
-  dex: 10
-  con: 23
-  int: 16
-  sag: 15
-  cha: 19
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 9
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 12
-  burrow: 9
-  fly: 24
-senses:
-  blindsight: 18
-  darkvision: 36
 damageTypeImmunities:
-  - "foudre"
+  - foudre
 languages:
-  - "commun"
-  - "draconique"
+  - commun
+  - draconique
 environments:
   - Désert chaud
   - Littoral
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 86
+abilityScores_for: 25
+abilityScores_dex: 10
+abilityScores_con: 23
+abilityScores_int: 16
+abilityScores_sag: 15
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 12
+movement_burrow: 9
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

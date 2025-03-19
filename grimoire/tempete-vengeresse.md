@@ -1,22 +1,20 @@
 ---
-title: "Tempête vengeresse"
-description: "Crée une violente tempête dont les effets évoluent de round en round."
-school: "Invocation"
+title: Tempête vengeresse
+description: Crée une violente tempête dont les effets évoluent de round en round.
+school: Invocation
 level: 9
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "champ de vision"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: champ de vision
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 De menaçantes nuées orageuses se forment en un point situé dans votre champ de vision et s'étendent dans un rayon de 110 mètres. Des éclairs strient la zone, le tonnerre gronde et un vent fort se lève. Chaque créature située sous le nuage lors de son apparition (mais pas à plus de 1500 mètres au-dessous) doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui échouent subissent 2d6 dégâts de tonnerre et sont [_assourdies_](/gerer-la-sante-du-personnage/#assourdi) pendant 5 minutes.
 

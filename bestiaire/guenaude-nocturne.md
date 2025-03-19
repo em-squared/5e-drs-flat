@@ -1,53 +1,49 @@
 ---
-title: "Guenaude nocturne"
-type: "Fiélon"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Guenaude nocturne
+type: Fiélon
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 15
-abilityScores:
-  for: 18
-  dex: 15
-  con: 16
-  int: 16
-  sag: 14
-  cha: 16
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 6
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 6
-  - name: "perspicacite"
+  - name: perspicacite
     invalid: true
     value: 6
-  - name: "supercherie"
+  - name: supercherie
     invalid: true
     value: 7
-movement:
-  walk: 9
-senses:
-  darkvision: 36
-  customPassivePerception: 16
 conditionImmunities:
-  - "charme"
+  - charme
 damageTypeResistances:
-  - "feu"
-  - "froid"
-  - "p-t-non-argent"
+  - feu
+  - froid
+  - p-t-non-argent
 languages:
-  - "abyssal"
-  - "commun"
-  - "infernal"
-  - "primordial"
+  - abyssal
+  - commun
+  - infernal
+  - primordial
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 180
+abilityScores_for: 18
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 16
+abilityScores_sag: 14
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+senses_darkvision: 36
+senses_customPassivePerception: 16
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation de la guenaude est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec des attaques de sort). La guenaude peut lancer les sorts suivants de manière innée sans aucune composante matérielle :

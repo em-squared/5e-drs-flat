@@ -1,10 +1,10 @@
 ---
-title: "Potion de résistance"
-type: "Potion"
+title: Potion de résistance
+type: Potion
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1 heure après avoir bu cette potion. Le MJ choisit le type ou le détermine au hasard parmi les potions suivantes.
 

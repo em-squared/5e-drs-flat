@@ -1,23 +1,23 @@
 ---
-title: "Héroïsme"
-description: "La cible est immunisée à l'état <em>terrorisé</em> et gagne des points de vie temporaires."
-school: "Enchantement"
+title: Héroïsme
+description: >-
+  La cible est immunisée à l'état <em>terrorisé</em> et gagne des points de vie
+  temporaires.
+school: Enchantement
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: contact
 ritual: false
 classes:
-    - Barde
-    - Paladin
-
-source: "Manuel des règles"
+  - Barde
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à la fin du sort, elle est immunisée contre l'état [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) et, au début de chacun de ses tours, elle gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation. Quand le sort se termine, la cible perd les éventuels points de vie temporaires restants issus de ce sort.
 

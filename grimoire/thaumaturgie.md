@@ -1,22 +1,20 @@
 ---
-title: "Thaumaturgie"
-description: "Permet de créer un effet magique mineur à choisir dans une liste."
-school: "Transmutation"
+title: Thaumaturgie
+description: Permet de créer un effet magique mineur à choisir dans une liste.
+school: Transmutation
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Vous créez une manifestation merveilleuse mineure ou un signe de puissance surnaturelle à portée, ce qui génère l'un des effets magiques suivants à portée.
 * Votre voix retentit jusqu'à trois fois plus fort que la normale pendant 1 minute.

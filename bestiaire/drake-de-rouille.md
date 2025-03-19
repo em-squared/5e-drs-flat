@@ -1,46 +1,42 @@
 ---
-title: "Drake de rouille"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "8"
+title: Drake de rouille
+type: Dragon
+size: M
+alignment: Chaotique Mauvais
+challenge: '8'
 hitDiceCount: 19
-abilityScores:
-  for: 20
-  dex: 15
-  con: 19
-  int: 12
-  sag: 8
-  cha: 8
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     invalid: true
     value: 3
-movement:
-  walk: 6
-  burrow: 1,50
-  fly: 30
-senses:
-  darkvision: 18
-  customPassivePerception: 13
 conditionImmunities:
-  - "empoisonne"
-  - "paralyse"
+  - empoisonne
+  - paralyse
 damageTypeVulnerabilities:
-  - "acide"
+  - acide
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "draconique"
+  - commun
+  - draconique
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 152
+abilityScores_for: 20
+abilityScores_dex: 15
+abilityScores_con: 19
+abilityScores_int: 12
+abilityScores_sag: 8
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+movement_burrow: '1,50'
+movement_fly: 30
+senses_darkvision: 18
+senses_customPassivePerception: 13
 ---
 ## Actions
 _**Attaques multiples**_. Le drake fait une attaque de _morsure_ et un _balayage de queue_.

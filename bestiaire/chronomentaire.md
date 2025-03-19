@@ -1,42 +1,38 @@
 ---
-title: "Chronomentaire"
-type: "Élémentaire"
-size: "G"
-alignment: "non aligné"
-challenge: "8"
+title: Chronomentaire
+type: Élémentaire
+size: G
+alignment: non aligné
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 14
-  dex: 20
-  con: 19
-  int: 9
-  sag: 13
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 2
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "empoigne"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - empoigne
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeImmunities:
-  - "poison"
-  - "c-p-t-non-magique"
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "céleste"
-  - "infernal"
+  - céleste
+  - infernal
 environments:
   - Plans élémentaires
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 62
+abilityScores_for: 14
+abilityScores_dex: 20
+abilityScores_con: 19
+abilityScores_int: 9
+abilityScores_sag: 13
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Corps temporel**_. Quand un chronomentaire se trouve sous l'effet du sort [_lenteur_](/grimoire/lenteur/), [_hâte_](/grimoire/hate/) ou d'un effet similaire, il réussit automatiquement son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) et regagne 13 (3d8) points de vie.

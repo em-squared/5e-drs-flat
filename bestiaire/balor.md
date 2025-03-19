@@ -1,45 +1,41 @@
 ---
-title: "Balor"
-type: "Fiélon"
-subtype: "Démon"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "19"
+title: Balor
+type: Fiélon
+subtype: Démon
+size: TG
+alignment: Chaotique Mauvais
+challenge: '19'
 hitDiceCount: 21
-abilityScores:
-  for: 26
-  dex: 15
-  con: 22
-  int: 20
-  sag: 16
-  cha: 22
 savingThrows:
-  - "for"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
-movement:
-  walk: 12
-  fly: 24
-senses:
-  truesight: 36
+  - for
+  - con
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 50
+abilityScores_for: 26
+abilityScores_dex: 15
+abilityScores_con: 22
+abilityScores_int: 20
+abilityScores_sag: 16
+abilityScores_cha: 22
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+movement_fly: 24
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du balor sont magiques.

@@ -1,10 +1,10 @@
 ---
-title: "Boule de cristal de vision suprême"
-type: "Objet merveilleux"
+title: Boule de cristal de vision suprême
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous pouvez lancer le sort [_scrutation_](/grimoire/scrutation/) (DD 17) par son intermédiaire.
 

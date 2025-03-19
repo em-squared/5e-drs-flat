@@ -1,48 +1,44 @@
 ---
-title: "Sorcière de l'écheveau"
-type: "Céleste"
-size: "M"
-alignment: "Neutre"
-challenge: "12"
+title: Sorcière de l'écheveau
+type: Céleste
+size: M
+alignment: Neutre
+challenge: '12'
 hitDiceCount: 25
-abilityScores:
-  for: 6
-  dex: 12
-  con: 14
-  int: 16
-  sag: 20
-  cha: 20
-customSavingThrows: "Int +8, Sag +10, Cha +10"
-ac:
-  armorType: "armure naturelle"
-  value: 9
+customSavingThrows: 'Int +8, Sag +10, Cha +10'
 skills:
-  - name: "histoire"
+  - name: histoire
     invalid: true
     value: 8
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 15
-  - name: "perspicacite"
+  - name: perspicacite
     invalid: true
     value: 15
-movement:
-  walk: 9
-  fly: 9
-senses:
-  truesight: 18
-  customPassivePerception: 25
 damageTypeResistances:
-  - "radiant"
+  - radiant
 damageTypeImmunities:
-  - "feu"
-  - "foudre"
-  - "psychique"
+  - feu
+  - foudre
+  - psychique
 languages:
-  - "céleste"
+  - céleste
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 368
+abilityScores_for: 6
+abilityScores_dex: 12
+abilityScores_con: 14
+abilityScores_int: 16
+abilityScores_sag: 20
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 9
+movement_fly: 9
+senses_truesight: 18
+senses_customPassivePerception: 25
 ---
 ## Capacités
 _**Modifier le destin (3/jour)**_. Si la sorcière de l'écheveau rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle peut décider à la place de le réussir et de reporter l'effet de l'échec sur un ennemi dans un rayon de 9 mètres. Elle subit les effets de la réussite du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) s'il y en a. L'ennemi choisi a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) comme s'il était la cible initiale de l'effet, mais il est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

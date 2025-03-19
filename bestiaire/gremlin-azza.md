@@ -1,35 +1,31 @@
 ---
-title: "Gremlin azza"
-type: "Fée"
-size: "P"
-alignment: "Neutre"
-challenge: "0.25"
+title: Gremlin azza
+type: Fée
+size: P
+alignment: Neutre
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 5
-  dex: 18
-  con: 10
-  int: 12
-  sag: 13
-  cha: 10
-ac: 
-  armorType: null
-movement: 
-  walk: 3
-  fly: 12
-  hover: true
-senses: 
-  darkvision: 36
-damageTypeImmunities: 
-  - "foudre"
-  - "tonnerre"
-languages: 
-  - "commun"
-  - "primordial"
+damageTypeImmunities:
+  - foudre
+  - tonnerre
+languages:
+  - commun
+  - primordial
 environments:
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 226
+abilityScores_for: 5
+abilityScores_dex: 18
+abilityScores_con: 10
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 3
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 36
 ---
 ## Capacités
 _**Foudre contagieuse**_. Une créature qui touche un gremlin azza ou le frappe avec une attaque de corps à corps en utilisant une arme de métal reçoit une décharge de foudre. Cette créature doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 10 ou attirer la foudre pendant 1 minute. Pendant cette durée, les attaques qui causent des dégâts de foudre sont [_avantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre cette créature et celle-ci est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les dégâts de foudre et les effets de foudre et, à chaque fois qu'elle subit des dégâts de foudre, elle se trouve [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) jusqu'à la fin de son prochain tour. Une créature qui se trouve sous cet effet doit refaire le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours. Sur un succès, elle met fin à l'effet.

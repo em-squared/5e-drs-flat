@@ -1,36 +1,32 @@
 ---
-title: "Boucca"
-type: "Fée"
-size: "TP"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Boucca
+type: Fée
+size: TP
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 10
-  dex: 16
-  con: 17
-  int: 13
-  sag: 9
-  cha: 16
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "escamotage"
+  - name: escamotage
     isExpert: true
-  - name: "perception"
-movement:
-  walk: 6
-  fly: 9
-senses:
-  darkvision: 18
+  - name: perception
 languages:
-  - "darakhul"
-  - "nain"
-source: "Livre des monstres"
+  - darakhul
+  - nain
+source: Livre des monstres
 source_page: 47
+abilityScores_for: 10
+abilityScores_dex: 16
+abilityScores_con: 17
+abilityScores_int: 13
+abilityScores_sag: 9
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Repli aérien**_. Un boucca ne provoque pas d'attaque d'opportunité quand il vole hors de portée d'un ennemi.

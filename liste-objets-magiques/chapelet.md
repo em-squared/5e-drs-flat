@@ -1,10 +1,10 @@
 ---
-title: "Chapelet"
-type: "Objet merveilleux"
+title: Chapelet
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation avec un clerc, un druide ou un paladin exigée"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: 'harmonisation avec un clerc, un druide ou un paladin exigée'
+source: Cadre de campagne
 ---
 Ce chapelet se présente sous forme de collier et comporte 1d4+2 grains magiques faits d'aigues-marines, de perles noires ou de topazes. Il possède aussi de nombreux grains ordinaires taillés dans de l'ambre, de l'héliotrope, de la citrine, du corail, du jade, des perles ou du quartz. Si on retire un grain magique du chapelet, il perd sa magie.
 

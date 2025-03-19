@@ -1,22 +1,20 @@
 ---
-title: "Esprits gardiens"
-description: "Invoque des esprits qui protègent le PJ et frappent ses ennemis."
-school: "Invocation"
+title: Esprits gardiens
+description: Invoque des esprits qui protègent le PJ et frappent ses ennemis.
+school: Invocation
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "personnelle (4,5 mètres de rayon)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un symbole sacré"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 'personnelle (4,5 mètres de rayon)'
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un symbole sacré
 ---
 Vous appelez des esprits qui vous protègent. Ils volettent autour de vous dans un rayon de 4,50 mètres pendant toute la durée du sort. Si vous êtes Bon ou Neutre, ils ont une apparence angélique ou féerique (à vous de choisir). Si vous êtes Mauvais, ils ont une apparence fiélone.
 

@@ -1,23 +1,21 @@
 ---
-title: "Croissance d'épines"
-description: "Transforme le sol en terrain difficile qui inflige 2d4 dégâts."
-school: "Transmutation"
+title: Croissance d'épines
+description: Transforme le sol en terrain difficile qui inflige 2d4 dégâts.
+school: Transmutation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "45 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "sept épines acérées ou sept brindilles taillées en pointe"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 45 mètres
 ritual: false
 classes:
-    - Druide
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Druide
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: sept épines acérées ou sept brindilles taillées en pointe
 ---
 Dans une zone de 6 mètres de rayon centrée sur un point à portée, le sol se met à se déformer et donne naissance à un tapis de pointes et d'épines. La zone se mue en terrain difficile pendant toute la durée du sort. Quand une créature entre dans la zone ou s'y déplace, elle reçoit 2d4 dégâts perforants par tranche de 1,50 mètre parcouru.
 

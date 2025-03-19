@@ -1,42 +1,27 @@
 ---
-title: "Kraken"
-type: "Créature monstrueuse"
-subtype: "titan"
-size: "Gig"
-alignment: "Chaotique Mauvais"
-challenge: "23"
+title: Kraken
+type: Créature monstrueuse
+subtype: titan
+size: Gig
+alignment: Chaotique Mauvais
+challenge: '23'
 hitDiceCount: 27
-abilityScores:
-  for: 30
-  dex: 11
-  con: 25
-  int: 22
-  sag: 18
-  cha: 20
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 8
-movement:
-  walk: 6
-  swim: 18
-senses:
-  truesight: 36
+  - for
+  - dex
+  - con
+  - int
+  - sag
 conditionImmunities:
-  - "terrorise"
-  - "paralyse"
+  - terrorise
+  - paralyse
 damageTypeImmunities:
-  - "foudre"
-  - "c-p-t-non-magique"
+  - foudre
+  - c-p-t-non-magique
 languages:
-  - "comprend l'abyssal"
-  - "le céleste"
-  - "l'infernal et le primordial mais ne peut pas parler"
+  - comprend l'abyssal
+  - le céleste
+  - l'infernal et le primordial mais ne peut pas parler
 telepathy: 36
 environments:
   - Littoral
@@ -44,8 +29,19 @@ environments:
 dungeonTypes:
   - Caverne sous-marine
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 196
+abilityScores_for: 30
+abilityScores_dex: 11
+abilityScores_con: 25
+abilityScores_int: 22
+abilityScores_sag: 18
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 6
+movement_swim: 18
+senses_truesight: 36
 ---
 ## Capacités
 _**Amphibie**_. Le kraken peut respirer à l'air libre et sous l'eau.

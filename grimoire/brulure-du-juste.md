@@ -1,21 +1,19 @@
 ---
-title: "Brûlure du juste"
-description: "L'arme du PJ s'illumine et inflige 1d6 dégâts supplémentaires."
-school: "Évocation"
+title: Brûlure du juste
+description: L'arme du PJ s'illumine et inflige 1d6 dégâts supplémentaires.
+school: Évocation
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: false
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Paladin
-
-source: "Manuel des règles"
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
 ---
 Votre arme se met à briller d'une lumière intense de pure radiance. Elle émet une lumière vive dans un rayon de 4,50 mètres et une lumière faible sur 4,50 mètres supplémentaires. La lumière est semblable à la lumière du soleil.
 

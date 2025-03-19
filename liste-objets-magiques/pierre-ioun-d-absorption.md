@@ -1,10 +1,10 @@
 ---
-title: "Pierre Ioun d'absorption"
-type: "Objet merveilleux"
+title: Pierre Ioun d'absorption
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 La _pierre Ioun_ doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de _pierre Ioun_, chacune caractérisée par sa forme et sa couleur.
 

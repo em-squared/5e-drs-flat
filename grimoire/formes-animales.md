@@ -1,22 +1,20 @@
 ---
-title: "Formes animales"
-description: "Le PJ transforme ses alliés en animaux."
-school: "Transmutation"
+title: Formes animales
+description: Le PJ transforme ses alliés en animaux.
+school: Transmutation
 level: 8
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 24 heure"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 24 heure
+range: 9 mètres
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Votre magie transforme vos alliés en animaux. Choisissez autant de créatures consentantes à portée et dans votre champ de vision que vous désirez. Vous transformez chacune d'entre elles en bête de taille G ou inférieure dotée d'un indice de dangerosité inférieur ou égal à 4. Lors de vos tours suivants, vous pouvez dépenser votre action pour transformer les créatures affectées en d'autres bêtes.
 

@@ -1,25 +1,23 @@
 ---
-title: "Message"
-description: "Conversation murmurée à distance."
-school: "Transmutation"
+title: Message
+description: Conversation murmurée à distance.
+school: Transmutation
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "1 round"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un petit bout de fil de cuivre"
+casting_time: 1 action
+duration: 1 round
+range: 36 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un petit bout de fil de cuivre
 ---
 Vous pointez du doigt une créature à portée et murmurez un message. La cible (et elle seule) l'entend et peut répondre dans un murmure que vous êtes le seul à entendre.
 

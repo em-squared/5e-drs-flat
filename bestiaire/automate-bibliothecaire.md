@@ -1,40 +1,36 @@
 ---
-title: "Automate bibliothécaire"
-type: "Créature artificielle"
-size: "P"
-alignment: "Loyal Neutre"
-challenge: "0.5"
+title: Automate bibliothécaire
+type: Créature artificielle
+size: P
+alignment: Loyal Neutre
+challenge: '0.5'
 hitDiceCount: 2
-abilityScores:
-  for: 8
-  dex: 13
-  con: 10
-  int: 14
-  sag: 12
-  cha: 8
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "histoire"
-  - name: "investigation"
-movement:
-  walk: 9
-senses:
-  blindsight: 18
-  truesight: 3
+  - name: histoire
+  - name: investigation
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
+  - charme
+  - empoisonne
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "langue des machines"
+  - commun
+  - langue des machines
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 34
+abilityScores_for: 8
+abilityScores_dex: 13
+abilityScores_con: 10
+abilityScores_int: 14
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_blindsight: 18
+senses_truesight: 3
 ---
 ## Capacités
 _**Dépôt de livres extradimensionnel**_. Une petite porte sur la poitrine de l'automate bibliothécaire donne sur une étagère extradimensionnelle. Elle fonctionne exactement comme un [_sac sans fond_](/liste-objets-magiques/sac-sans-fond/), mais ne peut contenir que du matériel écrit, comme des livres, des parchemins, des classeurs, des carnets de notes, des grimoires, etc.

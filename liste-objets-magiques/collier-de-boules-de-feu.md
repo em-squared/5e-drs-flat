@@ -1,10 +1,10 @@
 ---
-title: "Collier de boules de feu"
-type: "Objet merveilleux"
+title: Collier de boules de feu
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce collier possède 1d6+3 perles. Vous pouvez utiliser une action pour détacher une perle et la lancer sur une distance maximale de 18 mètres. Quand elle arrive au bout de sa trajectoire, elle explose comme le sort [_boule de feu_](/grimoire/boule-de-feu/) de niveau 3 (DD 15).
 

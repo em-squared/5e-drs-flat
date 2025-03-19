@@ -1,56 +1,52 @@
 ---
-title: "Thuellai"
-type: "Élémentaire"
-size: "TG"
-alignment: "Chaotique Neutre"
-challenge: "10"
+title: Thuellai
+type: Élémentaire
+size: TG
+alignment: Chaotique Neutre
+challenge: '10'
 hitDiceCount: 13
-abilityScores:
-  for: 22
-  dex: 24
-  con: 20
-  int: 10
-  sag: 11
-  cha: 14
 savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: null
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 0
-  fly: 30
-  hover: true
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "foudre"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - foudre
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "nain"
-  - "primordial"
+  - commun
+  - nain
+  - primordial
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 380
+abilityScores_for: 22
+abilityScores_dex: 24
+abilityScores_con: 20
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 0
+movement_fly: 30
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Maîtrise de l'air**_. Les créatures aériennes sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs jets d'attaque contre le thuellai.

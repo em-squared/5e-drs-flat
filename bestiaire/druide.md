@@ -1,32 +1,29 @@
 ---
-title: "Druide"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "2"
+title: Druide
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement
+challenge: '2'
 hitDiceCount: 5
-abilityScores:
-  for: 10
-  dex: 12
-  con: 13
-  int: 12
-  sag: 15
-  cha: 11
-ac:
-  armorType: custom
-  value: 11 (16 avec peau d'écorce)
 skills:
-  - name: "medecine"
-  - name: "nature"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
+  - name: medecine
+  - name: nature
+  - name: perception
+senses: null
 languages:
-  - "langue des druides plus deux langues au choix"
-source: "Créatures & Oppositions"
+  - langue des druides plus deux langues au choix
+source: Créatures & Oppositions
 source_page: 332
+abilityScores_for: 10
+abilityScores_dex: 12
+abilityScores_con: 13
+abilityScores_int: 12
+abilityScores_sag: 15
+abilityScores_cha: 11
+ac_armorType: custom
+ac_value: 11 (16 avec peau d'écorce)
+movement_walk: 9
 ---
 ## Capacités
 _**Incantation**_. Le druide est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici ses sorts de druide préparés :

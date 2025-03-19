@@ -1,24 +1,22 @@
 ---
-title: "Mirage"
-description: "Permet de maquiller le terrain naturel en un autre pendant 10 jours."
-school: "Illusion"
+title: Mirage
+description: Permet de maquiller le terrain naturel en un autre pendant 10 jours.
+school: Illusion
 level: 7
 concentration: false
-casting_time: "10 minutes"
-duration: "10 jours"
-range: "vision"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 10 minutes
+duration: 10 jours
+range: vision
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous donnez à un terrain d'au maximum 2,5 kilomètres carrés la même apparence visuelle, sonore, olfactive et générale qu'un autre type de terrain. En revanche, sa forme globale ne change pas. Vous pouvez maquiller un champ ou une route pour lui donner l'air d'un marais, d'une colline, d'une crevasse ou d'un autre terrain difficile ou impraticable. Vous pouvez faire passer une mare pour une prairie herbeuse, un précipice pour une pente douce ou un goulet rocailleux pour une route aussi large que lisse. Vous pouvez aussi modifier l'apparence des structures ou en ajouter là où n'y en a pas. En revanche, le sort est incapable de déguiser, dissimuler ou ajouter des créatures.
 

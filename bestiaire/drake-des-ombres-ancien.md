@@ -1,52 +1,48 @@
 ---
-title: "Drake des ombres, ancien"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: 'Drake des ombres, ancien'
+type: Dragon
+size: G
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 12
-abilityScores:
-  for: 22
-  dex: 13
-  con: 18
-  int: 8
-  sag: 9
-  cha: 13
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 6
-  fly: 18
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "inconscient"
-  - "paralyse"
+  - inconscient
+  - paralyse
 damageTypeVulnerabilities:
-  - "radiant"
+  - radiant
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "draconique"
-  - "umbral"
+  - commun
+  - draconique
+  - umbral
 environments:
   - Bois / Forêt
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 153
+abilityScores_for: 22
+abilityScores_dex: 13
+abilityScores_con: 18
+abilityScores_int: 8
+abilityScores_sag: 9
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+movement_fly: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Se fondre dans les ombres**_. Dans les zones de lumière faible ou de ténèbres, un ancien drake des ombres est considéré comme étant [_invisible_](/gerer-la-sante-du-personnage/#invisible). Une lumière artificielle, comme une lanterne, ou un sort, comme [_lumière_](/grimoire/lumiere/) ou [_flamme éternelle_](/grimoire/flamme-eternelle/), ne suffit pas à contrer ce trait ; seuls la véritable lumière du soleil ou le sort [_lumière du jour_](/grimoire/lumiere-du-jour/) le permet. Le drake ne peut pas utiliser ses pouvoirs _accélération_ et _souffle stygien_ quand il est [_invisible_](/gerer-la-sante-du-personnage/#invisible). Un ancien drake des ombres peut choisir d'utiliser ou non ce trait à volonté tant qu'il se trouve dans une zone de lumière faible ou de ténèbres.

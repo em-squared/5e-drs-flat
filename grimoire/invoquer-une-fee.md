@@ -1,23 +1,21 @@
 ---
-title: "Invoquer une fée"
-description: "Invoque une fée puissante qui obéit au PJ."
-school: "Invocation"
+title: Invoquer une fée
+description: Invoque une fée puissante qui obéit au PJ.
+school: Invocation
 level: 6
 concentration: true
-casting_time: "1 minute"
-duration: "jusqu'à 1 heure"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 minute
+duration: jusqu'à 1 heure
+range: 27 mètres
 ritual: false
 classes:
-    - Druide
-    - Sorcier
-
-source: "Manuel des règles"
+  - Druide
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous invoquez une créature féerique, ou un esprit féerique qui revêt l'apparence d'une bête, dotée d'un indice de dangerosité inférieur ou égal à 6. La créature apparaît dans une case inoccupée située à portée et dans votre champ de vision. Elle disparaît dès qu'elle tombe à 0 point de vie ou quand le sort se termine.
 

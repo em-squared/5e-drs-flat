@@ -1,24 +1,24 @@
 ---
-title: "Déplacer la terre"
-description: "Modifie la forme de la terre dans un carré de 12 mètres de côté."
-school: "Transmutation"
+title: Déplacer la terre
+description: Modifie la forme de la terre dans un carré de 12 mètres de côté.
+school: Transmutation
 level: 6
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 2 heures"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une lame de fer et un petit sac contenant un mélange de terres : de l'argile, du terreau et du sable"
+casting_time: 1 action
+duration: jusqu'à 2 heures
+range: 36 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une lame de fer et un petit sac contenant un mélange de terres : de l'argile,
+  du terreau et du sable
 ---
 Choisissez une zone de terrain à portée d'au maximum 12 mètres de côté. Vous pouvez remodeler la terre, le sable ou l'argile qu'elle comporte comme bon vous semble pendant toute la durée du sort. Vous pouvez augmenter ou diminuer l'altitude de la zone, creuser ou combler une tranchée, ériger ou abattre un mur, ou former un pilier. L'amplitude de ces modifications ne peut pas excéder la moitié de la dimension la plus importante de la zone affectée. Donc, si vous modifiez une zone de 12 mètres de côté, vous pouvez créer un pilier de 6 mètres de haut au maximum, modifier l'altitude de la zone de 6 mètres au plus, creuser une tranchée d'un maximum de 6 mètres de profondeur, etc. Il faut 10 minutes pour finaliser ces modifications.
 

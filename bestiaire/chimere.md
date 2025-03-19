@@ -1,37 +1,33 @@
 ---
-title: "Chimère"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "6"
+title: Chimère
+type: Créature monstrueuse
+size: G
+alignment: Chaotique Mauvais
+challenge: '6'
 hitDiceCount: 12
-abilityScores:
-  for: 19
-  dex: 11
-  con: 19
-  int: 3
-  sag: 14
-  cha: 10
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "perception"
+skills:
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-  fly: 18
-senses: 
-  darkvision: 18
-languages: 
-  - "comprend le draconique mais ne peut pas parler"
+languages:
+  - comprend le draconique mais ne peut pas parler
 environments:
   - Bois / Forêt
   - Montagnes
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 42
+abilityScores_for: 19
+abilityScores_dex: 11
+abilityScores_con: 19
+abilityScores_int: 3
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. La chimère effectue trois attaques : une avec sa morsure, une avec ses cornes et une avec ses griffes. Quand son souffle de feu est disponible, elle peut l'utiliser à la place de sa morsure ou de ses cornes.

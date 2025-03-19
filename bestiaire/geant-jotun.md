@@ -1,49 +1,45 @@
 ---
-title: "Géant jotun"
-type: "Géant"
-size: "Gig"
-alignment: "Chaotique Neutre"
-challenge: "22"
+title: Géant jotun
+type: Géant
+size: Gig
+alignment: Chaotique Neutre
+challenge: '22'
 hitDiceCount: 22
-abilityScores:
-  for: 30
-  dex: 8
-  con: 26
-  int: 18
-  sag: 20
-  cha: 14
-customSavingThrows: "Con +14, Sag +11, Cha +8"
-ac:
-  armorType: "armure naturelle"
-  value: 11
+customSavingThrows: 'Con +14, Sag +11, Cha +8'
 skills:
-  - name: "arcanes"
+  - name: arcanes
     invalid: true
     value: 10
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 5
-  - name: "histoire"
+  - name: histoire
     invalid: true
     value: 10
-  - name: "nature"
+  - name: nature
     invalid: true
     value: 10
-movement:
-  walk: 18
-senses:
-  darkvision: 36
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "géant"
+  - commun
+  - géant
 environments:
   - Collines / Vallées
   - Montagnes
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 206
+abilityScores_for: 30
+abilityScores_dex: 8
+abilityScores_con: 26
+abilityScores_int: 18
+abilityScores_sag: 20
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 11
+movement_walk: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Immortalité**_. Les jotnar sont immunisés contre les effets de l'âge et ceux réduisant les valeurs de caractéristiques et le maximum de points de vie.

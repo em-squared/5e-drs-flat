@@ -1,50 +1,46 @@
 ---
-title: "Koschei"
-type: "Fiélon"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "17"
+title: Koschei
+type: Fiélon
+size: M
+alignment: Neutre Mauvais
+challenge: '17'
 hitDiceCount: 18
-abilityScores:
-  for: 22
-  dex: 12
-  con: 17
-  int: 17
-  sag: 13
-  cha: 21
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "froid"
+  - foudre
+  - froid
 damageTypeImmunities:
-  - "necrotique"
-  - "c-p-t-non-magique"
+  - necrotique
+  - c-p-t-non-magique
 languages:
-  - "abyssal"
-  - "céleste"
-  - "commun"
-  - "infernal"
-  - "nain"
-source: "Livre des monstres"
+  - abyssal
+  - céleste
+  - commun
+  - infernal
+  - nain
+source: Livre des monstres
 source_page: 259
+abilityScores_for: 22
+abilityScores_dex: 12
+abilityScores_con: 17
+abilityScores_int: 17
+abilityScores_sag: 13
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Âme cachée**_. Une créature tenant l'œuf contenant l'âme de Koschei peut utiliser son action pour donner des ordres au fiélon comme s'il avait été la cible de dominer un monstre et avait raté son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Tant que son âme est dans l'aiguille, Koschei ne peut pas mourir définitivement. S'il périt, son corps se reforme dans son antre dans les 1d10 jours. Si l'aiguille est cassée, Koschei peut se faire tuer comme n'importe qui.

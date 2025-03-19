@@ -1,37 +1,33 @@
 ---
-title: "Chernomoï"
-type: "Fée"
-size: "TP"
-alignment: "Neutre"
-challenge: "1"
+title: Chernomoï
+type: Fée
+size: TP
+alignment: Neutre
+challenge: '1'
 hitDiceCount: 5
-abilityScores:
-  for: 9
-  dex: 18
-  con: 18
-  int: 12
-  sag: 11
-  cha: 16
-ac:
-  armorType: "custom"
-  value: "13"
 skills:
-  - name: "acrobaties"
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 6
-  fly: 6
-senses:
-  darkvision: 18
+  - name: acrobaties
+  - name: discretion
+  - name: perception
 damageTypeResistances:
-  - "c-p-t-non-argent"
+  - c-p-t-non-argent
 languages:
-  - "commun"
-  - "draconique"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - draconique
+  - sylvestre
+source: Livre des monstres
 source_page: 58
+abilityScores_for: 9
+abilityScores_dex: 18
+abilityScores_con: 18
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 16
+ac_armorType: custom
+ac_value: '13'
+movement_walk: 6
+movement_fly: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un chernomoï est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

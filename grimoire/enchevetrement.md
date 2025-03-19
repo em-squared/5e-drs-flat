@@ -1,21 +1,19 @@
 ---
-title: "Enchevêtrement"
-description: "Les créatures sont <em>entravées</em> dans un carré de 6 mètres."
-school: "Invocation"
+title: Enchevêtrement
+description: Les créatures sont <em>entravées</em> dans un carré de 6 mètres.
+school: Invocation
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 27 mètres
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Des herbes et des lianes entremêlées jaillissent du sol dans un carré de 6 mètres de côté centré sur un point de votre choix à portée. Pendant toute la durée du sort, les végétaux transforment la zone en terrain difficile.
 

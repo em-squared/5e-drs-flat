@@ -1,10 +1,10 @@
 ---
-title: "Bâton de combat"
-type: "Bâton"
+title: Bâton de combat
+type: Bâton
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 à l'attaque et aux jets de dégâts effectués par son biais.
 

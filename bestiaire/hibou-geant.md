@@ -1,33 +1,29 @@
 ---
-title: "Hibou géant"
-type: "Bête"
-size: "G"
-alignment: "neutre bon"
-challenge: "1"
+title: Hibou géant
+type: Bête
+size: G
+alignment: neutre bon
+challenge: '1'
 hitDiceCount: 4
-abilityScores:
-  for: 16
-  dex: 16
-  con: 13
-  int: 8
-  sag: 15
-  cha: 10
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
-movement: 
-  walk: 3
-  fly: 24
-senses: 
-  darkvision: 18
-languages: 
-  - "hibou géant"
-  - "comprend le commun et l'aérien mais ne peut pas les parler"
+skills:
+  - name: perception
+languages:
+  - hibou géant
+  - comprend le commun et l'aérien mais ne peut pas les parler
 environments:
   - Bois / Forêt
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 308
+abilityScores_for: 16
+abilityScores_dex: 16
+abilityScores_con: 13
+abilityScores_int: 8
+abilityScores_sag: 15
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 3
+movement_fly: 24
+senses_darkvision: 18
 ---
 ## Capacités
 _**Vue aiguisée**_. Le hibou obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.

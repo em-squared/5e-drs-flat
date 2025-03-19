@@ -1,69 +1,65 @@
 ---
-title: "Camazotz"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "22"
+title: Camazotz
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '22'
 hitDiceCount: 43
-abilityScores:
-  for: 30
-  dex: 22
-  con: 25
-  int: 12
-  sag: 22
-  cha: 25
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "athletisme"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 9
-  climb: 9
-  fly: 24
-senses:
-  blindsight: 36
-  darkvision: 12
+  - name: acrobaties
+  - name: athletisme
+  - name: intimidation
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "assourdi"
-  - "charme"
-  - "empoisonne"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - assourdi
+  - charme
+  - empoisonne
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "foudre"
-  - "c-p-t-non-magique"
+  - acide
+  - foudre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "feu"
-  - "foudre"
-  - "poison"
+  - feu
+  - foudre
+  - poison
 languages:
-  - "commun"
-  - "darakhul"
-  - "derro"
-  - "draconique"
-  - "infernal"
-  - "langue du vide"
-  - "nain"
-  - "nurien"
-  - "primordial"
+  - commun
+  - darakhul
+  - derro
+  - draconique
+  - infernal
+  - langue du vide
+  - nain
+  - nurien
+  - primordial
 telepathy: 90
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 87
+abilityScores_for: 30
+abilityScores_dex: 22
+abilityScores_con: 25
+abilityScores_int: 12
+abilityScores_sag: 22
+abilityScores_cha: 25
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_climb: 9
+movement_fly: 24
+senses_blindsight: 36
+senses_darkvision: 12
 ---
 ## Capacités
 _**Métamorphe**_. Camazotz peut utiliser son action pour prendre la forme d'une chauve-souris géante couverte de cendres fumantes ou revenir à sa forme véritable d'humanoïde ailé. Ses statistiques sont les mêmes, quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. S'il est détruit dans une forme ou l'autre, il se transforme en un tas de cendres graisseuses.

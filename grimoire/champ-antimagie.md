@@ -1,23 +1,21 @@
 ---
-title: "Champ antimagie"
-description: "Crée une zone dans laquelle toute magie est impossible."
-school: "Abjuration"
+title: Champ antimagie
+description: Crée une zone dans laquelle toute magie est impossible.
+school: Abjuration
 level: 8
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "personnelle (sphère de 3 mètres de rayon)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pincée de poudre de fer ou de limaille"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: personnelle (sphère de 3 mètres de rayon)
 ritual: false
 classes:
-    - Clerc
-    - Magicien
-
-source: "Manuel des règles"
+  - Clerc
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une pincée de poudre de fer ou de limaille
 ---
 Une sphère d'antimagie invisible de 3 mètres de rayon vous entoure. La zone qu'elle englobe est coupée de l'énergie magique qui imprègne le multivers. En son sein, il est impossible de lancer un sort, les créatures invoquées disparaissent et même les objets magiques deviennent ordinaires. La sphère reste centrée sur vous et se déplace avec vous jusqu'à la fin du sort.
 

@@ -1,10 +1,10 @@
 ---
-title: "Puits des mondes"
-type: "Objet merveilleux"
+title: Puits des mondes
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
+rarity: Légendaire
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce morceau d'étoffe noire, fine et douce comme la soie, peut se plier pour adopter les dimensions d'un mouchoir. On peut le déplier pour former une étendue circulaire de 1,80 mètre de diamètre.
 

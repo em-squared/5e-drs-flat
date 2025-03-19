@@ -1,26 +1,24 @@
 ---
-title: "Charme-personne"
-description: "La cible <em>charmée</em> se considère comme l'amie du PJ."
-school: "Enchantement"
+title: Charme-personne
+description: La cible <em>charmée</em> se considère comme l'amie du PJ.
+school: Enchantement
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 1 heure
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ de vision. Il doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, pour lequel il dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous ou vos compagnons êtes actuellement en train de le combattre. S'il rate son test, il est [_charmé_](/gerer-la-sante-du-personnage/#charme) par vous jusqu'à la fin du sort ou jusqu'à ce que vous ou vos compagnons lui fassiez du mal. La créature [_charmée_](/gerer-la-sante-du-personnage/#charme) vous considère comme un ami. Quand le sort se termine, elle sait que vous l'avez [_charmée_](/gerer-la-sante-du-personnage/#charme).
 

@@ -1,23 +1,23 @@
 ---
-title: "Bénédiction"
-description: "Jusqu'à trois cibles peuvent ajouter 1d4 à leurs jets d'attaque et de sauvegarde."
-school: "Enchantement"
+title: Bénédiction
+description: >-
+  Jusqu'à trois cibles peuvent ajouter 1d4 à leurs jets d'attaque et de
+  sauvegarde.
+school: Enchantement
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un peu d'eau bénite à asperger"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Clerc
-    - Paladin
-
-source: "Manuel des règles"
+  - Clerc
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un peu d'eau bénite à asperger
 ---
 Vous bénissez jusqu'à trois créatures de votre choix situées à portée. Quand une cible fait un [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) avant la fin du sort, elle lance 1d4 et ajoute le résultat obtenu au [jet d'attaque](/combattre/#jets-d-attaque) ou [de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 

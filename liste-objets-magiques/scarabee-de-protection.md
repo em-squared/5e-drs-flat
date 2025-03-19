@@ -1,10 +1,10 @@
 ---
-title: "Scarabée de protection"
-type: "Objet merveilleux"
+title: Scarabée de protection
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, une inscription apparaît à sa surface, révélant sa nature magique. Il confère deux avantages tant que vous le portez sur vous :
 * vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets de sauvegarde contre les sorts.

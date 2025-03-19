@@ -1,23 +1,23 @@
 ---
-title: "Résurrection suprême"
-description: "Ramène à la vie une créature décédée depuis 200 ans."
-school: "Nécromancie"
+title: Résurrection suprême
+description: Ramène à la vie une créature décédée depuis 200 ans.
+school: Nécromancie
 level: 9
 concentration: false
-casting_time: "1 heure"
-duration: "instantanée"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25000 po, que le sort consume"
+casting_time: 1 heure
+duration: instantanée
+range: contact
 ritual: false
 classes:
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un peu d'eau bénite à asperger et des diamants d'une valeur minimale de 25000
+  po, que le sort consume
 ---
 Vous touchez une créature décédée depuis 200 ans au maximum, de n'importe quelle cause sauf de vieillesse. Si son âme est libre et consentante, elle revient à la vie avec tous ses points de vie.
 

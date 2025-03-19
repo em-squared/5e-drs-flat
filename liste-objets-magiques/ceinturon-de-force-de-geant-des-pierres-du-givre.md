@@ -1,10 +1,10 @@
 ---
-title: "Ceinturon de force de géant des pierres/du givre"
-type: "Objet merveilleux"
+title: Ceinturon de force de géant des pierres/du givre
+type: Objet merveilleux
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Tant que vous portez ce ceinturon, votre valeur de Force est égale à 23. Si votre Force est déjà égale ou supérieure à celle qu'offre le ceinturon, ce dernier n'a aucun effet sur vous.
 

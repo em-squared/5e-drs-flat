@@ -1,44 +1,40 @@
 ---
-title: "Diable gelé"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "14"
+title: Diable gelé
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '14'
 hitDiceCount: 19
-abilityScores:
-  for: 21
-  dex: 14
-  con: 18
-  int: 18
-  sag: 15
-  cha: 18
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 6
-movement: 
-  walk: 12
-senses: 
-  blindsight: 18
-  darkvision: 36
-conditionImmunities: 
-  - "empoisonne"
-damageTypeResistances: 
-  - "c-p-t-non-argent"
-damageTypeImmunities: 
-  - "feu"
-  - "froid"
-  - "poison"
-languages: 
-  - "infernal"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+conditionImmunities:
+  - empoisonne
+damageTypeResistances:
+  - c-p-t-non-argent
+damageTypeImmunities:
+  - feu
+  - froid
+  - poison
+languages:
+  - infernal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 65
+abilityScores_for: 21
+abilityScores_dex: 14
+abilityScores_con: 18
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

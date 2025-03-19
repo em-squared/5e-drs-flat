@@ -1,30 +1,26 @@
 ---
-title: "Zimwi"
-type: "Géant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: Zimwi
+type: Géant
+size: M
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 9
-abilityScores:
-  for: 13
-  dex: 18
-  con: 19
-  int: 6
-  sag: 9
-  cha: 7
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "perception"
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "géant"
-source: "Livre des monstres"
+skills:
+  - name: perception
+languages:
+  - géant
+source: Livre des monstres
 source_page: 415
+abilityScores_for: 13
+abilityScores_dex: 18
+abilityScores_con: 19
+abilityScores_int: 6
+abilityScores_sag: 9
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. Le zimwi fait une attaque de _griffe_ et une attaque de _morsure_.

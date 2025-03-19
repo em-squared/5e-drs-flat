@@ -1,38 +1,34 @@
 ---
-title: "Léchy"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "1"
+title: Léchy
+type: Créature monstrueuse
+size: M
+alignment: Chaotique Neutre
+challenge: '1'
 hitDiceCount: 13
-abilityScores:
-  for: 16
-  dex: 12
-  con: 14
-  int: 14
-  sag: 15
-  cha: 16
-ac:
-  armorType: "armure naturelle"
-  value: 3
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "supercherie"
-  - name: "survie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
-conditionImmunities:
+  - name: discretion
+  - name: perception
+  - name: supercherie
+  - name: survie
+conditionImmunities: null
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
+  - commun
+  - elfique
+  - sylvestre
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 264
+abilityScores_for: 16
+abilityScores_dex: 12
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 15
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. Le léchy utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

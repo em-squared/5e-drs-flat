@@ -1,36 +1,32 @@
 ---
-title: "Hydre"
-type: "Créature monstrueuse"
-size: "TG"
-alignment: "non-alignée"
-challenge: "8"
+title: Hydre
+type: Créature monstrueuse
+size: TG
+alignment: non-alignée
+challenge: '8'
 hitDiceCount: 15
-abilityScores:
-  for: 20
-  dex: 12
-  con: 20
-  int: 2
-  sag: 10
-  cha: 7
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "perception"
+skills:
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "—"
+languages:
+  - —
 environments:
   - Littoral
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 193
+abilityScores_for: 20
+abilityScores_dex: 12
+abilityScores_con: 20
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Petit dormeur**_. Quand l'hydre dort, une de ses têtes au moins reste éveillée.

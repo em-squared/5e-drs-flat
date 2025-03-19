@@ -1,23 +1,23 @@
 ---
-title: "Chaîne d'éclairs"
-description: "Un éclair rebondit sur trois autres cibles qui subissent 10d8 dégâts."
-school: "Évocation"
+title: Chaîne d'éclairs
+description: Un éclair rebondit sur trois autres cibles qui subissent 10d8 dégâts.
+school: Évocation
 level: 6
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "450 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un morceau de fourrure"
+casting_time: 1 action
+duration: instantanée
+range: 450 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un éclat d'ambre, de verre ou de cristal, trois épingles en argent et un
+  morceau de fourrure
 ---
 Vous créez un arc électrique qui file vers une cible de votre choix, située à portée et dans votre champ de vision. Trois éclairs bondissent ensuite de cette cible sur un maximum de trois autres cibles qui doivent toutes se trouver dans un rayon de 9 mètres autour de la première. Une cible peut être une créature ou un objet et ne peut recevoir qu'un seul éclair.
 

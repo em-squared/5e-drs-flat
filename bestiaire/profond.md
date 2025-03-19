@@ -1,44 +1,40 @@
 ---
-title: "Profond"
-type: "Humanoïde"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: Profond
+type: Humanoïde
+size: M
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 14
-abilityScores:
-  for: 16
-  dex: 12
-  con: 14
-  int: 10
-  sag: 8
-  cha: 12
-savingThrows: 
-  - "for"
-  - "con"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  darkvision: 36
-damageTypeVulnerabilities: 
-  - "feu"
-damageTypeResistances: 
-  - "froid"
-languages: 
-  - "commun"
-  - "langue du Vide"
+savingThrows:
+  - for
+  - con
+  - cha
+damageTypeVulnerabilities:
+  - feu
+damageTypeResistances:
+  - froid
+languages:
+  - commun
+  - langue du Vide
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
   - Ruines sous-marines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 343
+abilityScores_for: 16
+abilityScores_dex: 12
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 8
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Un profond peut respirer aussi facilement dans l'eau que dans l'air.

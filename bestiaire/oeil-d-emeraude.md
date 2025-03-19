@@ -1,59 +1,55 @@
 ---
-title: "Œil d'émeraude"
-type: "Créature artificielle"
-size: "TP"
-alignment: "Chaotique Mauvais"
-challenge: "1"
+title: Œil d'émeraude
+type: Créature artificielle
+size: TP
+alignment: Chaotique Mauvais
+challenge: '1'
 hitDiceCount: 12
-abilityScores:
-  for: 3
-  dex: 15
-  con: 14
-  int: 15
-  sag: 12
-  cha: 16
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-ac:
-  armorType: "custom"
-  value: "14"
+  - dex
+  - con
+  - int
 skills:
-  - name: "acrobaties"
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "perception"
-  - name: "persuasion"
-  - name: "religion"
-  - name: "supercherie"
-movement:
-  walk: 0
-  fly: 9
-  hover: true
-senses:
-  blindsight: 18
+  - name: acrobaties
+  - name: arcanes
+  - name: histoire
+  - name: perception
+  - name: persuasion
+  - name: religion
+  - name: supercherie
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "empoisonne"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - assourdi
+  - aveugle
+  - empoisonne
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "feu"
-  - "froid"
-  - "perforant"
+  - feu
+  - froid
+  - perforant
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "draconique"
+  - commun
+  - draconique
 telepathy: 75
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 333
+abilityScores_for: 3
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 15
+abilityScores_sag: 12
+abilityScores_cha: 16
+ac_armorType: custom
+ac_value: '14'
+movement_walk: 0
+movement_fly: 9
+movement_hover: true
+senses_blindsight: 18
 ---
 ## Capacités
 _**Lié**_. Un œil d'émeraude ne peut pas se déplacer à plus de 7,50 m de la créature à laquelle il est lié psychiquement. Au moment de sa création, il est lié à son créateur. Une fois libéré, il peut cependant se lier à une autre créature en utilisant l'action lier.

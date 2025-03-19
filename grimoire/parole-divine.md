@@ -1,22 +1,22 @@
 ---
-title: "Parole divine"
-description: "Mot qui peut <em>assourdir</em>, <em>aveugler</em>, <em>étourdir</em>, voire tuer sur-le-champ."
-school: "Évocation"
+title: Parole divine
+description: >-
+  Mot qui peut <em>assourdir</em>, <em>aveugler</em>, <em>étourdir</em>, voire
+  tuer sur-le-champ.
+school: Évocation
 level: 7
 concentration: false
-casting_time: "1 action bonus"
-duration: "instantanée"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action bonus
+duration: instantanée
+range: 9 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Vous prononcez une parole divine, empreinte de la puissance qui a façonné le monde à l'aube de la création. Choisissez autant de créatures situées à portée et dans votre champ de vision que vous le désirez. Chacune de celles qui vous entendent doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme, ou souffrir d'un des effets suivants, selon son total actuel de points de vie.
 

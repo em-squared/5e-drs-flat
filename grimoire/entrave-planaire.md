@@ -1,25 +1,23 @@
 ---
-title: "Entrave planaire"
-description: "Le PJ s'attache les services d'une créature extraplanaire."
-school: "Abjuration"
+title: Entrave planaire
+description: Le PJ s'attache les services d'une créature extraplanaire.
+school: Abjuration
 level: 5
 concentration: false
-casting_time: "1 heure"
-duration: "24 heures"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un bijou d'une valeur minimale de 1000 po, que le sort consume"
+casting_time: 1 heure
+duration: 24 heures
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'un bijou d''une valeur minimale de 1000 po, que le sort consume'
 ---
 Grâce à ce sort, vous vous attachez de force les services d'un céleste, d'un élémentaire, d'une fée ou d'un fiélon. La créature doit se trouver à portée pendant toute la durée du sort. (En général, elle est d'abord invoquée au centre d'un cercle magique inversé où elle reste piégée le temps de l'incantation.) La cible doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme à la fin de l'incantation. Si elle échoue, elle est contrainte de vous servir pendant toute la durée du sort. Si elle a été invoquée ou créée via un autre sort, la durée de ce dernier se prolonge jusqu'à égaler celle de l'entrave planaire.
 

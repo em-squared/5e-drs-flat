@@ -1,52 +1,52 @@
 ---
-title: "Nihileth"
-type: "Mort-vivant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "12"
+title: Nihileth
+type: Mort-vivant
+size: G
+alignment: Chaotique Mauvais
+challenge: '12'
 hitDiceCount: 18
-abilityScores:
-  for: 21
-  dex: 9
-  con: 15
-  int: 18
-  sag: 15
-  cha: 18
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 8
+  - con
+  - int
+  - sag
 skills:
-  - name: "histoire"
+  - name: histoire
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 3
-  swim: 12
-  special: "vol 12 m (uniquement sous forme éthérée, vol stationnaire)"
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-customDamageTypeResistances: "d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée) ; contondants, perforants et tranchants infligés par des armes non magiques"
-customDamageTypeImmunities: "de froid, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des armes non magiques (seulement sous sa forme éthérée)"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
+  - terrorise
+customDamageTypeResistances: >-
+  d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée) ;
+  contondants, perforants et tranchants infligés par des armes non magiques
+customDamageTypeImmunities: >-
+  de froid, nécrotiques, de poison ; contondants, perforants et tranchants
+  infligés par des armes non magiques (seulement sous sa forme éthérée)
 languages:
-  - "langue du Vide"
+  - langue du Vide
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 8
+abilityScores_for: 21
+abilityScores_dex: 9
+abilityScores_con: 15
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 3
+movement_swim: 12
+movement_special: 'vol 12 m (uniquement sous forme éthérée, vol stationnaire)'
+senses_darkvision: 36
 ---
 ## Capacités
 _**Robustesse de la non-vie**_. Si un nihileth est réduit à 0 point de vie par des dégâts, il fait un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution avec un DD de 5 + la quantité de dégâts qu'il a reçus, sauf s'il s'agit de dégâts radiants ou d'un coup critique. Sur une réussite, il est seulement réduit à 1 point de vie.

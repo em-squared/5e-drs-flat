@@ -1,37 +1,33 @@
 ---
-title: "Titanoboa"
-type: "Bête"
-size: "Gig"
-alignment: "non-alignée"
-challenge: "12"
+title: Titanoboa
+type: Bête
+size: Gig
+alignment: non-alignée
+challenge: '12'
 hitDiceCount: 15
-abilityScores:
-  for: 26
-  dex: 10
-  con: 20
-  int: 3
-  sag: 10
-  cha: 3
 savingThrows:
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - dex
+  - sag
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-  climb: 12
-  swim: 12
-senses:
-  blindsight: 3
+  - name: perception
 languages:
-  - "—"
+  - —
 environments:
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 383
+abilityScores_for: 26
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 3
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+movement_climb: 12
+movement_swim: 12
+senses_blindsight: 3
 ---
 ## Capacités
 _**Onduler**_. Si le titanoboa n'a pas mangé de créature de Très Grande taille au cours des 24 heures précédentes, il peut traverser un emplacement étroit d'au minimum 3 mètres sans avoir besoin de se faufiler ou un emplacement de 1,50 mètre en se faufilant.

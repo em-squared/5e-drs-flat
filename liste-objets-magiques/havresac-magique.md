@@ -1,10 +1,10 @@
 ---
-title: "Havresac magique"
-type: "Objet merveilleux"
+title: Havresac magique
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce sac à dos dispose d'une poche centrale et de deux poches latérales, chacune donnant sur un espace extradimensionnel. Chaque poche latérale peut recevoir jusqu'à 10 kilos de matériel, sans dépasser un volume de 30 litres. La grande poche centrale peut accueillir jusqu'à 120 litres ou 40 kilos de matériel. Le sac pèse toujours 2,5 kilos, quel que soit son contenu.
 

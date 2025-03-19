@@ -1,46 +1,42 @@
 ---
-title: "Tophet"
-type: "Créature artificielle"
-size: "TG"
-alignment: "Neutre Mauvais"
-challenge: "8"
+title: Tophet
+type: Créature artificielle
+size: TG
+alignment: Neutre Mauvais
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 24
-  dex: 10
-  con: 20
-  int: 6
-  sag: 10
-  cha: 10
-savingThrows: 
-  - "for"
-  - "dex"
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 6
-skills: 
-  - name: "perception"
-movement: 
-  walk: 9
-senses: 
-  darkvision: 60
-conditionImmunities: 
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeResistances: 
-  - "necrotique"
-damageTypeImmunities: 
-  - "feu"
-  - "froid"
-  - "poison"
-languages: 
-  - "commun"
-source: "Livre des monstres"
+savingThrows:
+  - for
+  - dex
+  - con
+skills:
+  - name: perception
+conditionImmunities:
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeResistances:
+  - necrotique
+damageTypeImmunities:
+  - feu
+  - froid
+  - poison
+languages:
+  - commun
+source: Livre des monstres
 source_page: 384
+abilityScores_for: 24
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 9
+senses_darkvision: 60
 ---
 ## Capacités
 _**Cœur enflammé**_. Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.

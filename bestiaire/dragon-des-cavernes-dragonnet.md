@@ -1,47 +1,43 @@
 ---
-title: "Dragon des cavernes, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: 'Dragon des cavernes, dragonnet'
+type: Dragon
+size: M
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 10
-abilityScores:
-  for: 19
-  dex: 12
-  con: 17
-  int: 8
-  sag: 10
-  cha: 12
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
-movement:
-  walk: 9
-  burrow: 6
-  fly: 6
-senses:
-  blindsight: 36
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeImmunities:
-  - "acide"
-  - "poison"
-  - "tonnerre"
+  - acide
+  - poison
+  - tonnerre
 languages:
-  - "draconique"
+  - draconique
 dungeonTypes:
   - Caverne aménagée
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 135
+abilityScores_for: 19
+abilityScores_dex: 12
+abilityScores_con: 17
+abilityScores_int: 8
+abilityScores_sag: 10
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_burrow: 6
+movement_fly: 6
+senses_blindsight: 36
 ---
 ## Capacités
 _**Fouisseur**_. Un dragon des cavernes est capable de creuser à travers la pierre solide en se déplaçant de la moitié de sa vitesse de fouissement. Il laisse derrière lui un tunnel de 1,50 mètre de large sur 1,50 mètre de haut.

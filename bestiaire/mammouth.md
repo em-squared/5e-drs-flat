@@ -1,29 +1,26 @@
 ---
-title: "Mammouth"
-type: "Bête"
-size: "TG"
-alignment: "non-alignée"
-challenge: "6"
+title: Mammouth
+type: Bête
+size: TG
+alignment: non-alignée
+challenge: '6'
 hitDiceCount: 11
-abilityScores:
-  for: 24
-  dex: 9
-  con: 21
-  int: 3
-  sag: 11
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-movement: 
-  walk: 12
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 312
+abilityScores_for: 24
+abilityScores_dex: 9
+abilityScores_con: 21
+abilityScores_int: 3
+abilityScores_sag: 11
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
 ---
 ## Capacités
 _**Charge écrasante**_. Si le mammouth se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 18 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le mammouth peut effectuer contre elle une attaque de piétinement par une action bonus.

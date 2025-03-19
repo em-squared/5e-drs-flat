@@ -1,43 +1,39 @@
 ---
-title: "Hezrou"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "8"
+title: Hezrou
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '8'
 hitDiceCount: 13
-abilityScores:
-  for: 19
-  dex: 17
-  con: 20
-  int: 5
-  sag: 12
-  cha: 13
 savingThrows:
-  - "for"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 9
-senses:
-  darkvision: 36
+  - for
+  - con
+  - sag
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 53
+abilityScores_for: 19
+abilityScores_dex: 17
+abilityScores_con: 20
+abilityScores_int: 5
+abilityScores_sag: 12
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Puanteur**_. Les créatures qui commencent leur tour à 3 mètres ou moins de l'hezrou doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 pour ne pas être [_empoisonnées_](/gerer-la-sante-du-personnage/#empoisonne) jusqu'au début de leur prochain tour. Les créatures qui ont réussi leur [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) sont immunisées contre la puanteur de l'hezrou pendant 24 heures.

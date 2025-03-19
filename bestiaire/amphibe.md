@@ -1,41 +1,37 @@
 ---
-title: "Amphibe"
-type: "Aberration"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "2"
+title: Amphibe
+type: Aberration
+size: M
+alignment: Loyal Mauvais
+challenge: '2'
 hitDiceCount: 13
-abilityScores:
-  for: 17
-  dex: 11
-  con: 13
-  int: 10
-  sag: 10
-  cha: 4
-ac:
-  armorType: "custom"
-  value: "12"
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 3
-movement:
-  walk: 9
-  swim: 9
-senses:
-  darkvision: 18
 languages:
-  - "commun des profondeurs"
+  - commun des profondeurs
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 25
+abilityScores_for: 17
+abilityScores_dex: 11
+abilityScores_con: 13
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 4
+ac_armorType: custom
+ac_value: '12'
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. L'amphibe peut respirer à l'air libre et sous l'eau.

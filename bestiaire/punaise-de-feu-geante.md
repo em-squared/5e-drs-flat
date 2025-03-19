@@ -1,34 +1,30 @@
 ---
-title: "Punaise de feu géante"
-type: "Bête"
-size: "P"
-alignment: "non-alignée"
-challenge: "0"
+title: Punaise de feu géante
+type: Bête
+size: P
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 8
-  dex: 10
-  con: 12
-  int: 1
-  sag: 7
-  cha: 3
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-movement: 
-  walk: 9
-senses: 
-  blindsight: 9
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Bois / Forêt
 dungeonTypes:
   - Caverne aménagée
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 318
+abilityScores_for: 8
+abilityScores_dex: 10
+abilityScores_con: 12
+abilityScores_int: 1
+abilityScores_sag: 7
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_blindsight: 9
 ---
 ## Capacités
 _**Illumination**_. La punaise diffuse une lumière vive sur un rayon de 3 mètres et une lumière faible sur un rayon de 3 mètres supplémentaires.

@@ -1,22 +1,20 @@
 ---
-title: "Explosion occulte"
-description: "Éclair d'énergie qui inflige 1d10 dégâts de force."
-school: "Évocation"
+title: Explosion occulte
+description: Éclair d'énergie qui inflige 1d10 dégâts de force.
+school: Évocation
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: instantanée
+range: 36 mètres
 ritual: false
 classes:
-    - Sorcier
-
-source: "Manuel des règles"
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Un éclair d'énergie crépitante file vers une créature à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre la cible. Si vous réussissez, elle subit 1d10 dégâts de force.
 

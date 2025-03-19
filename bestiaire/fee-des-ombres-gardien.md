@@ -1,39 +1,35 @@
 ---
-title: "Fée des ombres, gardien"
-type: "Humanoïde"
-subtype: "Elfe"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "4"
+title: 'Fée des ombres, gardien'
+type: Humanoïde
+subtype: Elfe
+size: G
+alignment: Neutre Mauvais
+challenge: '4'
 hitDiceCount: 13
-abilityScores:
-  for: 18
-  dex: 14
-  con: 16
-  int: 6
-  sag: 14
-  cha: 8
 savingThrows:
-  - "for"
-  - "con"
-ac:
-  armorType: "chemise de mailles"
+  - for
+  - con
 skills:
-  - name: "athletisme"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: athletisme
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 languages:
-  - "commun"
-  - "elfique"
-  - "umbral"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - umbral
+source: Livre des monstres
 source_page: 169
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 6
+abilityScores_sag: 14
+abilityScores_cha: 8
+ac_armorType: chemise de mailles
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Ascendance féerique**_. Une fée des ombres est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état [_charmé_](/gerer-la-sante-du-personnage/#charme) et il est impossible de l'endormir par magie.

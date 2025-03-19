@@ -1,32 +1,28 @@
 ---
-title: "Morphoï"
-type: "Plante"
-subtype: "métamorphe"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "0.5"
+title: Morphoï
+type: Plante
+subtype: métamorphe
+size: M
+alignment: Chaotique Mauvais
+challenge: '0.5'
 hitDiceCount: 6
-abilityScores:
-  for: 11
-  dex: 16
-  con: 13
-  int: 14
-  sag: 10
-  cha: 15
-ac:
-  armorType: "custom"
-  value: "13 (parfois plus avec une armure)"
-movement:
-  walk: 9
-  swim: 9
-senses:
-  darkvision: 18
 languages:
-  - "commun"
+  - commun
 environments:
   - Littoral
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 311
+abilityScores_for: 11
+abilityScores_dex: 16
+abilityScores_con: 13
+abilityScores_int: 14
+abilityScores_sag: 10
+abilityScores_cha: 15
+ac_armorType: custom
+ac_value: 13 (parfois plus avec une armure)
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le morphoï respire à l'air libre et sous l'eau.

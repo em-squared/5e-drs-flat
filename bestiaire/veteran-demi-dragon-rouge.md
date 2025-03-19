@@ -1,38 +1,34 @@
 ---
-title: "Vétéran demi-dragon rouge"
-type: "Humanoïde"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "5"
+title: Vétéran demi-dragon rouge
+type: Humanoïde
+size: M
+alignment: n'importe quel alignement
+challenge: '5'
 hitDiceCount: 10
-abilityScores:
-  for: 16
-  dex: 13
-  con: 14
-  int: 10
-  sag: 11
-  cha: 10
-ac: 
-  armorType: "harnois"
-skills: 
-  - name: "athletisme"
+skills:
+  - name: athletisme
     invalid: true
     value: 5
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 2
-movement: 
-  walk: 9
-senses: 
-  blindsight: 3
-  darkvision: 18
-damageTypeResistances: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
-source: "Créatures & Oppositions"
+damageTypeResistances:
+  - feu
+languages:
+  - commun
+  - draconique
+source: Créatures & Oppositions
 source_page: 46
+abilityScores_for: 16
+abilityScores_dex: 13
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 10
+ac_armorType: harnois
+movement_walk: 9
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Arbalète lourde**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 30/120 m, une cible.  

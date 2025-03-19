@@ -1,10 +1,10 @@
 ---
-title: "Baume revigorant"
-type: "Objet merveilleux"
+title: Baume revigorant
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce pot en verre de 7 à 8 centimètres de diamètre contient 1d4+1 doses d'une mixture épaisse qui sent légèrement l'aloès. Le pot et son contenu pèsent un total de 250 grammes.
 

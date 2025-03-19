@@ -1,26 +1,24 @@
 ---
-title: "Illusion mineure"
-description: "Créer un son ou une image représentant un objet."
-school: "Illusion"
+title: Illusion mineure
+description: Créer un son ou une image représentant un objet.
+school: Illusion
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "9 mètres"
-components:
-  verbal: false
-  somatic: true
-  material: true
-  materials: "un morceau de toison"
+casting_time: 1 action
+duration: 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: false
+components_somatic: true
+components_material: true
+components_materials: un morceau de toison
 ---
 Vous créez à portée un son ou une image représentant un objet. L'illusion persiste pendant toute la durée du sort, et se dissipe si vous révoquez le sort par une action ou si vous lancez de nouveau ce sort.
 

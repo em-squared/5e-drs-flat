@@ -1,36 +1,32 @@
 ---
-title: "Mirageur"
-type: "Fée"
-subtype: "métamorphe"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "3"
+title: Mirageur
+type: Fée
+subtype: métamorphe
+size: M
+alignment: Neutre Mauvais
+challenge: '3'
 hitDiceCount: 12
-abilityScores:
-  for: 12
-  dex: 16
-  con: 14
-  int: 10
-  sag: 14
-  cha: 20
-ac:
-  armorType: null
 skills:
-  - name: "perception"
-  - name: "representation"
+  - name: perception
+  - name: representation
     isExpert: true
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: supercherie
 languages:
-  - "commun"
-  - "sylvestre"
+  - commun
+  - sylvestre
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 304
+abilityScores_for: 12
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 20
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Métamorphe**_. Le mirageur peut utiliser une action pour se changer en humanoïde de taille Moyenne ou Petite ou reprendre son apparence normale. En dehors de la taille, ses statistiques restent les mêmes quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.

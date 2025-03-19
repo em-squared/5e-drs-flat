@@ -1,24 +1,22 @@
 ---
-title: "Contrôle de l'eau"
-description: "Permet de contrôler une étendue d'eau."
-school: "Transmutation"
+title: Contrôle de l'eau
+description: Permet de contrôler une étendue d'eau.
+school: Transmutation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "90 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une goutte d'eau et une pincée de poussière"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 90 mètres
 ritual: false
 classes:
-    - Clerc
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une goutte d'eau et une pincée de poussière
 ---
 Jusqu'à la fin du sort, vous contrôlez toute étendue d'eau indépendante située dans la zone de votre choix, cette dernière devant tenir dans un cube d'au maximum 30 mètres d'arête. Quand vous lancez ce sort, vous pouvez choisir l'un des effets suivants. À votre tour, vous pouvez utiliser une action pour répéter l'effet ou en appliquer un nouveau.
 

@@ -1,45 +1,41 @@
 ---
-title: "Pouding noir"
-type: "Vase"
-size: "G"
-alignment: "non-alignée"
-challenge: "4"
+title: Pouding noir
+type: Vase
+size: G
+alignment: non-alignée
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 16
-  dex: 5
-  con: 16
-  int: 1
-  sag: 6
-  cha: 1
-ac:
-  armorType: null
-movement:
-  walk: 6
-  climb: 6
-senses:
-  blindsight: 18
-  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - terrorise
 damageTypeImmunities:
-  - "acide"
-  - "foudre"
-  - "froid"
-  - "tranchant"
+  - acide
+  - foudre
+  - froid
+  - tranchant
 languages:
-  - ""
+  - ''
 dungeonTypes:
   - Caverne aménagée
   - Caverne naturelle
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 284
+abilityScores_for: 16
+abilityScores_dex: 5
+abilityScores_con: 16
+abilityScores_int: 1
+abilityScores_sag: 6
+abilityScores_cha: 1
+ac_armorType: null
+movement_walk: 6
+movement_climb: 6
+senses_blindsight: 18
+senses_customBlindSight: 18 m (aveugle au-delà de ce rayon)
 ---
 ## Capacités
 _**Corrosif**_. Une créature qui touche le pouding ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 4 (1d8) dégâts d'acide. Les armes non-magiques en métal ou en bois qui entrent en contact avec le pouding se corrodent. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal ou en bois qui entrent en contact avec le pouding sont détruites après avoir infligé leurs dégâts.  

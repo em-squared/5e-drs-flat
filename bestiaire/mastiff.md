@@ -1,31 +1,28 @@
 ---
-title: "Mastiff"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.125"
+title: Mastiff
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.125'
 hitDiceCount: 1
-abilityScores:
-  for: 13
-  dex: 14
-  con: 12
-  int: 3
-  sag: 12
-  cha: 7
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
-movement: 
-  walk: 12
-senses: 
-languages: 
-  - ""
+skills:
+  - name: perception
+senses: null
+languages:
+  - ''
 environments:
   - Collines / Vallées
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 312
+abilityScores_for: 13
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 7
+ac_armorType: null
+movement_walk: 12
 ---
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le mastiff obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.

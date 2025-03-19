@@ -1,10 +1,10 @@
 ---
-title: "Bol de contrôle des élémentaires d'eau"
-type: "Objet merveilleux"
+title: Bol de contrôle des élémentaires d'eau
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Tant que ce bol est rempli d'eau, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'eau, comme si vous aviez lancé le sort [_invoquer un élémentaire_](/grimoire/invoquer-un-elementaire/). Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le bol.
 

@@ -1,10 +1,10 @@
 ---
-title: "Vengeresse sacrée"
-type: "Arme"
-subtype: "Épée"
-rarity: "Légendaire"
-attunement: "harmonisation requise avec un paladin"
-source: "Cadre de campagne"
+title: Vengeresse sacrée
+type: Arme
+subtype: Épée
+rarity: Légendaire
+attunement: harmonisation requise avec un paladin
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Quand vous touchez un fiélon ou un mort-vivant avec, il subit 2d10 dégâts radiants supplémentaires.
 

@@ -1,10 +1,12 @@
 ---
-title: "Bâton d'envoûtement"
-type: "Bâton"
+title: Bâton d'envoûtement
+type: Bâton
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: >-
+  harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien
+  ou un sorcier exigée
+source: Cadre de campagne
 ---
 Tant que vous tenez ce bâton en main, vous pouvez utiliser une action pour dépenser 1 des 10 charges qu'il contient et lancer [_charme-personne_](/grimoire/charme-personne/), [_injonction_](/grimoire/injonction/) ou [_compréhension des langues_](/grimoire/comprehension-des-langues/) par son biais en appliquant le DD des jets de sauvegarde contre vos sorts. On peut également manier ce bâton comme une arme magique.
 

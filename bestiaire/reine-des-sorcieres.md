@@ -1,55 +1,51 @@
 ---
-title: "Reine des sorcières"
-type: "Fée"
-size: "G"
-alignment: "Neutre"
-challenge: "17"
+title: Reine des sorcières
+type: Fée
+size: G
+alignment: Neutre
+challenge: '17'
 hitDiceCount: 13
-abilityScores:
-  for: 22
-  dex: 10
-  con: 19
-  int: 16
-  sag: 18
-  cha: 22
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 8
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 12
-  fly: 15
-  hover: true
-senses:
-  truesight: 18
+  - name: arcanes
+  - name: histoire
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "aveugle"
-  - "charme"
-  - "terrorise"
+  - aveugle
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "feu"
-  - "froid"
-  - "c-p-t-non-fer-froid"
+  - feu
+  - froid
+  - c-p-t-non-fer-froid
 damageTypeImmunities:
-  - "radiant"
+  - radiant
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "elfique"
-  - "sylvestre"
-  - "umbral"
-source: "Livre des monstres"
+  - céleste
+  - commun
+  - draconique
+  - elfique
+  - sylvestre
+  - umbral
+source: Livre des monstres
 source_page: 184
+abilityScores_for: 22
+abilityScores_dex: 10
+abilityScores_con: 19
+abilityScores_int: 16
+abilityScores_sag: 18
+abilityScores_cha: 22
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_fly: 15
+movement_hover: true
+senses_truesight: 18
 ---
 ## Capacités
 _**Absorption de la trame**_. Quand la Reine des sorcières contre ou dissipe un sort, elle est soignée d'un nombre de points de vie égal à deux fois le niveau du sort.

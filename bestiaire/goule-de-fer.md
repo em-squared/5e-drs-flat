@@ -1,36 +1,32 @@
 ---
-title: "Goule de fer"
-type: "Mort-vivant"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "5"
+title: Goule de fer
+type: Mort-vivant
+size: M
+alignment: Loyal Mauvais
+challenge: '5'
 hitDiceCount: 22
-abilityScores:
-  for: 18
-  dex: 16
-  con: 14
-  int: 14
-  sag: 14
-  cha: 14
-ac:
-  armorType: "cuirasse"
-movement:
-  walk: 9
-  burrow: 6
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
+  - charme
+  - empoisonne
+  - epuise
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "darakhul"
-  - "commun des profondeurs"
-source: "Livre des monstres"
+  - commun
+  - darakhul
+  - commun des profondeurs
+source: Livre des monstres
 source_page: 218
+abilityScores_for: 18
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 14
+abilityScores_cha: 14
+ac_armorType: cuirasse
+movement_walk: 9
+movement_burrow: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Braver le renvoi**_. La goule de fer et toutes les goules dans un rayon de 9 mètres autour d'elle sont [_avantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le renvoi des morts-vivants.

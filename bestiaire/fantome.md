@@ -1,52 +1,48 @@
 ---
-title: "Fantôme"
-type: "Mort-vivant"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "4"
+title: Fantôme
+type: Mort-vivant
+size: M
+alignment: n'importe quel alignement
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 7
-  dex: 13
-  con: 10
-  int: 10
-  sag: 12
-  cha: 17
-ac:
-  armorType: null
-movement:
-  walk: 0
-  fly: 12
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "froid"
-  - "necrotique"
-  - "poison"
+  - froid
+  - necrotique
+  - poison
 languages:
-  - "toutes les langues qu'il connaissait de son vivant"
+  - toutes les langues qu'il connaissait de son vivant
 dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 142
+abilityScores_for: 7
+abilityScores_dex: 13
+abilityScores_con: 10
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 17
+ac_armorType: null
+movement_walk: 0
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Déplacement intangible**_. Le fantôme peut traverser créatures et objets en les considérant comme un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.

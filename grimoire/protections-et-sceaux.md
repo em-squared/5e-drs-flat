@@ -1,23 +1,24 @@
 ---
-title: "Protections et sceaux"
-description: "Permet de placer des protections dans un bâtiment."
-school: "Abjuration"
+title: Protections et sceaux
+description: Permet de placer des protections dans un bâtiment.
+school: Abjuration
 level: 6
 concentration: false
-casting_time: "10 minutes"
-duration: "24 heures"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "encens incandescent, petite dose de soufre et d'huile, cordelette avec des nœuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une valeur minimale de 10 po"
+casting_time: 10 minutes
+duration: 24 heures
+range: contact
 ritual: false
 classes:
-    - Barde
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  encens incandescent, petite dose de soufre et d'huile, cordelette avec des
+  nœuds, petite dose de sang d'ombre des roches et petit sceptre en argent d'une
+  valeur minimale de 10 po
 ---
 Vous créez un sceau protégeant une zone au sol de 225 mètres carrés (soit une zone de 15 mètres de côté, soit une centaine de zones de 1,50 mètre de côté, soit vingt-cinq zones de 3 mètres de côté). La zone protégée fait au maximum 6 mètres de haut et prend la forme de votre choix. Vous pouvez protéger ainsi plusieurs étages d'une place forte en répartissant la zone affectée entre eux tant que vous pouvez relier toutes les zones contiguës en marchant lorsque vous lancez le sort.
 

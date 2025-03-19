@@ -1,47 +1,43 @@
 ---
-title: "Shoggoth"
-type: "Aberration"
-size: "TG"
-alignment: "Chaotique Neutre"
-challenge: "19"
+title: Shoggoth
+type: Aberration
+size: TG
+alignment: Chaotique Neutre
+challenge: '19'
 hitDiceCount: 25
-abilityScores:
-  for: 26
-  dex: 14
-  con: 28
-  int: 12
-  sag: 16
-  cha: 13
-ac:
-  armorType: "armure naturelle"
-  value: 6
 skills:
-  - name: "perception"
-movement:
-  walk: 15
-  climb: 9
-  swim: 9
-senses:
-  darkvision: 36
-  tremorsense: 18
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "etourdi"
-  - "inconscient"
+  - a-terre
+  - assourdi
+  - aveugle
+  - etourdi
+  - inconscient
 damageTypeResistances:
-  - "contondant"
-  - "feu"
-  - "perforant"
+  - contondant
+  - feu
+  - perforant
 damageTypeImmunities:
-  - "froid"
-  - "tonnerre"
-  - "tranchant"
+  - froid
+  - tonnerre
+  - tranchant
 languages:
-  - "langue du Vide"
-source: "Livre des monstres"
+  - langue du Vide
+source: Livre des monstres
 source_page: 365
+abilityScores_for: 26
+abilityScores_dex: 14
+abilityScores_con: 28
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 15
+movement_climb: 9
+movement_swim: 9
+senses_darkvision: 36
+senses_tremorsense: 18
 ---
 ## Capacités
 _**Anaérobie**_. Le shoggoth n'a pas besoin d'oxygène pour vivre. Il vit aussi bien au fond de l'océan que dans le vide de l'espace.

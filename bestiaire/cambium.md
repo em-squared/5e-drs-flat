@@ -1,51 +1,47 @@
 ---
-title: "Cambium"
-type: "Fiélon"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "14"
+title: Cambium
+type: Fiélon
+size: G
+alignment: Neutre Mauvais
+challenge: '14'
 hitDiceCount: 23
-abilityScores:
-  for: 21
-  dex: 16
-  con: 23
-  int: 17
-  sag: 16
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "discretion"
-  - name: "medecine"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: discretion
+  - name: medecine
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
-  - "epuise"
+  - empoisonne
+  - epuise
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "draconique"
-  - "infernal"
+  - commun
+  - draconique
+  - infernal
 dungeonTypes:
   - Donjon maçonné
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 52
+abilityScores_for: 21
+abilityScores_dex: 16
+abilityScores_con: 23
+abilityScores_int: 17
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un cambium est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

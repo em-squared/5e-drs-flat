@@ -1,43 +1,39 @@
 ---
-title: "Vidien"
-type: "Aberration"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "11"
+title: Vidien
+type: Aberration
+size: G
+alignment: Chaotique Mauvais
+challenge: '11'
 hitDiceCount: 20
-abilityScores:
-  for: 15
-  dex: 22
-  con: 10
-  int: 14
-  sag: 16
-  cha: 10
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: null
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-movement:
-  walk: 0
-  fly: 15
-  hover: true
-senses:
-  truesight: 18
+  - name: discretion
 conditionImmunities:
-  - "a-terre"
-  - "epuise"
-  - "petrifie"
+  - a-terre
+  - epuise
+  - petrifie
 damageTypeImmunities:
-  - "necrotique"
+  - necrotique
 languages:
-  - ""
+  - ''
 telepathy: 18
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 404
+abilityScores_for: 15
+abilityScores_dex: 22
+abilityScores_con: 10
+abilityScores_int: 14
+abilityScores_sag: 16
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 0
+movement_fly: 15
+movement_hover: true
+senses_truesight: 18
 ---
 ## Capacités
 _**Nourri de ténèbres**_. Si un vidien se trouve dans des ténèbres magiques au début de son tour, il guérit de 5 points de vie.

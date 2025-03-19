@@ -1,32 +1,28 @@
 ---
-title: "Manticore"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "3"
+title: Manticore
+type: Créature monstrueuse
+size: G
+alignment: Loyal Mauvais
+challenge: '3'
 hitDiceCount: 8
-abilityScores:
-  for: 17
-  dex: 16
-  con: 17
-  int: 7
-  sag: 12
-  cha: 8
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-movement: 
-  walk: 9
-  fly: 15
-senses: 
-  darkvision: 18
-languages: 
-  - "commun"
+languages:
+  - commun
 environments:
   - Désert chaud
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 216
+abilityScores_for: 17
+abilityScores_dex: 16
+abilityScores_con: 17
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_fly: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Repousse des piquants caudaux**_. La manticore dispose de vingt-quatre piquants caudaux. Les piquants utilisés repoussent après une période de repos long.

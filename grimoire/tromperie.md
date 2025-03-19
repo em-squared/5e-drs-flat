@@ -1,23 +1,21 @@
 ---
-title: "Tromperie"
-description: "Le PJ est <em>invisible</em> et crée un double illusoire de lui-même."
-school: "Illusion"
+title: Tromperie
+description: Le PJ est <em>invisible</em> et crée un double illusoire de lui-même.
+school: Illusion
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "personnelle"
-components:
-  verbal: false
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+source: Manuel des règles
+components_verbal: false
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous devenez [_invisible_](/gerer-la-sante-du-personnage/#invisible) à l'instant même où un double illusoire de votre personne apparaît là où vous vous trouvez. Ce double persiste pendant toute la durée du sort, mais votre invisibilité se termine dès que vous lancez un sort ou attaquez.
 

@@ -1,10 +1,10 @@
 ---
-title: "Lame porte-bonheur"
-type: "Arme"
-subtype: "Épée"
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Lame porte-bonheur
+type: Arme
+subtype: Épée
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique. Tant qu'elle se trouve en votre possession, vous gagnez un bonus de +1 aux jets de sauvegarde.
 

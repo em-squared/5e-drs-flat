@@ -1,55 +1,51 @@
 ---
-title: "Avatar de Borée"
-type: "Élémentaire"
-subtype: "Métamorphe"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "17"
+title: Avatar de Borée
+type: Élémentaire
+subtype: Métamorphe
+size: M
+alignment: Chaotique Mauvais
+challenge: '17'
 hitDiceCount: 16
-abilityScores:
-  for: 25
-  dex: 22
-  con: 22
-  int: 18
-  sag: 19
-  cha: 21
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "nature"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 15
-  fly: 36
-senses:
-  darkvision: 18
-  truesight: 36
+  - name: discretion
+  - name: nature
+  - name: perception
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
-  - "petrifie"
+  - empoisonne
+  - petrifie
 damageTypeResistances:
-  - "acide"
+  - acide
 damageTypeImmunities:
-  - "foudre"
-  - "froid"
-  - "poison"
-  - "tonnerre"
+  - foudre
+  - froid
+  - poison
+  - tonnerre
 languages:
-  - "commun"
-  - "géant"
-  - "infernal"
-  - "nain"
+  - commun
+  - géant
+  - infernal
+  - nain
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 45
+abilityScores_for: 25
+abilityScores_dex: 22
+abilityScores_con: 22
+abilityScores_int: 18
+abilityScores_sag: 19
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 15
+movement_fly: 36
+senses_darkvision: 18
+senses_truesight: 36
 ---
 ## Capacités
 _**Présence glaciale**_. Borée gèle tout ce qui se trouve dans un rayon de 45 mètres autour de lui. Au bout de 5 rounds les feux non magiques dont la taille équivaut à celle d'un feu de camp s'éteignent. L'eau gèle au bout de 1 minute. Les sorts qui protègent contre le froid sont immédiatement sujets à [_dissipation de la magie_](/grimoire/dissipation-de-la-magie/) (avec une caractéristique d'incantation de +10) dans un rayon de 45 mètres autour de Borée.

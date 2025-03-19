@@ -1,51 +1,47 @@
 ---
-title: "Valkyrie"
-type: "Céleste"
-size: "M"
-alignment: "Neutre"
-challenge: "11"
+title: Valkyrie
+type: Céleste
+size: M
+alignment: Neutre
+challenge: '11'
 hitDiceCount: 15
-abilityScores:
-  for: 18
-  dex: 18
-  con: 16
-  int: 12
-  sag: 19
-  cha: 18
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "custom"
-  value: "16 (cotte de mailles) ou 18 (cotte de mailles et bouclier)"
+  - for
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 9
-senses:
-  truesight: 18
+  - name: perception
 conditionImmunities:
-  - "terrorise"
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "tonnerre"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - tonnerre
 damageTypeImmunities:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "géant"
-  - "nain"
-  - "voir don des langues"
-source: "Livre des monstres"
+  - commun
+  - géant
+  - nain
+  - voir don des langues
+source: Livre des monstres
 source_page: 395
+abilityScores_for: 18
+abilityScores_dex: 18
+abilityScores_con: 16
+abilityScores_int: 12
+abilityScores_sag: 19
+abilityScores_cha: 18
+ac_armorType: custom
+ac_value: 16 (cotte de mailles) ou 18 (cotte de mailles et bouclier)
+movement_walk: 9
+movement_fly: 9
+senses_truesight: 18
 ---
 ## Capacités
 _**Armes d'Asgard**_. Les attaques d'arme de la valkyrie sont magiques. Quand elle touche avec une arme, elle inflige 11 (2d10) dégâts radiants supplémentaires (y compris avec les attaques indiquées plus bas).

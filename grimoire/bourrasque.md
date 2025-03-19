@@ -1,24 +1,22 @@
 ---
-title: "Bourrasque"
-description: "Crée un vent violent qui ralentit et <em>repousse</em> les créatures."
-school: "Évocation"
+title: Bourrasque
+description: Crée un vent violent qui ralentit et <em>repousse</em> les créatures.
+school: Évocation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle (ligne de 18 mètres)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une graine de légume"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle (ligne de 18 mètres)
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une graine de légume
 ---
 Une zone de fort vent de 18 mètres de long sur 3 mètres de large souffle depuis votre position dans la direction de votre choix pendant toute la durée du sort. Chaque créature qui débute son tour dans la zone doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force, sans quoi elle est rejetée de 4,50 mètres à l'opposé de vous, dans la direction du vent.
 

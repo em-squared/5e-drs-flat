@@ -1,45 +1,41 @@
 ---
-title: "Dragon d'or, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Loyal Bon"
-challenge: "24"
+title: 'Dragon d''or, vénérable'
+type: Dragon
+size: Gig
+alignment: Loyal Bon
+challenge: '24'
 hitDiceCount: 28
-abilityScores:
-  for: 30
-  dex: 14
-  con: 29
-  int: 18
-  sag: 17
-  cha: 28
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 10
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-movement: 
-  walk: 12
-  swim: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
-source: "Créatures & Oppositions"
+  - name: perspicacite
+  - name: persuasion
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
+source: Créatures & Oppositions
 source_page: 120
+abilityScores_for: 30
+abilityScores_dex: 14
+abilityScores_con: 29
+abilityScores_int: 18
+abilityScores_sag: 17
+abilityScores_cha: 28
+ac_armorType: armure naturelle
+ac_value: 10
+movement_walk: 12
+movement_swim: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

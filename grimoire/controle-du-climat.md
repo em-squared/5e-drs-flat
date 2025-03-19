@@ -1,24 +1,22 @@
 ---
-title: "Contrôle du climat"
-description: "Le PJ contrôle la météo dans un rayon de 7,5 kilomètres."
-school: "Transmutation"
+title: Contrôle du climat
+description: 'Le PJ contrôle la météo dans un rayon de 7,5 kilomètres.'
+school: Transmutation
 level: 8
 concentration: true
-casting_time: "10 minutes"
-duration: "jusqu'à 8 heures"
-range: "personnelle (rayon de 7,5 kilomètres)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "encens incandescent et un peu de bois et de terre mélangés dans de l'eau"
+casting_time: 10 minutes
+duration: jusqu'à 8 heures
+range: 'personnelle (rayon de 7,5 kilomètres)'
 ritual: false
 classes:
-    - Clerc
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: encens incandescent et un peu de bois et de terre mélangés dans de l'eau
 ---
 Vous prenez le contrôle de la météo dans un rayon de 7,5  kilomètres autour de vous pendant toute la durée du sort. Vous devez être en extérieur au moment de l'incantation. Si vous vous rendez dans un endroit d'où vous ne voyez pas directement le ciel, le sort se termine prématurément.
 

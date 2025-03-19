@@ -1,34 +1,30 @@
 ---
-title: "Serpent venimeux géant"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Serpent venimeux géant
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 10
-  dex: 18
-  con: 13
-  int: 2
-  sag: 10
-  cha: 3
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  blindsight: 3
-languages: 
-  - ""
+skills:
+  - name: perception
+languages:
+  - ''
 environments:
   - Désert chaud
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 323
+abilityScores_for: 10
+abilityScores_dex: 18
+abilityScores_con: 13
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 9
+movement_swim: 9
+senses_blindsight: 3
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +6 pour toucher, allonge 3 m, une cible.  

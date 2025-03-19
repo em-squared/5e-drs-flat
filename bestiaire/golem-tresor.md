@@ -1,44 +1,40 @@
 ---
-title: "Golem trésor"
-type: "Créature artificielle"
-size: "TG"
-alignment: "non-alignée"
-challenge: "12"
+title: Golem trésor
+type: Créature artificielle
+size: TG
+alignment: non-alignée
+challenge: '12'
 hitDiceCount: 14
-abilityScores:
-  for: 22
-  dex: 15
-  con: 20
-  int: 3
-  sag: 11
-  cha: 1
 savingThrows:
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - con
 skills:
-  - name: "athletisme"
-  - name: "perception"
-movement:
-  walk: 12
-senses:
-  darkvision: 36
+  - name: athletisme
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
-  - "c-p-t-non-adamantium"
+  - poison
+  - psychique
+  - c-p-t-non-adamantium
 languages:
-  - "comprend les langues de son créateur mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend les langues de son créateur mais ne peut pas parler
+source: Livre des monstres
 source_page: 216
+abilityScores_for: 22
+abilityScores_dex: 15
+abilityScores_con: 20
+abilityScores_int: 3
+abilityScores_sag: 11
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Frappé d'admiration**_. Les créatures dans un rayon de 36 mètres autour d'un golem trésor immobile sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur leurs tests de Sagesse (Perception), la seule joie de découvrir un vaste amoncellement de richesses suffisant à distraire une créature qui néglige alors son environnement.

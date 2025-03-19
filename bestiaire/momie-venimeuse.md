@@ -1,47 +1,43 @@
 ---
-title: "Momie venimeuse"
-type: "Mort-vivant"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "3"
+title: Momie venimeuse
+type: Mort-vivant
+size: M
+alignment: Loyal Mauvais
+challenge: '3'
 hitDiceCount: 9
-abilityScores:
-  for: 16
-  dex: 8
-  con: 15
-  int: 7
-  sag: 10
-  cha: 14
 savingThrows:
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 2
-movement:
-  walk: 6
-senses:
-  darkvision: 18
+  - sag
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "celles qu'il parlait de son vivant"
+  - celles qu'il parlait de son vivant
 environments:
   - Désert chaud
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 307
+abilityScores_for: 16
+abilityScores_dex: 8
+abilityScores_con: 15
+abilityScores_int: 7
+abilityScores_sag: 10
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Venin de Selket**_. Le corps et les bandelettes de la momie venimeuse sont imprégnés par magie de substances extrêmement toxiques. Toute créature qui entre en contact physique avec elle (en la touchant à mains nues, en l'empoignant, avec une attaque de morsure...) doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12, sans quoi elle est [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) par le venin de Selket. La cible [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne) subit 3 (1d6) dégâts de poison toutes les 10 minutes. Le venin de Selket est une malédiction, il persiste donc jusqu'à ce qu'on le dissipe avec [_lever une malédiction_](/grimoire/lever-une-malediction/) ou une magie similaire.

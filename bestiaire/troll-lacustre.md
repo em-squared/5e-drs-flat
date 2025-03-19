@@ -1,35 +1,31 @@
 ---
-title: "Troll lacustre"
-type: "Géant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Troll lacustre
+type: Géant
+size: G
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 12
-abilityScores:
-  for: 20
-  dex: 13
-  con: 20
-  int: 8
-  sag: 10
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 4
 skills:
-  - name: "perception"
-movement:
-  walk: 6
-  swim: 12
-senses:
-  darkvision: 18
+  - name: perception
 languages:
-  - "commun"
-  - "géant"
+  - commun
+  - géant
 environments:
   - Littoral
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 388
+abilityScores_for: 20
+abilityScores_dex: 13
+abilityScores_con: 20
+abilityScores_int: 8
+abilityScores_sag: 10
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 6
+movement_swim: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le troll lacustre respire à l'air libre et sous l'eau.

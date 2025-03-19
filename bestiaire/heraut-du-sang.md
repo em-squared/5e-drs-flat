@@ -1,52 +1,48 @@
 ---
-title: "Héraut du sang"
-type: "Fiélon"
-size: "TG"
-alignment: "Neutre Mauvais"
-challenge: "12"
+title: Héraut du sang
+type: Fiélon
+size: TG
+alignment: Neutre Mauvais
+challenge: '12'
 hitDiceCount: 10
-abilityScores:
-  for: 22
-  dex: 12
-  con: 20
-  int: 14
-  sag: 17
-  cha: 16
-savingThrows: 
-  - "for"
-  - "con"
-  - "sag"
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "arcanes"
-  - name: "perception"
-movement: 
-  walk: 9
-  swim: 9
-  fly: 15
-senses: 
-  darkvision: 72
-conditionImmunities: 
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeResistances: 
-  - "foudre"
-  - "perforant"
-damageTypeImmunities: 
-  - "feu"
-  - "poison"
-languages: 
-  - "commun"
-  - "draconique"
-  - "infernal"
-  - "langue du Vide"
-source: "Livre des monstres"
+savingThrows:
+  - for
+  - con
+  - sag
+skills:
+  - name: arcanes
+  - name: perception
+conditionImmunities:
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeResistances:
+  - foudre
+  - perforant
+damageTypeImmunities:
+  - feu
+  - poison
+languages:
+  - commun
+  - draconique
+  - infernal
+  - langue du Vide
+source: Livre des monstres
 source_page: 237
+abilityScores_for: 22
+abilityScores_dex: 12
+abilityScores_con: 20
+abilityScores_int: 14
+abilityScores_sag: 17
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+movement_swim: 9
+movement_fly: 15
+senses_darkvision: 72
 ---
 ## Capacités
 _**Armure de sang**_. À chaque round, le héraut du sang ne subit pas de dégâts ni autres effets lors de la première attaque qui le vise.

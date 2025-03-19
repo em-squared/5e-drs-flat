@@ -1,55 +1,51 @@
 ---
-title: "Algorith"
-type: "Créature artificielle"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "10"
+title: Algorith
+type: Créature artificielle
+size: M
+alignment: Loyal Neutre
+challenge: '10'
 hitDiceCount: 16
-abilityScores:
-  for: 21
-  dex: 14
-  con: 19
-  int: 13
-  sag: 16
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "investigation"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 12
-  fly: 12
-senses:
-  darkvision: 18
+  - name: athletisme
+  - name: investigation
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "foudre"
-  - "froid"
+  - acide
+  - foudre
+  - froid
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "céleste"
-  - "draconique"
-  - "infernal"
-source: "Livre des monstres"
+  - commun
+  - céleste
+  - draconique
+  - infernal
+source: Livre des monstres
 source_page: 12
+abilityScores_for: 21
+abilityScores_dex: 14
+abilityScores_con: 19
+abilityScores_int: 13
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un algorith est immunisé à tous les sorts ou effets susceptibles d'altérer sa forme.

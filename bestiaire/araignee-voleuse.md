@@ -1,46 +1,42 @@
 ---
-title: "Araignée voleuse"
-type: "Créature artificielle"
-size: "P"
-alignment: "non-alignée"
-challenge: "2"
+title: Araignée voleuse
+type: Créature artificielle
+size: P
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 12
-abilityScores:
-  for: 10
-  dex: 12
-  con: 12
-  int: 3
-  sag: 10
-  cha: 1
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-skills: 
-  - name: "discretion"
-movement: 
-  walk: 9
-  climb: 6
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeResistances: 
-  - "feu"
-damageTypeImmunities: 
-  - "poison"
-  - "psychique"
-languages: 
-  - "comprend le commun mais ne peut pas parler"
+skills:
+  - name: discretion
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeResistances:
+  - feu
+damageTypeImmunities:
+  - poison
+  - psychique
+languages:
+  - comprend le commun mais ne peut pas parler
 dungeonTypes:
   - Caverne aménagée
   - Donjon maçonné
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 28
+abilityScores_for: 10
+abilityScores_dex: 12
+abilityScores_con: 12
+abilityScores_int: 3
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_climb: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. L'araignée voleuse est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.

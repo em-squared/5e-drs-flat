@@ -1,50 +1,46 @@
 ---
-title: "Mallqui"
-type: "Mort-vivant"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "8"
+title: Mallqui
+type: Mort-vivant
+size: M
+alignment: Loyal Neutre
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 16
-  dex: 9
-  con: 16
-  int: 11
-  sag: 16
-  cha: 14
 savingThrows:
-  - "int"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - int
+  - cha
 skills:
-  - name: "histoire"
-  - name: "perspicacite"
-  - name: "religion"
-movement:
-  walk: 6
-senses:
-  darkvision: 18
+  - name: histoire
+  - name: perspicacite
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "celles qu'il parlait de son vivant"
+  - celles qu'il parlait de son vivant
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 279
+abilityScores_for: 16
+abilityScores_dex: 9
+abilityScores_con: 16
+abilityScores_int: 11
+abilityScores_sag: 16
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Régénération**_. Au début de chacun de ses tours, le mallqui récupère 10 points de vie. Si le mallqui subit des dégâts à cause de sa réaction à l'eau, sa régénération ne fonctionne pas au début de son prochain tour. Il meurt seulement s'il commence un tour avec 0 point de vie et ne se régénère pas.

@@ -1,10 +1,10 @@
 ---
-title: "Corde d'escalade"
-type: "Objet merveilleux"
+title: Corde d'escalade
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette corde en soie de 18 mètres de long pèse 1,5 kilo et peut soutenir un maximum de 1500 kilos. La corde s'anime si vous tenez en main une extrémité et utilisez une action pour prononcer le mot de commande. Pour une action bonus, vous pouvez ordonner à l'autre extrémité de se déplacer vers la destination de votre choix. Cette extrémité se déplace de 3 mètres lors du tour où vous lui avez donné l'ordre et de 3 mètres lors de chacun de vos tours, jusqu'à ce qu'elle atteigne sa destination, que sa longueur maximale soit atteinte ou que vous lui ordonniez de s'arrêter. Vous pouvez également ordonner à la corde de s'attacher fermement à un objet ou de s'en détacher, de se nouer ou se dénouer, ou de s'enrouler pour faciliter son transport.
 

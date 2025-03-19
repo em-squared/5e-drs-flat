@@ -1,25 +1,23 @@
 ---
-title: "Détection du poison et des maladies"
-description: "Détecte la présence de poison ou de maladies."
-school: "Divination"
+title: Détection du poison et des maladies
+description: Détecte la présence de poison ou de maladies.
+school: Divination
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un brin d'if"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: personnelle
 ritual: true
 classes:
-    - Clerc
-    - Druide
-    - Paladin
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Paladin
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un brin d'if
 ---
 Pendant toute la durée du sort, vous percevez la présence de poisons, de créatures venimeuses et de maladies dans un rayon de 9 mètres autour de vous. Vous déterminez également leur emplacement et identifiez à chaque fois le type de poison, de créature ou de maladie concerné.
 

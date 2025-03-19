@@ -1,10 +1,10 @@
 ---
-title: "Épée tranchante"
-type: "Arme"
-subtype: "N'importe quelle épée qui inflige des dégâts tranchants"
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Épée tranchante
+type: Arme
+subtype: N'importe quelle épée qui inflige des dégâts tranchants
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Quand vous réussissez une attaque contre un objet avec cette arme magique, considérez que le(s) dé(s) de dégâts de l'arme obtient le plus haut résultat contre la cible.
 

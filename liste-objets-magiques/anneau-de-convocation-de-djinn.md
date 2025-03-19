@@ -1,10 +1,10 @@
 ---
-title: "Anneau de convocation de djinn"
-type: "Anneau"
+title: Anneau de convocation de djinn
+type: Anneau
 subtype: false
-rarity: "Légendaire"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Légendaire
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Tant que vous portez cet anneau au doigt, vous pouvez prononcer son mot de commande par une action pour convoquer un djinn particulier originaire du plan élémentaire de l'Air. Le djinn apparaît dans un emplacement inoccupé que vous lui désignez et qui se situe à 36 mètres ou moins de vous. Il reste aussi longtemps que vous vous concentrez (comme si vous vous concentriez sur un sort), jusqu'à un maximum d'une heure ou si les points de vie de la créature tombent à 0. Il retourne ensuite sur son plan d'origine.
 

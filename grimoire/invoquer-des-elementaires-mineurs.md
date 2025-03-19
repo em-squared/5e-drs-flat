@@ -1,23 +1,21 @@
 ---
-title: "Invoquer des élémentaires mineurs"
-description: "Invoque des élémentaires qui obéissent au PJ."
-school: "Invocation"
+title: Invoquer des élémentaires mineurs
+description: Invoque des élémentaires qui obéissent au PJ.
+school: Invocation
 level: 4
 concentration: true
-casting_time: "1 minute"
-duration: "jusqu'à 1 heure"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 minute
+duration: jusqu'à 1 heure
+range: 27 mètres
 ritual: false
 classes:
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous invoquez des élémentaires qui apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Un élémentaire dont l'indice de dangerosité est inférieur ou égal à 2.

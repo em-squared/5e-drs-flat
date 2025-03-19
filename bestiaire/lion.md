@@ -1,32 +1,29 @@
 ---
-title: "Lion"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "1"
+title: Lion
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 4
-abilityScores:
-  for: 17
-  dex: 15
-  con: 13
-  int: 3
-  sag: 12
-  cha: 8
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
-movement: 
-  walk: 15
-senses: 
-languages: 
-  - ""
+  - name: perception
+senses: null
+languages:
+  - ''
 environments:
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 310
+abilityScores_for: 17
+abilityScores_dex: 15
+abilityScores_con: 13
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 15
 ---
 ## Capacités
 _**Bond agressif**_. Si le lion se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le lion peut effectuer une attaque de morsure contre elle par une action bonus.

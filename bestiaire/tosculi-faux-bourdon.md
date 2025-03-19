@@ -1,31 +1,27 @@
 ---
-title: "Tosculi, Faux-bourdon"
-type: "Créature monstrueuse"
-size: "P"
-alignment: "Loyal Mauvais"
-challenge: "0.5"
+title: 'Tosculi, Faux-bourdon'
+type: Créature monstrueuse
+size: P
+alignment: Loyal Mauvais
+challenge: '0.5'
 hitDiceCount: 4
-abilityScores:
-  for: 8
-  dex: 16
-  con: 14
-  int: 8
-  sag: 12
-  cha: 4
-ac:
-  armorType: null
-movement:
-  walk: 6
-senses:
-  darkvision: 18
 languages:
-  - "tosculi"
+  - tosculi
 environments:
   - Collines / Vallées
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 387
+abilityScores_for: 8
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 8
+abilityScores_sag: 12
+abilityScores_cha: 4
+ac_armorType: null
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Ailes de planeur**_. Le faux-bourdon tosculi peut utiliser ses ailes pour ralentir sa chute lorsqu'il tombe (comme sous l'effet du sort [_léger comme une plume_](/grimoire/leger-comme-une-plume/)). Il peut se déplacer horizontalement de 1,50 mètre par tranche de 30 centimètres de chute. Le faux-bourdon tosculi ne peut pas prendre de hauteur en utilisant seulement ses ailes, en revanche il peut profiter d'un vent fort ou d'un courant ascendant pour planer plus loin.

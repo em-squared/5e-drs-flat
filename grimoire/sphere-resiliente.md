@@ -1,22 +1,22 @@
 ---
-title: "Sphère résiliente"
-description: "Crée une sphère imperméable autour d'une créature."
-school: "Évocation"
+title: Sphère résiliente
+description: Crée une sphère imperméable autour d'une créature.
+school: Évocation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un bout de cristal transparent hémisphérique et son équivalent en gomme arabique"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un bout de cristal transparent hémisphérique et son équivalent en gomme
+  arabique
 ---
 Une sphère de force scintillante englobe une créature ou un objet de taille G ou inférieure situés à portée. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle le rate, elle est enfermée dans la sphère pour toute la durée du sort.
 

@@ -1,46 +1,42 @@
 ---
-title: "Mécanique, Chien"
-type: "Créature artificielle"
-size: "M"
-alignment: "non-alignée"
-challenge: "2"
+title: 'Mécanique, Chien'
+type: Créature artificielle
+size: M
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 11
-abilityScores:
-  for: 16
-  dex: 15
-  con: 14
-  int: 1
-  sag: 10
-  cha: 1
-savingThrows: 
-  - "dex"
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 0
-skills: 
-  - name: "athletisme"
+savingThrows:
+  - dex
+  - con
+skills:
+  - name: athletisme
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement: 
-  walk: 15
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeImmunities: 
-  - "poison"
-  - "psychique"
-languages: 
-  - "comprend le commun"
-source: "Livre des monstres"
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeImmunities:
+  - poison
+  - psychique
+languages:
+  - comprend le commun
+source: Livre des monstres
 source_page: 293
+abilityScores_for: 16
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 0
+movement_walk: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un chien mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

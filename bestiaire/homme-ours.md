@@ -1,31 +1,27 @@
 ---
-title: "Homme-ours"
-type: "Humanoïde"
-subtype: "homme-ours"
-size: "M"
-alignment: "Chaotique Bon"
-challenge: "3"
+title: Homme-ours
+type: Humanoïde
+subtype: homme-ours
+size: M
+alignment: Chaotique Bon
+challenge: '3'
 hitDiceCount: 6
-abilityScores:
-  for: 19
-  dex: 14
-  con: 16
-  int: 8
-  sag: 12
-  cha: 9
-ac: 
-  armorType: "armure de peau"
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "commun"
-  - "géant"
+languages:
+  - commun
+  - géant
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 244
+abilityScores_for: 19
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 8
+abilityScores_sag: 12
+abilityScores_cha: 9
+ac_armorType: armure de peau
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Frénésie (1/repos)**_. Par une action bonus, un homme-ours peut entrer dans un état de frénésie de berserk qui dure pendant 1 minute. Tant qu'il se trouve dans cet état, il est résistant aux dégâts contondants, perforants et tranchants et est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses jets d'attaque. Les jets d'attaques qui prennent pour cible un homme-ours frénétique sont [_avantagés_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

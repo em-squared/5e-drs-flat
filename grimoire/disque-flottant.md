@@ -1,22 +1,20 @@
 ---
-title: "Disque flottant"
-description: "Crée un plateau de force qui peut porter 250 kg et qui accompagne le PJ."
-school: "Invocation"
+title: Disque flottant
+description: Crée un plateau de force qui peut porter 250 kg et qui accompagne le PJ.
+school: Invocation
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une goutte de mercure"
+casting_time: 1 action
+duration: 1 heure
+range: 9 mètres
 ritual: true
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une goutte de mercure
 ---
 Ce sort crée un plan de force circulaire horizontal d'un mètre de diamètre pour 2,5 centimètres d'épaisseur. Il flotte à un mètre du sol dans un espace inoccupé de votre choix situé à portée et dans votre champ de vision. Le disque persiste pendant toute la durée du sort et peut accueillir jusqu'à 250 kilogrammes. Si on pose plus de poids dessus, le sort se termine et tout ce qui se trouvait sur le disque tombe au sol.
 

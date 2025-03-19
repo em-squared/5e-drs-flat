@@ -1,24 +1,22 @@
 ---
-title: "Dominer un monstre"
-description: "La cible est <em>charmée</em>, le PJ contrôle ses actions."
-school: "Enchantement"
+title: Dominer un monstre
+description: 'La cible est <em>charmée</em>, le PJ contrôle ses actions.'
+school: Enchantement
 level: 8
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous tentez d'envoûter une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Elle dispose d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si vous ou des créatures amicales envers vous êtes en train de la combattre.
 

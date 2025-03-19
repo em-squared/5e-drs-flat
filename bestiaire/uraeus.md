@@ -1,39 +1,35 @@
 ---
-title: "Uraeus"
-type: "Céleste"
-size: "TP"
-alignment: "Loyal Neutre"
-challenge: "2"
+title: Uraeus
+type: Céleste
+size: TP
+alignment: Loyal Neutre
+challenge: '2'
 hitDiceCount: 9
-abilityScores:
-  for: 6
-  dex: 15
-  con: 14
-  int: 10
-  sag: 14
-  cha: 9
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 18
-senses:
-  blindsight: 3
+  - name: perception
 conditionImmunities:
-  - "epuise"
+  - epuise
 damageTypeResistances:
-  - "feu"
-  - "c-p-t-non-magique"
+  - feu
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "comprend le céleste et le commun"
-  - "mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend le céleste et le commun
+  - mais ne peut pas parler
+source: Livre des monstres
 source_page: 390
+abilityScores_for: 6
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_fly: 18
+senses_blindsight: 3
 ---
 ## Capacités
 _**Repli aérien**_. L'uraeus ne provoque pas d'attaque d'opportunité quand il s'envole hors de portée de la zone d'allonge d'un ennemi.

@@ -1,48 +1,44 @@
 ---
-title: "Nuée de sluaghs"
+title: Nuée de sluaghs
 isSwarm: true
-swarmSize: "TP"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "3"
+swarmSize: TP
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '3'
 hitDiceCount: 12
-abilityScores:
-  for: 6
-  dex: 16
-  con: 11
-  int: 6
-  sag: 13
-  cha: 10
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-movement:
-  walk: 9
-  fly: 15
-senses:
-  darkvision: 18
+  - name: discretion
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "contondant"
-  - "froid"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - froid
+  - perforant
+  - tranchant
 languages:
-  - "commun"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - sylvestre
+source: Livre des monstres
 source_page: 331
+abilityScores_for: 6
+abilityScores_dex: 16
+abilityScores_con: 11
+abilityScores_int: 6
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 9
+movement_fly: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Nuée**_. Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer une fée de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.

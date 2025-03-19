@@ -1,54 +1,50 @@
 ---
-title: "Nuée osseuse"
+title: Nuée osseuse
 isSwarm: true
-swarmSize: "TP"
-type: "Mort-vivant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "10"
+swarmSize: TP
+type: Mort-vivant
+size: G
+alignment: Chaotique Mauvais
+challenge: '10'
 hitDiceCount: 36
-abilityScores:
-  for: 22
-  dex: 18
-  con: 10
-  int: 9
-  sag: 15
-  cha: 20
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 6
-  fly: 18
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "etourdi"
-  - "paralyse"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoisonne
+  - entrave
+  - epuise
+  - etourdi
+  - paralyse
+  - terrorise
 damageTypeVulnerabilities:
-  - "contondant"
+  - contondant
 damageTypeResistances:
-  - "p-t-non-magique"
+  - p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - commun
+  - langue du Vide
+source: Livre des monstres
 source_page: 332
+abilityScores_for: 22
+abilityScores_dex: 18
+abilityScores_con: 10
+abilityScores_int: 9
+abilityScores_sag: 15
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 6
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Force des os**_. Une nuée osseuse peut choisir d'infliger des dégâts contondants, perforants ou tranchants et ajoute 1.5 × son bonus de Force à ses jets de dégâts de nuée, dans la mesure où les fragments d'os brisés qui la composent griffent, mordent, perforent et viennent s'écraser contre leurs victimes.

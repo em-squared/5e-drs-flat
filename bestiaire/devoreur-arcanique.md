@@ -1,43 +1,39 @@
 ---
-title: "Dévoreur arcanique"
-type: "Aberration"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "13"
+title: Dévoreur arcanique
+type: Aberration
+size: G
+alignment: Neutre Mauvais
+challenge: '13'
 hitDiceCount: 25
-abilityScores:
-  for: 12
-  dex: 14
-  con: 16
-  int: 15
-  sag: 14
-  cha: 18
-ac:
-  armorType: "custom"
-  value: "15"
 skills:
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 4
-movement:
-  walk: 1,50
-  fly: 9
-senses:
-  blindsight: 18
-  customBlindSight: "18 m (aveugle au-delà)"
-  customPassivePerception: 14
 conditionImmunities:
-  - "aveugle"
-  - "a-terre"
+  - aveugle
+  - a-terre
 languages:
-  - "profond"
-  - "commun des profondeurs"
+  - profond
+  - commun des profondeurs
 telepathy: 36
 dungeonTypes:
   - Caverne aménagée
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 59
+abilityScores_for: 12
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 15
+abilityScores_sag: 14
+abilityScores_cha: 18
+ac_armorType: custom
+ac_value: '15'
+movement_walk: '1,50'
+movement_fly: 9
+senses_blindsight: 18
+senses_customBlindSight: 18 m (aveugle au-delà)
+senses_customPassivePerception: 14
 ---
 ## Capacités
 _**Absorption de la magie par contact**_. Les armes magiques qui touchent Le dévoreur arcanique lui infligent normalement des dégâts, mais leurs propriétés magiques se retrouvent temporairement réprimés pendant 1d4 rounds. L'objet n'est alors plus considéré comme magique jusqu'à la fin de la durée.

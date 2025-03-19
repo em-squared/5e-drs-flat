@@ -1,41 +1,37 @@
 ---
-title: "Gobelin blanc"
-type: "Humanoïde"
-subtype: "gobelinoïde"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Gobelin blanc
+type: Humanoïde
+subtype: gobelinoïde
+size: P
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 13
-  dex: 13
-  con: 13
-  int: 10
-  sag: 12
-  cha: 8
-ac:
-  armorType: "custom"
-  value: "14 (armure de peau)"
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 7
-  - name: "survie"
+  - name: survie
     invalid: true
     value: 7
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 damageTypeResistances:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "gobelin"
+  - commun
+  - gobelin
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 165
+abilityScores_for: 13
+abilityScores_dex: 13
+abilityScores_con: 13
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: custom
+ac_value: 14 (armure de peau)
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Attaque en meute**_. Une fois par tour, si le gobelin blanc attaque une créature qui a déjà été attaquée par un autre gobelin blanc à ce round, il obtient au choix un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque ou un bonus de 1d6 aux dégâts (du même type que l'arme utilisée).

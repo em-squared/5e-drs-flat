@@ -1,22 +1,21 @@
 ---
 title: Animation des morts
-description: "Crée un zombi ou un squelette sous le contrôle du PJ."
+description: Crée un zombi ou un squelette sous le contrôle du PJ.
 school: Nécromancie
 level: 3
 concentration: false
-casting_time: "1 minute"
-duration: "instantanée"
-range: "3 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une goutte de sang, un lambeau de chair et une pincée de poudre d'os"
+casting_time: 1 minute
+duration: instantanée
+range: 3 mètres
 ritual: false
 classes:
   - Clerc
   - Magicien
-source: "Manuel des règles"
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une goutte de sang, un lambeau de chair et une pincée de poudre d''os'
 ---
 Ce sort crée un serviteur mort-vivant. Choisissez un tas d'os ou le cadavre d'un humanoïde de taille M ou P situé à portée. Votre sort imprègne la cible d'un ignoble simulacre de vie, la relevant sous forme de mort-vivant. Elle devient un squelette si vous avez lancé le sort sur un tas d'os, et un zombi si vous avez opté pour un cadavre (le MJ dispose du profil technique de la créature).
 

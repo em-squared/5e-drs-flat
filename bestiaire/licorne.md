@@ -1,38 +1,34 @@
 ---
-title: "Licorne"
-type: "Céleste"
-size: "G"
-alignment: "Loyal Bon"
-challenge: "5"
+title: Licorne
+type: Céleste
+size: G
+alignment: Loyal Bon
+challenge: '5'
 hitDiceCount: 9
-abilityScores:
-  for: 18
-  dex: 14
-  con: 15
-  int: 11
-  sag: 17
-  cha: 16
-ac:
-  armorType: null
-movement:
-  walk: 15
-senses:
-  blindsight: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "paralyse"
+  - charme
+  - empoisonne
+  - paralyse
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "céleste"
-  - "elfe"
-  - "sylvestre"
+  - céleste
+  - elfe
+  - sylvestre
 telepathy: 18
 environments:
   - Bois / Forêt
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 204
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 11
+abilityScores_sag: 17
+abilityScores_cha: 16
+ac_armorType: null
+movement_walk: 15
+senses_blindsight: 18
 ---
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme de la licorne sont magiques.

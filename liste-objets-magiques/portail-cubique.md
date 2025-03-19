@@ -1,10 +1,10 @@
 ---
-title: "Portail cubique"
-type: "Objet merveilleux"
+title: Portail cubique
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
+rarity: Légendaire
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce cube de 7,5 centimètres d'arête émet une énergie magique palpable. Chacune de ses six faces est liée à un plan d'existence distinct, l'un d'eux étant le plan Matériel. Les autres sont liées à des plans déterminés par le MJ.
 

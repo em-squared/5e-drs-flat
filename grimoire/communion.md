@@ -1,22 +1,20 @@
 ---
-title: "Communion"
-description: "Le PJ pose trois questions à un dieu ou son représentant."
-school: "Divination"
+title: Communion
+description: Le PJ pose trois questions à un dieu ou son représentant.
+school: Divination
 level: 5
 concentration: false
-casting_time: "1 minute"
-duration: "1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "de l'encens et une fiole d'eau bénite ou maudite"
+casting_time: 1 minute
+duration: 1 minute
+range: personnelle
 ritual: true
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: de l'encens et une fiole d'eau bénite ou maudite
 ---
 Vous entrez en contact avec votre divinité ou l'un de ses représentants et lui posez jusqu'à trois questions fermées auxquelles la réponse est soit oui, soit non. Vous devez les poser avant la fin du sort et vous recevez une réponse correcte à chacune d'entre elles.
 

@@ -1,51 +1,47 @@
 ---
-title: "Momie auguste"
-type: "Mort-vivant"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "15"
+title: Momie auguste
+type: Mort-vivant
+size: M
+alignment: Loyal Mauvais
+challenge: '15'
 hitDiceCount: 13
-abilityScores:
-  for: 18
-  dex: 10
-  con: 17
-  int: 11
-  sag: 18
-  cha: 16
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "histoire"
-  - name: "religion"
-movement:
-  walk: 6
-senses:
-  darkvision: 18
+  - name: histoire
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
-  - "c-p-t-non-magique"
+  - necrotique
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "celles qu'elle connaissait de son vivant"
+  - celles qu'elle connaissait de son vivant
 dungeonTypes:
   - Donjon maçonné
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 226
+abilityScores_for: 18
+abilityScores_dex: 10
+abilityScores_con: 17
+abilityScores_int: 11
+abilityScores_sag: 18
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation**_. La momie auguste est une lanceuse de sorts de niveau 10. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par la momie auguste :

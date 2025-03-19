@@ -1,22 +1,22 @@
 ---
-title: "Sanctuaire privé"
-description: "Protège une zone contre la vision, la divination, la téléportation, etc."
-school: "Abjuration"
+title: Sanctuaire privé
+description: 'Protège une zone contre la vision, la divination, la téléportation, etc.'
+school: Abjuration
 level: 4
 concentration: false
-casting_time: "10 minutes"
-duration: "24 heures"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de tissu et de la chrysolite en poudre"
+casting_time: 10 minutes
+duration: 24 heures
+range: 36 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une mince feuille de plomb, un morceau de verre opaque, un bout de coton ou de
+  tissu et de la chrysolite en poudre
 ---
 Vous sécurisez par magie une zone à portée. Il s'agit d'un cube de 1,50 mètre à 30 mètres d'arête. Le sort persiste pendant toute sa durée ou jusqu'à ce que vous utilisiez une action pour le révoquer.
 

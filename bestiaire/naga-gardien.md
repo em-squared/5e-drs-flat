@@ -1,42 +1,38 @@
 ---
-title: "Naga gardien"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Loyal Bon"
-challenge: "10"
+title: Naga gardien
+type: Créature monstrueuse
+size: G
+alignment: Loyal Bon
+challenge: '10'
 hitDiceCount: 15
-abilityScores:
-  for: 19
-  dex: 18
-  con: 16
-  int: 16
-  sag: 19
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
+  - charme
+  - empoisonne
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "céleste"
-  - "commun"
+  - céleste
+  - commun
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 230
+abilityScores_for: 19
+abilityScores_dex: 18
+abilityScores_con: 16
+abilityScores_int: 16
+abilityScores_sag: 19
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation**_. Le naga est un lanceur de sorts de niveau 11. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16, +8 pour toucher avec les attaques de sort) et seules les composantes verbales sont nécessaires pour lancer ses sorts. Voici les sorts de clerc préparés par le naga :

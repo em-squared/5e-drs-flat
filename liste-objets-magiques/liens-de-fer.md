@@ -1,10 +1,10 @@
 ---
-title: "Liens de fer"
-type: "Objet merveilleux"
+title: Liens de fer
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette sphère de fer rouillé mesure 7,5 centimètres de diamètre et pèse 0,5 kilo. Vous pouvez utiliser une action pour prononcer le mot de commande et lancer la sphère sur une créature de taille TG ou inférieure située dans votre champ de vision et dans un rayon de 18 mètres autour de vous. La sphère se déploie en un entrelacs de bandes de métal alors qu'elle file dans les airs.
 

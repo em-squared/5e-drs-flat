@@ -1,46 +1,42 @@
 ---
-title: "Dragon d'argent, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Loyal Bon"
-challenge: "23"
+title: 'Dragon d''argent, vénérable'
+type: Dragon
+size: Gig
+alignment: Loyal Bon
+challenge: '23'
 hitDiceCount: 25
-abilityScores:
-  for: 30
-  dex: 10
-  con: 29
-  int: 18
-  sag: 15
-  cha: 23
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 12
-skills: 
-  - name: "arcanes"
-  - name: "discretion"
-  - name: "histoire"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: arcanes
+  - name: discretion
+  - name: histoire
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - draconique
 environments:
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 106
+abilityScores_for: 30
+abilityScores_dex: 10
+abilityScores_con: 29
+abilityScores_int: 18
+abilityScores_sag: 15
+abilityScores_cha: 23
+ac_armorType: armure naturelle
+ac_value: 12
+movement_walk: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

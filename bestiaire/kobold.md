@@ -1,34 +1,30 @@
 ---
-title: "Kobold"
-type: "Humanoïde"
-subtype: "kobold"
-size: "P"
-alignment: "Loyal Mauvais"
-challenge: "0.125"
+title: Kobold
+type: Humanoïde
+subtype: kobold
+size: P
+alignment: Loyal Mauvais
+challenge: '0.125'
 hitDiceCount: 2
-abilityScores:
-  for: 7
-  dex: 15
-  con: 9
-  int: 8
-  sag: 7
-  cha: 8
-ac: 
-  armorType: null
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "commun"
-  - "draconique"
+languages:
+  - commun
+  - draconique
 environments:
   - Jungle
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne aménagée
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 194
+abilityScores_for: 7
+abilityScores_dex: 15
+abilityScores_con: 9
+abilityScores_int: 8
+abilityScores_sag: 7
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Sensibilité à la lumière du soleil**_. Le kobold subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.

@@ -1,22 +1,20 @@
 ---
-title: "Arme magique"
-description: "Transforme temporairement une arme en arme magique."
-school: "Transmutation"
+title: Arme magique
+description: Transforme temporairement une arme en arme magique.
+school: Transmutation
 level: 2
 concentration: true
-casting_time: "1 action bonus"
-duration: "1 heure"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action bonus
+duration: 1 heure
+range: contact
 ritual: false
 classes:
-    - Magicien
-    - Paladin
-
-source: "Manuel des règles"
+  - Magicien
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous touchez une arme non magique. Jusqu'à la fin du sort, elle devient magique et bénéficie d'un bonus de +1 aux jets d'attaque et de dégâts.
 

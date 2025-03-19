@@ -1,38 +1,34 @@
 ---
-title: "Cube gélatineux"
-type: "Vase"
-size: "G"
-alignment: "non-alignée"
-challenge: "2"
+title: Cube gélatineux
+type: Vase
+size: G
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 14
-  dex: 3
-  con: 20
-  int: 1
-  sag: 6
-  cha: 1
-ac:
-  armorType: null
-movement:
-  walk: 4,50
-senses:
-  blindsight: 18
-  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - terrorise
 languages:
-  - ""
+  - ''
 dungeonTypes:
   - Donjon maçonné
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 282
+abilityScores_for: 14
+abilityScores_dex: 3
+abilityScores_con: 20
+abilityScores_int: 1
+abilityScores_sag: 6
+abilityScores_cha: 1
+ac_armorType: null
+movement_walk: '4,50'
+senses_blindsight: 18
+senses_customBlindSight: 18 m (aveugle au-delà de ce rayon)
 ---
 ## Capacités
 _**Cube de vase**_. Le cube remplit entièrement l'emplacement qu'il occupe. D'autres créatures peuvent entrer dans cet emplacement, mais une créature qui le fait est victime de l'_Enveloppement_ du cube et elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Les créatures à l'intérieur du cube sont toujours visibles, mais elles bénéficient d'un abri total.  

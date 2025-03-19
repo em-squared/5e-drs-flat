@@ -1,54 +1,50 @@
 ---
-title: "Nuée d'esprits lupins"
+title: Nuée d'esprits lupins
 isSwarm: true
-swarmSize: "M"
-type: "Mort-vivant"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "6"
+swarmSize: M
+type: Mort-vivant
+size: G
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 15
-abilityScores:
-  for: 14
-  dex: 16
-  con: 12
-  int: 4
-  sag: 10
-  cha: 12
 savingThrows:
-  - "for"
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - for
+  - dex
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 15
-  fly: 15
-  hover: true
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "necrotique"
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - necrotique
+  - contondant
+  - perforant
+  - tranchant
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "comprend le commun"
+  - comprend le commun
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 324
+abilityScores_for: 14
+abilityScores_dex: 16
+abilityScores_con: 12
+abilityScores_int: 4
+abilityScores_sag: 10
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 15
+movement_fly: 15
+movement_hover: true
+senses_darkvision: 36
 ---
 ## Capacités
 _**Hurlement glaçant**_. La nuée hurle par une action bonus à son premier tour de combat, émettant une étrange cacophonie surnaturelle à glacer le sang. Toutes les créatures situées dans un rayon de 90 mètres qui l'entendent doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 12, sans quoi elles sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) jusqu'au début du prochain tour de la nuée.

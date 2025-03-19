@@ -1,46 +1,42 @@
 ---
-title: "Dragon bleu, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "9"
+title: 'Dragon bleu, jeune'
+type: Dragon
+size: G
+alignment: Loyal Mauvais
+challenge: '9'
 hitDiceCount: 16
-abilityScores:
-  for: 21
-  dex: 10
-  con: 19
-  int: 14
-  sag: 13
-  cha: 17
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  burrow: 6
-  fly: 24
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "foudre"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - foudre
+languages:
+  - commun
+  - draconique
 environments:
   - Désert chaud
   - Littoral
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 87
+abilityScores_for: 21
+abilityScores_dex: 10
+abilityScores_con: 19
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_burrow: 6
+movement_fly: 24
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Actions
 _**Attaques multiples**_. Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.

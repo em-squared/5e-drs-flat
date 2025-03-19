@@ -1,32 +1,28 @@
 ---
-title: "Rôdeur des quais"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0.125"
+title: Rôdeur des quais
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0.125'
 hitDiceCount: 4
-abilityScores:
-  for: 4
-  dex: 16
-  con: 8
-  int: 2
-  sag: 12
-  cha: 8
-ac: 
-  armorType: null
-skills: 
-  - name: "escamotage"
-  - name: "perception"
-movement: 
-  walk: 9
-  climb: 9
-  swim: 6
-senses: 
-  darkvision: 18
-languages: 
-  - "—"
-source: "Livre des monstres"
+skills:
+  - name: escamotage
+  - name: perception
+languages:
+  - —
+source: Livre des monstres
 source_page: 350
+abilityScores_for: 4
+abilityScores_dex: 16
+abilityScores_con: 8
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 9
+movement_climb: 9
+movement_swim: 6
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  

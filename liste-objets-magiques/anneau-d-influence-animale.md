@@ -1,10 +1,10 @@
 ---
-title: "Anneau d'influence animale"
-type: "Anneau"
+title: Anneau d'influence animale
+type: Anneau
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous portez l'anneau au doigt, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer un des sorts suivants :
 * [_Amitié avec les animaux_](/grimoire/amitie-avec-les-animaux/) (DD des jets de sauvegarde contre le sort 13)

@@ -1,34 +1,31 @@
 ---
-title: "Géant des collines"
-type: "Géant"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "5"
+title: Géant des collines
+type: Géant
+size: TG
+alignment: Chaotique Mauvais
+challenge: '5'
 hitDiceCount: 10
-abilityScores:
-  for: 21
-  dex: 8
-  con: 19
-  int: 5
-  sag: 9
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "perception"
-movement: 
-  walk: 12
-senses: 
-languages: 
-  - "géant"
+skills:
+  - name: perception
+senses: null
+languages:
+  - géant
 environments:
   - Collines / Vallées
 dungeonTypes:
   - Caverne naturelle
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 148
+abilityScores_for: 21
+abilityScores_dex: 8
+abilityScores_con: 19
+abilityScores_int: 5
+abilityScores_sag: 9
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
 ---
 ## Actions
 _**Attaques multiples**_. Le géant effectue deux attaques avec sa massue.

@@ -1,57 +1,53 @@
 ---
-title: "Abothid"
-type: "Aberration"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "7"
+title: Abothid
+type: Aberration
+size: M
+alignment: Loyal Mauvais
+challenge: '7'
 hitDiceCount: 16
-abilityScores:
-  for: 16
-  dex: 14
-  con: 15
-  int: 18
-  sag: 13
-  cha: 14
 savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - int
+  - sag
+  - cha
 skills:
-  - name: "intimidation"
+  - name: intimidation
     invalid: true
     value: 7
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 6
-  - name: "perspicacite"
+  - name: perspicacite
     invalid: true
     value: 6
-movement:
-  walk: 9
-senses:
-  darkvision: 18
-  customPassivePerception: 16
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "acide"
-  - "froid"
+  - acide
+  - froid
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "Commun des profondeurs"
-  - "profond"
-  - "langue raciale de la créature d'origine"
+  - Commun des profondeurs
+  - profond
+  - langue raciale de la créature d'origine
 telepathy: 18
 environments:
   - Mer / Océan
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 23
+abilityScores_for: 16
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 18
+abilityScores_sag: 13
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
+senses_customPassivePerception: 16
 ---
 ## Capacités
 _**Nuage empoisonné**_. L'abothid est constamment entouré d'un nuage de gaz toxique pour les non-abothids. Toute créature située à 1,50 mètres ou moins doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution (DD 14) sous peine de suffoquer et être [_étourdie_](/gerer-la-sante-du-personnage/#etourdi) pendant 1 minute.

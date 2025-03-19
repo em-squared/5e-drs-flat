@@ -1,39 +1,36 @@
 ---
-title: "Azer"
-type: "Élémentaire"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "2"
+title: Azer
+type: Élémentaire
+size: M
+alignment: Loyal Neutre
+challenge: '2'
 hitDiceCount: 6
-abilityScores:
-  for: 17
-  dex: 12
-  con: 15
-  int: 12
-  sag: 13
-  cha: 10
 savingThrows:
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 4
-  hasShield: true
-movement:
-  walk: 9
-senses:
+  - con
+senses: null
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "ignée"
+  - ignée
 environments:
   - Plans élémentaires
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 32
+abilityScores_for: 17
+abilityScores_dex: 12
+abilityScores_con: 15
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 4
+ac_hasShield: true
+movement_walk: 9
 ---
 ## Capacités
 _**Armes surchauffées**_. Quand l'azer réussit une attaque avec une arme de corps à corps en métal, celle-ci inflige 3 (1d6) dégâts de feu supplémentaires (inclus dans l'attaque).

@@ -1,40 +1,36 @@
 ---
-title: "Homme-cafard, escarmoucheur"
-type: "Humanoïde"
-subtype: "homme-cafard"
-size: "P"
-alignment: "Chaotique Neutre"
-challenge: "0.25"
+title: 'Homme-cafard, escarmoucheur'
+type: Humanoïde
+subtype: homme-cafard
+size: P
+alignment: Chaotique Neutre
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 10
-  dex: 14
-  con: 11
-  int: 10
-  sag: 9
-  cha: 8
 savingThrows:
-  - "dex"
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 1
+  - dex
+  - con
 skills:
-  - name: "acrobaties"
-  - name: "discretion"
+  - name: acrobaties
+  - name: discretion
     isExpert: true
-movement:
-  walk: 7,50
-senses:
-  darkvision: 18
-  tremorsense: 3
 languages:
-  - "commun"
+  - commun
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 238
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 11
+abilityScores_int: 10
+abilityScores_sag: 9
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: '7,50'
+senses_darkvision: 18
+senses_tremorsense: 3
 ---
 ## Capacités
 _**Résistant**_. L'escarmoucheur est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution.

@@ -1,23 +1,23 @@
 ---
-title: "Poison naturel"
-description: "<em>Empoisonne</em> une arme qui inflige 2d6 dégâts lors de sa prochaine attaque."
-school: "Invocation"
+title: Poison naturel
+description: >-
+  <em>Empoisonne</em> une arme qui inflige 2d6 dégâts lors de sa prochaine
+  attaque.
+school: Invocation
 level: 1
 concentration: true
-casting_time: "1 action bonus"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action bonus
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Ombrelame
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Ombrelame
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Une arme de votre choix exsude une substance poisseuse et venimeuse. À la première attaque que vous réussissez avec cette arme, la victime doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou subir 2d6 dégât de poison et être [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne). En cas de succès, elle subit seulement la moitié des dégâts et elle n'est pas [_empoisonnée_](/gerer-la-sante-du-personnage/#empoisonne).
 

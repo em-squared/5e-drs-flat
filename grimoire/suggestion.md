@@ -1,26 +1,26 @@
 ---
-title: "Suggestion"
-description: "Impose la conduite à suivre à la cible."
-school: "Enchantement"
+title: Suggestion
+description: Impose la conduite à suivre à la cible.
+school: Enchantement
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 8 heures"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: true
-  materials: "une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive"
+casting_time: 1 action
+duration: jusqu'à 8 heures
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: true
+components_materials: >-
+  une langue de serpent et soit un rayon de miel, soit une goutte d'huile
+  d'olive
 ---
 Vous visez une créature située à portée et dans votre champ de vision et à même de vous entendre et de vous comprendre. Vous l'influencez par magie de façon à ce qu'elle suive la conduite que vous lui proposez (en seulement une phrase ou deux). Les créatures qui ne peuvent être [_charmées_](/gerer-la-sante-du-personnage/#charme) sont immunisées contre ce sort. Vous devez formuler votre suggestion de manière à ce que la conduite à tenir semble tout à fait raisonnable. Si vous demandez à une créature de se poignarder, de se laisser tomber sur une lance, de s'immoler ou d'accomplir n'importe quelle action à l'évidence néfaste, le sort se termine automatiquement.
 

@@ -1,22 +1,20 @@
 ---
-title: "Chien de garde"
-description: "Chien <em>invisible</em> et immobile qui donne l'alarme et attaque les intrus."
-school: "Invocation"
+title: Chien de garde
+description: Chien <em>invisible</em> et immobile qui donne l'alarme et attaque les intrus.
+school: Invocation
 level: 4
 concentration: false
-casting_time: "1 action"
-duration: "8 heures"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un petit sifflet en argent, un éclat d'os et une ficelle"
+casting_time: 1 action
+duration: 8 heures
+range: 9 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'un petit sifflet en argent, un éclat d''os et une ficelle'
 ---
 Vous invoquez un chien de garde fantomatique dans un emplacement inoccupé situé à portée et dans votre champ de vision. Il reste là pendant toute la durée du sort ou jusqu'à ce que vous le renvoyiez par une action ou que vous vous éloigniez à plus de 30 mètres de lui.
 

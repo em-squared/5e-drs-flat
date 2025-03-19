@@ -1,25 +1,23 @@
 ---
-title: "Envoi de message"
-description: "Envoie un message télépathique de 25 mots à une portée illimitée."
-school: "Évocation"
+title: Envoi de message
+description: Envoie un message télépathique de 25 mots à une portée illimitée.
+school: Évocation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "1 round"
-range: "illimitée"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un petit bout de fil de cuivre"
+casting_time: 1 action
+duration: 1 round
+range: illimitée
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un petit bout de fil de cuivre
 ---
 Vous envoyez un court message d'au maximum vingt-cinq mots à une créature qui vous est familière. Elle entend le message dans son esprit, sait que c'est vous qui le lui avez envoyé si elle vous connaît, et peut vous répondre immédiatement de la même manière. Le sort permet aux créatures dotées d'une Intelligence supérieure ou égale à 1 de comprendre le sens de votre message.
 

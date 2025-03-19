@@ -1,29 +1,26 @@
 ---
-title: "Acolyte"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "0.25"
+title: Acolyte
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 10
-  dex: 10
-  con: 10
-  int: 10
-  sag: 14
-  cha: 11
-ac:
-  armorType: null
 skills:
-  - name: "medecine"
-  - name: "religion"
-movement:
-  walk: 9
+  - name: medecine
+  - name: religion
 languages:
-  - "une langue au choix (commun le plus souvent)"
-source: "Créatures & Oppositions"
+  - une langue au choix (commun le plus souvent)
+source: Créatures & Oppositions
 source_page: 328
+abilityScores_for: 10
+abilityScores_dex: 10
+abilityScores_con: 10
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 11
+ac_armorType: null
+movement_walk: 9
 ---
 ## Capacités
 _**Incantation**_. L'acolyte est un lanceur de sorts de niveau 1. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 12, +4 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par l'acolyte :

@@ -1,54 +1,50 @@
 ---
-title: "Dragon de mithral, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Neutre"
-challenge: "14"
+title: 'Dragon de mithral, adulte'
+type: Dragon
+size: TG
+alignment: Neutre
+challenge: '14'
 hitDiceCount: 16
-abilityScores:
-  for: 27
-  dex: 18
-  con: 21
-  int: 20
-  sag: 21
-  cha: 20
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "histoire"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-movement:
-  walk: 12
-  fly: 24
-senses:
-  blindsight: 18
-  darkvision: 36
+  - name: athletisme
+  - name: histoire
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
 conditionImmunities:
-  - "charme"
+  - charme
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "tonnerre"
+  - acide
+  - tonnerre
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "primordial"
+  - céleste
+  - commun
+  - draconique
+  - primordial
 environments:
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 130
+abilityScores_for: 27
+abilityScores_dex: 18
+abilityScores_con: 21
+abilityScores_int: 20
+abilityScores_sag: 21
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si le dragon rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

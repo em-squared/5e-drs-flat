@@ -1,23 +1,21 @@
 ---
-title: "Rayon affaiblissant"
-description: "La cible du rayon inflige la moitié des dégâts sur ses attaques."
-school: "Nécromancie"
+title: Rayon affaiblissant
+description: La cible du rayon inflige la moitié des dégâts sur ses attaques.
+school: Nécromancie
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Un rayon noir fait d'énergie débilitante jaillit de votre doigt en direction d'une créature à portée. Faites une attaque de sort à distance contre la cible. Si vous la touchez, la créature inflige seulement la moitié des dégâts habituels lorsqu'elle attaque avec une arme basée sur la Force.
 

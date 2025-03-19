@@ -1,47 +1,43 @@
 ---
-title: "Dragon marin, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Neutre Mauvais"
-challenge: "16"
+title: 'Dragon marin, adulte'
+type: Dragon
+size: TG
+alignment: Neutre Mauvais
+challenge: '16'
 hitDiceCount: 18
-abilityScores:
-  for: 25
-  dex: 10
-  con: 23
-  int: 17
-  sag: 15
-  cha: 19
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 9
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  fly: 24
-  swim: 18
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - draconique
 environments:
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 144
+abilityScores_for: 25
+abilityScores_dex: 10
+abilityScores_con: 23
+abilityScores_int: 17
+abilityScores_sag: 15
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 12
+movement_fly: 24
+movement_swim: 18
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

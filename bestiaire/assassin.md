@@ -1,38 +1,35 @@
 ---
-title: "Assassin"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement autre que Bon"
-challenge: "8"
+title: Assassin
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement autre que Bon
+challenge: '8'
 hitDiceCount: 12
-abilityScores:
-  for: 11
-  dex: 16
-  con: 14
-  int: 13
-  sag: 11
-  cha: 10
-savingThrows: 
-  - "dex"
-  - "int"
-ac: 
-  armorType: "armure de cuir clouté"
-skills: 
-  - name: "acrobaties"
-  - name: "discretion"
+savingThrows:
+  - dex
+  - int
+skills:
+  - name: acrobaties
+  - name: discretion
     isExpert: true
-  - name: "perception"
-  - name: "supercherie"
-movement: 
-  walk: 9
-senses: 
-damageTypeResistances: 
-  - "poison"
-languages: 
-  - "argot des voleurs plus deux autres langues au choix"
-source: "Créatures & Oppositions"
+  - name: perception
+  - name: supercherie
+senses: null
+damageTypeResistances:
+  - poison
+languages:
+  - argot des voleurs plus deux autres langues au choix
+source: Créatures & Oppositions
 source_page: 329
+abilityScores_for: 11
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 13
+abilityScores_sag: 11
+abilityScores_cha: 10
+ac_armorType: armure de cuir clouté
+movement_walk: 9
 ---
 ## Capacités
 _**Assassinat**_. Pendant son premier tour, l'assassin obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre une créature qui n'a pas encore joué son tour. Toutes les attaques réussies par l'assassin contre une créature [_surprise_](/gerer-la-sante-du-personnage/#surpris) sont des coups critiques.

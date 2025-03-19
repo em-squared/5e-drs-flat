@@ -1,42 +1,38 @@
 ---
-title: "Colonne possédée"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "7"
+title: Colonne possédée
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '7'
 hitDiceCount: 10
-abilityScores:
-  for: 20
-  dex: 8
-  con: 19
-  int: 3
-  sag: 11
-  cha: 1
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 6
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
-  - "c-p-t-non-adamantium"
+  - poison
+  - psychique
+  - c-p-t-non-adamantium
 languages:
-  - "comprend les langues de son créateur"
-  - "mais ne peut pas parler"
+  - comprend les langues de son créateur
+  - mais ne peut pas parler
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 66
+abilityScores_for: 20
+abilityScores_dex: 8
+abilityScores_con: 19
+abilityScores_int: 3
+abilityScores_sag: 11
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+senses_darkvision: 36
 ---
 ## Capacités
 _**Forme immuable**_. La colonne est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.

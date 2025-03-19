@@ -1,10 +1,10 @@
 ---
-title: "Masse destructrice"
-type: "Arme"
-subtype: "Masse d'armes"
-rarity: "Rare"
+title: Masse destructrice
+type: Arme
+subtype: Masse d'armes
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique. Ce bonus passe à +3 si vous l'utilisez contre une créature artificielle.
 

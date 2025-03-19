@@ -1,49 +1,45 @@
 ---
-title: "Diable de sel"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "6"
+title: Diable de sel
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '6'
 hitDiceCount: 11
-abilityScores:
-  for: 18
-  dex: 12
-  con: 18
-  int: 13
-  sag: 14
-  cha: 15
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "froid"
-  - "c-p-t-non-argent"
+  - acide
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "gnoll"
-  - "infernal"
+  - céleste
+  - commun
+  - gnoll
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 110
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 18
+abilityScores_int: 13
+abilityScores_sag: 14
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

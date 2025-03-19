@@ -1,10 +1,10 @@
 ---
-title: "Parchemin magique (Niveau 6)"
-type: "Parchemin"
+title: Parchemin magique (Niveau 6)
+type: Parchemin
 subtype: false
-rarity: "Très rare"
+rarity: Très rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Sur un _parchemin magique_ est inscrite la formule d'un unique sort, rédigée tel un message mystique crypté. Si le sort est présent dans la liste de sorts de votre classe de personnage, vous pouvez utiliser une action pour lire le parchemin et lancer le sort qu'il contient sans devoir fournir aucune de ses composantes. Sinon, le sort est incompréhensible.
 

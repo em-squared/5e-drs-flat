@@ -1,39 +1,35 @@
 ---
-title: "Vampirien"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Vampirien
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 11
-abilityScores:
-  for: 16
-  dex: 16
-  con: 16
-  int: 11
-  sag: 10
-  cha: 12
 savingThrows:
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - sag
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 damageTypeResistances:
-  - "necrotique"
-  - "c-p-t-non-magique"
+  - necrotique
+  - c-p-t-non-magique
 languages:
-  - "celles qu'il connaissait de son vivant"
+  - celles qu'il connaissait de son vivant
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 281
+abilityScores_for: 16
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 11
+abilityScores_sag: 10
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Faiblesses des vampires**_. Voici les faiblesses du vampirien :  

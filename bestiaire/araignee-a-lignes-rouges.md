@@ -1,36 +1,32 @@
 ---
-title: "Araignée à lignes rouges"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Araignée à lignes rouges
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 1
-abilityScores:
-  for: 4
-  dex: 16
-  con: 10
-  int: 1
-  sag: 10
-  cha: 2
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeImmunities:
-  - "psychique"
+  - psychique
 languages:
-  - "—"
-source: "Livre des monstres"
+  - —
+source: Livre des monstres
 source_page: 23
+abilityScores_for: 4
+abilityScores_dex: 16
+abilityScores_con: 10
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 2
+ac_armorType: null
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.

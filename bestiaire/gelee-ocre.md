@@ -1,44 +1,40 @@
 ---
-title: "Gelée ocre"
-type: "Vase"
-size: "G"
-alignment: "non-alignée"
-challenge: "2"
+title: Gelée ocre
+type: Vase
+size: G
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 6
-abilityScores:
-  for: 15
-  dex: 6
-  con: 14
-  int: 2
-  sag: 6
-  cha: 1
-ac:
-  armorType: null
-movement:
-  walk: 3
-  climb: 3
-senses:
-  blindsight: 18
-  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "acide"
+  - acide
 damageTypeImmunities:
-  - "foudre"
-  - "tranchant"
+  - foudre
+  - tranchant
 languages:
-  - ""
+  - ''
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 283
+abilityScores_for: 15
+abilityScores_dex: 6
+abilityScores_con: 14
+abilityScores_int: 2
+abilityScores_sag: 6
+abilityScores_cha: 1
+ac_armorType: null
+movement_walk: 3
+movement_climb: 3
+senses_blindsight: 18
+senses_customBlindSight: 18 m (aveugle au-delà de ce rayon)
 ---
 ## Capacités
 _**Informe**_. La gelée peut traverser sans devoir se faufiler un interstice d'une largeur minimale de 2 à 3 centimètres.

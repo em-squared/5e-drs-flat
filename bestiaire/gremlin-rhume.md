@@ -1,34 +1,30 @@
 ---
-title: "Gremlin rhumé"
-type: "Fée"
-size: "TP"
-alignment: "Chaotique Mauvais"
-challenge: "0.5"
+title: Gremlin rhumé
+type: Fée
+size: TP
+alignment: Chaotique Mauvais
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 10
-  dex: 16
-  con: 14
-  int: 12
-  sag: 9
-  cha: 12
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-movement:
-  walk: 6
-  climb: 3
-  swim: 3
-senses:
-  darkvision: 36
-  customPassivePerception: 10
+  - name: discretion
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 languages:
-  - "commun"
-source: "Livre des monstres"
+  - commun
+source: Livre des monstres
 source_page: 227
+abilityScores_for: 10
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 12
+abilityScores_sag: 9
+abilityScores_cha: 12
+ac_armorType: null
+movement_walk: 6
+movement_climb: 3
+movement_swim: 3
+senses_darkvision: 36
+senses_customPassivePerception: 10
 ---
 ## Capacités
 _**Incantation innée**_. Le gremlin utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

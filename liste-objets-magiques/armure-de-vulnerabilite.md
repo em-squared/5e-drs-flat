@@ -1,10 +1,10 @@
 ---
-title: "Armure de vulnérabilité"
-type: "Armure"
-subtype: "Harnois"
-rarity: "Rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Armure de vulnérabilité
+type: Armure
+subtype: Harnois
+rarity: Rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Tant que vous portez cette armure, vous êtes résistant à un type de dégâts parmi les suivants : contondants, perforants ou tranchants. C'est au MJ de choisir ce type ou de le déterminer au hasard.
 

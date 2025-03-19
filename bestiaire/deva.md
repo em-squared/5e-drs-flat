@@ -1,44 +1,40 @@
 ---
-title: "Déva"
-type: "Céleste"
-subtype: "Ange"
-size: "M"
-alignment: "Loyal Bon"
-challenge: "10"
+title: Déva
+type: Céleste
+subtype: Ange
+size: M
+alignment: Loyal Bon
+challenge: '10'
 hitDiceCount: 16
-abilityScores:
-  for: 18
-  dex: 18
-  con: 18
-  int: 17
-  sag: 20
-  cha: 20
 savingThrows:
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - sag
+  - cha
 skills:
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 9
-  fly: 27
-senses:
-  darkvision: 36
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "charme"
-  - "terrorise"
-  - "epuise"
+  - charme
+  - terrorise
+  - epuise
 damageTypeResistances:
-  - "radiant"
-  - "c-p-t-non-magique"
+  - radiant
+  - c-p-t-non-magique
 languages:
-  - "toutes"
+  - toutes
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 27
+abilityScores_for: 18
+abilityScores_dex: 18
+abilityScores_con: 18
+abilityScores_int: 17
+abilityScores_sag: 20
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_fly: 27
+senses_darkvision: 36
 ---
 ## Capacités
 _**Armes angéliques**_. Les attaques d'arme du déva sont magiques. Quand il réussit une attaque avec une arme, celle-ci inflige 4d8 dégâts radiants supplémentaires (inclus dans l'attaque).

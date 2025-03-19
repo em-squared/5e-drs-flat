@@ -1,56 +1,52 @@
 ---
-title: "Koralk"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "11"
+title: Koralk
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '11'
 hitDiceCount: 16
-abilityScores:
-  for: 16
-  dex: 13
-  con: 17
-  int: 10
-  sag: 11
-  cha: 13
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - con
+  - sag
+  - cha
 skills:
-  - name: "escamotage"
+  - name: escamotage
     invalid: true
     value: 8
-  - name: "histoire"
+  - name: histoire
     invalid: true
     value: 5
-  - name: "perspicacite"
+  - name: perspicacite
     invalid: true
     value: 10
-  - name: "persuasion"
+  - name: persuasion
     isExpert: true
-  - name: "supercherie"
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 12
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "infernal"
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 112
+abilityScores_for: 16
+abilityScores_dex: 13
+abilityScores_con: 17
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir d'un koralk.

@@ -1,24 +1,22 @@
 ---
-title: "Déblocage"
-description: "Permet d'ouvrir une serrure, supprime temporairement <em>verrou magique</em>."
-school: "Transmutation"
+title: Déblocage
+description: 'Permet d''ouvrir une serrure, supprime temporairement <em>verrou magique</em>.'
+school: Transmutation
 level: 2
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
+casting_time: 1 action
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
 ---
 Choisissez un objet situé à portée et dans votre champ de vision. Ce peut être une porte, une boîte, un coffre, des menottes, un cadenas ou un autre objet disposant d'un système de fermeture ordinaire ou magique.
 

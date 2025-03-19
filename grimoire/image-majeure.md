@@ -1,26 +1,24 @@
 ---
-title: "Image majeure"
-description: "Illusion visuelle, auditive et sensorielle très fidèle qui peut être déplacée."
-school: "Illusion"
+title: Image majeure
+description: 'Illusion visuelle, auditive et sensorielle très fidèle qui peut être déplacée.'
+school: Illusion
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un morceau de toison"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 36 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un morceau de toison
 ---
 Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible pas plus grand qu'un cube de 6 mètres d'arête. L'image apparaît en un point situé à portée et dans votre champ de vision et persiste pendant toute la durée du sort. Elle a l'air absolument réelle et s'accompagne des sons, des odeurs et de la température appropriés pour la chose qu'elle représente. En revanche, elle ne dégage pas assez de chaleur ou de froid pour blesser quelqu'un, ne génère pas de son assez puissant pour provoquer des dégâts de tonnerre pour qu'une créature soit [_assourdie_](/gerer-la-sante-du-personnage/#assourdi), et n'émet pas une odeur assez puissante pour écœurer une créature (comme le fait la puanteur du troglodyte).
 

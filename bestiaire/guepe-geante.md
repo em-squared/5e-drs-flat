@@ -1,31 +1,28 @@
 ---
-title: "Guêpe géante"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Guêpe géante
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 10
-  dex: 14
-  con: 10
-  int: 1
-  sag: 10
-  cha: 3
-ac: 
-  armorType: null
-movement: 
-  walk: 3
-  fly: 15
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 environments:
   - Bois / Forêt
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 308
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 10
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 3
+movement_fly: 15
 ---
 ## Actions
 _**Dard**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une créature.  

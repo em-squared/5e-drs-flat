@@ -1,49 +1,45 @@
 ---
-title: "Nuée de papillons de mort, Grande"
+title: 'Nuée de papillons de mort, Grande'
 isSwarm: true
-swarmSize: "TP"
-type: "Bête"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "6"
+swarmSize: TP
+type: Bête
+size: TG
+alignment: Chaotique Mauvais
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 1
-  dex: 16
-  con: 10
-  int: 1
-  sag: 15
-  cha: 12
-ac:
-  armorType: "armure naturelle"
-  value: 2
-movement:
-  walk: 1,50
-  fly: 12
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - entrave
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
-  - "froid"
+  - feu
+  - froid
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 languages:
-  - "—"
+  - —
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 327
+abilityScores_for: 1
+abilityScores_dex: 16
+abilityScores_con: 10
+abilityScores_int: 1
+abilityScores_sag: 15
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: '1,50'
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Poison puissant**_. Le poison d'une nuée de papillons de mort affecte les morts-vivants tangibles, même si ceux-ci sont normalement immunisés contre les poisons.

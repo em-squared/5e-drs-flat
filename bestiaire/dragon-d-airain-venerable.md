@@ -1,49 +1,45 @@
 ---
-title: "Dragon d'airain, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Chaotique Bon"
-challenge: "20"
+title: 'Dragon d''airain, vénérable'
+type: Dragon
+size: Gig
+alignment: Chaotique Bon
+challenge: '20'
 hitDiceCount: 17
-abilityScores:
-  for: 27
-  dex: 10
-  con: 25
-  int: 16
-  sag: 15
-  cha: 19
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 10
-skills: 
-  - name: "discretion"
-  - name: "histoire"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: histoire
+  - name: perception
     isExpert: true
-  - name: "persuasion"
-movement: 
-  walk: 12
-  burrow: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
+  - name: persuasion
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
 environments:
   - Désert chaud
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 102
+abilityScores_for: 27
+abilityScores_dex: 10
+abilityScores_con: 25
+abilityScores_int: 16
+abilityScores_sag: 15
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 10
+movement_walk: 12
+movement_burrow: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

@@ -1,24 +1,22 @@
 ---
-title: "Mur de feu"
-description: "Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent."
-school: "Évocation"
+title: Mur de feu
+description: Crée un mur qui inflige 5d8 dégâts aux créatures qui l'approchent.
+school: Évocation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un éclat de phosphore"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 36 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un éclat de phosphore
 ---
 Vous créez un mur de feu sur une surface solide située à portée. Il peut faire un maximum de 18 mètres de long, 6 mètres de haut et 30 centimètres d'épaisseur, ou prendre une forme circulaire de 6 mètres de diamètre pour 6 mètres de haut et 30 centimètres d'épaisseur. Le mur est opaque et persiste toute la durée du sort.
 

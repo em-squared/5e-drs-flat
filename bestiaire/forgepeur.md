@@ -1,43 +1,39 @@
 ---
-title: "Forgepeur"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "10"
+title: Forgepeur
+type: Fée
+size: M
+alignment: Chaotique Neutre
+challenge: '10'
 hitDiceCount: 19
-abilityScores:
-  for: 11
-  dex: 17
-  con: 14
-  int: 11
-  sag: 15
-  cha: 18
 savingThrows:
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - sag
 skills:
-  - name: "discretion"
-  - name: "intimidation"
+  - name: discretion
+  - name: intimidation
     invalid: true
     value: 6
-movement:
-  walk: 12
-  climb: 4,50
-senses:
-  blindsight: 9
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-fer-froid"
+  - c-p-t-non-fer-froid
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - sylvestre
+source: Livre des monstres
 source_page: 198
+abilityScores_for: 11
+abilityScores_dex: 17
+abilityScores_con: 14
+abilityScores_int: 11
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+movement_climb: '4,50'
+senses_blindsight: 9
 ---
 ## Capacités
 _**Regard de distorsion**_. Ceux qui croisent le regard d'un forgepeur ont l'impression que le monde se déforme et que le sol s'incline sous leurs pieds. Quand une créature qui peut voir l'œil d'un forgepeur commence son tour dans un rayon de 9 mètres de celui-ci, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 16 ou se trouver désorientée. Tant qu'elle est désorientée, la créature tombe [_à terre_](/gerer-la-sante-du-personnage/#a-terre) à chaque fois qu'elle tente de se déplacer ou qu'elle fait l'action _se précipiter_ ou _se désengager_. Afin de se remettre de cet état, la créature doit commencer son tour hors de la zone d'effet du regard et réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 16.

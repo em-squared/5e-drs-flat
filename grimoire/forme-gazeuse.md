@@ -1,25 +1,23 @@
 ---
-title: "Forme gazeuse"
-description: "Transforme une cible consentante en nuage brumeux."
-school: "Transmutation"
+title: Forme gazeuse
+description: Transforme une cible consentante en nuage brumeux.
+school: Transmutation
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un morceau de gaze et une volute de fumée"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: contact
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un morceau de gaze et une volute de fumée
 ---
 Vous touchez une créature consentante et la transformez, ainsi que tous les objets qu'elle porte et qu'elle transporte, en nuage brumeux pour toute la durée du sort. Ce dernier se termine si la créature tombe à 0 point de vie. Le sort n'affecte pas les créatures intangibles.
 

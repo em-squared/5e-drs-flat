@@ -1,47 +1,43 @@
 ---
-title: "Mangerêve"
-type: "Fiélon"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "5"
+title: Mangerêve
+type: Fiélon
+size: M
+alignment: Loyal Mauvais
+challenge: '5'
 hitDiceCount: 10
-abilityScores:
-  for: 15
-  dex: 18
-  con: 17
-  int: 16
-  sag: 13
-  cha: 20
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 9
-  fly: 6
-senses:
-  darkvision: 18
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
+  - céleste
+  - commun
+  - draconique
 telepathy: 30
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 284
+abilityScores_for: 15
+abilityScores_dex: 18
+abilityScores_con: 17
+abilityScores_int: 16
+abilityScores_sag: 13
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_fly: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Métamorphe**_. Lors de son tour, un mangerêve peut se métamorphoser en un humanoïde de taille Moyenne ou Petite qu'il a déjà vu, ou reprendre son apparence normale. En dehors de sa taille, il conserve ses statistiques quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.

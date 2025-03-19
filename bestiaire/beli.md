@@ -1,44 +1,40 @@
 ---
-title: "Béli"
-type: "Fée"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: Béli
+type: Fée
+size: P
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 10
-abilityScores:
-  for: 11
-  dex: 16
-  con: 12
-  int: 8
-  sag: 11
-  cha: 14
 savingThrows:
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-  fly: 9
-senses:
-  darkvision: 18
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "géant"
-  - "nain"
+  - commun
+  - géant
+  - nain
 environments:
   - Arctique / Subarctique
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 38
+abilityScores_for: 11
+abilityScores_dex: 16
+abilityScores_con: 12
+abilityScores_int: 8
+abilityScores_sag: 11
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Chasseur arctique**_. Un béli est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Dextérité (Discrétion) et de Sagesse (Perception) réalisés dans des environnements naturels glacés.

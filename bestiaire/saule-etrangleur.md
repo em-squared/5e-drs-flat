@@ -1,42 +1,39 @@
 ---
-title: "Saule étrangleur"
-type: "Plante"
-size: "TG"
-alignment: "non-alignée"
-challenge: "6"
+title: Saule étrangleur
+type: Plante
+size: TG
+alignment: non-alignée
+challenge: '6'
 hitDiceCount: 10
-abilityScores:
-  for: 21
-  dex: 8
-  con: 21
-  int: 1
-  sag: 10
-  cha: 1
-ac: 
-  armorType: "armure naturelle"
-  value: 7
-movement: 
-  walk: 0
-senses: 
-conditionImmunities: 
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "terrorise"
-damageTypeVulnerabilities: 
-  - "feu"
-damageTypeResistances: 
-  - "contondant"
-  - "perforant"
-  - "poison"
-  - "tonnerre"
-languages: 
-  - "—"
+senses: null
+conditionImmunities:
+  - assourdi
+  - aveugle
+  - charme
+  - terrorise
+damageTypeVulnerabilities:
+  - feu
+damageTypeResistances:
+  - contondant
+  - perforant
+  - poison
+  - tonnerre
+languages:
+  - —
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 256
+abilityScores_for: 21
+abilityScores_dex: 8
+abilityScores_con: 21
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 0
 ---
 ## Capacités
 _**Apparence trompeuse**_. Tant que le saule reste immobile et à moins d'être en fleurs, il ne peut pas être distingué d'un arbre ordinaire.

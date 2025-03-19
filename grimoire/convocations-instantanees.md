@@ -1,22 +1,20 @@
 ---
-title: "Convocations instantanées"
-description: "Téléporte instantanément un objet préalablement marqué."
-school: "Invocation"
+title: Convocations instantanées
+description: Téléporte instantanément un objet préalablement marqué.
+school: Invocation
 level: 6
 concentration: false
-casting_time: "1 minute"
-duration: "jusqu'à dissipation"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un saphir d'une valeur de 1000 po"
+casting_time: 1 minute
+duration: jusqu'à dissipation
+range: contact
 ritual: true
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un saphir d'une valeur de 1000 po
 ---
 Vous touchez un objet pesant 5 kilogrammes ou moins et dont la dimension la plus longue est de 1,80 mètre ou moins. Le sort laisse une marque invisible sur la surface de l'objet et inscrit le nom de l'objet sur le saphir que vous utilisez comme composante matérielle. Chaque fois que vous lancez ce sort, vous devez utiliser un saphir différent.
 

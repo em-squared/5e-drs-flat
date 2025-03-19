@@ -1,10 +1,10 @@
 ---
-title: "Dague venimeuse"
-type: "Arme"
-subtype: "Dague"
-rarity: "Rare"
+title: Dague venimeuse
+type: Arme
+subtype: Dague
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 

@@ -1,38 +1,34 @@
 ---
-title: "Tosculi, Archer pillard d'élite"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "5"
+title: 'Tosculi, Archer pillard d''élite'
+type: Créature monstrueuse
+size: M
+alignment: Loyal Mauvais
+challenge: '5'
 hitDiceCount: 13
-abilityScores:
-  for: 14
-  dex: 18
-  con: 17
-  int: 12
-  sag: 14
-  cha: 12
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-skills: 
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 9
-  fly: 18
-senses: 
-  darkvision: 18
-languages: 
-  - "gnoll"
-  - "infernal"
-  - "tosculi"
+skills:
+  - name: discretion
+  - name: perception
+languages:
+  - gnoll
+  - infernal
+  - tosculi
 environments:
   - Collines / Vallées
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 387
+abilityScores_for: 14
+abilityScores_dex: 18
+abilityScores_con: 17
+abilityScores_int: 12
+abilityScores_sag: 14
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Précision mortelle**_. L'attaque de l'archer-pillard d'élite tosculi inflige 9 (2d8) dégâts supplémentaires (inclus plus bas).

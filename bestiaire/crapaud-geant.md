@@ -1,31 +1,27 @@
 ---
-title: "Crapaud géant"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "1"
+title: Crapaud géant
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 6
-abilityScores:
-  for: 15
-  dex: 13
-  con: 13
-  int: 2
-  sag: 10
-  cha: 3
-ac: 
-  armorType: null
-movement: 
-  walk: 6
-  swim: 12
-senses: 
-  darkvision: 9
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Littoral
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 304
+abilityScores_for: 15
+abilityScores_dex: 13
+abilityScores_con: 13
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 6
+movement_swim: 12
+senses_darkvision: 9
 ---
 ## Capacités
 _**Amphibie**_. Le crapaud peut respirer à l'air libre et sous l'eau.

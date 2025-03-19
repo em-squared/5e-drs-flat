@@ -1,52 +1,48 @@
 ---
-title: "Dragon du vide, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Neutre"
-challenge: "9"
+title: 'Dragon du vide, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Neutre
+challenge: '9'
 hitDiceCount: 15
-abilityScores:
-  for: 20
-  dex: 10
-  con: 21
-  int: 14
-  sag: 11
-  cha: 19
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-skills: 
-  - name: "arcanes"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: arcanes
     isExpert: true
-  - name: "discretion"
-  - name: "histoire"
+  - name: discretion
+  - name: histoire
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "persuasion"
-movement: 
-  walk: 12
-  fly: 24
-  hover: true
-senses: 
-  blindsight: 9
-  darkvision: 36
-conditionImmunities: 
-  - "charme"
-  - "terrorise"
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "draconique"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - name: persuasion
+conditionImmunities:
+  - charme
+  - terrorise
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - draconique
+  - langue du Vide
+source: Livre des monstres
 source_page: 141
+abilityScores_for: 20
+abilityScores_dex: 10
+abilityScores_con: 21
+abilityScores_int: 14
+abilityScores_sag: 11
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_fly: 24
+movement_hover: true
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Frisson du vide**_. Les dégâts de froid infligés par le dragon du vide passent outre la résistance au froid, mais pas l'immunité contre le froid.

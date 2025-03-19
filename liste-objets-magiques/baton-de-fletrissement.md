@@ -1,10 +1,10 @@
 ---
-title: "Bâton de flétrissement"
-type: "Bâton"
+title: Bâton de flétrissement
+type: Bâton
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation avec un druide, un clerc ou un sorcier exigée"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: 'harmonisation avec un druide, un clerc ou un sorcier exigée'
+source: Cadre de campagne
 ---
 Ce bâton contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube.
 

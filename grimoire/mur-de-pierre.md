@@ -1,24 +1,22 @@
 ---
-title: "Mur de pierre"
-description: "Crée un mur de pierre qui peut devenir permanent."
-school: "Évocation"
+title: Mur de pierre
+description: Crée un mur de pierre qui peut devenir permanent.
+school: Évocation
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un petit bloc de granite"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 36 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un petit bloc de granite
 ---
 Vous créez un mur de pierre non magique qui se matérialise en un point de votre choix à portée. Il fait 15 centimètres d'épaisseur et se compose de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Sinon, vous pouvez opter pour des panneaux de 3 mètres sur 6 de seulement 7,5 centimètres d'épaisseur.
 

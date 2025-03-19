@@ -1,22 +1,22 @@
 ---
-title: "Frappe lumineuse"
-description: "La prochaine attaque du PJ inflige 2d6  dégâts et annule l'<em>invisibilité</em>."
-school: "Évocation"
+title: Frappe lumineuse
+description: >-
+  La prochaine attaque du PJ inflige 2d6  dégâts et annule
+  l'<em>invisibilité</em>.
+school: Évocation
 level: 2
 concentration: true
-casting_time: "1 action bonus"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action bonus
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Paladin
-
-source: "Manuel des règles"
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 La prochaine attaque avec une arme de corps-à-corps ou à distance qui vous permet de toucher une créature avant la fin de ce sort voit votre arme briller soudain d'une lumière astrale et infliger 2d6 dégâts radiants additionnels à votre cible, qui devient visible si elle était invisible et se met à émettre une faible lumière dans un rayon de 1,50 mètre jusqu'à la fin du sort. Elle ne peut plus devenir invisible pendant toute cette durée.
 

@@ -1,50 +1,46 @@
 ---
-title: "Andrenjinyi"
-type: "Céleste"
-size: "Gig"
-alignment: "Neutre"
-challenge: "15"
+title: Andrenjinyi
+type: Céleste
+size: Gig
+alignment: Neutre
+challenge: '15'
 hitDiceCount: 13
-abilityScores:
-  for: 30
-  dex: 17
-  con: 25
-  int: 10
-  sag: 18
-  cha: 23
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - con
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "perception"
-  - name: "religion"
-movement:
-  walk: 18
-  burrow: 6
-  climb: 6
-  swim: 18
-senses:
-  darkvision: 18
-  tremorsense: 36
+  - name: arcanes
+  - name: perception
+  - name: religion
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
+  - acide
+  - feu
+  - foudre
+  - froid
 damageTypeImmunities:
-  - "psychique"
+  - psychique
 languages:
-  - "commun"
-  - "céleste"
-  - "géant"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - céleste
+  - géant
+  - sylvestre
+source: Livre des monstres
 source_page: 16
+abilityScores_for: 30
+abilityScores_dex: 17
+abilityScores_con: 25
+abilityScores_int: 10
+abilityScores_sag: 18
+abilityScores_cha: 23
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 18
+movement_burrow: 6
+movement_climb: 6
+movement_swim: 18
+senses_darkvision: 18
+senses_tremorsense: 36
 ---
 ## Capacités
 _**Amphibie**_. Un andrenjinyi peut respirer à l'air libre et sous l'eau.

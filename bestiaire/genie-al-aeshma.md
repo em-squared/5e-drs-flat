@@ -1,39 +1,35 @@
 ---
-title: "Génie al-Aeshma"
-type: "Élémentaire"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "9"
+title: Génie al-Aeshma
+type: Élémentaire
+size: G
+alignment: Chaotique Mauvais
+challenge: '9'
 hitDiceCount: 15
-abilityScores:
-  for: 21
-  dex: 15
-  con: 22
-  int: 15
-  sag: 16
-  cha: 20
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 9
-  fly: 27
-  hover: true
-senses:
-  darkvision: 36
+  - dex
+  - sag
+  - cha
 damageTypeImmunities:
-  - "foudre"
-  - "tonnerre"
+  - foudre
+  - tonnerre
 languages:
-  - "aérien"
-  - "commun"
-  - "igné"
-source: "Livre des monstres"
+  - aérien
+  - commun
+  - igné
+source: Livre des monstres
 source_page: 209
+abilityScores_for: 21
+abilityScores_dex: 15
+abilityScores_con: 22
+abilityScores_int: 15
+abilityScores_sag: 16
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_fly: 27
+movement_hover: true
+senses_darkvision: 36
 ---
 ## Capacités
 _**Haine de l'air**_. L'al-Aeshma est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre une cible aérienne.

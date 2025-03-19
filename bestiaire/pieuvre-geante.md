@@ -1,37 +1,33 @@
 ---
-title: "Pieuvre géante"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "1"
+title: Pieuvre géante
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 8
-abilityScores:
-  for: 17
-  dex: 13
-  con: 13
-  int: 4
-  sag: 10
-  cha: 4
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement: 
-  walk: 3
-  swim: 18
-senses: 
-  darkvision: 18
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Mer / Océan
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 317
+abilityScores_for: 17
+abilityScores_dex: 13
+abilityScores_con: 13
+abilityScores_int: 4
+abilityScores_sag: 10
+abilityScores_cha: 4
+ac_armorType: null
+movement_walk: 3
+movement_swim: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Camouflage sous l'eau**_. La pieuvre obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Dextérité (Discrétion) effectués sous l'eau.

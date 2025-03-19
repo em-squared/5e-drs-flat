@@ -1,10 +1,10 @@
 ---
-title: "Gemme lumineuse"
-type: "Objet merveilleux"
+title: Gemme lumineuse
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce prisme a 50 charges. Tant que vous le tenez, vous pouvez utiliser une action pour prononcer l'un des trois mots de commande qui provoquent l'un des effets suivants.
 

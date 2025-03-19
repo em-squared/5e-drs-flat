@@ -1,35 +1,32 @@
 ---
-title: "Seigneur des bandits"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "n'importe quel alignement non loyal"
-challenge: "4"
+title: Seigneur des bandits
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: n'importe quel alignement non loyal
+challenge: '4'
 hitDiceCount: 14
-abilityScores:
-  for: 16
-  dex: 15
-  con: 14
-  int: 14
-  sag: 11
-  cha: 14
-savingThrows: 
-  - "for"
-  - "dex"
-  - "sag"
-ac: 
-  armorType: "cuirasse"
-skills: 
-  - name: "athletisme"
-  - name: "intimidation"
-  - name: "supercherie"
-movement: 
-  walk: 9
-senses: 
-languages: 
-  - "deux au choix"
-source: "Livre des monstres"
+savingThrows:
+  - for
+  - dex
+  - sag
+skills:
+  - name: athletisme
+  - name: intimidation
+  - name: supercherie
+senses: null
+languages:
+  - deux au choix
+source: Livre des monstres
 source_page: 425
+abilityScores_for: 16
+abilityScores_dex: 15
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 11
+abilityScores_cha: 14
+ac_armorType: cuirasse
+movement_walk: 9
 ---
 ## Capacités
 _**Tactique de meute**_. Le seigneur des bandits est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque contre une créature si au moins l'un de ses alliés se trouve dans un rayon de 1,50 mètre autour d'elle et n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).

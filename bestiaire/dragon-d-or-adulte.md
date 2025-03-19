@@ -1,45 +1,41 @@
 ---
-title: "Dragon d'or, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Loyal Bon"
-challenge: "17"
+title: 'Dragon d''or, adulte'
+type: Dragon
+size: TG
+alignment: Loyal Bon
+challenge: '17'
 hitDiceCount: 19
-abilityScores:
-  for: 27
-  dex: 14
-  con: 25
-  int: 16
-  sag: 15
-  cha: 24
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 7
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-movement: 
-  walk: 12
-  swim: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
-source: "Créatures & Oppositions"
+  - name: perspicacite
+  - name: persuasion
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
+source: Créatures & Oppositions
 source_page: 123
+abilityScores_for: 27
+abilityScores_dex: 14
+abilityScores_con: 25
+abilityScores_int: 16
+abilityScores_sag: 15
+abilityScores_cha: 24
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+movement_swim: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

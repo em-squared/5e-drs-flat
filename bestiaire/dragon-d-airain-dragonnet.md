@@ -1,46 +1,42 @@
 ---
-title: "Dragon d'airain, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Bon"
-challenge: "1"
+title: 'Dragon d''airain, dragonnet'
+type: Dragon
+size: M
+alignment: Chaotique Bon
+challenge: '1'
 hitDiceCount: 3
-abilityScores:
-  for: 15
-  dex: 10
-  con: 13
-  int: 10
-  sag: 11
-  cha: 13
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-  burrow: 4,50
-  fly: 18
-senses:
-  blindsight: 3
-  darkvision: 18
 damageTypeImmunities:
-  - "feu"
+  - feu
 languages:
-  - "draconique"
+  - draconique
 environments:
   - Désert chaud
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 105
+abilityScores_for: 15
+abilityScores_dex: 10
+abilityScores_con: 13
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 9
+movement_burrow: '4,50'
+movement_fly: 18
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  

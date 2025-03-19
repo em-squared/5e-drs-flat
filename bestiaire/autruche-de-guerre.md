@@ -1,29 +1,26 @@
 ---
-title: "Autruche de guerre"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Autruche de guerre
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 15
-  dex: 12
-  con: 16
-  int: 2
-  sag: 10
-  cha: 5
-ac: 
-  armorType: null
-movement: 
-  walk: 18
-senses: 
-languages: 
-  - "—"
+senses: null
+languages:
+  - —
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 320
+abilityScores_for: 15
+abilityScores_dex: 12
+abilityScores_con: 16
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 5
+ac_armorType: null
+movement_walk: 18
 ---
 ## Capacités
 _**Saut sans élan**_. L'autruche peut sauter en longueur sur un maximum de 6 mètres et en hauteur sur un maximum de 3 mètres, avec ou sans élan.

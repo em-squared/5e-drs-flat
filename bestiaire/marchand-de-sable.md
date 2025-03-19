@@ -1,48 +1,44 @@
 ---
-title: "Marchand de sable"
-type: "Céleste"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "5"
+title: Marchand de sable
+type: Céleste
+size: M
+alignment: Chaotique Neutre
+challenge: '5'
 hitDiceCount: 11
-abilityScores:
-  for: 11
-  dex: 19
-  con: 16
-  int: 13
-  sag: 14
-  cha: 19
 savingThrows:
-  - "dex"
-  - "cha"
-ac:
-  armorType: null
-movement:
-  walk: 12
-senses:
-  truesight: 18
+  - dex
+  - cha
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "inconscient"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - inconscient
+  - terrorise
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
+  - poison
+  - psychique
 languages:
-  - "commun"
-  - "céleste"
-  - "géant"
-  - "infernal"
-  - "umbral"
-source: "Livre des monstres"
+  - commun
+  - céleste
+  - géant
+  - infernal
+  - umbral
+source: Livre des monstres
 source_page: 287
+abilityScores_for: 11
+abilityScores_dex: 19
+abilityScores_con: 16
+abilityScores_int: 13
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: null
+movement_walk: 12
+senses_truesight: 18
 ---
 ## Capacités
 _**Malédiction des yeux fermés**_. Si le marchand de sable réussit un coup critique ou une attaque-surprise contre un adversaire, ses griffes tracent une rune sur les globes oculaires de sa victime, fermant ses paupières et la laissant _aveugle_. On peut mettre un terme à cet effet avec [_restauration supérieure_](/grimoire/restauration-superieure/), [_lever une malédiction_](/grimoire/lever-une-malediction/) ou une magie similaire.

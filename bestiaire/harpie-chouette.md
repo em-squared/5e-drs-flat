@@ -1,43 +1,39 @@
 ---
-title: "Harpie chouette"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Harpie chouette
+type: Créature monstrueuse
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 15
-abilityScores:
-  for: 12
-  dex: 17
-  con: 16
-  int: 11
-  sag: 14
-  cha: 14
-ac:
-  armorType: "custom"
-  value: "14"
 skills:
-  - name: "custom"
-    value: "Discrétion +6 (+9 en volant)"
-  - name: "representation"
+  - name: custom
+    value: Discrétion +6 (+9 en volant)
+  - name: representation
     invalid: true
     value: 7
-movement:
-  walk: 6
-  fly: 24
-  hover: true
-senses:
-  blindsight: 18
 damageTypeVulnerabilities:
-  - "tonnerre"
+  - tonnerre
 languages:
-  - "commun"
-  - "abyssal"
-  - "géant"
+  - commun
+  - abyssal
+  - géant
 environments:
   - Désert chaud
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 234
+abilityScores_for: 12
+abilityScores_dex: 17
+abilityScores_con: 16
+abilityScores_int: 11
+abilityScores_sag: 14
+abilityScores_cha: 14
+ac_armorType: custom
+ac_value: '14'
+movement_walk: 6
+movement_fly: 24
+movement_hover: true
+senses_blindsight: 18
 ---
 ## Capacités
 _**Dissonance**_. La harpie chouette ne peut pas utiliser vision aveugle quand elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).

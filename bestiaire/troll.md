@@ -1,35 +1,31 @@
 ---
-title: "Troll"
-type: "Géant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "5"
+title: Troll
+type: Géant
+size: G
+alignment: Chaotique Mauvais
+challenge: '5'
 hitDiceCount: 8
-abilityScores:
-  for: 18
-  dex: 13
-  con: 20
-  int: 7
-  sag: 9
-  cha: 7
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "perception"
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "géant"
+skills:
+  - name: perception
+languages:
+  - géant
 environments:
   - Arctique / Subarctique
   - Bois / Forêt
   - Mangrove / Marécage
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 277
+abilityScores_for: 18
+abilityScores_dex: 13
+abilityScores_con: 20
+abilityScores_int: 7
+abilityScores_sag: 9
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Odorat aiguisé**_. Le troll obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.

@@ -1,10 +1,10 @@
 ---
-title: "Colle universelle"
-type: "Objet merveilleux"
+title: Colle universelle
+type: Objet merveilleux
 subtype: false
-rarity: "Légendaire"
+rarity: Légendaire
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette substance visqueuse et aussi blanche que le lait peut coller deux objets de manière définitive. Elle doit être conservée dans un pot dont la surface intérieure a été badigeonnée d'[_huile glissante_](/liste-objets-magiques/huile-glissante/). Un récipient nouvellement découvert contient 1d6+1 doses de cette colle, de 30 grammes chacune.
 

@@ -1,46 +1,42 @@
 ---
-title: "Vase grise"
-type: "Vase"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Vase grise
+type: Vase
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 12
-  dex: 6
-  con: 16
-  int: 1
-  sag: 6
-  cha: 2
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-movement:
-  walk: 3
-  climb: 3
-senses:
-  blindsight: 18
-  customBlindSight: "18 m (aveugle au-delà de ce rayon)"
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "froid"
+  - acide
+  - feu
+  - froid
 languages:
-  - ""
+  - ''
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 285
+abilityScores_for: 12
+abilityScores_dex: 6
+abilityScores_con: 16
+abilityScores_int: 1
+abilityScores_sag: 6
+abilityScores_cha: 2
+ac_armorType: null
+movement_walk: 3
+movement_climb: 3
+senses_blindsight: 18
+senses_customBlindSight: 18 m (aveugle au-delà de ce rayon)
 ---
 ## Capacités
 _**Corrosion du métal**_. Les armes non-magiques en métal qui entrent en contact avec la vase se corrodent. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal qui entrent en contact avec la vase sont détruites après avoir infligé leurs dégâts.  

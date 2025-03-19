@@ -1,44 +1,40 @@
 ---
-title: "Dref"
-type: "Fiélon"
-size: "TP"
-alignment: "Chaotique Neutre"
-challenge: "0.25"
+title: Dref
+type: Fiélon
+size: TP
+alignment: Chaotique Neutre
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 6
-  dex: 17
-  con: 12
-  int: 10
-  sag: 14
-  cha: 15
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perspicacite"
+  - name: discretion
+  - name: perspicacite
     invalid: true
     value: 3
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 6
-  fly: 12
-senses:
-  darkvision: 36
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "poison"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "commun"
-source: "Créatures & Oppositions"
+  - commun
+source: Créatures & Oppositions
 source_page: 126
+abilityScores_for: 6
+abilityScores_dex: 17
+abilityScores_con: 12
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 15
+ac_armorType: null
+movement_walk: 6
+movement_fly: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le dref a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués contre les sorts ou tout autre effet magique.

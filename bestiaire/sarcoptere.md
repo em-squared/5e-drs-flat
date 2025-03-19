@@ -1,53 +1,49 @@
 ---
-title: "Sarcoptère"
-type: "Mort-vivant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "12"
+title: Sarcoptère
+type: Mort-vivant
+size: G
+alignment: Chaotique Mauvais
+challenge: '12'
 hitDiceCount: 22
-abilityScores:
-  for: 11
-  dex: 18
-  con: 17
-  int: 12
-  sag: 13
-  cha: 10
 savingThrows:
-  - "for"
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - for
+  - dex
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 3
-  fly: 18
-senses:
-  darkvision: 72
+  - name: discretion
+  - name: perception
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "etourdi"
-  - "inconscient"
-  - "paralyse"
+  - charme
+  - empoisonne
+  - epuise
+  - etourdi
+  - inconscient
+  - paralyse
 damageTypeVulnerabilities:
-  - "radiant"
+  - radiant
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "commun"
-  - "darakhul"
-source: "Livre des monstres"
+  - commun
+  - darakhul
+source: Livre des monstres
 source_page: 355
+abilityScores_for: 11
+abilityScores_dex: 18
+abilityScores_con: 17
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 3
+movement_fly: 18
+senses_darkvision: 72
 ---
 ## Capacités
 _**Armes magiques**_. Les attaques d'un sarcoptère sont magiques.

@@ -1,43 +1,39 @@
 ---
-title: "Nécrophage"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "3"
+title: Nécrophage
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '3'
 hitDiceCount: 6
-abilityScores:
-  for: 15
-  dex: 14
-  con: 16
-  int: 10
-  sag: 13
-  cha: 15
-ac:
-  armorType: "armure de cuir clouté"
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
-  - "epuise"
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "necrotique"
-  - "c-p-t-non-argent"
+  - necrotique
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "celles qu'il connaissait de son vivant"
+  - celles qu'il connaissait de son vivant
 environments:
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 231
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 13
+abilityScores_cha: 15
+ac_armorType: armure de cuir clouté
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Sensibilité à la lumière du soleil**_. Le nécrophage subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque et des tests de Sagesse (Perception) basés sur la vue lorsqu'il est exposé à la lumière du soleil.

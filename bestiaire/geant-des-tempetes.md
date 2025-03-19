@@ -1,48 +1,45 @@
 ---
-title: "Géant des tempêtes"
-type: "Géant"
-size: "TG"
-alignment: "Chaotique Bon"
-challenge: "13"
+title: Géant des tempêtes
+type: Géant
+size: TG
+alignment: Chaotique Bon
+challenge: '13'
 hitDiceCount: 20
-abilityScores:
-  for: 29
-  dex: 14
-  con: 20
-  int: 16
-  sag: 18
-  cha: 18
 savingThrows:
-  - "for"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure d'écailles"
+  - for
+  - con
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "athletisme"
-  - name: "histoire"
-  - name: "perception"
-movement:
-  walk: 15
-  swim: 15
-senses:
+  - name: arcanes
+  - name: athletisme
+  - name: histoire
+  - name: perception
+senses: null
 damageTypeResistances:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "foudre"
-  - "tonnerre"
+  - foudre
+  - tonnerre
 languages:
-  - "commun"
-  - "géant"
+  - commun
+  - géant
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 153
+abilityScores_for: 29
+abilityScores_dex: 14
+abilityScores_con: 20
+abilityScores_int: 16
+abilityScores_sag: 18
+abilityScores_cha: 18
+ac_armorType: armure d'écailles
+movement_walk: 15
+movement_swim: 15
 ---
 ## Capacités
 _**Amphibie**_. Le géant peut respirer à l'air libre et sous l'eau.

@@ -1,46 +1,42 @@
 ---
-title: "Dragon blanc, adulte"
-type: "Dragon"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "13"
+title: 'Dragon blanc, adulte'
+type: Dragon
+size: TG
+alignment: Chaotique Mauvais
+challenge: '13'
 hitDiceCount: 16
-abilityScores:
-  for: 22
-  dex: 10
-  con: 22
-  int: 8
-  sag: 12
-  cha: 12
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  burrow: 9
-  swim: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - draconique
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 81
+abilityScores_for: 22
+abilityScores_dex: 10
+abilityScores_con: 22
+abilityScores_int: 8
+abilityScores_sag: 12
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_burrow: 9
+movement_swim: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.

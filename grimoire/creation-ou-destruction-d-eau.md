@@ -1,23 +1,23 @@
 ---
-title: "Création ou destruction d'eau"
-description: "Crée ou détruit de l'eau ou fait tomber la pluie."
-school: "Transmutation"
+title: Création ou destruction d'eau
+description: Crée ou détruit de l'eau ou fait tomber la pluie.
+school: Transmutation
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire"
+casting_time: 1 action
+duration: instantanée
+range: 9 mètres
 ritual: false
 classes:
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en
+  détruire
 ---
 Vous créez ou détruisez de l'eau.
 

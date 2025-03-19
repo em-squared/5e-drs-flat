@@ -1,35 +1,31 @@
 ---
-title: "Chauve-souris de peau"
-type: "Mort-vivant"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Chauve-souris de peau
+type: Mort-vivant
+size: P
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 4
-abilityScores:
-  for: 12
-  dex: 16
-  con: 10
-  int: 2
-  sag: 13
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 0
 skills:
-  - name: "perception"
-movement:
-  walk: 3
-  fly: 12
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "-"
-source: "Livre des monstres"
+  - '-'
+source: Livre des monstres
 source_page: 89
+abilityScores_for: 12
+abilityScores_dex: 16
+abilityScores_con: 10
+abilityScores_int: 2
+abilityScores_sag: 13
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 0
+movement_walk: 3
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Convocation de nuée de chauves-souris**_. Une chauve-souris de peau peut pousser des cris perçants et attirer à elle des chauves-souris courantes. Quand une chauve-souris de peau se trouve en danger, 0-3 (1d4-1) [_nuées de chauves-souris_](/bestiaire/nuee-de-chauve-souris/) arrivent au bout de 1d6 rounds. Ces nuées ne sont pas sous le contrôle de la chauve-souris de peau, mais elles attaquent généralement par réflexe l'adversaire que celle-ci affronte.

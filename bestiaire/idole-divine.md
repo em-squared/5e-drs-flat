@@ -1,51 +1,47 @@
 ---
-title: "Idole divine"
-type: "Créature artificielle"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "8"
+title: Idole divine
+type: Créature artificielle
+size: P
+alignment: Neutre Mauvais
+challenge: '8'
 hitDiceCount: 12
-abilityScores:
-  for: 24
-  dex: 20
-  con: 18
-  int: 10
-  sag: 11
-  cha: 20
 savingThrows:
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - sag
 skills:
-  - name: "discretion"
-  - name: "supercherie"
-movement:
-  walk: 0
-  fly: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-magique"
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - ""
+  - ''
 telepathy: 18
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 248
+abilityScores_for: 24
+abilityScores_dex: 20
+abilityScores_con: 18
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 0
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 **_Aura d'apostasie._** La présence de l'idole divine fait douter les fidèles dévoués de leur foi. Un clerc ou un paladin qui voit l'idole et désire lancer un sort ou utiliser un pouvoir de classe doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse DD 16. En cas d'échec, le sort ou le pouvoir est dépensé, mais n'a aucun effet.

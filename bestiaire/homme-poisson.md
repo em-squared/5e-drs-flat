@@ -1,35 +1,32 @@
 ---
-title: "Homme-poisson"
-type: "Humanoïde"
-subtype: "homme-poisson"
-size: "M"
-alignment: "Neutre"
-challenge: "0.125"
+title: Homme-poisson
+type: Humanoïde
+subtype: homme-poisson
+size: M
+alignment: Neutre
+challenge: '0.125'
 hitDiceCount: 2
-abilityScores:
-  for: 10
-  dex: 13
-  con: 12
-  int: 11
-  sag: 11
-  cha: 12
-ac: 
-  armorType: null
-skills: 
-  - name: "perception"
-movement: 
-  walk: 3
-  swim: 12
-senses: 
-languages: 
-  - "aquatique"
-  - "commun"
+skills:
+  - name: perception
+senses: null
+languages:
+  - aquatique
+  - commun
 environments:
   - Mer / Océan
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 191
+abilityScores_for: 10
+abilityScores_dex: 13
+abilityScores_con: 12
+abilityScores_int: 11
+abilityScores_sag: 11
+abilityScores_cha: 12
+ac_armorType: null
+movement_walk: 3
+movement_swim: 12
 ---
 ## Capacités
 _**Amphibie**_. L'homme-poisson peut respirer à l'air libre et sous l'eau.

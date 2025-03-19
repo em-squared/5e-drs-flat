@@ -1,38 +1,34 @@
 ---
-title: "Chien du temple"
-type: "Céleste"
-size: "M"
-alignment: "Bon"
-challenge: "5"
+title: Chien du temple
+type: Céleste
+size: M
+alignment: Bon
+challenge: '5'
 hitDiceCount: 15
-abilityScores:
-  for: 18
-  dex: 14
-  con: 15
-  int: 8
-  sag: 14
-  cha: 10
 savingThrows:
-  - "for"
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - for
+  - con
+  - int
+  - sag
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: perception
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "comprend le céleste et le commun"
-  - "mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend le céleste et le commun
+  - mais ne peut pas parler
+source: Livre des monstres
 source_page: 60
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 8
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. Le chien du temple est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

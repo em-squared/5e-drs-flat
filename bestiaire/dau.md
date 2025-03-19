@@ -1,39 +1,35 @@
 ---
-title: "Dau"
-type: "Fée"
-size: "P"
-alignment: "Chaotique Neutre"
-challenge: "4"
+title: Dau
+type: Fée
+size: P
+alignment: Chaotique Neutre
+challenge: '4'
 hitDiceCount: 9
-abilityScores:
-  for: 7
-  dex: 17
-  con: 14
-  int: 14
-  sag: 17
-  cha: 16
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 6
-  fly: 18
-  hover: true
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 languages:
-  - "primordial"
-  - "profond"
-  - "sylvestre"
+  - primordial
+  - profond
+  - sylvestre
 telepathy: 18
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 74
+abilityScores_for: 7
+abilityScores_dex: 17
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 17
+abilityScores_cha: 16
+ac_armorType: null
+movement_walk: 6
+movement_fly: 18
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. Une dau est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

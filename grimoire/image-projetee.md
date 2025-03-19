@@ -1,23 +1,23 @@
 ---
-title: "Image projetée"
-description: "Crée un double illusoire du PJ jusqu'à 750 kilomètres."
-school: "Illusion"
+title: Image projetée
+description: Crée un double illusoire du PJ jusqu'à 750 kilomètres.
+school: Illusion
 level: 7
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 jour"
-range: "750 kilomètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une petite réplique de votre personne construite avec des matériaux valant au moins 5 po"
+casting_time: 1 action
+duration: jusqu'à 1 jour
+range: 750 kilomètres
 ritual: false
 classes:
-    - Barde
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une petite réplique de votre personne construite avec des matériaux valant au
+  moins 5 po
 ---
 Vous créez un double illusoire de votre personne qui persiste pendant toute la durée du sort. Ce double peut apparaître à n'importe quel endroit à portée, peu importent les obstacles interposés, à condition que vous l'ayez déjà vu auparavant. D'un point de vue visuel et auditif, l'illusion vous est tout à fait semblable ; en revanche, elle est intangible. Si elle subit le moindre dégât, elle disparaît et le sort se termine.
 

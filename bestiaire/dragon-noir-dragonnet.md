@@ -1,44 +1,40 @@
 ---
-title: "Dragon noir, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: 'Dragon noir, dragonnet'
+type: Dragon
+size: M
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 6
-abilityScores:
-  for: 15
-  dex: 14
-  con: 13
-  int: 10
-  sag: 11
-  cha: 13
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 5
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-  swim: 9
-  fly: 18
-senses: 
-  blindsight: 3
-  darkvision: 18
-damageTypeImmunities: 
-  - "acide"
-languages: 
-  - "draconique"
+damageTypeImmunities:
+  - acide
+languages:
+  - draconique
 environments:
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 91
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 13
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_swim: 9
+movement_fly: 18
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

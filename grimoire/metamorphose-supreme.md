@@ -1,24 +1,22 @@
 ---
-title: "Métamorphose suprême"
-description: "Transforme une créature en une autre ou en objet."
-school: "Transmutation"
+title: Métamorphose suprême
+description: Transforme une créature en une autre ou en objet.
+school: Transmutation
 level: 9
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une goutte de mercure, une cuillerée de gomme arabique et une volute de fumée'
 ---
 Choisissez une créature ou un objet non magique situés à portée et dans votre champ de vision. Vous transformez la créature en une autre créature, la créature en un objet ou l'objet en une créature (cet objet ne doit pas être porté ni transporté par autrui). La transformation persiste pendant toute la durée du sort ou jusqu'à ce que la cible tombe à 0 point de vie ou meure. Si vous vous concentrez sur ce sort pendant toute sa durée, la transformation persiste jusqu'à dissipation.
 

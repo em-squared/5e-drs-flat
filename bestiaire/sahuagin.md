@@ -1,38 +1,34 @@
 ---
-title: "Sahuagin"
-type: "Humanoïde"
-subtype: "sahuagin"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "0.5"
+title: Sahuagin
+type: Humanoïde
+subtype: sahuagin
+size: M
+alignment: Loyal Mauvais
+challenge: '0.5'
 hitDiceCount: 4
-abilityScores:
-  for: 13
-  dex: 11
-  con: 12
-  int: 12
-  sag: 13
-  cha: 9
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-skills: 
-  - name: "perception"
+skills:
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-  swim: 12
-senses: 
-  darkvision: 36
-languages: 
-  - "sahuagin"
+languages:
+  - sahuagin
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 252
+abilityScores_for: 13
+abilityScores_dex: 11
+abilityScores_con: 12
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie limitée**_. Le sahuagin peut respirer à l'air libre et sous l'eau, mais il a besoin de s'immerger au moins une fois toutes les 4 heures pour éviter de s'asphyxier.

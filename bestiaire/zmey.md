@@ -1,48 +1,44 @@
 ---
-title: "Zmey"
-type: "Dragon"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "14"
+title: Zmey
+type: Dragon
+size: TG
+alignment: Chaotique Mauvais
+challenge: '14'
 hitDiceCount: 18
-abilityScores:
-  for: 22
-  dex: 13
-  con: 19
-  int: 16
-  sag: 16
-  cha: 12
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - con
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 15
-  swim: 9
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "inconscient"
-  - "paralyse"
+  - inconscient
+  - paralyse
 damageTypeResistances:
-  - "feu"
-  - "froid"
+  - feu
+  - froid
 languages:
-  - "commun"
-  - "draconique"
-  - "elfique"
-  - "sylvestre"
+  - commun
+  - draconique
+  - elfique
+  - sylvestre
 environments:
   - Bois / Forêt
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 416
+abilityScores_for: 22
+abilityScores_dex: 13
+abilityScores_con: 19
+abilityScores_int: 16
+abilityScores_sag: 16
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 9
+movement_fly: 15
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 ***Amphibie***. Le zmey respire à l'air libre et sous l'eau.

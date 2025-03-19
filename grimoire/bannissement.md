@@ -1,26 +1,24 @@
 ---
-title: "Bannissement"
-description: "Envoie la cible dans un demi-plan ou dans son plan d'origine."
-school: "Abjuration"
+title: Bannissement
+description: Envoie la cible dans un demi-plan ou dans son plan d'origine.
+school: Abjuration
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un objet qui répugne à la cible"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Clerc
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Paladin
-    - Sorcier
-
-source: "Manuel des règles"
+  - Clerc
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Paladin
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un objet qui répugne à la cible
 ---
 Vous tentez d'envoyer une créature située dans votre champ de vision dans un autre plan d'existence. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme ou être bannie.
 

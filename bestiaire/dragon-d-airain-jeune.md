@@ -1,48 +1,44 @@
 ---
-title: "Dragon d'airain, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Bon"
-challenge: "6"
+title: 'Dragon d''airain, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Bon
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 19
-  dex: 10
-  con: 17
-  int: 12
-  sag: 11
-  cha: 15
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "persuasion"
-movement:
-  walk: 12
-  burrow: 6
-  fly: 24
-senses:
-  blindsight: 9
-  darkvision: 36
+  - name: persuasion
 damageTypeImmunities:
-  - "feu"
+  - feu
 languages:
-  - "commun"
-  - "draconique"
+  - commun
+  - draconique
 environments:
   - Désert chaud
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 104
+abilityScores_for: 19
+abilityScores_dex: 10
+abilityScores_con: 17
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+movement_burrow: 6
+movement_fly: 24
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Actions
 _**Attaques multiples**_. Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.

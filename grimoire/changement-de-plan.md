@@ -1,26 +1,26 @@
 ---
-title: "Changement de plan"
-description: "Transporte le PJ et huit alliés sur un autre plan d'existence."
-school: "Invocation"
+title: Changement de plan
+description: Transporte le PJ et huit alliés sur un autre plan d'existence.
+school: Invocation
 level: 7
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un diapason de métal valant au moins 250 po, harmonisé avec un plan d'existence donné"
+casting_time: 1 action
+duration: instantanée
+range: contact
 ritual: false
 classes:
-    - Clerc
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un diapason de métal valant au moins 250 po, harmonisé avec un plan
+  d'existence donné
 ---
 Vous et un maximum de huit autres créatures consentantes vous donnez la main pour former un cercle, et êtes transportés sur un autre plan d'existence. Vous pouvez spécifier une destination en termes génériques, comme le nom d'une cité, d'une région ou d'un endroit spécifique dans l'un des plans. Vous apparaissez alors à cet endroit ou à proximité. C'est au MJ de décider l'endroit exact de votre arrivée.
 

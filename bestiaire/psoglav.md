@@ -1,52 +1,48 @@
 ---
-title: "Psoglav"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Psoglav
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 11
-abilityScores:
-  for: 21
-  dex: 23
-  con: 20
-  int: 16
-  sag: 19
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 1
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
+  - name: acrobaties
+  - name: discretion
+  - name: intimidation
+  - name: perception
     invalid: true
     value: 6
-movement:
-  walk: 12
-  fly: 18
-senses:
-  blindsight: 9
-  darkvision: 18
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "foudre"
-  - "froid"
+  - foudre
+  - froid
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "commun"
+  - commun
 telepathy: 18
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 81
+abilityScores_for: 21
+abilityScores_dex: 23
+abilityScores_con: 20
+abilityScores_int: 16
+abilityScores_sag: 19
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 12
+movement_fly: 18
+senses_blindsight: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un psoglav est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer le sort suivant de manière innée, sans composantes matérielles :

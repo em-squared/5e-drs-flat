@@ -1,47 +1,43 @@
 ---
-title: "Dragon noir, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: 'Dragon noir, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 15
-abilityScores:
-  for: 19
-  dex: 14
-  con: 17
-  int: 12
-  sag: 11
-  cha: 15
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 6
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  swim: 12
-  fly: 24
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "acide"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - acide
+languages:
+  - commun
+  - draconique
 environments:
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne sous-marine
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 91
+abilityScores_for: 19
+abilityScores_dex: 14
+abilityScores_con: 17
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_swim: 12
+movement_fly: 24
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

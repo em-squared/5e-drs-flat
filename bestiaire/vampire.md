@@ -1,41 +1,37 @@
 ---
-title: "Vampire"
-type: "Mort-vivant"
-subtype: "métamorphe"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "13"
+title: Vampire
+type: Mort-vivant
+subtype: métamorphe
+size: M
+alignment: Loyal Mauvais
+challenge: '13'
 hitDiceCount: 17
-abilityScores:
-  for: 18
-  dex: 18
-  con: 18
-  int: 17
-  sag: 15
-  cha: 18
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: perception
 damageTypeResistances:
-  - "necrotique"
-  - "c-p-t-non-magique"
+  - necrotique
+  - c-p-t-non-magique
 languages:
-  - "celles qu'il connaissait de son vivant"
+  - celles qu'il connaissait de son vivant
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 279
+abilityScores_for: 18
+abilityScores_dex: 18
+abilityScores_con: 18
+abilityScores_int: 17
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Faiblesses des vampires**_. Voici les faiblesses du vampire :  

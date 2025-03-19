@@ -1,32 +1,28 @@
 ---
-title: "Strige"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0.125"
+title: Strige
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0.125'
 hitDiceCount: 1
-abilityScores:
-  for: 4
-  dex: 16
-  con: 11
-  int: 2
-  sag: 8
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-movement: 
-  walk: 3
-  fly: 12
-senses: 
-  darkvision: 18
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 266
+abilityScores_for: 4
+abilityScores_dex: 16
+abilityScores_con: 11
+abilityScores_int: 2
+abilityScores_sag: 8
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 3
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Actions
 _**Succion du sang**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une créature.  

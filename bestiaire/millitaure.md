@@ -1,40 +1,36 @@
 ---
-title: "Millitaure"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Neutre"
-challenge: "3"
+title: Millitaure
+type: Créature monstrueuse
+size: G
+alignment: Neutre
+challenge: '3'
 hitDiceCount: 10
-abilityScores:
-  for: 18
-  dex: 14
-  con: 16
-  int: 8
-  sag: 12
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "acrobaties"
-movement:
-  walk: 12
-  burrow: 6
-  climb: 9
-senses:
-  darkvision: 18
-  tremorsense: 9
+  - name: acrobaties
 damageTypeResistances:
-  - "poison"
-  - "c-t-non-magique"
+  - poison
+  - c-t-non-magique
 conditionImmunities:
-  - "a-terre"
+  - a-terre
 languages:
-  - "commun"
+  - commun
 environments:
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 301
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 8
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 12
+movement_burrow: 6
+movement_climb: 9
+senses_darkvision: 18
+senses_tremorsense: 9
 ---
 ## Actions
 _**Attaques multiples**_. Le millitaure fait deux attaques de _hachette_.

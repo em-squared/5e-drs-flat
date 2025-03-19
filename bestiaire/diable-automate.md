@@ -1,47 +1,43 @@
 ---
-title: "Diable automate"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "10"
+title: Diable automate
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '10'
 hitDiceCount: 16
-abilityScores:
-  for: 24
-  dex: 17
-  con: 20
-  int: 11
-  sag: 14
-  cha: 19
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - for
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "intimidation"
-movement:
-  walk: 12
-senses:
-  darkvision: 36
+  - name: athletisme
+  - name: intimidation
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "commun"
+  - commun
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 105
+abilityScores_for: 24
+abilityScores_dex: 17
+abilityScores_con: 20
+abilityScores_int: 11
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

@@ -1,22 +1,21 @@
 ---
 title: Agrandir/rétrécir
-description: "Augmente ou diminue la taille de la cible."
+description: Augmente ou diminue la taille de la cible.
 school: Transmutation
 level: 2
 classes:
   - Ensorceleur/Sorcelame
   - Magicien
 concentration: true
-casting_time: "1 action"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pincée de limaille de fer"
-duration: "jusqu'à 1 minute"
+casting_time: 1 action
+range: 9 mètres
+duration: jusqu'à 1 minute
 ritual: false
 source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une pincée de limaille de fer
 ---
 Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et dans votre champ de vision pendant toute la durée du sort. Choisissez soit une créature, soit un objet qui n'est ni porté ni transporté. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle le réussit, le sort est sans effet. Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transporte change de taille avec elle. En revanche, si elle lâche un objet, il reprend sa taille normale sur-le-champ.
 

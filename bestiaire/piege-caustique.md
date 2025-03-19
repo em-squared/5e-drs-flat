@@ -1,42 +1,38 @@
 ---
-title: "Piège caustique"
-type: "Aberration"
-size: "Gig"
-alignment: "Chaotique Mauvais"
-challenge: "15"
+title: Piège caustique
+type: Aberration
+size: Gig
+alignment: Chaotique Mauvais
+challenge: '15'
 hitDiceCount: 16
-abilityScores:
-  for: 23
-  dex: 16
-  con: 22
-  int: 15
-  sag: 14
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "supercherie"
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 3
-  burrow: 6
-senses:
-  darkvision: 18
-  tremorsense: 18
 conditionImmunities:
-  - "a-terre"
+  - a-terre
 damageTypeResistances:
-  - "c-non-magique"
+  - c-non-magique
 damageTypeImmunities:
-  - "acide"
+  - acide
 languages:
-  - "commun"
-  - "primordial"
+  - commun
+  - primordial
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 338
+abilityScores_for: 23
+abilityScores_dex: 16
+abilityScores_con: 22
+abilityScores_int: 15
+abilityScores_sag: 14
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 3
+movement_burrow: 6
+senses_darkvision: 18
+senses_tremorsense: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. Le piège caustique est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

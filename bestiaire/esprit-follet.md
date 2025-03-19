@@ -1,38 +1,35 @@
 ---
-title: "Esprit follet"
-type: "Fée"
-size: "TP"
-alignment: "Neutre Bonne"
-challenge: "0.25"
+title: Esprit follet
+type: Fée
+size: TP
+alignment: Neutre Bonne
+challenge: '0.25'
 hitDiceCount: 1
-abilityScores:
-  for: 3
-  dex: 18
-  con: 10
-  int: 14
-  sag: 13
-  cha: 11
-ac: 
-  armorType: "armure de cuir"
-skills: 
-  - name: "discretion"
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
-movement: 
-  walk: 3
-  fly: 12
-senses: 
-languages: 
-  - "Commun"
-  - "Elfe"
-  - "Sylvestre"
+  - name: perception
+senses: null
+languages:
+  - Commun
+  - Elfe
+  - Sylvestre
 environments:
   - Bois / Forêt
   - Collines / Vallées
 dungeonTypes:
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 139
+abilityScores_for: 3
+abilityScores_dex: 18
+abilityScores_con: 10
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 11
+ac_armorType: armure de cuir
+movement_walk: 3
+movement_fly: 12
 ---
 ## Actions
 _**Épée longue**_. _Attaque d'arme au corps à corps_ : +2 pour toucher, allonge 1,50 m, une cible.  

@@ -1,43 +1,39 @@
 ---
-title: "Mécanique, Myrmidon"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "6"
+title: 'Mécanique, Myrmidon'
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '6'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 14
-  con: 16
-  int: 10
-  sag: 10
-  cha: 1
-customSavingThrows: "For +11, Dex +5"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+customSavingThrows: 'For +11, Dex +5'
 skills:
-  - name: "athletisme"
-  - name: "perception"
+  - name: athletisme
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
+  - poison
+  - psychique
 languages:
-  - "comprend le commun"
-source: "Livre des monstres"
+  - comprend le commun
+source: Livre des monstres
 source_page: 295
+abilityScores_for: 20
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un myrmidon mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

@@ -1,55 +1,51 @@
 ---
-title: "Vampire umbral"
-type: "Fiélon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Vampire umbral
+type: Fiélon
+size: M
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 13
-abilityScores:
-  for: 1
-  dex: 18
-  con: 15
-  int: 14
-  sag: 14
-  cha: 19
 savingThrows:
-  - "dex"
-  - "cha"
-ac:
-  armorType: null
+  - dex
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 0
-  fly: 12
-  hover: true
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "froid"
-  - "necrotique"
-  - "poison"
+  - froid
+  - necrotique
+  - poison
 languages:
-  - "commun"
-  - "langue du Vide"
-  - "umbral"
-source: "Livre des monstres"
+  - commun
+  - langue du Vide
+  - umbral
+source: Livre des monstres
 source_page: 396
+abilityScores_for: 1
+abilityScores_dex: 18
+abilityScores_con: 15
+abilityScores_int: 14
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: null
+movement_walk: 0
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Déplacement intangible**_. Le vampire umbral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.

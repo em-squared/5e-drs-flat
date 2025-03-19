@@ -1,24 +1,25 @@
 ---
-title: "Trouver un chemin"
-description: "Permet de déterminer le chemin le plus court vers une destination."
-school: "Divination"
+title: Trouver un chemin
+description: Permet de déterminer le chemin le plus court vers une destination.
+school: Divination
 level: 6
 concentration: true
-casting_time: "1 minute"
-duration: "jusqu'à 1 jour"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un ensemble d'instruments de divination [comme des os, des bâtonnets en ivoire, des cartes, des dents ou des runes gravées] d'une valeur de 100  po et un objet venant de l'endroit que vous cherchez"
+casting_time: 1 minute
+duration: jusqu'à 1 jour
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un ensemble d'instruments de divination [comme des os, des bâtonnets en
+  ivoire, des cartes, des dents ou des runes gravées] d'une valeur de 100  po et
+  un objet venant de l'endroit que vous cherchez
 ---
 Ce sort vous permet de trouver le chemin physique le plus direct et le plus court vers un endroit fixe spécifique avec lequel vous êtes familier et qui se trouve sur le même plan d'existence que vous. Le sort échoue si vous choisissez une destination située sur un autre plan d'existence, une destination mouvante (comme une forteresse mobile) ou une destination n'ayant rien de spécifique (comme l'antre d'un dragon vert).
 

@@ -1,10 +1,10 @@
 ---
-title: "Potion de poison"
-type: "Potion"
+title: Potion de poison
+type: Potion
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette concoction ressemble, tant au niveau du goût, de l'odeur et de l'aspect visuel, à une [_potion de soins_](/liste-objets-magiques/potion-de-soins/) ou autre potion bénéfique. C'est pourtant du poison dissimulé par une magie illusoire, et un sort d'[_identification_](/grimoire/identification/) révèle sa véritable nature.
 

@@ -1,53 +1,49 @@
 ---
-title: "Âme-en-peine"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Âme-en-peine
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 9
-abilityScores:
-  for: 6
-  dex: 16
-  con: 16
-  int: 12
-  sag: 14
-  cha: 15
-ac:
-  armorType: null
-movement:
-  walk: 0
-  fly: 18
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "tonnerre"
-  - "c-p-t-non-argent"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - tonnerre
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "celles qu'elle connaissait de son vivant"
+  - celles qu'elle connaissait de son vivant
 environments:
   - Collines / Vallées
 dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 24
+abilityScores_for: 6
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 12
+abilityScores_sag: 14
+abilityScores_cha: 15
+ac_armorType: null
+movement_walk: 0
+movement_fly: 18
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Déplacement intangible**_. L'âme-en-peine peut traverser créatures et objets en les considérant comme un terrain difficile. Elle subit 5 (1d10) dégâts de force si elle termine son tour à l'intérieur d'un objet.

@@ -1,24 +1,22 @@
 ---
-title: "Tremblement de terre"
-description: "Séisme qui ébranle les créatures et endommage les bâtiments."
-school: "Évocation"
+title: Tremblement de terre
+description: Séisme qui ébranle les créatures et endommage les bâtiments.
+school: Évocation
 level: 8
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "150 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pincée de poussière, un caillou et un peu d'argile"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 150 mètres
 ritual: false
 classes:
-    - Clerc
-    - Druide
-    - Ensorceleur/Sorcelame
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Ensorceleur/Sorcelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une pincée de poussière, un caillou et un peu d''argile'
 ---
 Vous créez une perturbation sismique en un point situé au niveau du sol, dans votre champ de vision et à portée. Pendant toute la durée du sort, d'intenses secousses agitent le sol dans un cercle de 30 mètres de rayon centré sur le point choisi. Elles ébranlent toutes les créatures et structures en contact avec le sol de cette zone.
 

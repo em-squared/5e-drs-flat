@@ -1,48 +1,44 @@
 ---
-title: "Profond, Prêtre hybride"
-type: "Humanoïde"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: 'Profond, Prêtre hybride'
+type: Humanoïde
+size: M
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 16
-abilityScores:
-  for: 18
-  dex: 14
-  con: 16
-  int: 12
-  sag: 12
-  cha: 15
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - con
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-  swim: 9
-senses:
-  darkvision: 36
+  - name: athletisme
+  - name: perception
+  - name: supercherie
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "langue du Vide"
+  - commun
+  - langue du Vide
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
   - Ruines sous-marines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 344
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 12
+abilityScores_sag: 12
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Un profond peut respirer aussi facilement dans l'eau que dans l'air.

@@ -1,37 +1,34 @@
 ---
-title: "Roc"
-type: "Créature monstrueuse"
-size: "Gig"
-alignment: "non-alignée"
-challenge: "11"
+title: Roc
+type: Créature monstrueuse
+size: Gig
+alignment: non-alignée
+challenge: '11'
 hitDiceCount: 16
-abilityScores:
-  for: 28
-  dex: 10
-  con: 20
-  int: 3
-  sag: 10
-  cha: 9
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 6
-  fly: 36
-senses:
+  - name: perception
+senses: null
 languages:
-  - "—"
+  - —
 environments:
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 251
+abilityScores_for: 28
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 3
+abilityScores_sag: 10
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+movement_fly: 36
 ---
 ## Capacités
 _**Vue aiguisée**_. Le roc obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.

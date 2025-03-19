@@ -1,50 +1,46 @@
 ---
-title: "Nuée d'yeux"
+title: Nuée d'yeux
 isSwarm: true
-swarmSize: "TP"
-type: "Aberration"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "4"
+swarmSize: TP
+type: Aberration
+size: G
+alignment: Neutre Mauvais
+challenge: '4'
 hitDiceCount: 13
-abilityScores:
-  for: 10
-  dex: 20
-  con: 16
-  int: 8
-  sag: 15
-  cha: 17
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
+  - name: perspicacite
     isExpert: true
-movement:
-  walk: 1,50
-  fly: 12
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 languages:
-  - "comprend le commun"
-  - "mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend le commun
+  - mais ne peut pas parler
+source: Livre des monstres
 source_page: 325
+abilityScores_for: 10
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 8
+abilityScores_sag: 15
+abilityScores_cha: 17
+ac_armorType: null
+movement_walk: '1,50'
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Nuée**_. La nuée peut occuper le même emplacement qu'une autre créature et inversement. Elle peut traverser n'importe quelle ouverture d'au moins 12 centimètres carrés. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.

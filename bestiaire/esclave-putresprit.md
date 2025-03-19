@@ -1,39 +1,35 @@
 ---
-title: "Esclave putresprit"
-type: "Plante"
-size: "M"
-alignment: "Neutre"
-challenge: "3"
+title: Esclave putresprit
+type: Plante
+size: M
+alignment: Neutre
+challenge: '3'
 hitDiceCount: 11
-abilityScores:
-  for: 15
-  dex: 14
-  con: 17
-  int: 11
-  sag: 14
-  cha: 6
 savingThrows:
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 9
-senses:
-  tremorsense: 9
+  - con
 conditionImmunities:
-  - "charme"
-  - "empoigne"
-  - "terrorise"
+  - charme
+  - empoigne
+  - terrorise
 damageTypeResistances:
-  - "c-p-non-magique"
+  - c-p-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "poison"
+  - acide
+  - poison
 languages:
-  - "comprend le commun mais ne peut pas parler"
-source: "Livre des monstres"
+  - comprend le commun mais ne peut pas parler
+source: Livre des monstres
 source_page: 173
+abilityScores_for: 15
+abilityScores_dex: 14
+abilityScores_con: 17
+abilityScores_int: 11
+abilityScores_sag: 14
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_tremorsense: 9
 ---
 ## Capacités
 _**Aura fongique**_. Une créature qui commence son tour dans un rayon de 1,50 mètre autour du putresprit doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou être infecté par ses spores.

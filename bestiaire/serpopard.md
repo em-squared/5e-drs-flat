@@ -1,40 +1,36 @@
 ---
-title: "Serpopard"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "4"
+title: Serpopard
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 17
-  dex: 16
-  con: 16
-  int: 2
-  sag: 12
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "custom"
-    value: "Discrétion +5 (+7 dans le sable ou les marais)"
-  - name: "perception"
-movement:
-  walk: 12
-  swim: 9
-senses:
-  darkvision: 18
+  - name: custom
+    value: Discrétion +5 (+7 dans le sable ou les marais)
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "poison"
+  - poison
 languages:
-  - "—"
+  - —
 environments:
   - Collines / Vallées
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 362
+abilityScores_for: 17
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 12
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Riposte sinueuse**_. Le serpopard peut faire autant de réactions qu'il le veut au cours d'un round, mais il ne peut réagir qu'une fois suite à chaque déclencheur.

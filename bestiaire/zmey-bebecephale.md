@@ -1,40 +1,36 @@
 ---
-title: "Zmey, Bébécéphale"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "5"
-customHP: "105 (14d8 + 42), régénération 5/round"
-abilityScores:
-  for: 16
-  dex: 10
-  con: 17
-  int: 8
-  sag: 16
-  cha: 8
-ac:
-  armorType: "armure naturelle"
-  value: 6
-movement:
-  walk: 9
-  swim: 6
-senses:
-  darkvision: 18
+title: 'Zmey, Bébécéphale'
+type: Dragon
+size: M
+alignment: Chaotique Mauvais
+challenge: '5'
+customHP: '105 (14d8 + 42), régénération 5/round'
 conditionImmunities:
-  - "inconscient"
-  - "paralyse"
+  - inconscient
+  - paralyse
 damageTypeResistances:
-  - "feu"
-  - "froid"
+  - feu
+  - froid
 languages:
-  - "commun"
-  - "draconique"
-  - "sylvestre"
+  - commun
+  - draconique
+  - sylvestre
 environments:
   - Bois / Forêt
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 417
+abilityScores_for: 16
+abilityScores_dex: 10
+abilityScores_con: 17
+abilityScores_int: 8
+abilityScores_sag: 16
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 9
+movement_swim: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le bébécéphale zmey respire à l'air libre et sous l'eau.

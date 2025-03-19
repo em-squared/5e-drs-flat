@@ -1,46 +1,42 @@
 ---
-title: "Dragon de cuivre, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Bon"
-challenge: "7"
+title: 'Dragon de cuivre, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Bon
+challenge: '7'
 hitDiceCount: 14
-abilityScores:
-  for: 19
-  dex: 12
-  con: 17
-  int: 16
-  sag: 13
-  cha: 15
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 6
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "supercherie"
-movement: 
-  walk: 12
-  climb: 12
-  fly: 24
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "acide"
-languages: 
-  - "commun"
-  - "draconique"
+  - name: supercherie
+damageTypeImmunities:
+  - acide
+languages:
+  - commun
+  - draconique
 environments:
   - Collines / Vallées
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 119
+abilityScores_for: 19
+abilityScores_dex: 12
+abilityScores_con: 17
+abilityScores_int: 16
+abilityScores_sag: 13
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+movement_climb: 12
+movement_fly: 24
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Actions
 _**Attaques multiples**_. Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.

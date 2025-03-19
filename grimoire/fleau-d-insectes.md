@@ -1,24 +1,24 @@
 ---
-title: "Fléau d'insectes"
-description: "Invoque des insectes qui attaquent et infligent 4d10 dégâts perforants."
-school: "Invocation"
+title: Fléau d'insectes
+description: Invoque des insectes qui attaquent et infligent 4d10 dégâts perforants.
+school: Invocation
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "90 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un peu de sucre en poudre, quelques graines de céréales et une tache de graisse"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 90 mètres
 ritual: false
 classes:
-    - Clerc
-    - Druide
-    - Ensorceleur/Sorcelame
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Ensorceleur/Sorcelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un peu de sucre en poudre, quelques graines de céréales et une tache de
+  graisse
 ---
 Un essaim de sauterelles carnivores forme une sphère de 6 mètres de rayon centrée sur un point de votre choix situé à portée. La sphère s'étend en contournant les angles et persiste pendant toute la durée du sort. La visibilité est réduite dans la zone affectée. L'intérieur de la sphère devient un terrain difficile.
 

@@ -1,23 +1,21 @@
 ---
-title: "Petite hutte"
-description: "Crée un dôme de 3 mètres infranchissable et imperméable à toute magie."
-school: "Évocation"
+title: Petite hutte
+description: Crée un dôme de 3 mètres infranchissable et imperméable à toute magie.
+school: Évocation
 level: 3
 concentration: false
-casting_time: "1 minute"
-duration: "8 heures"
-range: "personnelle (hémisphère de 3 mètres de rayon)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une petite perle de cristal"
+casting_time: 1 minute
+duration: 8 heures
+range: personnelle (hémisphère de 3 mètres de rayon)
 ritual: true
 classes:
-    - Barde
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une petite perle de cristal
 ---
 Un dôme de force immobile, de 3 mètres de rayon, apparaît soudain autour et au-dessus de vous. Il reste stationnaire pendant toute la durée du sort. Ce dernier se termine si vous quittez sa zone.
 

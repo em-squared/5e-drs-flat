@@ -1,23 +1,21 @@
 ---
-title: "Télékinésie"
-description: "Le PJ peut déplacer des créatures ou des objets à distance."
-school: "Transmutation"
+title: Télékinésie
+description: Le PJ peut déplacer des créatures ou des objets à distance.
+school: Transmutation
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 18 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous devenez capable de déplacer ou de manipuler des créatures ou des objets par la pensée. Lorsque vous lancez ce sort, puis en tant qu'action à chaque round pendant toute la durée du sort, vous pouvez exercer votre force de volonté sur une créature ou un objet situés à portée et dans votre champ de vision, ce qui provoque l'effet approprié indiqué plus bas. Vous pouvez affecter la même cible, round après round, ou en choisir une nouvelle quand vous le désirez. Si vous changez de cible, la précédente n'est plus affectée.
 

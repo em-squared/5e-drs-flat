@@ -1,24 +1,22 @@
 ---
-title: "Modifier son apparence"
-description: "Le PJ transforme tout ou partie de son corps."
-school: "Transmutation"
+title: Modifier son apparence
+description: Le PJ transforme tout ou partie de son corps.
+school: Transmutation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: personnelle
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une des options suivantes, dont les effets dureront aussi longtemps que le sort. Tant qu'il est actif, vous pouvez utiliser une action pour mettre un terme à une option afin de bénéficier d'une autre.
 

@@ -1,37 +1,33 @@
 ---
-title: "Gnoll, Vif ravageur"
-type: "Humanoïde"
-subtype: "gnoll"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "3"
+title: 'Gnoll, Vif ravageur'
+type: Humanoïde
+subtype: gnoll
+size: M
+alignment: Chaotique Mauvais
+challenge: '3'
 hitDiceCount: 9
-abilityScores:
-  for: 16
-  dex: 14
-  con: 14
-  int: 8
-  sag: 12
-  cha: 9
-ac: 
-  armorType: "chemise de mailles"
-skills: 
-  - name: "athletisme"
-  - name: "perception"
+skills:
+  - name: athletisme
+  - name: perception
     isExpert: true
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "gnoll"
+languages:
+  - gnoll
 environments:
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 405
+abilityScores_for: 16
+abilityScores_dex: 14
+abilityScores_con: 14
+abilityScores_int: 8
+abilityScores_sag: 12
+abilityScores_cha: 9
+ac_armorType: chemise de mailles
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Harcèlement**_. Si le gnoll attaque deux créatures lors d'un même tour, la première est [_désavantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses jets d'attaque jusqu'à la fin de son prochain tour.

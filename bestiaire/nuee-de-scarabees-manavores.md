@@ -1,51 +1,47 @@
 ---
-title: "Nuée de scarabées manavores"
+title: Nuée de scarabées manavores
 isSwarm: true
-swarmSize: "TP"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "4"
+swarmSize: TP
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 3
-  dex: 16
-  con: 16
-  int: 1
-  sag: 13
-  cha: 12
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 6
-  burrow: 1,50
-  climb: 6
-senses:
-  blindsight: 3
-  darkvision: 9
-  tremorsense: 9
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 languages:
-  - "—"
+  - —
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 328
+abilityScores_for: 3
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 1
+abilityScores_sag: 13
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 6
+movement_burrow: '1,50'
+movement_climb: 6
+senses_blindsight: 3
+senses_darkvision: 9
+senses_tremorsense: 9
 ---
 ## Capacités
 _**Nuée**_. Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer un insecte de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.

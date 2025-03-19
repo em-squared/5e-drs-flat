@@ -1,56 +1,52 @@
 ---
-title: "Orobas"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "14"
-customHP: "261 (14d10 + 126)"
-abilityScores:
-  for: 26
-  dex: 14
-  con: 28
-  int: 23
-  sag: 26
-  cha: 21
+title: Orobas
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '14'
+customHP: 261 (14d10 + 126)
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - for
+  - dex
+  - con
+  - sag
 skills:
-  - name: "histoire"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 12
-senses:
-  truesight: 27
+  - name: histoire
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "froid"
-  - "c-p-t-non-argent"
+  - acide
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "céleste"
-  - "commun des profondeurs"
-  - "darakhul"
-  - "draconique"
-  - "géant"
-  - "infernal"
-  - "langue du Vide"
+  - céleste
+  - commun des profondeurs
+  - darakhul
+  - draconique
+  - géant
+  - infernal
+  - langue du Vide
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 115
+abilityScores_for: 26
+abilityScores_dex: 14
+abilityScores_con: 28
+abilityScores_int: 23
+abilityScores_sag: 26
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+senses_truesight: 27
 ---
 ## Capacités
 _**Savoir (3/jour)**_. Un orobas peut prévoir les actions et influer sa chance en fonction. Trois fois par jour, il peut ainsi choisir d'être [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de n'importe quel jet d'attaque ou de compétence.

@@ -1,35 +1,31 @@
 ---
-title: "Goule mendiante"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "0.5"
+title: Goule mendiante
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 10
-  dex: 15
-  con: 10
-  int: 12
-  sag: 11
-  cha: 14
-ac: 
-  armorType: null
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "commun des profondeurs"
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+damageTypeImmunities:
+  - poison
+languages:
+  - commun des profondeurs
 dungeonTypes:
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 223
+abilityScores_for: 10
+abilityScores_dex: 15
+abilityScores_con: 10
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Tactique de meute**_. La goule mendiante est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque contre une créature si au moins l'un de ses alliés non [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) se trouve dans un rayon de 1,50 mètre autour de cette créature.

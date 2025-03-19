@@ -1,53 +1,49 @@
 ---
-title: "Lindwurm"
-type: "Dragon"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Lindwurm
+type: Dragon
+size: G
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 16
-abilityScores:
-  for: 18
-  dex: 20
-  con: 16
-  int: 6
-  sag: 12
-  cha: 8
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-ac:
-  armorType: null
+  - for
+  - dex
+  - con
 skills:
-  - name: "acrobaties"
-  - name: "athletisme"
+  - name: acrobaties
+  - name: athletisme
     invalid: true
     value: 8
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 9
-  - name: "perception"
-movement:
-  walk: 12
-  swim: 6
-senses:
-  darkvision: 18
-  custom: "perception des vibrations sur la glace 36 m"
+  - name: perception
 conditionImmunities:
-  - "a-terre"
-  - "inconscient"
-  - "paralyse"
+  - a-terre
+  - inconscient
+  - paralyse
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "-"
+  - '-'
 environments:
   - Arctique / Subarctique
   - Littoral
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 272
+abilityScores_for: 18
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 6
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 12
+movement_swim: 6
+senses_darkvision: 18
+senses_custom: perception des vibrations sur la glace 36 m
 ---
 ## Capacités
 _**Fièvre du lindwurm**_. Si une créature est infectée par cette maladie suite à une morsure de lindwurm, elle gagne un niveau d'épuisement une heure après la contamination. Elle doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14 après chaque long repos. Sur un échec, elle gagne un niveau d'épuisement et ne récupère pas de dé de vie grâce au repos. Si elle réussit, elle se débarrasse d'un niveau d'épuisement et récupère des dés de vie normalement grâce au long repos. Si elle arrive à supprimer tous ses niveaux d'épuisement en réussissant des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle guérit de sa maladie.

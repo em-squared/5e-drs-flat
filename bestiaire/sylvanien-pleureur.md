@@ -1,38 +1,34 @@
 ---
-title: "Sylvanien pleureur"
-type: "Plante"
-size: "TG"
-alignment: "Neutre"
-challenge: "6"
+title: Sylvanien pleureur
+type: Plante
+size: TG
+alignment: Neutre
+challenge: '6'
 hitDiceCount: 10
-abilityScores:
-  for: 21
-  dex: 8
-  con: 18
-  int: 12
-  sag: 16
-  cha: 11
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-damageTypeVulnerabilities: 
-  - "feu"
-damageTypeResistances: 
-  - "contondant"
-  - "perforant"
-languages: 
-  - "commun"
-  - "druidique"
-  - "elfique"
-  - "sylvestre"
+damageTypeVulnerabilities:
+  - feu
+damageTypeResistances:
+  - contondant
+  - perforant
+languages:
+  - commun
+  - druidique
+  - elfique
+  - sylvestre
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 378
+abilityScores_for: 21
+abilityScores_dex: 8
+abilityScores_con: 18
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 11
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Monstre assiégeur**_. Le sylvanien inflige des dégâts doublés aux objets et structures.

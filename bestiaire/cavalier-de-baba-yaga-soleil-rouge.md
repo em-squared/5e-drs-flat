@@ -1,54 +1,51 @@
 ---
-title: "Cavalier de Baba-Yaga, Soleil rouge"
-type: "Fée"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "11"
+title: 'Cavalier de Baba-Yaga, Soleil rouge'
+type: Fée
+size: M
+alignment: Loyal Neutre
+challenge: '11'
 hitDiceCount: 18
-abilityScores:
-  for: 22
-  dex: 11
-  con: 21
-  int: 16
-  sag: 18
-  cha: 18
 savingThrows:
-  - "dex"
-  - "sag"
-ac:
-  armorType: "harnois"
-  hasShield: true
+  - dex
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "athletisme"
-  - name: "histoire"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
+  - name: arcanes
+  - name: athletisme
+  - name: histoire
+  - name: perception
+senses: null
 conditionImmunities:
-  - "aveugle"
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - aveugle
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "contondant"
-  - "froid"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - froid
+  - perforant
+  - tranchant
 damageTypeImmunities:
-  - "feu"
-  - "foudre"
-  - "poison"
+  - feu
+  - foudre
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "infernal"
+  - céleste
+  - commun
+  - infernal
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 267
+abilityScores_for: 22
+abilityScores_dex: 11
+abilityScores_con: 21
+abilityScores_int: 16
+abilityScores_sag: 18
+abilityScores_cha: 18
+ac_armorType: harnois
+ac_hasShield: true
+movement_walk: 9
 ---
 ## Capacités
 _**Incantation innée**_. Un cavalier est un lanceur de sort de niveau 12. Sa caractéristique d'incantation est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans utiliser de composante matérielle :

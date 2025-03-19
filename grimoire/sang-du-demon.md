@@ -1,23 +1,21 @@
 ---
-title: "Sang du démon"
-description: "La cible subit 1d6 dégâts d'acide à chaque tour."
-school: "Nécromancie"
+title: Sang du démon
+description: La cible subit 1d6 dégâts d'acide à chaque tour.
+school: Nécromancie
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une fiole d'un mélange de sang et d'acide"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: contact
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une fiole d'un mélange de sang et d'acide
 ---
 Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez une attaque de sort au contact. Si elle est réussie, le sang de la cible devient corrosif, lui infligeant 1d6 dégâts d'acide à chacun de vos tours. Si la cible réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution, les dégâts sont ignorés pour ce tour.
 

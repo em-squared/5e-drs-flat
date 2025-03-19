@@ -1,25 +1,23 @@
 ---
-title: "Aura du héros"
-description: "Le PJ obtient un <em>avantage</em> aux tests de Charisme."
-school: "Enchantement"
+title: Aura du héros
+description: Le PJ obtient un <em>avantage</em> aux tests de Charisme.
+school: Enchantement
 level: 0
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Une aura captivante émane de vous dans un rayon de 1,50 mètre. Vous bénéficiez d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à tous vos tests de Charisme visant les créatures situées dans l'aura. À la fin du sort, les créatures qui en ont subi l'influence peuvent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'Intelligence. En cas de réussite, elles se rendent compte avoir été influencées par magie et elles peuvent, à la discrétion du MJ, en concevoir de l'hostilité.
 

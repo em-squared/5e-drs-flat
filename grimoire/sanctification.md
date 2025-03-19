@@ -1,22 +1,20 @@
 ---
-title: "Sanctification"
-description: "Protège une large zone contre certaines créatures et y ajoute un effet."
-school: "Évocation"
+title: Sanctification
+description: Protège une large zone contre certaines créatures et y ajoute un effet.
+school: Évocation
 level: 5
 concentration: false
-casting_time: "24 heures"
-duration: "jusqu'à dissipation"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "herbes, huiles et encens d'une valeur minimale de 1000 po, que le sort consume"
+casting_time: 24 heures
+duration: jusqu'à dissipation
+range: contact
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'herbes, huiles et encens d''une valeur minimale de 1000 po, que le sort consume'
 ---
 Vous touchez un point et imprégnez la zone qui l'entoure de puissance bénie (ou impie). Cette zone possède un rayon maximal de 18 mètres, sachant que le sort échoue si cette zone chevauche une autre zone déjà sous l'effet d'un sort de _sanctification_. La zone affectée est soumise aux effets suivants.
 

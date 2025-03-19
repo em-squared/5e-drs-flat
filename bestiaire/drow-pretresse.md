@@ -1,52 +1,48 @@
 ---
-title: "Drow, prêtresse"
-type: "Humanoïde"
-subtype: "elfe"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "7"
+title: 'Drow, prêtresse'
+type: Humanoïde
+subtype: elfe
+size: M
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 9
-abilityScores:
-  for: 10
-  dex: 14
-  con: 14
-  int: 13
-  sag: 16
-  cha: 17
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "cuirasse"
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 6
-  - name: "intimidation"
+  - name: intimidation
     invalid: true
     value: 11
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 7
-  - name: "religion"
+  - name: religion
     isExpert: true
-movement:
-  walk: 9
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "poison"
+  - poison
 languages:
-  - "commun des profondeurs"
-  - "elfe"
+  - commun des profondeurs
+  - elfe
 dungeonTypes:
   - Caverne aménagée
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 131
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 14
+abilityScores_int: 13
+abilityScores_sag: 16
+abilityScores_cha: 17
+ac_armorType: cuirasse
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Ascendance féerique**_. La prêtresse obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.

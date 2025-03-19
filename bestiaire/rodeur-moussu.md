@@ -1,48 +1,44 @@
 ---
-title: "Rôdeur moussu"
-type: "Humanoïde"
-size: "P"
-alignment: "Chaotique Neutre"
-challenge: "1"
+title: Rôdeur moussu
+type: Humanoïde
+size: P
+alignment: Chaotique Neutre
+challenge: '1'
 hitDiceCount: 10
-abilityScores:
-  for: 14
-  dex: 14
-  con: 12
-  int: 12
-  sag: 10
-  cha: 10
-savingThrows: 
-  - "for"
-  - "dex"
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 9
-senses: 
-  blindsight: 18
-conditionImmunities: 
-  - "aveugle"
-  - "empoisonne"
-damageTypeImmunities: 
-  - "feu"
-  - "poison"
-languages: 
-  - "géant"
-  - "sylvestre"
-  - "trollien"
+savingThrows:
+  - for
+  - dex
+skills:
+  - name: discretion
+  - name: perception
+conditionImmunities:
+  - aveugle
+  - empoisonne
+damageTypeImmunities:
+  - feu
+  - poison
+languages:
+  - géant
+  - sylvestre
+  - trollien
 environments:
   - Bois / Forêt
   - Littoral
   - Mangrove / Marécage
 dungeonTypes:
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 351
+abilityScores_for: 14
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 12
+abilityScores_sag: 10
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_blindsight: 18
 ---
 ## Capacités
 _**Camouflage**_. Un rôdeur moussu est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion) pour se cacher en terrain boisé ou marécageux.

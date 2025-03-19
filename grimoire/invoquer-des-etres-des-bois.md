@@ -1,23 +1,21 @@
 ---
-title: "Invoquer des êtres des bois"
-description: "Invoque des fées qui obéissent au PJ."
-school: "Invocation"
+title: Invoquer des êtres des bois
+description: Invoque des fées qui obéissent au PJ.
+school: Invocation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une baie de houx par créature invoquée"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: 18 mètres
 ritual: false
 classes:
-    - Druide
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Druide
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une baie de houx par créature invoquée
 ---
 Vous invoquez des créatures féeriques qui apparaissent dans des cases inoccupées situées à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Une créature féerique dont l'indice de dangerosité est inférieur ou égal à 2.

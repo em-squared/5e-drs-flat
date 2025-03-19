@@ -1,25 +1,23 @@
 ---
-title: "Mauvais œil"
-description: "Le regard du PJ cause des effets néfastes pendant la durée du sort."
-school: "Nécromancie"
+title: Mauvais œil
+description: Le regard du PJ cause des effets néfastes pendant la durée du sort.
+school: Nécromancie
 level: 6
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un pouvoir terrifiant. Une créature de votre choix, située dans votre champ de vision et dans un rayon de 18 mètres doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou se voir affectée par l'un des effets suivants, choisi par vos soins, pendant toute la durée du sort. À chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour viser une autre créature, mais vous ne pouvez pas reprendre pour cible une créature ayant déjà réussi un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'incantation de mauvais œil en cours.
 

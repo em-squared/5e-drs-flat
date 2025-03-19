@@ -1,23 +1,21 @@
 ---
-title: "Chauffer le métal"
-description: "Porte au rouge un objet de métal dont le contact provoque 2d8 dégâts."
-school: "Transmutation"
+title: Chauffer le métal
+description: Porte au rouge un objet de métal dont le contact provoque 2d8 dégâts.
+school: Transmutation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un bout de fer et une flamme"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un bout de fer et une flamme
 ---
 Choisissez un objet manufacturé en métal, comme une arme métallique ou une armure métallique lourde ou intermédiaire. Il doit être situé à portée et dans votre champ de vision et se met alors à luire d'un rouge incandescent. Une créature en contact physique avec l'objet reçoit 2d8 dégâts de feu lorsque vous lancez le sort. Vous pouvez utiliser une action bonus à chacun de vos tours suivants jusqu'à la fin du sort pour infliger de nouveau ces dégâts.
 

@@ -1,10 +1,10 @@
 ---
-title: "Sceptre de sécurité"
-type: "Sceptre"
+title: Sceptre de sécurité
+type: Sceptre
 subtype: false
-rarity: "Très rare"
+rarity: Très rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Tant que vous tenez ce sceptre en main, vous pouvez utiliser une action pour l'activer. Le sceptre vous transporte alors instantanément, ainsi qu'un maximum de 199 autres créatures consentantes situées dans votre champ de vision, vers un espace extraplanaire paradisiaque. Vous décidez à quoi ressemble cet endroit paradisiaque qui peut être un jardin paisible, une jolie clairière, une taverne accueillante, un immense palais, une île tropicale, un fantastique carnaval ou n'importe quel autre endroit sorti de votre imagination.
 

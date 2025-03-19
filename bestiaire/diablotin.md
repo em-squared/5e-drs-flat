@@ -1,43 +1,39 @@
 ---
-title: "Diablotin"
-type: "Fiélon"
-subtype: "Diable, Métamorphe"
-size: "TP"
-alignment: "Loyal Mauvais"
-challenge: "1"
+title: Diablotin
+type: Fiélon
+subtype: 'Diable, Métamorphe'
+size: TP
+alignment: Loyal Mauvais
+challenge: '1'
 hitDiceCount: 3
-abilityScores:
-  for: 6
-  dex: 17
-  con: 13
-  int: 11
-  sag: 12
-  cha: 14
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 6
-  fly: 12
-senses:
-  darkvision: 36
+  - name: discretion
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "commun"
-  - "infernal"
-source: "Créatures & Oppositions"
+  - commun
+  - infernal
+source: Créatures & Oppositions
 source_page: 68
+abilityScores_for: 6
+abilityScores_dex: 17
+abilityScores_con: 13
+abilityScores_int: 11
+abilityScores_sag: 12
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 6
+movement_fly: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Métamorphe**_. Le diablotin peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : rat (vitesse 6 m), corbeau (6 m, vol 18 m) ou araignée (6 m, escalade 6 m), ou pour reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le diablotin reprend sa forme véritable s'il meurt.

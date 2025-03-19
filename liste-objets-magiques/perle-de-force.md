@@ -1,10 +1,10 @@
 ---
-title: "Perle de force"
-type: "Objet merveilleux"
+title: Perle de force
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette petite sphère noire de 2 centimètres de diamètre pèse 30 grammes. En général, on trouve 1d4+4 _perles de force_ à la fois.
 

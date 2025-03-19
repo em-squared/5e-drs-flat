@@ -1,32 +1,28 @@
 ---
-title: "Chat du temple de Bastet"
-type: "Créature monstrueuse"
-size: "P"
-alignment: "Chaotique Neutre"
-challenge: "1"
+title: Chat du temple de Bastet
+type: Créature monstrueuse
+size: P
+alignment: Chaotique Neutre
+challenge: '1'
 hitDiceCount: 9
-abilityScores:
-  for: 8
-  dex: 19
-  con: 12
-  int: 12
-  sag: 16
-  cha: 18
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 12
-  climb: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 languages:
-  - "commun"
-  - "nurien et sylvestre"
-source: "Livre des monstres"
+  - commun
+  - nurien et sylvestre
+source: Livre des monstres
 source_page: 56
+abilityScores_for: 8
+abilityScores_dex: 19
+abilityScores_con: 12
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: null
+movement_walk: 12
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Odorat aiguisé**_. Un chat des temples est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) basés sur l'odorat.

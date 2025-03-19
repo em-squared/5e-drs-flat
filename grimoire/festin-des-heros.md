@@ -1,23 +1,23 @@
 ---
-title: "Festin des héros"
-description: "Ceux qui mangent le festin en retirent plusieurs bénéfices."
-school: "Invocation"
+title: Festin des héros
+description: Ceux qui mangent le festin en retirent plusieurs bénéfices.
+school: Invocation
 level: 6
 concentration: false
-casting_time: "10 minutes"
-duration: "instantanée"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un bol incrusté de gemmes d'une valeur minimale de 1000 po, que le sort consume"
+casting_time: 10 minutes
+duration: instantanée
+range: 9 mètres
 ritual: false
 classes:
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un bol incrusté de gemmes d'une valeur minimale de 1000 po, que le sort
+  consume
 ---
 Vous matérialisez un grand festin, comprenant des boissons et des mets de grande qualité. Il faut 1 heure pour terminer le festin, qui disparaît au bout de cette durée. Ses effets bénéfiques se manifestent uniquement une fois cette heure écoulée. Douze créatures au maximum peuvent se joindre à vous lors de ce repas.
 

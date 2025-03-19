@@ -1,36 +1,32 @@
 ---
-title: "Einherjar"
-type: "Humanoïde"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "7"
+title: Einherjar
+type: Humanoïde
+size: M
+alignment: Chaotique Neutre
+challenge: '7'
 hitDiceCount: 14
-abilityScores:
-  for: 19
-  dex: 16
-  con: 19
-  int: 10
-  sag: 14
-  cha: 11
-ac:
-  armorType: "cotte de mailles"
-  hasShield: true
 skills:
-  - name: "dressage"
-  - name: "intimidation"
+  - name: dressage
+  - name: intimidation
     isExpert: true
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
-  truesight: 18
-damageTypeResistances:
+  - name: perception
+damageTypeResistances: null
 languages:
-  - "céleste"
-  - "commun"
-source: "Livre des monstres"
+  - céleste
+  - commun
+source: Livre des monstres
 source_page: 163
+abilityScores_for: 19
+abilityScores_dex: 16
+abilityScores_con: 19
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 11
+ac_armorType: cotte de mailles
+ac_hasShield: true
+movement_walk: 9
+senses_darkvision: 18
+senses_truesight: 18
 ---
 ## Capacités
 _**Haches d'armes asgardiennes**_. Ces haches ont été forgées au Valhalla et une magie runique permet à leur fil d'être toujours aiguisé. Elles bénéficient d'un enchantement +2 et d'un second dé de dégâts. Leur magie doit être renouvelée chaque semaine par une valkyrie ou Odin lui-même.

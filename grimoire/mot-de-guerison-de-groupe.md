@@ -1,22 +1,20 @@
 ---
-title: "Mot de guérison de groupe"
-description: "Sort en action bonus qui rend 1d4+modificateur PV à six cibles."
-school: "Évocation"
+title: Mot de guérison de groupe
+description: Sort en action bonus qui rend 1d4+modificateur PV à six cibles.
+school: Évocation
 level: 3
 concentration: false
-casting_time: "1 action bonus"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: false
-  materials: ""
+casting_time: 1 action bonus
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
+components_materials: ''
 ---
 Vous prononcez des paroles curatives qui rendent un nombre de points de vie égal à 1d4 + votre modificateur de caractéristique d'incantation à un maximum de six créatures de votre choix situées à portée et dans votre champ de vision. Ce sort reste sans effet sur les morts-vivants et les créatures artificielles.
 

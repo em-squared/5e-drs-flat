@@ -1,22 +1,20 @@
 ---
-title: "Lien télépathique"
-description: "Crée un lien entre 8  créatures qui peuvent communiquer par la pensée."
-school: "Divination"
+title: Lien télépathique
+description: Crée un lien entre 8  créatures qui peuvent communiquer par la pensée.
+school: Divination
 level: 5
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "bouts de coquille d'œuf issus de deux espèces de créatures différentes"
+casting_time: 1 action
+duration: 1 heure
+range: 9 mètres
 ritual: true
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: bouts de coquille d'œuf issus de deux espèces de créatures différentes
 ---
 Vous forgez un lien télépathique entre un maximum de huit créatures consentantes situées à portée. Elles sont alors psychiquement liées les unes aux autres pendant la durée du sort. Ce sort n'affecte pas les créatures dotées d'une Intelligence de 2 ou moins.
 

@@ -1,40 +1,36 @@
 ---
-title: "Mangedestin"
-type: "Aberration"
-size: "M"
-alignment: "Neutre"
-challenge: "6"
+title: Mangedestin
+type: Aberration
+size: M
+alignment: Neutre
+challenge: '6'
 hitDiceCount: 28
-abilityScores:
-  for: 18
-  dex: 12
-  con: 14
-  int: 18
-  sag: 16
-  cha: 9
 savingThrows:
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - con
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "perspicacite"
-  - name: "religion"
-movement:
-  walk: 12
-  climb: 12
-senses:
-  truesight: 18
+  - name: arcanes
+  - name: histoire
+  - name: perspicacite
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "inconscient"
+  - charme
+  - inconscient
 languages:
-  - ""
+  - ''
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 282
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 14
+abilityScores_int: 18
+abilityScores_sag: 16
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+movement_climb: 12
+senses_truesight: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un mangedestin est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

@@ -1,44 +1,40 @@
 ---
-title: "Diable cornu"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "11"
+title: Diable cornu
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '11'
 hitDiceCount: 17
-abilityScores:
-  for: 22
-  dex: 17
-  con: 21
-  int: 12
-  sag: 16
-  cha: 17
 savingThrows:
-  - "for"
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 6
-  fly: 18
-senses:
-  darkvision: 36
+  - for
+  - dex
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "infernal"
+  - infernal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 64
+abilityScores_for: 22
+abilityScores_dex: 17
+abilityScores_con: 21
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+movement_fly: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

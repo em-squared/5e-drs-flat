@@ -1,10 +1,10 @@
 ---
-title: "Bâton des forêts"
-type: "Bâton"
+title: Bâton des forêts
+type: Bâton
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation avec un druide exigée"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: harmonisation avec un druide exigée
+source: Cadre de campagne
 ---
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts.
 

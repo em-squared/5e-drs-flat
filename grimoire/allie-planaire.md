@@ -1,20 +1,19 @@
 ---
 title: Allié planaire
-description: "Le PJ reçoit l'aide d'une puissante créature d'un autre monde."
+description: Le PJ reçoit l'aide d'une puissante créature d'un autre monde.
 school: Invocation
 level: 6
 concentration: false
-casting_time: "10 minutes"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 10 minutes
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
   - Clerc
 source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous demandez de l'aide à une entité appartenant à un autre monde. Vous devez connaître cet être, que ce soit un dieu, un primordial, un prince démoniaque ou une autre créature à la puissance cosmique. L'entité vous envoie un céleste, un élémentaire ou un fiélon qui lui est loyal. Cette créature apparaît dans un emplacement libre à portée. Si vous connaissez le nom d'une créature spécifique, vous pouvez le mentionner lors de l'incantation pour demander à ce que ce soit elle que l'entité vous envoie, bien qu'elle puisse tout de même vous envoyer un autre émissaire (c'est au MJ de décider).
 

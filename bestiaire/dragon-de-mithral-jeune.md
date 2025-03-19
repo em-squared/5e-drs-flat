@@ -1,54 +1,50 @@
 ---
-title: "Dragon de mithral, jeune"
-type: "Dragon"
-size: "M"
-alignment: "Neutre"
-challenge: "6"
+title: 'Dragon de mithral, jeune'
+type: Dragon
+size: M
+alignment: Neutre
+challenge: '6'
 hitDiceCount: 16
-abilityScores:
-  for: 13
-  dex: 22
-  con: 13
-  int: 14
-  sag: 15
-  cha: 14
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 0
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
+  - name: acrobaties
     invalid: true
     value: 6
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-movement:
-  walk: 15
-  fly: 18
-senses:
-  blindsight: 18
-  darkvision: 36
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
 conditionImmunities:
-  - "charme"
+  - charme
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "tonnerre"
+  - acide
+  - tonnerre
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "primordial"
+  - céleste
+  - commun
+  - draconique
+  - primordial
 environments:
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 131
+abilityScores_for: 13
+abilityScores_dex: 22
+abilityScores_con: 13
+abilityScores_int: 14
+abilityScores_sag: 15
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 0
+movement_walk: 15
+movement_fly: 18
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée du dragon est l'Intelligence. Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

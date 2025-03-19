@@ -1,35 +1,31 @@
 ---
-title: "Bagiennik"
-type: "Aberration"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "3"
+title: Bagiennik
+type: Aberration
+size: M
+alignment: Chaotique Neutre
+challenge: '3'
 hitDiceCount: 10
-abilityScores:
-  for: 16
-  dex: 18
-  con: 16
-  int: 9
-  sag: 16
-  cha: 11
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "perception"
-movement:
-  walk: 9
-  swim: 12
-senses:
-  darkvision: 18
+  - name: perception
 languages:
-  - "commun"
+  - commun
 environments:
   - Bois / Forêt
   - Jungle
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 35
+abilityScores_for: 16
+abilityScores_dex: 18
+abilityScores_con: 16
+abilityScores_int: 9
+abilityScores_sag: 16
+abilityScores_cha: 11
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_swim: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Huile thérapeutique**_. Par une action, un bagiennik peut automatiquement stabiliser une créature mourante en étaler une partie de sa sécrétion huileuse sur la chair de celle-ci. S'il accomplit le même geste sur une créature déjà stable ou qui possède au moins 1 point de vie, cette huile a le même effet qu'une [_potion de soins_](/liste-objets-magiques/potion-de-soins/) et restaure 2d4+2 points de vie à la créature. Alternativement, la sécrétion du bagiennik peut avoir le même effet que le sort [_restauration inférieure_](/grimoire/restauration-inferieure/). Toute créature qui reçoit l'huile thérapeutique d'un bagiennik doit cependant réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13 ou être ralentie pendant 1 minute.

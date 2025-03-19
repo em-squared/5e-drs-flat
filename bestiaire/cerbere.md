@@ -1,46 +1,42 @@
 ---
-title: "Cerbère"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Cerbère
+type: Créature monstrueuse
+size: G
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 12
-abilityScores:
-  for: 18
-  dex: 12
-  con: 16
-  int: 5
-  sag: 14
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 4
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 5
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 10
-movement:
-  walk: 12
-senses:
-  truesight: 12
-  customPassivePerception: 20
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
-  - "empoisonne"
+  - assourdi
+  - aveugle
+  - empoisonne
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "—"
+  - —
 environments:
   - Bois / Forêt
   - Jungle
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 39
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 16
+abilityScores_int: 5
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+senses_truesight: 12
+senses_customPassivePerception: 20
 ---
 ## Capacités
 _**Détection des proies**_. Le cerbère peut détecter la direction de la créature à sang chaud de taille moyenne (ou petite, faute de mieux) la plus proche de lui dans un rayon d'un kilomètre. Pour cela il doit faire un test de Sagesse (Perception) opposé à la Dextérité (Discrétion) de sa cible. Si la cible est située à plus de 300 mètres de distance, il subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) à son test.

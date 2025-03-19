@@ -1,32 +1,28 @@
 ---
-title: "Serpent venimeux"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0.125"
+title: Serpent venimeux
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0.125'
 hitDiceCount: 1
-abilityScores:
-  for: 2
-  dex: 16
-  con: 11
-  int: 1
-  sag: 10
-  cha: 3
-ac: 
-  armorType: null
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  blindsight: 3
-languages: 
-  - ""
+languages:
+  - ''
 environments:
   - Bois / Forêt
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 323
+abilityScores_for: 2
+abilityScores_dex: 16
+abilityScores_con: 11
+abilityScores_int: 1
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 9
+movement_swim: 9
+senses_blindsight: 3
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  

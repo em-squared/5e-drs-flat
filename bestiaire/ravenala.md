@@ -1,44 +1,41 @@
 ---
-title: "Ravenala"
-type: "Plante"
-size: "G"
-alignment: "non-alignée"
-challenge: "5"
+title: Ravenala
+type: Plante
+size: G
+alignment: non-alignée
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 20
-  dex: 10
-  con: 20
-  int: 12
-  sag: 16
-  cha: 12
 savingThrows:
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 9
-senses:
+  - sag
+  - cha
+senses: null
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
+  - assourdi
+  - aveugle
 damageTypeVulnerabilities:
-  - "feu"
-  - "froid"
+  - feu
+  - froid
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
+  - contondant
+  - perforant
 languages:
-  - "commun"
-  - "druidique"
-  - "elfique"
-  - "sylvestre"
+  - commun
+  - druidique
+  - elfique
+  - sylvestre
 environments:
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 349
+abilityScores_for: 20
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
 ---
 ## Capacités
 _**Résistance à la magie**_. Le ravenala est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

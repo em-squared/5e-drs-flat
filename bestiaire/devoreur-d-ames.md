@@ -1,45 +1,41 @@
 ---
-title: "Dévoreur d'âmes"
-type: "Fiélon"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "7"
+title: Dévoreur d'âmes
+type: Fiélon
+size: M
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 16
-abilityScores:
-  for: 13
-  dex: 22
-  con: 14
-  int: 12
-  sag: 11
-  cha: 11
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: null
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 30
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: intimidation
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
-  - "etourdi"
-  - "inconscient"
-  - "paralyse"
+  - empoisonne
+  - etourdi
+  - inconscient
+  - paralyse
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "infernal"
-source: "Livre des monstres"
+  - infernal
+source: Livre des monstres
 source_page: 96
+abilityScores_for: 13
+abilityScores_dex: 22
+abilityScores_con: 14
+abilityScores_int: 12
+abilityScores_sag: 11
+abilityScores_cha: 11
+ac_armorType: null
+movement_walk: 9
+movement_fly: 30
+senses_darkvision: 18
 ---
 ## Capacités
 _**Lié au lanceur de sorts**_. Quand un dévoreur d'âmes est invoqué, il crée un lien mental entre son invocateur et lui. Si la cible assignée au dévoreur d'âmes (voir le pouvoir trouver la cible) meurt avant qu'il ne puisse drainer son âme ou si elle le vainc sans le tuer, il retourne aussi vite que possible auprès de son invocateur et attaque ce dernier. Tant qu'ils sont tous deux sur le même plan, le dévoreur peut utiliser le pouvoir trouver la cible pour le localiser.

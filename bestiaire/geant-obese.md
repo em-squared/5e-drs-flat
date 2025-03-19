@@ -1,39 +1,36 @@
 ---
-title: "Géant obèse"
-type: "Géant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: Géant obèse
+type: Géant
+size: G
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 13
-abilityScores:
-  for: 20
-  dex: 6
-  con: 16
-  int: 9
-  sag: 13
-  cha: 8
-savingThrows: 
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 6
-skills: 
-  - name: "perception"
-movement: 
-  walk: 6
-senses: 
-conditionImmunities: 
-  - "empoisonne"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "nain"
-  - "géant"
+savingThrows:
+  - con
+skills:
+  - name: perception
+senses: null
+conditionImmunities:
+  - empoisonne
+damageTypeImmunities:
+  - poison
+languages:
+  - nain
+  - géant
 environments:
   - Collines / Vallées
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 207
+abilityScores_for: 20
+abilityScores_dex: 6
+abilityScores_con: 16
+abilityScores_int: 9
+abilityScores_sag: 13
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 6
 ---
 ## Capacités
 _**Immense**_. Un géant obèse ne peut pas _se précipiter_. Les attaques qui repoussent, font un croc-en-jambe ou empoignent sont [_désavantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre le géant obèse.

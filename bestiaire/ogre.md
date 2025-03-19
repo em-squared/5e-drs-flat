@@ -1,26 +1,13 @@
 ---
-title: "Ogre"
-type: "Géant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "2"
+title: Ogre
+type: Géant
+size: G
+alignment: Chaotique Mauvais
+challenge: '2'
 hitDiceCount: 7
-abilityScores:
-  for: 19
-  dex: 8
-  con: 16
-  int: 5
-  sag: 7
-  cha: 7
-ac: 
-  armorType: "armure de peau"
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "commun"
-  - "géant"
+languages:
+  - commun
+  - géant
 environments:
   - Bois / Forêt
   - Collines / Vallées
@@ -28,8 +15,17 @@ environments:
 dungeonTypes:
   - Caverne naturelle
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 236
+abilityScores_for: 19
+abilityScores_dex: 8
+abilityScores_con: 16
+abilityScores_int: 5
+abilityScores_sag: 7
+abilityScores_cha: 7
+ac_armorType: armure de peau
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Actions
 _**Javeline**_. _Attaque d'arme au corps à corps ou à distance_ : +6 pour toucher, allonge 1,50 m ou portée 9/36 m, une cible.  

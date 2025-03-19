@@ -1,31 +1,27 @@
 ---
-title: "Oxydeur"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Oxydeur
+type: Créature monstrueuse
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 13
-  dex: 12
-  con: 13
-  int: 2
-  sag: 13
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "—"
+languages:
+  - —
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 244
+abilityScores_for: 13
+abilityScores_dex: 12
+abilityScores_con: 13
+abilityScores_int: 2
+abilityScores_sag: 13
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Corrosion du métal**_. Les armes non-magiques en métal rouillent lorsqu'elles entrent en contact avec l'oxydeur. Après avoir infligé ses dégâts, une arme de ce type subit un malus permanent et cumulatif de -1 aux jets de dégâts. L'arme est détruite si le malus cumulé atteint -5. Les munitions non-magiques en métal qui entrent en contact avec l'oxydeur sont détruites après avoir infligé leurs dégâts.

@@ -1,10 +1,10 @@
 ---
-title: "Sac de haricots"
-type: "Objet merveilleux"
+title: Sac de haricots
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce lourd sac de toile contient 3d4 haricots secs. Il pèse 250 grammes plus 125 grammes par haricot.
 

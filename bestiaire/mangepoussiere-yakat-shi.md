@@ -1,47 +1,45 @@
 ---
-title: "Mangepoussière (Yakat-shi)"
-type: "Aberration"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "9"
+title: Mangepoussière (Yakat-shi)
+type: Aberration
+size: M
+alignment: Neutre Mauvais
+challenge: '9'
 hitDiceCount: 12
-abilityScores:
-  for: 20
-  dex: 14
-  con: 20
-  int: 10
-  sag: 15
-  cha: 17
 savingThrows:
-  - "for"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - for
+  - con
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "intimidation"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  blindsight: 18
+  - name: athletisme
+  - name: intimidation
+  - name: perception
 conditionImmunities:
-  - "aveugle"
-  - "empoisonne"
+  - aveugle
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "froid"
+  - acide
+  - froid
 damageTypeImmunities:
-  - "foudre"
-  - "poison"
-  - "c-p-t-non-magique"
+  - foudre
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "comprend l'abyssal, le commun, l'infernal, la langue du Vide, mais ne peut pas parler"
+  - >-
+    comprend l'abyssal, le commun, l'infernal, la langue du Vide, mais ne peut
+    pas parler
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 283
+abilityScores_for: 20
+abilityScores_dex: 14
+abilityScores_con: 20
+abilityScores_int: 10
+abilityScores_sag: 15
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+senses_blindsight: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un mangepoussière est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

@@ -1,33 +1,29 @@
 ---
-title: "Grenouille"
-type: "Bête"
-size: "TP"
-alignment: "non-alignée"
-challenge: "0"
+title: Grenouille
+type: Bête
+size: TP
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 1
-  dex: 13
-  con: 8
-  int: 1
-  sag: 8
-  cha: 3
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 6
-  swim: 6
-senses:
-  darkvision: 9
+  - name: discretion
+  - name: perception
 languages:
-  - ""
+  - ''
 environments:
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 307
+abilityScores_for: 1
+abilityScores_dex: 13
+abilityScores_con: 8
+abilityScores_int: 1
+abilityScores_sag: 8
+abilityScores_cha: 3
+ac_armorType: null
+movement_walk: 6
+movement_swim: 6
+senses_darkvision: 9
 ---
 ## Capacités
 _**Amphibie**_. La grenouille peut respirer à l'air libre et sous l'eau.

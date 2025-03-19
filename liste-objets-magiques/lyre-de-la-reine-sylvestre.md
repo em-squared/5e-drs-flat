@@ -1,10 +1,10 @@
 ---
-title: "Lyre de la reine sylvestre"
-type: "Objet merveilleux"
+title: Lyre de la reine sylvestre
+type: Objet merveilleux
 subtype: false
-rarity: "Artefact"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Artefact
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Faite d'acajou serti d'or, cette lyre à onze cordes était l'instrument de la reine d'un peuple elfique dont le temps a effacé le nom. La reine jouait de l'instrument pour combattre sa mélancolie quand son roi partait à la bataille. La tristesse de la dame émeut une déesse qui donna de grands pouvoirs de guérison aux larmes qu'elle versait. Un jour, le roi ne revint pas de la guerre, et la reine fut anéantie de chagrin. Elle pleura des jours et des nuits entières sur sa lyre, lui transmettant ainsi le pouvoir divin de ses larmes. À la fin de sa très longue vie, la reine s'exila et partit à la recherche de l'âme de son défunt roi. La reine et sa lyre n'ont pas été revues depuis.
 

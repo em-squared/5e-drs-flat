@@ -1,53 +1,49 @@
 ---
-title: "Berstuc"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "11"
+title: Berstuc
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '11'
 hitDiceCount: 15
-abilityScores:
-  for: 22
-  dex: 10
-  con: 20
-  int: 12
-  sag: 14
-  cha: 19
 savingThrows:
-  - "for"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 8
+  - for
+  - sag
+  - cha
 skills:
-  - name: "custom"
-    value: "Discrétion +4 (+8 en terrain boisé)"
-  - name: "nature"
+  - name: custom
+    value: Discrétion +4 (+8 en terrain boisé)
+  - name: nature
     invalid: true
     value: 10
-  - name: "supercherie"
-  - name: "survie"
-movement:
-  walk: 12
-  burrow: 6
-senses:
-  darkvision: 36
+  - name: supercherie
+  - name: survie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "foudre"
-  - "poison"
+  - foudre
+  - poison
 languages:
-  - "abyssal"
-  - "commun"
+  - abyssal
+  - commun
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 77
+abilityScores_for: 22
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 12
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_burrow: 6
+senses_darkvision: 36
 ---
 ## Capacités
 _**Présence trompeuse**_. Un berstuc est identifié comme une fée par tous les sorts ou effets magiques qui détectent les créatures surnaturelles. Les bêtes et les plantes se sentent bien autour d'un berstuc et ne l'attaqueront pas, sauf si elles en reçoivent l'ordre ou ont été provoquées.

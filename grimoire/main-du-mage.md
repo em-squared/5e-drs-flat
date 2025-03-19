@@ -1,26 +1,24 @@
 ---
-title: "Main du mage"
-description: "Fait apparaître et permet de contrôler une main spectrale."
-school: "Invocation"
+title: Main du mage
+description: Fait apparaître et permet de contrôler une main spectrale.
+school: Invocation
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Une main spectrale flottante apparaît à portée, en un point de votre choix. Elle persiste pendant toute la durée du sort ou jusqu'à ce que vous révoquiez le sort par une action. La main disparaît si elle s'éloigne à plus de 9 mètres de vous ou si vous relancez le sort.
 

@@ -1,34 +1,30 @@
 ---
-title: "Pombero"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "3"
+title: Pombero
+type: Fée
+size: M
+alignment: Chaotique Neutre
+challenge: '3'
 hitDiceCount: 12
-abilityScores:
-  for: 17
-  dex: 16
-  con: 16
-  int: 8
-  sag: 10
-  cha: 14
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "escamotage"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: athletisme
+  - name: discretion
+  - name: escamotage
 languages:
-  - "sylvestre"
+  - sylvestre
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 339
+abilityScores_for: 17
+abilityScores_dex: 16
+abilityScores_con: 16
+abilityScores_int: 8
+abilityScores_sag: 10
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Voix animale**_. Le pombero peut parler par magie avec n'importe quelle bête et imite les sons animaux à la perfection.

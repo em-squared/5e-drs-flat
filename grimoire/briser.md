@@ -1,25 +1,25 @@
 ---
-title: "Briser"
-description: "Inflige 3d8 dégâts dans un rayon de 3 mètres, y compris aux objets non magiques."
-school: "Évocation"
+title: Briser
+description: >-
+  Inflige 3d8 dégâts dans un rayon de 3 mètres, y compris aux objets non
+  magiques.
+school: Évocation
 level: 2
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un éclat de mica"
+casting_time: 1 action
+duration: instantanée
+range: 18 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un éclat de mica
 ---
 Un bruit retentit soudain avec une intensité douloureuse, à partir d'un point situé à portée. Chaque créature située dans une sphère de 3 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Les créatures qui le ratent subissent 3d8 dégâts de tonnerre, les autres la moitié seulement. Une créature faite de matière inorganique, comme de la pierre, du cristal ou du métal subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 

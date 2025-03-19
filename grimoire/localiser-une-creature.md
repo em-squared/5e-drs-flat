@@ -1,27 +1,25 @@
 ---
-title: "Localiser une créature"
-description: "Permet de trouver la direction vers une créature."
-school: "Divination"
+title: Localiser une créature
+description: Permet de trouver la direction vers une créature.
+school: Divination
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "des poils de chien de chasse"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Druide
-    - Magicien
-    - Paladin
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Druide
+  - Magicien
+  - Paladin
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: des poils de chien de chasse
 ---
 Décrivez ou nommez une créature qui vous est familière. Vous sentez dans quelle direction elle se trouve, à condition qu'elle soit dans un rayon de 300 mètres. Si elle se déplace, vous savez dans quelle direction.
 

@@ -1,45 +1,41 @@
 ---
-title: "Demoiselle glacée"
-type: "Fée"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "6"
+title: Demoiselle glacée
+type: Fée
+size: M
+alignment: Loyal Mauvais
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 12
-  dex: 17
-  con: 15
-  int: 19
-  sag: 13
-  cha: 23
 savingThrows:
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - con
+  - cha
 skills:
-  - name: "discretion"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: persuasion
+  - name: supercherie
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "géant"
-  - "sylvestre"
+  - commun
+  - géant
+  - sylvestre
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 75
+abilityScores_for: 12
+abilityScores_dex: 17
+abilityScores_con: 15
+abilityScores_int: 19
+abilityScores_sag: 13
+abilityScores_cha: 23
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Présence glaciale**_. La demoiselle glacée est entourée d'air froid. Sa présence éteint les petites flammes non magiques et fait geler l'eau. Un personnage qui passe plus de 10 minutes sans protection dans un rayon de 4,50 mètres autour d'elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 15, sans quoi il souffre d'une exposition au grand froid. Les sorts protégeant contre les dégâts de froid sont la cible d'une dissipation de la magie automatique.

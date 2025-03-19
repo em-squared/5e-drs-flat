@@ -1,23 +1,21 @@
 ---
-title: "Compagnon animal"
-description: "Le PJ convainc un animal d'être un compagnon fidèle."
-school: "Enchantement"
+title: Compagnon animal
+description: Le PJ convainc un animal d'être un compagnon fidèle.
+school: Enchantement
 level: 2
 concentration: false
-casting_time: "1 minute"
-duration: "24 heures"
-range: "12 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un peu de nourriture adaptée à l'animal"
+casting_time: 1 minute
+duration: 24 heures
+range: 12 mètres
 ritual: false
 classes:
-    - Druide
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Druide
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un peu de nourriture adaptée à l'animal
 ---
 Vous tentez de convaincre une bête à portée et dans votre champ de vision de devenir votre compagnon de route et d'aventure. L'animal ne doit pas être hostile au moment où vous lancez le sort et vous l'amadouez avec un peu de nourriture pendant l'incantation. Le succès du sort est automatique si l'indice de dangerosité de la bête ne dépasse pas 1/2 et que sa valeur d'intelligence est inférieure ou égal à 4. Dans le cas contraire, la bête n'est pas affectée par le sort.
 

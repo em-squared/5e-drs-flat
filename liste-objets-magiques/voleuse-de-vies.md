@@ -1,10 +1,10 @@
 ---
-title: "Voleuse de vies"
-type: "Arme"
-subtype: "Épée"
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Voleuse de vies
+type: Arme
+subtype: Épée
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +2 aux jets d'attaque et de dégâts avec cette arme magique.
 

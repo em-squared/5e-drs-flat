@@ -1,44 +1,42 @@
 ---
-title: "Démon de sève"
-type: "Vase"
-size: "P"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: Démon de sève
+type: Vase
+size: P
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 15
-abilityScores:
-  for: 14
-  dex: 6
-  con: 12
-  int: 10
-  sag: 14
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 6
-  climb: 6
-senses:
-  customBlindSight: 27 m (aveugle au-delà de cette distance)
 conditionImmunities:
-  - "a-terre"
-  - "assourdi"
-  - "aveugle"
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - a-terre
+  - assourdi
+  - aveugle
+  - charme
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "p-t-non-magique"
+  - p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "contondant"
-  - "foudre"
+  - acide
+  - contondant
+  - foudre
 languages:
-  - "aucune sous sa forme naturelle ; connaît les mêmes que la créature qu'il domine."
+  - >-
+    aucune sous sa forme naturelle ; connaît les mêmes que la créature qu'il
+    domine.
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 78
+abilityScores_for: 14
+abilityScores_dex: 6
+abilityScores_con: 12
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+movement_climb: 6
+senses_customBlindSight: 27 m (aveugle au-delà de cette distance)
 ---
 ## Capacités
 _**Informe**_. Le démon de sève peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.

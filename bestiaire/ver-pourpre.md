@@ -1,37 +1,33 @@
 ---
-title: "Ver pourpre"
-type: "Créature monstrueuse"
-size: "Gig"
-alignment: "non-alignée"
-challenge: "15"
+title: Ver pourpre
+type: Créature monstrueuse
+size: Gig
+alignment: non-alignée
+challenge: '15'
 hitDiceCount: 15
-abilityScores:
-  for: 28
-  dex: 7
-  con: 22
-  int: 1
-  sag: 8
-  cha: 4
-savingThrows: 
-  - "con"
-  - "sag"
-ac: 
-  armorType: "armure naturelle"
-  value: 10
-movement: 
-  walk: 15
-  burrow: 9
-senses: 
-  tremorsense: 18
-  blindsight: 9
-languages: 
-  - ""
+savingThrows:
+  - con
+  - sag
+languages:
+  - ''
 environments:
   - Montagnes
 dungeonTypes:
   - Caverne naturelle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 287
+abilityScores_for: 28
+abilityScores_dex: 7
+abilityScores_con: 22
+abilityScores_int: 1
+abilityScores_sag: 8
+abilityScores_cha: 4
+ac_armorType: armure naturelle
+ac_value: 10
+movement_walk: 15
+movement_burrow: 9
+senses_tremorsense: 18
+senses_blindsight: 9
 ---
 ## Capacités
 _**Fouisseur**_. Le ver peut traverser la roche solide en creusant à la moitié de sa vitesse de fouissage et en laissait derrière lui un tunnel de 3 mètres de diamètre.

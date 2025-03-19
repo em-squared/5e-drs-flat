@@ -1,41 +1,37 @@
 ---
-title: "Kikimore"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "5"
+title: Kikimore
+type: Fée
+size: M
+alignment: Chaotique Neutre
+challenge: '5'
 hitDiceCount: 10
-abilityScores:
-  for: 13
-  dex: 18
-  con: 15
-  int: 12
-  sag: 16
-  cha: 21
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 6
-  - name: "perception"
+  - name: perception
     invalid: true
     value: 7
-  - name: "supercherie"
+  - name: supercherie
     invalid: true
     value: 7
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - sylvestre
+source: Livre des monstres
 source_page: 253
+abilityScores_for: 13
+abilityScores_dex: 18
+abilityScores_con: 15
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. La kikimore est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

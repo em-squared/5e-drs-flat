@@ -1,32 +1,29 @@
 ---
-title: "Aigle"
-type: "Bête"
-size: "P"
-alignment: "non-alignée"
-challenge: "0"
+title: Aigle
+type: Bête
+size: P
+alignment: non-alignée
+challenge: '0'
 hitDiceCount: 1
-abilityScores:
-  for: 6
-  dex: 15
-  con: 10
-  int: 2
-  sag: 14
-  cha: 7
-ac:
-  armorType: null
 skills:
-  - name: "perception"
-movement:
-  walk: 3
-  fly: 18
-senses:
+  - name: perception
+senses: null
 languages:
-  - ""
+  - ''
 environments:
   - Mer / Océan
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 294
+abilityScores_for: 6
+abilityScores_dex: 15
+abilityScores_con: 10
+abilityScores_int: 2
+abilityScores_sag: 14
+abilityScores_cha: 7
+ac_armorType: null
+movement_walk: 3
+movement_fly: 18
 ---
 ## Capacités
 _**Vue aiguisée**_. L'aigle obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.

@@ -1,46 +1,42 @@
 ---
-title: "Mi-go"
-type: "Plante"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Mi-go
+type: Plante
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 8
-abilityScores:
-  for: 16
-  dex: 19
-  con: 21
-  int: 25
-  sag: 15
-  cha: 13
 savingThrows:
-  - "for"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - for
+  - con
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "discretion"
-  - name: "medecine"
-  - name: "perception"
-  - name: "supercherie"
+  - name: arcanes
+  - name: discretion
+  - name: medecine
+  - name: perception
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 9
-  fly: 18
-senses:
-  blindsight: 9
-  darkvision: 72
 damageTypeResistances:
-  - "froid"
-  - "radiant"
+  - froid
+  - radiant
 languages:
-  - "commun"
-  - "mi-go"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - commun
+  - mi-go
+  - langue du Vide
+source: Livre des monstres
 source_page: 300
+abilityScores_for: 16
+abilityScores_dex: 19
+abilityScores_con: 21
+abilityScores_int: 25
+abilityScores_sag: 15
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_fly: 18
+senses_blindsight: 9
+senses_darkvision: 72
 ---
 ## Capacités
 _**Voyageur astral**_. Un mi-go n'a pas besoin d'air ni de chaleur pour survivre, uniquement de la lumière solaire (et très peu). Il peut prendre une forme de spore capable de survivre aux voyages dans le vide et de reprendre conscience une fois les conditions redevenues favorables.

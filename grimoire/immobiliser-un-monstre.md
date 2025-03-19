@@ -1,25 +1,23 @@
 ---
-title: "Immobiliser un monstre"
-description: "La cible est <em>paralysée</em>."
-school: "Enchantement"
+title: Immobiliser un monstre
+description: La cible est <em>paralysée</em>.
+school: Enchantement
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un petit morceau de fer bien droit"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 27 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un petit morceau de fer bien droit
 ---
 Choisissez une créature située à portée et dans votre champ de vision. Elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) pour toute la durée du sort. Ce sort est sans effet sur les morts-vivants. À la fin de chacun de ses tours, la cible a droit à un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si elle le réussit, le sort se termine.
 

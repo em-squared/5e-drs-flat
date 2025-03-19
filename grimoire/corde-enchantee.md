@@ -1,22 +1,20 @@
 ---
-title: "Corde enchantée"
-description: "Crée un espace extradimensionnel dans lequel on peut se réfugier."
-school: "Transmutation"
+title: Corde enchantée
+description: Crée un espace extradimensionnel dans lequel on peut se réfugier.
+school: Transmutation
 level: 2
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "extrait de maïs en poudre et boucle de parchemin torsadé"
+casting_time: 1 action
+duration: 1 heure
+range: contact
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: extrait de maïs en poudre et boucle de parchemin torsadé
 ---
 Vous touchez une longueur de corde d'au maximum 18 mètres. L'une de ses extrémités s'élève alors dans les airs, jusqu'à ce que toute la corde se dresse perpendiculairement au sol. Une entrée invisible s'ouvre à l'extrémité supérieure de la corde et débouche sur un espace extradimensionnel qui persiste jusqu'à la fin du sort.
 

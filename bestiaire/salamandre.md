@@ -1,36 +1,32 @@
 ---
-title: "Salamandre"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Salamandre
+type: Élémentaire
+size: G
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 18
-  dex: 14
-  con: 15
-  int: 11
-  sag: 10
-  cha: 12
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-damageTypeVulnerabilities: 
-  - "froid"
-damageTypeResistances: 
-  - "c-p-t-non-magique"
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "ignée"
+damageTypeVulnerabilities:
+  - froid
+damageTypeResistances:
+  - c-p-t-non-magique
+damageTypeImmunities:
+  - feu
+languages:
+  - ignée
 environments:
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 254
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 11
+abilityScores_sag: 10
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Armes surchauffées**_. Quand la salamandre réussit une attaque avec une arme de corps à corps en métal, celle-ci inflige 3 (1d6) dégâts de feu supplémentaires (inclus dans l'attaque).

@@ -1,24 +1,24 @@
 ---
-title: "Création de mort-vivant"
-description: "Crée des goules au service du PJ."
-school: "Nécromancie"
+title: Création de mort-vivant
+description: Crée des goules au service du PJ.
+school: Nécromancie
 level: 6
 concentration: false
-casting_time: "1 minute"
-duration: "instantanée"
-range: "3 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre"
+casting_time: 1 minute
+duration: instantanée
+range: 3 mètres
 ritual: false
 classes:
-    - Clerc
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Clerc
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau
+  saumâtre et un onyx noir d'une valeur de 150 po par cadavre
 ---
 Ce sort se lance uniquement de nuit. Choisissez jusqu'à trois cadavres de créatures humanoïdes de taille M ou P situés à portée. Chacun se change en goule placée sous votre contrôle. (Le MJ dispose du profil technique de ces créatures).
 

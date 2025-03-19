@@ -1,38 +1,34 @@
 ---
-title: "Malphas (Corbeau de tempête)"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Malphas (Corbeau de tempête)
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 16
-abilityScores:
-  for: 19
-  dex: 19
-  con: 16
-  int: 14
-  sag: 13
-  cha: 14
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure de cuir clouté"
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-  fly: 9
-senses:
-  darkvision: 18
+  - name: perception
 languages:
-  - "commun"
-  - "géant"
-  - "homme-corbeau"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - géant
+  - homme-corbeau
+  - sylvestre
+source: Livre des monstres
 source_page: 280
+abilityScores_for: 19
+abilityScores_dex: 19
+abilityScores_con: 16
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 14
+ac_armorType: armure de cuir clouté
+movement_walk: 12
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. Le malphas utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

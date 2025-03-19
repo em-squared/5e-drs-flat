@@ -1,35 +1,31 @@
 ---
-title: "Fangeux"
-type: "Fée"
-size: "P"
-alignment: "Chaotique Mauvais"
-challenge: "0.5"
+title: Fangeux
+type: Fée
+size: P
+alignment: Chaotique Mauvais
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 10
-  dex: 16
-  con: 12
-  int: 10
-  sag: 12
-  cha: 8
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
-  - name: "perception"
-  - name: "survie"
-movement: 
-  walk: 9
-  swim: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "sylvestre"
-  - "umbral"
+skills:
+  - name: discretion
+  - name: perception
+  - name: survie
+languages:
+  - sylvestre
+  - umbral
 environments:
   - Mangrove / Marécage
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 176
+abilityScores_for: 10
+abilityScores_dex: 16
+abilityScores_con: 12
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: null
+movement_walk: 9
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. Le fangeux respire à l'air libre et sous l'eau.

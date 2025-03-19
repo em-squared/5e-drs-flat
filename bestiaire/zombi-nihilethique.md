@@ -1,34 +1,23 @@
 ---
-title: "Zombi nihilethique"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "1"
+title: Zombi nihilethique
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '1'
 hitDiceCount: 3
-abilityScores:
-  for: 13
-  dex: 6
-  con: 16
-  int: 3
-  sag: 6
-  cha: 5
 savingThrows:
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 1
-movement:
-  walk: 6
-  swim: 9
-senses:
-  darkvision: 18
+  - sag
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "c-p-t-non-magique"
-customDamageTypeImmunities: "de froid, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des armes non magiques (uniquement sous forme éthérée)"
+  - c-p-t-non-magique
+customDamageTypeImmunities: >-
+  de froid, nécrotiques, de poison ; contondants, perforants et tranchants
+  infligés par des armes non magiques (uniquement sous forme éthérée)
 languages:
-  - "comprend la langue du Vide et toutes les langues qu'il connaissait de son vivant mais ne peut pas parler"
+  - >-
+    comprend la langue du Vide et toutes les langues qu'il connaissait de son
+    vivant mais ne peut pas parler
 environments:
   - Littoral
 dungeonTypes:
@@ -36,8 +25,19 @@ dungeonTypes:
   - Caverne sous-marine
   - Ruines souterraines
   - Ruines sous-marines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 9
+abilityScores_for: 13
+abilityScores_dex: 6
+abilityScores_con: 16
+abilityScores_int: 3
+abilityScores_sag: 6
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**État duel**_. Comme son créateur nihileth, un zombi nihiletique peut choisir entre une forme matérielle et une forme éthérée. Sous sa forme matérielle, il est résistant aux dégâts infligés par des armes non magiques et, sous sa forme éthérée, il est immunisé contre ce type de dégâts. Sous sa forme éthérée, sa silhouette est la même que sous sa forme matérielle, mais celle-ci semble emplie d'une brume violet noirâtre et bordée d'une mince aura violet sombre.

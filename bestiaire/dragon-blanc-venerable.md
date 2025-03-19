@@ -1,46 +1,42 @@
 ---
-title: "Dragon blanc, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Chaotique Mauvais"
-challenge: "20"
+title: 'Dragon blanc, vénérable'
+type: Dragon
+size: Gig
+alignment: Chaotique Mauvais
+challenge: '20'
 hitDiceCount: 18
-abilityScores:
-  for: 26
-  dex: 10
-  con: 26
-  int: 10
-  sag: 13
-  cha: 14
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 10
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  burrow: 12
-  swim: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - draconique
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 80
+abilityScores_for: 26
+abilityScores_dex: 10
+abilityScores_con: 26
+abilityScores_int: 10
+abilityScores_sag: 13
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 10
+movement_walk: 12
+movement_burrow: 12
+movement_swim: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Marche sur la glace**_. Le dragon peut se déplacer sur des surfaces verglacées et les escalader sans avoir à effectuer de [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique). De plus, traverser des terrains difficiles composés de glace ou de neige ne lui coûte aucun déplacement supplémentaire.

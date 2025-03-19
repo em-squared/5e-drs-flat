@@ -1,62 +1,58 @@
 ---
-title: "Fils de Fenris"
-type: "Créature monstrueuse"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "12"
+title: Fils de Fenris
+type: Créature monstrueuse
+size: TG
+alignment: Chaotique Mauvais
+challenge: '12'
 hitDiceCount: 14
-abilityScores:
-  for: 26
-  dex: 16
-  con: 23
-  int: 16
-  sag: 18
-  cha: 14
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - dex
+  - con
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "intimidation"
-  - name: "religion"
+  - name: arcanes
+  - name: intimidation
+  - name: religion
     invalid: true
     value: 12
-movement:
-  walk: 18
-  special: "fouissement 4,50 m (9 m dans la glace ou la neige)"
-senses:
-  truesight: 18
-  tremorsense: 30
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "psychique"
-  - "radiant"
+  - psychique
+  - radiant
 damageTypeImmunities:
-  - "foudre"
-  - "froid"
-  - "poison"
-  - "c-p-non-magique"
+  - foudre
+  - froid
+  - poison
+  - c-p-non-magique
 languages:
-  - "commun"
-  - "céleste"
-  - "draconique"
-  - "elfique"
-  - "nain"
-  - "géant"
-  - "infernal"
+  - commun
+  - céleste
+  - draconique
+  - elfique
+  - nain
+  - géant
+  - infernal
 telepathy: 18
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 197
+abilityScores_for: 26
+abilityScores_dex: 16
+abilityScores_con: 23
+abilityScores_int: 16
+abilityScores_sag: 18
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 18
+movement_special: 'fouissement 4,50 m (9 m dans la glace ou la neige)'
+senses_truesight: 18
+senses_tremorsense: 30
 ---
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le fils de Fenris est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.

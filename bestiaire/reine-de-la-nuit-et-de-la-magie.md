@@ -1,52 +1,48 @@
 ---
-title: "Reine de la Nuit et de la Magie"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "21"
+title: Reine de la Nuit et de la Magie
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '21'
 hitDiceCount: 24
-abilityScores:
-  for: 12
-  dex: 20
-  con: 17
-  int: 20
-  sag: 18
-  cha: 26
 savingThrows:
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure du mage"
+  - con
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-  fly: 18
-  hover: true
-senses:
-  truesight: 36
+  - name: arcanes
+  - name: discretion
+  - name: intimidation
+  - name: perception
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "feu"
-  - "foudre"
+  - feu
+  - foudre
 damageTypeImmunities:
-  - "froid"
-  - "c-p-t-non-fer-froid"
+  - froid
+  - c-p-t-non-fer-froid
 languages:
-  - "céleste"
-  - "commun"
-  - "elfique"
-  - "sylvestre"
-  - "umbral"
+  - céleste
+  - commun
+  - elfique
+  - sylvestre
+  - umbral
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 180
+abilityScores_for: 12
+abilityScores_dex: 20
+abilityScores_con: 17
+abilityScores_int: 20
+abilityScores_sag: 18
+abilityScores_cha: 26
+ac_armorType: armure du mage
+movement_walk: 9
+movement_fly: 18
+movement_hover: true
+senses_truesight: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si la Reine de la Nuit et de la Magie rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle peut choisir à la place de le réussir.

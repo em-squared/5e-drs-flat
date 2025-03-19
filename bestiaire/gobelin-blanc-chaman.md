@@ -1,44 +1,40 @@
 ---
-title: "Gobelin blanc, chaman"
-type: "Humanoïde"
-subtype: "gobelinoïde"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "1"
+title: 'Gobelin blanc, chaman'
+type: Humanoïde
+subtype: gobelinoïde
+size: P
+alignment: Neutre Mauvais
+challenge: '1'
 hitDiceCount: 5
-abilityScores:
-  for: 13
-  dex: 13
-  con: 13
-  int: 10
-  sag: 14
-  cha: 10
-ac:
-  armorType: "custom"
-  value: "14 (armure de peau)"
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 7
-  - name: "religion"
+  - name: religion
     invalid: true
     value: 3
-  - name: "survie"
+  - name: survie
     invalid: true
     value: 7
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 damageTypeResistances:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "gobelin"
+  - commun
+  - gobelin
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 165
+abilityScores_for: 13
+abilityScores_dex: 13
+abilityScores_con: 13
+abilityScores_int: 10
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: custom
+ac_value: 14 (armure de peau)
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Rapide**_. Le gobelin blanc peut effectuer l'action [_se désengager_](/combattre/#se-desengager) ou [_se précipiter_](/combattre/#se-precipiter) par une action bonus à chacun de ses tours.

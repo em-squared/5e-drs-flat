@@ -1,51 +1,47 @@
 ---
-title: "Dragon de flammes, dragonnet"
-type: "Dragon"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "3"
+title: 'Dragon de flammes, dragonnet'
+type: Dragon
+size: M
+alignment: Chaotique Mauvais
+challenge: '3'
 hitDiceCount: 8
-abilityScores:
-  for: 12
-  dex: 14
-  con: 15
-  int: 13
-  sag: 12
-  cha: 16
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 5
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement: 
-  walk: 9
-  climb: 9
-  fly: 18
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
-  - "igné"
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
+  - igné
 environments:
   - Montagnes
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 127
+abilityScores_for: 12
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 13
+abilityScores_sag: 12
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_climb: 9
+movement_fly: 18
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  

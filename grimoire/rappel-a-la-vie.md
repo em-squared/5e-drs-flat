@@ -1,24 +1,22 @@
 ---
-title: "Rappel à la vie"
-description: "Ramène à la vie une créature décédée depuis moins de 10 jours."
-school: "Nécromancie"
+title: Rappel à la vie
+description: Ramène à la vie une créature décédée depuis moins de 10 jours.
+school: Nécromancie
 level: 5
 concentration: false
-casting_time: "1 heure"
-duration: "instantanée"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un diamant d'une valeur minimale de 500 po, que le sort consume"
+casting_time: 1 heure
+duration: instantanée
+range: contact
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Paladin
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'un diamant d''une valeur minimale de 500 po, que le sort consume'
 ---
 Vous touchez une créature décédée et la ramenez à la vie, à condition que son trépas ne remonte pas à plus de 10 jours. Si l'âme de la créature est désireuse de rejoindre son corps et libre de le faire, le défunt revient à la vie avec 1 point de vie.
 

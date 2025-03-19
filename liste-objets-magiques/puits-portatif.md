@@ -1,10 +1,10 @@
 ---
-title: "Puits portatif"
-type: "Objet merveilleux"
+title: Puits portatif
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Cette mince étoffe noire, aussi douce que de la soie, est repliée pour tenir aussi peu de place qu'un mouchoir. Dépliée, elle se présente sous forme d'un disque de 1,80 mètre de diamètre.
 

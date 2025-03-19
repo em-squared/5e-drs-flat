@@ -1,38 +1,34 @@
 ---
-title: "Ver givré, adulte"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre"
-challenge: "6"
+title: 'Ver givré, adulte'
+type: Élémentaire
+size: G
+alignment: Neutre
+challenge: '6'
 hitDiceCount: 10
-abilityScores:
-  for: 20
-  dex: 14
-  con: 20
-  int: 6
-  sag: 14
-  cha: 3
 savingThrows:
-  - "for"
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 9
-  swim: 9
-  special: "fouissement (neige, glace) 9 m"
-senses:
-  darkvision: 60
+  - for
+  - con
 damageTypeImmunities:
-  - "froid"
-  - "necrotique"
+  - froid
+  - necrotique
 languages:
-  - "—"
+  - —
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 399
+abilityScores_for: 20
+abilityScores_dex: 14
+abilityScores_con: 20
+abilityScores_int: 6
+abilityScores_sag: 14
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_swim: 9
+movement_special: 'fouissement (neige, glace) 9 m'
+senses_darkvision: 60
 ---
 ## Capacités
 _**Nés du givre**_. Un ver givré respire aussi facilement dans l'eau que dans l'air.

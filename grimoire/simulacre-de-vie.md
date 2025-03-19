@@ -1,23 +1,21 @@
 ---
-title: "Simulacre de vie"
-description: "Le PJ gagne 1d4+4 points de vie temporaires."
-school: "Nécromancie"
+title: Simulacre de vie
+description: Le PJ gagne 1d4+4 points de vie temporaires.
+school: Nécromancie
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une petite quantité d'alcool ou de spiritueux"
+casting_time: 1 action
+duration: 1 heure
+range: personnelle
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une petite quantité d'alcool ou de spiritueux
 ---
 Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie temporaires pendant la durée du sort.
 

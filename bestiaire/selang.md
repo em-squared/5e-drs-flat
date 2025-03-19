@@ -1,46 +1,42 @@
 ---
-title: "Sélang"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: Sélang
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 9
-abilityScores:
-  for: 18
-  dex: 15
-  con: 18
-  int: 12
-  sag: 14
-  cha: 19
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
+  - name: discretion
     invalid: true
     value: 8
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 12
-senses:
-  darkvision: 18
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "foudre"
+  - acide
+  - foudre
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - sylvestre
+  - langue du Vide
+source: Livre des monstres
 source_page: 360
+abilityScores_for: 18
+abilityScores_dex: 15
+abilityScores_con: 18
+abilityScores_int: 12
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. Le sélang utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

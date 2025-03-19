@@ -1,31 +1,28 @@
 ---
-title: "Fraughashar"
-type: "Fée"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Fraughashar
+type: Fée
+size: P
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 4
-abilityScores:
-  for: 8
-  dex: 14
-  con: 12
-  int: 10
-  sag: 11
-  cha: 7
-ac:
-  armorType: "armure de cuir"
-  hasShield: true
 skills:
-  - name: "discretion"
-movement:
-  walk: 7,50
-senses:
+  - name: discretion
+senses: null
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "sylvestre"
-source: "Livre des monstres"
+  - sylvestre
+source: Livre des monstres
 source_page: 200
+abilityScores_for: 8
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 7
+ac_armorType: armure de cuir
+ac_hasShield: true
+movement_walk: '7,50'
 ---
 ## Capacités
 _**Marcheur du givre**_. Un terrain rocheux, enneigé ou glacé n'a pas d'impact sur la vitesse d'un fraughashar. Il n'a jamais besoin de faire de test de Dextérité pour se déplacer ou éviter de tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre) si le sol est couvert de neige ou de glace.

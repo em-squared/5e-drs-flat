@@ -1,36 +1,32 @@
 ---
-title: "Ettercap"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: Ettercap
+type: Créature monstrueuse
+size: M
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 14
-  dex: 15
-  con: 13
-  int: 7
-  sag: 12
-  cha: 8
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-skills: 
-  - name: "discretion"
-  - name: "perception"
-  - name: "survie"
-movement: 
-  walk: 9
-  climb: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "—"
+skills:
+  - name: discretion
+  - name: perception
+  - name: survie
+languages:
+  - —
 environments:
   - Bois / Forêt
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 140
+abilityScores_for: 14
+abilityScores_dex: 15
+abilityScores_con: 13
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Marche dans les toiles**_. L'ettercap ignore les restrictions de déplacement imposées par les toiles d'araignée.

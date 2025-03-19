@@ -1,49 +1,45 @@
 ---
-title: "Dragonette lanterne"
-type: "Dragon"
-size: "TP"
-alignment: "Loyal Neutre"
-challenge: "0.5"
+title: Dragonette lanterne
+type: Dragon
+size: TP
+alignment: Loyal Neutre
+challenge: '0.5'
 hitDiceCount: 8
-abilityScores:
-  for: 7
-  dex: 12
-  con: 13
-  int: 16
-  sag: 13
-  cha: 12
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "nature"
-  - name: "perception"
-  - name: "religion"
-movement:
-  walk: 4,50
-  fly: 12
-  hover: true
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: histoire
+  - name: nature
+  - name: perception
+  - name: religion
 conditionImmunities:
-  - "inconscient"
-  - "paralyse"
+  - inconscient
+  - paralyse
 languages:
-  - "commun"
-  - "draconique"
-  - "elfe"
-  - "primordial"
+  - commun
+  - draconique
+  - elfe
+  - primordial
 telepathy: 18
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 148
+abilityScores_for: 7
+abilityScores_dex: 12
+abilityScores_con: 13
+abilityScores_int: 16
+abilityScores_sag: 13
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: '4,50'
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Lanterne ventrale (1/jour)**_. Si la dragonette a mangé 200 grammes de cire de chandelle au cours des dernières 24 heures, elle peut émettre une [_flamme éternelle_](/grimoire/flamme-eternelle/) pendant 3d20 minutes. On peut dissiper cette flamme, mais la dragonette peut la rallumer par une action bonus si la limite de temps n'a pas expiré, sauf si elle se trouve dans une zone de ténèbres magiques.

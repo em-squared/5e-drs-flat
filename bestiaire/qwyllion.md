@@ -1,45 +1,41 @@
 ---
-title: "Qwyllion"
-type: "Aberration"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "8"
+title: Qwyllion
+type: Aberration
+size: M
+alignment: Neutre Mauvais
+challenge: '8'
 hitDiceCount: 13
-abilityScores:
-  for: 12
-  dex: 20
-  con: 19
-  int: 12
-  sag: 13
-  cha: 16
 savingThrows:
-  - "dex"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 1
+  - dex
+  - cha
 skills:
-  - name: "acrobaties"
+  - name: acrobaties
     isExpert: true
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: perception
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "gobelin"
-  - "infernal"
-  - "sylvestre"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - commun
+  - gobelin
+  - infernal
+  - sylvestre
+  - langue du Vide
+source: Livre des monstres
 source_page: 345
+abilityScores_for: 12
+abilityScores_dex: 20
+abilityScores_con: 19
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Perturbateur**_. En raison de sa nature écœurante, la qwyllion _désavantage_ les lanceurs de sorts lors de leurs tests de concentration s'ils se trouvent dans les 12 mètres.

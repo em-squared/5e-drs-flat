@@ -1,23 +1,21 @@
 ---
-title: "Communication avec les morts"
-description: "Permet de poser 5 questions à un cadavre."
-school: "Nécromancie"
+title: Communication avec les morts
+description: Permet de poser 5 questions à un cadavre.
+school: Nécromancie
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "10 minutes"
-range: "3 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "encens incandescent"
+casting_time: 1 action
+duration: 10 minutes
+range: 3 mètres
 ritual: false
 classes:
-    - Barde
-    - Clerc
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: encens incandescent
 ---
 Vous donnez un semblant de vie et d'intelligence à un cadavre de votre choix situé à portée. Il est alors en mesure de répondre à vos questions. Le cadavre doit encore disposer d'une bouche et ne doit pas être un mort-vivant. Le sort échoue si le cadavre choisi a déjà été la cible de ce sort au cours des 10 jours précédents.
 

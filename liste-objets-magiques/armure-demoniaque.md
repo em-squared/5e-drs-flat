@@ -1,10 +1,10 @@
 ---
-title: "Armure démoniaque"
-type: "Armure"
-subtype: "Harnois"
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Armure démoniaque
+type: Armure
+subtype: Harnois
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA et vous comprenez et parlez l'abyssal. De plus, les gantelets de l'armure sont équipés de griffes qui transforment les attaques à mains nues portées avec eux en attaques portées avec une arme magique infligeant des dégâts tranchants, dotée d'un bonus de +1 aux jets d'attaque et de dégâts et infligeant 1d8 de dégâts.
 

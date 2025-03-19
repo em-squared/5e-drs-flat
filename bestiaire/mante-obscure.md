@@ -1,32 +1,28 @@
 ---
-title: "Mante obscure"
-type: "Créature monstrueuse"
-size: "P"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Mante obscure
+type: Créature monstrueuse
+size: P
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 16
-  dex: 12
-  con: 13
-  int: 2
-  sag: 10
-  cha: 5
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
-movement: 
-  walk: 3
-  fly: 9
-senses: 
-  blindsight: 18
-languages: 
-  - "—"
+skills:
+  - name: discretion
+languages:
+  - —
 dungeonTypes:
   - Caverne naturelle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 214
+abilityScores_for: 16
+abilityScores_dex: 12
+abilityScores_con: 13
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 5
+ac_armorType: null
+movement_walk: 3
+movement_fly: 9
+senses_blindsight: 18
 ---
 ## Capacités
 _**Écholocalisation**_. La mante obscure ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).

@@ -1,55 +1,51 @@
 ---
-title: "Bouda"
-type: "Fiélon"
-subtype: "Métamorphe"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "5"
+title: Bouda
+type: Fiélon
+subtype: Métamorphe
+size: M
+alignment: Neutre Mauvais
+challenge: '5'
 hitDiceCount: 11
-abilityScores:
-  for: 19
-  dex: 14
-  con: 18
-  int: 10
-  sag: 12
-  cha: 15
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 36
+  - name: athletisme
+  - name: discretion
+  - name: intimidation
+  - name: perception
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
+  - charme
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "acide"
-  - "foudre"
-  - "c-p-t-non-argent"
+  - acide
+  - foudre
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "commun"
-  - "céleste"
-  - "infernal"
-  - "nurien"
+  - commun
+  - céleste
+  - infernal
+  - nurien
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 48
+abilityScores_for: 19
+abilityScores_dex: 14
+abilityScores_con: 18
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Métamorphe**_. Un bouda peut utiliser une action pour se métamorphoser en humain, en hyène, ou pour prendre sa forme véritable, qui est celle d'un hybride entre une hyène et un humanoïde. Ses statistiques sont les même pour toutes ses formes, sauf en ce qui concerne son attaque de _griffe méphitique_. Tout équipement qu'il porte n'est pas transformé. Quand un bouda est détruit, il reprend sa forme véritable avant de tomber en poussière.

@@ -1,40 +1,36 @@
 ---
-title: "Béhir"
-type: "Créature monstrueuse"
-size: "TG"
-alignment: "Neutre Mauvais"
-challenge: "11"
+title: Béhir
+type: Créature monstrueuse
+size: TG
+alignment: Neutre Mauvais
+challenge: '11'
 hitDiceCount: 16
-abilityScores:
-  for: 23
-  dex: 16
-  con: 18
-  int: 7
-  sag: 14
-  cha: 12
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 15
-  climb: 12
-senses: 
-  darkvision: 27
-damageTypeImmunities: 
-  - "foudre"
-languages: 
-  - "draconique"
+skills:
+  - name: discretion
+  - name: perception
+damageTypeImmunities:
+  - foudre
+languages:
+  - draconique
 environments:
   - Désert chaud
   - Montagnes
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 35
+abilityScores_for: 23
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 7
+abilityScores_sag: 14
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 15
+movement_climb: 12
+senses_darkvision: 27
 ---
 ## Actions
 _**Attaques multiples**_. Le béhir effectue deux attaques : une avec sa morsure et une pour comprimer.

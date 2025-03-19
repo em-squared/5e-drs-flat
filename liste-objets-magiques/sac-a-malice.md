@@ -1,10 +1,10 @@
 ---
-title: "Sac à malice"
-type: "Objet merveilleux"
+title: Sac à malice
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce banal sac gris, rouille ou brun semble vide. Cependant, si l'on plonge la main à l'intérieur, on sent un petit objet duveteux. Le sac pèse 250 grammes.
 

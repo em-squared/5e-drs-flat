@@ -1,28 +1,24 @@
 ---
-title: "Fourmi géante"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "2"
+title: Fourmi géante
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 7
-abilityScores:
-  for: 15
-  dex: 13
-  con: 15
-  int: 1
-  sag: 9
-  cha: 2
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-movement: 
-  walk: 12
-senses: 
-  blindsight: 18
-languages: 
-  - "—"
-source: "Livre des monstres"
+languages:
+  - —
+source: Livre des monstres
 source_page: 199
+abilityScores_for: 15
+abilityScores_dex: 13
+abilityScores_con: 15
+abilityScores_int: 1
+abilityScores_sag: 9
+abilityScores_cha: 2
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_blindsight: 18
 ---
 ## Capacités
 _**Odorat aiguisé**_. Une fourmi géante est avantagée aux tests de Sagesse (Perception) basés sur l'odeur.

@@ -1,34 +1,30 @@
 ---
-title: "Guenaude miroir"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "6"
+title: Guenaude miroir
+type: Fée
+size: M
+alignment: Chaotique Neutre
+challenge: '6'
 hitDiceCount: 16
-abilityScores:
-  for: 15
-  dex: 16
-  con: 22
-  int: 12
-  sag: 14
-  cha: 19
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 9
-  fly: 3
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "tonnerre"
+  - tonnerre
 languages:
-  - "commun"
-source: "Livre des monstres"
+  - commun
+source: Livre des monstres
 source_page: 229
+abilityScores_for: 15
+abilityScores_dex: 16
+abilityScores_con: 22
+abilityScores_int: 12
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_fly: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La guenaude utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :

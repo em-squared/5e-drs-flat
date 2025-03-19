@@ -1,44 +1,40 @@
 ---
-title: "Vrock"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "6"
+title: Vrock
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '6'
 hitDiceCount: 11
-abilityScores:
-  for: 17
-  dex: 15
-  con: 18
-  int: 8
-  sag: 13
-  cha: 8
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 12
-  fly: 18
-senses:
-  darkvision: 36
+  - dex
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 56
+abilityScores_for: 17
+abilityScores_dex: 15
+abilityScores_con: 18
+abilityScores_int: 8
+abilityScores_sag: 13
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+movement_fly: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le vrock obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

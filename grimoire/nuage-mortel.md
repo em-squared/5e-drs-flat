@@ -1,23 +1,21 @@
 ---
-title: "Nuage mortel"
-description: "Les créatures qui respirent le brouillard subissent 5d8 dégâts de poison."
-school: "Invocation"
+title: Nuage mortel
+description: Les créatures qui respirent le brouillard subissent 5d8 dégâts de poison.
+school: Invocation
 level: 5
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 36 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous créez une sphère de 6 mètres de rayon faite d'un brouillard verdâtre toxique. Il est centré sur un point de votre choix situé à portée. Le brouillard s'étend en contournant les coins au besoin. Il persiste pendant toute la durée du sort ou jusqu'à ce qu'un vent fort le disperse et mette un terme au sort. La visibilité est nulle dans sa zone d'effet.
 

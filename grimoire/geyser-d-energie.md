@@ -1,22 +1,20 @@
 ---
-title: "Geyser d'énergie"
-description: "De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi."
-school: "Évocation"
+title: Geyser d'énergie
+description: De l'énergie jaillit du sol et inflige 3d8 dégâts du type d'énergie choisi.
+school: Évocation
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une petite poire remplie d'air"
+casting_time: 1 action
+duration: instantanée
+range: 27 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une petite poire remplie d'air
 ---
 Un geyser d'énergie jaillit du sol d'un endroit que vous spécifiez dans la portée du sort. Vous choisissez acide, foudre, feu, froid, poison ou tonnerre comme type d'énergie pour le geyser. Chaque créature située dans le cylindre de 1,50 mètre de diamètre et de 6 mètres de haut doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité, sans quoi elle subit 3d8 dégâts du type préalablement déterminé. Si le jet est réussi, les dégâts sont réduits de moitié.
 

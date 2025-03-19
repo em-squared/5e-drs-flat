@@ -1,55 +1,51 @@
 ---
-title: "Haugbui"
-type: "Mort-vivant"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "13"
+title: Haugbui
+type: Mort-vivant
+size: M
+alignment: Loyal Neutre
+challenge: '13'
 hitDiceCount: 16
-abilityScores:
-  for: 18
-  dex: 17
-  con: 18
-  int: 15
-  sag: 20
-  cha: 16
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "religion"
+  - name: arcanes
+  - name: histoire
+  - name: intimidation
+  - name: perception
+  - name: religion
     isExpert: true
-movement:
-  walk: 0
-  fly: 12
-  hover: true
-senses:
-  truesight: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "necrotique"
+  - foudre
+  - froid
+  - necrotique
 damageTypeImmunities:
-  - "poison"
-  - "c-p-t-non-magique"
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "celles qu'il parlait de son vivant"
+  - celles qu'il parlait de son vivant
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 235
+abilityScores_for: 18
+abilityScores_dex: 17
+abilityScores_con: 18
+abilityScores_int: 15
+abilityScores_sag: 20
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 0
+movement_fly: 12
+movement_hover: true
+senses_truesight: 18
 ---
 ## Capacités
 _**Déplacement intangible**_. Un haugbui peut se déplacer au travers des autres créatures et des objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.

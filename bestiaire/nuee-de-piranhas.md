@@ -1,48 +1,44 @@
 ---
-title: "Nuée de piranhas"
+title: Nuée de piranhas
 isSwarm: true
-swarmSize: "TP"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "1"
+swarmSize: TP
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 8
-abilityScores:
-  for: 13
-  dex: 16
-  con: 9
-  int: 1
-  sag: 7
-  cha: 2
-ac: 
-  armorType: null
-movement: 
-  walk: 0
-  swim: 12
-senses: 
-  blindsight: 18
-conditionImmunities: 
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeResistances: 
-  - "contondant"
-  - "perforant"
-  - "tranchant"
-languages: 
-  - ""
+conditionImmunities:
+  - a-terre
+  - charme
+  - empoigne
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeResistances:
+  - contondant
+  - perforant
+  - tranchant
+languages:
+  - ''
 environments:
   - Jungle
   - Mangrove / Marécage
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 314
+abilityScores_for: 13
+abilityScores_dex: 16
+abilityScores_con: 9
+abilityScores_int: 1
+abilityScores_sag: 7
+abilityScores_cha: 2
+ac_armorType: null
+movement_walk: 0
+movement_swim: 12
+senses_blindsight: 18
 ---
 ## Capacités
 _**Frénésie sanguinaire**_. La nuée obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.

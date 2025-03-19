@@ -1,45 +1,41 @@
 ---
-title: "Nalfeshnie"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "13"
+title: Nalfeshnie
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '13'
 hitDiceCount: 16
-abilityScores:
-  for: 21
-  dex: 10
-  con: 22
-  int: 19
-  sag: 12
-  cha: 15
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 8
-movement:
-  walk: 6
-  fly: 9
-senses:
-  truesight: 36
+  - con
+  - int
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "abyssal"
+  - abyssal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 55
+abilityScores_for: 21
+abilityScores_dex: 10
+abilityScores_con: 22
+abilityScores_int: 19
+abilityScores_sag: 12
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 6
+movement_fly: 9
+senses_truesight: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le nalfeshnie obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

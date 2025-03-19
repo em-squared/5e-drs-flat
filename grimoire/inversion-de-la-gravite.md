@@ -1,24 +1,22 @@
 ---
-title: "Inversion de la gravité"
-description: "Inverse la gravité dans un cylindre de 15 mètres sur 30."
-school: "Transmutation"
+title: Inversion de la gravité
+description: Inverse la gravité dans un cylindre de 15 mètres sur 30.
+school: Transmutation
 level: 7
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "30 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "de la magnétite et de la limaille de fer"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 30 mètres
 ritual: false
 classes:
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: de la magnétite et de la limaille de fer
 ---
 Ce sort inverse la gravité dans un cylindre de 15 mètres de rayon et de 30 mètres de haut centré sur un point de votre choix à portée. Toutes les créatures et tous les objets qui ne sont pas ancrés au sol, d'une manière ou d'une autre, tombent vers le haut jusqu'à atteindre le sommet de la zone affectée par le sort. Une créature peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour s'accrocher à un objet fixe situé à sa portée, afin d'éviter la chute.
 

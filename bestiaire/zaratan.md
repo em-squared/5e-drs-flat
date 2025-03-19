@@ -1,50 +1,46 @@
 ---
-title: "Zaratan"
-type: "Créature monstrueuse"
-subtype: "titan"
-size: "Gig"
-alignment: "non-alignée"
-challenge: "26"
+title: Zaratan
+type: Créature monstrueuse
+subtype: titan
+size: Gig
+alignment: non-alignée
+challenge: '26'
 hitDiceCount: 26
-abilityScores:
-  for: 30
-  dex: 3
-  con: 28
-  int: 10
-  sag: 11
-  cha: 11
 savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 19
-movement:
-  walk: 3
-  swim: 15
-senses:
-  blindsight: 36
+  - int
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
-  - "paralyse"
-  - "terrorise"
+  - empoisonne
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "tonnerre"
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - feu
+  - foudre
+  - tonnerre
+  - contondant
+  - perforant
+  - tranchant
 damageTypeImmunities:
-  - "froid"
-  - "poison"
+  - froid
+  - poison
 languages:
-  - "aquatique"
+  - aquatique
 environments:
   - Mer / Océan
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 414
+abilityScores_for: 30
+abilityScores_dex: 3
+abilityScores_con: 28
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 11
+ac_armorType: armure naturelle
+ac_value: 19
+movement_walk: 3
+movement_swim: 15
+senses_blindsight: 36
 ---
 ## Capacités
 _**Carapace renforcée**_. Le zaratan ignore les attaques portées contre sa carapace, à moins que l'une d'elles ne lui inflige au minimum 30 points de dégâts. Cette aptitude ne fonctionne pas contre les attaques portées contre sa tête ou ses nageoires.

@@ -1,52 +1,48 @@
 ---
-title: "Nichny"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Nichny
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 15
-abilityScores:
-  for: 17
-  dex: 19
-  con: 17
-  int: 18
-  sag: 18
-  cha: 19
 savingThrows:
-  - "dex"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
 skills:
-  - name: "acrobaties"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 18
+  - name: acrobaties
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "inconscient"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - inconscient
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "elfique"
-  - "primordial"
-  - "sylvestre"
-  - "langue du Vide"
-source: "Livre des monstres"
+  - elfique
+  - primordial
+  - sylvestre
+  - langue du Vide
+source: Livre des monstres
 source_page: 318
+abilityScores_for: 17
+abilityScores_dex: 19
+abilityScores_con: 17
+abilityScores_int: 18
+abilityScores_sag: 18
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Liberté de mouvement**_. Un nichny ignore les terrains difficiles et ne peut pas être enchevêtré, [_empoigné_](/gerer-la-sante-du-personnage/#empoigne) ni gêné dans ses mouvements, comme s'il était sous l'effet constant du sort [_liberté de mouvement_](/grimoire/liberte-de-mouvement/). Ce pouvoir ne fonctionne pas lors d'une tentative d'empoignade si l'assaillant porte des gantelets en or ou en orichalque ou utilise une chaîne de ces métaux lors de l'attaque.

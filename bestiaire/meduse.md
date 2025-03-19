@@ -1,37 +1,33 @@
 ---
-title: "Méduse"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "6"
+title: Méduse
+type: Créature monstrueuse
+size: M
+alignment: Loyal Mauvais
+challenge: '6'
 hitDiceCount: 17
-abilityScores:
-  for: 10
-  dex: 15
-  con: 16
-  int: 12
-  sag: 13
-  cha: 15
-ac:
-  armorType: "armure naturelle"
-  value: 3
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
+  - name: perspicacite
+  - name: supercherie
 languages:
-  - "commun"
+  - commun
 dungeonTypes:
   - Donjon maçonné
   - Ruines extérieures
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 217
+abilityScores_for: 10
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Regard pétrifiant**_. Quand une créature qui peut voir les yeux de la méduse commence son tour à 9 mètres ou moins d'elle, la méduse, si elle n'est pas [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) et si la créature est dans son champ de vision, peut la forcer à effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 14. En cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté de 5 points ou plus, la victime se _pétrifie_ instantanément. Sinon, une créature qui rate simplement le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) commence à se transformer en pierre et devient [_entravée_](/gerer-la-sante-du-personnage/#entrave). La créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) doit retenter le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de son prochain tour. En cas d'échec, elle est complètement [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie) ; l'effet prend fin en cas de réussite. La pétrification persiste tant que la créature n'est pas libérée par un sort de [_restauration supérieure_](/grimoire/restauration-superieure/) ou une magie similaire.  

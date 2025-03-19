@@ -1,22 +1,20 @@
 ---
-title: "Contagion"
-description: "Inocule une maladie à la cible."
-school: "Nécromancie"
+title: Contagion
+description: Inocule une maladie à la cible.
+school: Nécromancie
 level: 5
 concentration: false
-casting_time: "1 action"
-duration: "7 jours"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 7 jours
+range: contact
 ritual: false
 classes:
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Votre simple contact transmet des maladies. Faites une attaque de sort au corps-à-corps contre une créature à portée. Si vous touchez, vous lui inoculez une maladie de votre choix, à sélectionner parmi celles décrites ci-dessous.
 

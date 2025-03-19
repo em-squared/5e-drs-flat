@@ -1,38 +1,34 @@
 ---
-title: "Monolithique, Champion"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "8"
+title: 'Monolithique, Champion'
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '8'
 hitDiceCount: 12
-abilityScores:
-  for: 19
-  dex: 12
-  con: 16
-  int: 10
-  sag: 10
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 6
-movement:
-  walk: 12
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "c-p-t-non-adamantium"
+  - poison
+  - c-p-t-non-adamantium
 languages:
-  - "elfique"
-  - "umbral"
-source: "Livre des monstres"
+  - elfique
+  - umbral
+source: Livre des monstres
 source_page: 308
+abilityScores_for: 19
+abilityScores_dex: 12
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 10
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Renvoi flagrant**_. Tant que le champion monolithique se trouve dans une cour ou un château féerique, il peut substituer un double d'ombre à sa cible quand il réussit un coup à l'_épée à deux mains_. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 14, sans quoi elle devient [_invisible_](/gerer-la-sante-du-personnage/#invisible), silencieuse et [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) tandis qu'une version illusoire d'elle-même reste visible et audible... et sous le contrôle du champion, à hurler qu'il faut battre en retraite par exemple. Ce pouvoir ne fonctionne pas en dehors des domaines féeriques.

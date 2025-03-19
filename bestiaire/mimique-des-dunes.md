@@ -1,38 +1,34 @@
 ---
-title: "Mimique des dunes"
-type: "Créature monstrueuse"
-subtype: "métamorphe"
-size: "TG"
-alignment: "Neutre"
-challenge: "8"
+title: Mimique des dunes
+type: Créature monstrueuse
+subtype: métamorphe
+size: TG
+alignment: Neutre
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 20
-  dex: 8
-  con: 18
-  int: 9
-  sag: 13
-  cha: 10
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "perception"
-movement: 
-  walk: 3
-senses: 
-  darkvision: 18
-  tremorsense: 9
-conditionImmunities: 
-  - "a-terre"
-damageTypeImmunities: 
-  - "acide"
-languages: 
-  - "—"
+skills:
+  - name: perception
+conditionImmunities:
+  - a-terre
+damageTypeImmunities:
+  - acide
+languages:
+  - —
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 303
+abilityScores_for: 20
+abilityScores_dex: 8
+abilityScores_con: 18
+abilityScores_int: 9
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 3
+senses_darkvision: 18
+senses_tremorsense: 9
 ---
 ## Capacités
 _**Métamorphe**_. Une mimique des dunes peut utiliser son action pour se métamorphoser en un objet de Très grande taille ou un élément du paysage (d'une taille maximale de 7,50 x 7,50 m), ou encore reprendre son apparence informe d'origine. Dans la mesure où elle n'est pas capable de dissimuler la couche de poussière, de sable et de graviers qui la couvre, elle prend généralement la forme d'un élément de paysage ou une ruine érodée. Ses statistiques sont les mêmes, quelle que soit sa forme. Les objets dont elle est équipée ou vêtue ne sont pas transformés. Elle reprend sa forme normale si elle meurt.

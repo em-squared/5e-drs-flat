@@ -1,56 +1,52 @@
 ---
-title: "Diable doré"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "7"
+title: Diable doré
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '7'
 hitDiceCount: 15
-abilityScores:
-  for: 17
-  dex: 15
-  con: 17
-  int: 15
-  sag: 18
-  cha: 17
 savingThrows:
-  - "for"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "custom"
-  value: "16 (armure de pièces)"
+  - for
+  - con
+  - sag
+  - cha
 skills:
-  - name: "escamotage"
+  - name: escamotage
     isExpert: true
-  - name: "histoire"
-  - name: "perspicacite"
+  - name: histoire
+  - name: perspicacite
     isExpert: true
-  - name: "persuasion"
+  - name: persuasion
     isExpert: true
-  - name: "supercherie"
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 9
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "infernal"
+  - céleste
+  - commun
+  - draconique
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 111
+abilityScores_for: 17
+abilityScores_dex: 15
+abilityScores_con: 17
+abilityScores_int: 15
+abilityScores_sag: 18
+abilityScores_cha: 17
+ac_armorType: custom
+ac_value: 16 (armure de pièces)
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

@@ -1,39 +1,35 @@
 ---
-title: "Seigneur des lianes"
-type: "Plante"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "7"
+title: Seigneur des lianes
+type: Plante
+size: M
+alignment: Loyal Neutre
+challenge: '7'
 hitDiceCount: 14
-abilityScores:
-  for: 12
-  dex: 20
-  con: 16
-  int: 14
-  sag: 16
-  cha: 18
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 1
-movement:
-  walk: 9
-senses:
-  blindsight: 9
+  - con
+  - sag
+  - cha
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
+  - assourdi
+  - aveugle
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 languages:
-  - "commun"
+  - commun
 environments:
   - Jungle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 358
+abilityScores_for: 12
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 14
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 9
+senses_blindsight: 9
 ---
 ## Capacités
 _**Marcheur vert**_. Le seigneur des lianes ignore les restrictions de mouvement et les dégâts causés par des taillis naturels.

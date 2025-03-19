@@ -1,51 +1,47 @@
 ---
-title: "Dragon du vent, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Neutre"
-challenge: "6"
+title: 'Dragon du vent, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Neutre
+challenge: '6'
 hitDiceCount: 16
-abilityScores:
-  for: 20
-  dex: 19
-  con: 18
-  int: 14
-  sag: 13
-  cha: 16
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 12
-  fly: 27
-senses:
-  blindsight: 3
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
+  - charme
+  - epuise
+  - entrave
+  - paralyse
 damageTypeImmunities:
-  - "foudre"
+  - foudre
 languages:
-  - "commun"
-  - "draconique"
-  - "primordial"
+  - commun
+  - draconique
+  - primordial
 environments:
   - Montagnes
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 137
+abilityScores_for: 20
+abilityScores_dex: 19
+abilityScores_con: 18
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+movement_fly: 27
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée du dragon est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

@@ -1,10 +1,10 @@
 ---
-title: "Baguette merveilleuse"
-type: "Baguette"
+title: Baguette merveilleuse
+type: Baguette
 subtype: false
-rarity: "Rare"
-attunement: "harmonisation avec un lanceur de sorts exigée"
-source: "Cadre de campagne"
+rarity: Rare
+attunement: harmonisation avec un lanceur de sorts exigée
+source: Cadre de campagne
 ---
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et choisir une cible à 36 mètres ou moins de vous. La cible peut être une créature, un objet ou un point dans l'espace. Lancez un d100 et consultez la table suivante pour découvrir ce qu'il se passe.
 

@@ -1,33 +1,29 @@
 ---
-title: "Otyugh"
-type: "Aberration"
-size: "G"
-alignment: "Neutre"
-challenge: "5"
+title: Otyugh
+type: Aberration
+size: G
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 16
-  dex: 11
-  con: 19
-  int: 6
-  sag: 13
-  cha: 6
-savingThrows: 
-  - "con"
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-movement: 
-  walk: 9
-senses: 
-  darkvision: 36
-languages: 
-  - "otyugh"
+savingThrows:
+  - con
+languages:
+  - otyugh
 environments:
   - Jungle
   - Mangrove / Marécage
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 242
+abilityScores_for: 16
+abilityScores_dex: 11
+abilityScores_con: 19
+abilityScores_int: 6
+abilityScores_sag: 13
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Télépathie limitée**_. L'otyugh peut transmettre par magie des images et des messages simples à une créature capable de comprendre une langue et située à 36 mètres ou moins. Cette forme de télépathie ne permet pas au destinataire de répondre par ce même moyen.

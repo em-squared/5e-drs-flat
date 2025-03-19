@@ -1,23 +1,21 @@
 ---
-title: "Contact glacial"
-description: "Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques."
-school: "Nécromancie"
+title: Contact glacial
+description: Une main spectrale attaque une cible et lui inflige 1d8 dégâts nécrotiques.
+school: Nécromancie
 level: 0
 concentration: false
-casting_time: "1 action"
-duration: "1 round"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 1 round
+range: 36 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Vous faites apparaître une main fantomatique et squelettique sur l'emplacement d'une créature située à portée. Faites un [jet d'attaque](/combattre/#jets-d-attaque) de sort à distance contre la créature pour la transir de froid. Si l'attaque touche, la victime reçoit 1d8 dégâts nécrotiques et ne peut pas récupérer de point de vie avant le début de votre prochain tour. Jusque-là, la main s'accroche à elle.
 

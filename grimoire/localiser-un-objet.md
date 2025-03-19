@@ -1,28 +1,26 @@
 ---
-title: "Localiser un objet"
-description: "Permet de trouver la direction vers un objet proche."
-school: "Divination"
+title: Localiser un objet
+description: Permet de trouver la direction vers un objet proche.
+school: Divination
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une branche fourchue"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Druide
-    - Magicien
-    - Ombrelame
-    - Paladin
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Druide
+  - Magicien
+  - Ombrelame
+  - Paladin
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une branche fourchue
 ---
 Décrivez ou nommez un objet qui vous est familier. Vous sentez dans quelle direction il se trouve, à condition qu'il soit dans un rayon de 300 mètres. S'il se déplace, vous savez dans quelle direction.
 

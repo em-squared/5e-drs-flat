@@ -1,46 +1,42 @@
 ---
-title: "Dragon bleu, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Loyal Mauvais"
-challenge: "23"
+title: 'Dragon bleu, vénérable'
+type: Dragon
+size: Gig
+alignment: Loyal Mauvais
+challenge: '23'
 hitDiceCount: 26
-abilityScores:
-  for: 29
-  dex: 10
-  con: 27
-  int: 18
-  sag: 17
-  cha: 21
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 12
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  burrow: 12
-  fly: 24
-senses: 
-  blindsight: 18
-  darkvision: 36
-damageTypeImmunities: 
-  - "foudre"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - foudre
+languages:
+  - commun
+  - draconique
 environments:
   - Désert chaud
   - Littoral
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 84
+abilityScores_for: 29
+abilityScores_dex: 10
+abilityScores_con: 27
+abilityScores_int: 18
+abilityScores_sag: 17
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 12
+movement_walk: 12
+movement_burrow: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Le dragon peut remplacer l'échec d'un de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) par une réussite.

@@ -1,22 +1,20 @@
 ---
-title: "Caresse du vampire"
-description: "Attaque de contact qui inflige 3d6 dégâts et soigne le PJ de la moitié."
-school: "Nécromancie"
+title: Caresse du vampire
+description: Attaque de contact qui inflige 3d6 dégâts et soigne le PJ de la moitié.
+school: Nécromancie
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Le simple contact de votre main enveloppée d'ombres peut siphonner la force vitale d'autrui pour soigner vos propres plaies. Faites une attaque de sort au corps-à-corps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous touchez, elle subit 3d6 dégâts nécrotiques et vous récupérez un total de points de vie égal à la moitié des dégâts infligés. Vous pouvez dépenser votre action à chacun de vos tours pour répéter cette attaque jusqu'à la fin du sort.
 

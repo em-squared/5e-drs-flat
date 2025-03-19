@@ -1,46 +1,42 @@
 ---
-title: "Bouraq"
-type: "Céleste"
-size: "M"
-alignment: "Loyal Bon"
-challenge: "11"
+title: Bouraq
+type: Céleste
+size: M
+alignment: Loyal Bon
+challenge: '11'
 hitDiceCount: 16
-abilityScores:
-  for: 15
-  dex: 18
-  con: 20
-  int: 18
-  sag: 18
-  cha: 20
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "custom"
-  value: "17"
+  - con
+  - sag
+  - cha
 skills:
-  - name: "histoire"
-  - name: "religion"
-movement:
-  walk: 18
-  fly: 27
-senses:
-  truesight: 36
+  - name: histoire
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "radiant"
-  - "c-p-t-non-magique"
+  - radiant
+  - c-p-t-non-magique
 languages:
-  - "céleste"
-  - "commun"
-  - "primordial"
+  - céleste
+  - commun
+  - primordial
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 50
+abilityScores_for: 15
+abilityScores_dex: 18
+abilityScores_con: 20
+abilityScores_int: 18
+abilityScores_sag: 18
+abilityScores_cha: 20
+ac_armorType: custom
+ac_value: '17'
+movement_walk: 18
+movement_fly: 27
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes angéliques**_. Les attaques d'un bouraq sont magiques. Quand un bouraq réussit une attaque avec ses sabots, il inflige 4d8 dégâts radiants supplémentaires (déjà intégrés dans les dégâts de l'attaque).

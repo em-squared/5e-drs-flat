@@ -1,23 +1,21 @@
 ---
-title: "Globe d'invulnérabilité"
-description: "Barrière qui empêche les sorts de niveau 5 ou moins de la traverser."
-school: "Abjuration"
+title: Globe d'invulnérabilité
+description: Barrière qui empêche les sorts de niveau 5 ou moins de la traverser.
+school: Abjuration
 level: 6
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle (3 mètres)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une perle de verre ou de cristal qui explose à la fin du sort"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle (3 mètres)
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une perle de verre ou de cristal qui explose à la fin du sort
 ---
 Une barrière immobile scintille légèrement dans un rayon de 3 mètres autour de vous et persiste pendant toute la durée du sort.
 

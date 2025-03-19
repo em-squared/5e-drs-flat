@@ -1,23 +1,21 @@
 ---
-title: "Croissance végétale"
-description: "Rend la végétation plus touffue ou plus luxuriante."
-school: "Transmutation"
+title: Croissance végétale
+description: Rend la végétation plus touffue ou plus luxuriante.
+school: Transmutation
 level: 3
 concentration: false
-casting_time: "1 action ou 8 heures"
-duration: "instantanée"
-range: "45 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action ou 8 heures
+duration: instantanée
+range: 45 mètres
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Ce sort décuple la vitalité des plantes d'une zone donnée. Le sort a deux modes d'utilisation, l'un apportant des bénéfices immédiats, l'autre sur le long terme.
 

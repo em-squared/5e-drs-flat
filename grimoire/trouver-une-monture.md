@@ -1,22 +1,20 @@
 ---
-title: "Trouver une monture"
-description: "Invoque une fidèle monture hors du commun."
-school: "Invocation"
+title: Trouver une monture
+description: Invoque une fidèle monture hors du commun.
+school: Invocation
 level: 2
 concentration: false
-casting_time: "10 minutes"
-duration: "instantanée"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 10 minutes
+duration: instantanée
+range: 9 mètres
 ritual: false
 classes:
-    - Paladin
-
-source: "Manuel des règles"
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous invoquez un esprit qui prend la forme d'une monture dotée d'une intelligence, d'une puissance et d'une loyauté hors du commun, et créez un lien durable avec lui. La monture apparaît dans un emplacement inoccupé à portée et prend l'apparence de votre choix : un cheval de guerre, un poney, un chameau, un élan ou un mastiff. (Votre MJ peut autoriser d'autres formes animales.) La monture possède le profil technique de la forme choisie mais, au lieu d'être de type normal, elle est céleste, féerique ou fiélone (à vous de choisir). De plus, si elle a d'ordinaire une Intelligence de 5 ou moins, cette caractéristique passe à 6 et elle comprend un langage de votre choix que vous maîtrisez.
 

@@ -1,26 +1,26 @@
 ---
-title: "Clairvoyance"
-description: "Le PJ peut voir ou entendre par un organe sensoriel invisible à 1,5 kilomètre."
-school: "Divination"
+title: Clairvoyance
+description: 'Le PJ peut voir ou entendre par un organe sensoriel invisible à 1,5 kilomètre.'
+school: Divination
 level: 3
 concentration: true
-casting_time: "10 minutes"
-duration: "jusqu'à 10 minutes"
-range: "1,5 kilomètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de pierreries pour l'ouïe, soit un œil de verre pour la vue"
+casting_time: 10 minutes
+duration: jusqu'à 10 minutes
+range: '1,5 kilomètres'
 ritual: false
 classes:
-    - Barde
-    - Clerc
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Clerc
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un focaliseur d'une valeur minimale de 100 po, soit une corne incrustée de
+  pierreries pour l'ouïe, soit un œil de verre pour la vue
 ---
 Vous créez un organe sensoriel [_invisible_](/gerer-la-sante-du-personnage/#invisible) à portée dans un endroit qui vous est familier (un endroit où vous vous êtes déjà rendu ou que vous avez déjà vu) ou dans un endroit évident qui ne vous est pas familier (comme de l'autre côté d'une porte, derrière un angle de mur, dans un bosquet...). L'organe reste là pendant toute la durée du sort. Il est impossible de l'attaquer ou d'interagir avec.
 

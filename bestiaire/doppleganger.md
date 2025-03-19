@@ -1,37 +1,33 @@
 ---
-title: "Doppleganger"
-type: "Créature monstrueuse"
-subtype: "Métamorphe"
-size: "M"
-alignment: "Neutre"
-challenge: "3"
+title: Doppleganger
+type: Créature monstrueuse
+subtype: Métamorphe
+size: M
+alignment: Neutre
+challenge: '3'
 hitDiceCount: 8
-abilityScores:
-  for: 11
-  dex: 18
-  con: 14
-  int: 11
-  sag: 12
-  cha: 14
-ac: 
-  armorType: null
-skills: 
-  - name: "perspicacite"
-  - name: "supercherie"
+skills:
+  - name: perspicacite
+  - name: supercherie
     isExpert: true
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-languages: 
-  - "commun"
+conditionImmunities:
+  - charme
+languages:
+  - commun
 environments:
   - Bois / Forêt
   - Jungle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 76
+abilityScores_for: 11
+abilityScores_dex: 18
+abilityScores_con: 14
+abilityScores_int: 11
+abilityScores_sag: 12
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Attaque surprise**_. Si le doppleganger surprend une créature et réussit une attaque contre elle lors du premier round de combat, l'attaque lui inflige 10 (3d6) dégâts supplémentaires.

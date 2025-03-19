@@ -1,45 +1,41 @@
 ---
-title: "Golem de sel"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "10"
+title: Golem de sel
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '10'
 hitDiceCount: 11
-abilityScores:
-  for: 20
-  dex: 9
-  con: 20
-  int: 3
-  sag: 11
-  cha: 1
-ac:
-  armorType: "armure naturelle"
-  value: 8
 skills:
-  - name: "athletisme"
-movement:
-  walk: 6
-senses:
-  darkvision: 36
+  - name: athletisme
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "feu"
-  - "poison"
-  - "psychique"
-  - "c-p-t-non-adamantium"
+  - feu
+  - poison
+  - psychique
+  - c-p-t-non-adamantium
 languages:
-  - "comprend les langues de son créateur mais ne peut pas parler"
+  - comprend les langues de son créateur mais ne peut pas parler
 environments:
   - Désert chaud
   - Mer / Océan
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 213
+abilityScores_for: 20
+abilityScores_dex: 9
+abilityScores_con: 20
+abilityScores_int: 3
+abilityScores_sag: 11
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 6
+senses_darkvision: 36
 ---
 ## Capacités
 _**Nuage de sels aveuglants**_. À chaque fois que le golem est touché au combat, des milliers de minuscules cristaux de sel jaillissent de son corps. Toutes les créatures dans un rayon de 1,50 mètre doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 17 ou être [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle) pendant 1d3 rounds.

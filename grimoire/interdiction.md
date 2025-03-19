@@ -1,22 +1,22 @@
 ---
-title: "Interdiction"
-description: "Interdit la téléportation dans une zone et blesse un type de créature."
-school: "Abjuration"
+title: Interdiction
+description: Interdit la téléportation dans une zone et blesse un type de créature.
+school: Abjuration
 level: 6
 concentration: false
-casting_time: "10 minutes"
-duration: "1 jour"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur minimale de 1000 po"
+casting_time: 10 minutes
+duration: 1 jour
+range: contact
 ritual: true
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un peu d'eau bénite, un encens rare et un rubis en poudre d'une valeur
+  minimale de 1000 po
 ---
 Vous créez un sceau empêchant les déplacements magiques dans une zone de 60 mètres de côté au sol et d'une hauteur de 9 mètres. Pendant toute la durée du sort, les créatures ne peuvent pas se téléporter dans la zone ni y entrer via un portail comme celui issu du sort du même nom. Le sort protège la zone contre tous les modes de déplacement planaire et empêche donc les créatures d'y entrer en passant par le plan astral, le plan éthéré, la féerie, le plan de l'ombre ou en utilisant un sort de changement de plan.
 

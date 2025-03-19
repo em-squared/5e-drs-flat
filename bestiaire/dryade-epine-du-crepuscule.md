@@ -1,44 +1,40 @@
 ---
-title: "Dryade épine-du-crépuscule"
-type: "Fée"
-size: "M"
-alignment: "Chaotique"
-challenge: "3"
+title: Dryade épine-du-crépuscule
+type: Fée
+size: M
+alignment: Chaotique
+challenge: '3'
 hitDiceCount: 14
-abilityScores:
-  for: 10
-  dex: 20
-  con: 13
-  int: 14
-  sag: 15
-  cha: 24
 savingThrows:
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - con
+  - sag
 skills:
-  - name: "discretion"
-  - name: "dressage"
-  - name: "nature"
+  - name: discretion
+  - name: dressage
+  - name: nature
     isExpert: true
-  - name: "perception"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: perception
+  - name: persuasion
+  - name: supercherie
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
-  - "umbral"
+  - commun
+  - elfique
+  - sylvestre
+  - umbral
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 159
+abilityScores_for: 10
+abilityScores_dex: 20
+abilityScores_con: 13
+abilityScores_int: 14
+abilityScores_sag: 15
+abilityScores_cha: 24
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée de la dryade est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :

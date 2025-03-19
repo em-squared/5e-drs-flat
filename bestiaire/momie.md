@@ -1,46 +1,42 @@
 ---
-title: "Momie"
-type: "Mort-vivant"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "3"
+title: Momie
+type: Mort-vivant
+size: M
+alignment: Loyal Mauvais
+challenge: '3'
 hitDiceCount: 9
-abilityScores:
-  for: 16
-  dex: 8
-  con: 15
-  int: 6
-  sag: 10
-  cha: 12
 savingThrows:
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 2
-movement:
-  walk: 6
-senses:
-  darkvision: 18
+  - sag
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "celles qu'elle connaissait de son vivant"
+  - celles qu'elle connaissait de son vivant
 dungeonTypes:
   - Donjon maçonné
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 225
+abilityScores_for: 16
+abilityScores_dex: 8
+abilityScores_con: 15
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. La momie peut utiliser son _Regard effroyable_ et effectuer une attaque avec son poing en décomposition.

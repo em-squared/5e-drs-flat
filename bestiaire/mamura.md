@@ -1,48 +1,44 @@
 ---
-title: "Mamura"
-type: "Aberration"
-subtype: "fée"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Mamura
+type: Aberration
+subtype: fée
+size: P
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 8
-  dex: 18
-  con: 19
-  int: 17
-  sag: 11
-  cha: 16
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "discretion"
-  - name: "perception"
+  - name: acrobaties
+  - name: discretion
+  - name: perception
     isExpert: true
-movement:
-  walk: 6
-  fly: 9
-senses:
-  darkvision: 18
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "elfique"
-  - "gobelin"
-  - "sylvestre"
-  - "langue du Vide"
+  - commun
+  - elfique
+  - gobelin
+  - sylvestre
+  - langue du Vide
 environments:
   - Mangrove / Marécage
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 281
+abilityScores_for: 8
+abilityScores_dex: 18
+abilityScores_con: 19
+abilityScores_int: 17
+abilityScores_sag: 11
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 6
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Vision à 360°**_. Un assaillant n'est jamais [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur une attaque et n'inflige pas de dégâts supplémentaire à la mamura s'il a des alliés proches.

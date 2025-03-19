@@ -1,39 +1,35 @@
 ---
-title: "Squelette de troll des lianes"
-type: "Plante"
-size: "G"
-alignment: "non-alignée"
-challenge: "9"
+title: Squelette de troll des lianes
+type: Plante
+size: G
+alignment: non-alignée
+challenge: '9'
 hitDiceCount: 14
-abilityScores:
-  for: 20
-  dex: 12
-  con: 16
-  int: 6
-  sag: 8
-  cha: 5
-customSavingThrows: "Con +12"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+customSavingThrows: Con +12
 conditionImmunities:
-  - "assourdi"
-  - "empoisonne"
-  - "epuise"
+  - assourdi
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "—"
+  - —
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 371
+abilityScores_for: 20
+abilityScores_dex: 12
+abilityScores_con: 16
+abilityScores_int: 6
+abilityScores_sag: 8
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Régénération**_. Le squelette de troll des lianes récupère 5 points de vie au début de son tour s'il se trouve à 3 mètres ou moins des lianes de la dryade épine-du-crépuscule et qu'il n'a pas reçu de dégâts d'acide ou de feu depuis son tour précédent. Il meurt seulement s'il commence son tour avec 0 point de vie et ne se régénère pas, ou si la dryade épine-du-crépuscule qui l'a créé meurt, ou si quelqu'un détruit son cœur dans l'arbre de la dryade ou du sylvanien.

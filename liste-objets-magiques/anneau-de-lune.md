@@ -1,10 +1,10 @@
 ---
-title: "Anneau de lune"
-type: "Anneau"
+title: Anneau de lune
+type: Anneau
 subtype: false
-rarity: "Artefact"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Artefact
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Cet anneau en pierre grisâtre, d'apparence très banale, fut forgé à partir d'une pierre tombée du ciel. Le forgeron fut maudit dès qu'il passa l'anneau : à chaque pleine lune, il se transformait en créature mi-homme, mi-loup. Il devint le premier loup-garou et fut à l'origine de la dissémination de la lycanthropie sur le monde.
 

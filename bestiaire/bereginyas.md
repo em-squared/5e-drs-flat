@@ -1,41 +1,37 @@
 ---
-title: "Béreginyas"
-type: "Fée"
-size: "TP"
-alignment: "Neutre Mauvais"
-challenge: "4"
+title: Béreginyas
+type: Fée
+size: TP
+alignment: Neutre Mauvais
+challenge: '4'
 hitDiceCount: 20
-abilityScores:
-  for: 14
-  dex: 20
-  con: 12
-  int: 13
-  sag: 12
-  cha: 11
-savingThrows: 
-  - "dex"
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
+savingThrows:
+  - dex
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement: 
-  walk: 6
-  fly: 18
-senses: 
-  darkvision: 18
-damageTypeImmunities: 
-  - "contondant"
-languages: 
-  - "commun"
-  - "elfique"
-  - "sylvestre"
+damageTypeImmunities:
+  - contondant
+languages:
+  - commun
+  - elfique
+  - sylvestre
 environments:
   - Montagnes
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 40
+abilityScores_for: 14
+abilityScores_dex: 20
+abilityScores_con: 12
+abilityScores_int: 13
+abilityScores_sag: 12
+abilityScores_cha: 11
+ac_armorType: null
+movement_walk: 6
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Actions
 _**Attaques multiples**_. Une béreginyas porte deux attaques de _griffe_. Si les deux attaques touchent la même cible, celle-ci se trouve [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) (évasion DD 12) et la béreginyas utilise immédiatement son attaque _étouffer_ à l'aide d'une action bonus.

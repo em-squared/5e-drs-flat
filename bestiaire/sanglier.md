@@ -1,31 +1,28 @@
 ---
-title: "Sanglier"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.25"
+title: Sanglier
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 2
-abilityScores:
-  for: 13
-  dex: 11
-  con: 12
-  int: 2
-  sag: 9
-  cha: 5
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-movement: 
-  walk: 12
-senses: 
-languages: 
-  - ""
+senses: null
+languages:
+  - ''
 environments:
   - Bois / Forêt
   - Collines / Vallées
   - Jungle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 321
+abilityScores_for: 13
+abilityScores_dex: 11
+abilityScores_con: 12
+abilityScores_int: 2
+abilityScores_sag: 9
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 12
 ---
 ## Capacités
 _**Charge**_. Si le sanglier se déplace de 6 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défense lors du même tour, celle-ci subit 3 (1d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 11 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

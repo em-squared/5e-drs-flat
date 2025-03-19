@@ -1,50 +1,46 @@
 ---
-title: "Nuée de danseflammes"
+title: Nuée de danseflammes
 isSwarm: true
-swarmSize: "TP"
-type: "Élémentaire"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "7"
+swarmSize: TP
+type: Élémentaire
+size: M
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 12
-abilityScores:
-  for: 10
-  dex: 20
-  con: 16
-  int: 6
-  sag: 10
-  cha: 7
-ac:
-  armorType: null
-movement:
-  walk: 9
-  fly: 9
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "etourdi"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - entrave
+  - epuise
+  - etourdi
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "contondant"
-  - "perforant"
-  - "tranchant"
+  - contondant
+  - perforant
+  - tranchant
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "igné"
+  - igné
 environments:
   - Plans élémentaires
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 326
+abilityScores_for: 10
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 7
+ac_armorType: null
+movement_walk: 9
+movement_fly: 9
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Corps de feu**_. Si une créature touche la nuée ou réussit une attaque de corps à corps contre elle alors qu'elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts de feu. De plus, la première fois qu'une nuée entre dans l'emplacement d'une créature lors d'un tour, cette créature subit 5 (1d10) dégâts de feu et s'enflamme. Tant que personne n'a utilisé une action pour éteindre le feu, la créature subit 5 (1d10) dégâts de feu au début de chacun de ses tours.

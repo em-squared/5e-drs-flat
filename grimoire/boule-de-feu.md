@@ -1,23 +1,21 @@
 ---
-title: "Boule de feu"
-description: "Explosion de 6 mètres de rayon qui inflige 8d6 dégâts de feu."
-school: "Évocation"
+title: Boule de feu
+description: Explosion de 6 mètres de rayon qui inflige 8d6 dégâts de feu.
+school: Évocation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "45 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une petite boule de guano de chauve-souris et du soufre"
+casting_time: 1 action
+duration: instantanée
+range: 45 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une petite boule de guano de chauve-souris et du soufre
 ---
 Une traînée luisante part de votre doigt tendu et file vers un point de votre choix situé à portée et dans votre champ de vision, où elle explose dans une gerbe de flammes grondantes. Chaque créature située dans une sphère de 6 mètres de rayon centrée sur ce point doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 8d6 dégâts de feu, les autres la moitié seulement.
 

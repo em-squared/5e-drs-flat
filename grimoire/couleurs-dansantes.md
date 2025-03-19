@@ -1,23 +1,21 @@
 ---
-title: "Couleurs dansantes"
-description: "Cône de lumières colorées qui <em>aveuglent</em> les cibles."
-school: "Illusion"
+title: Couleurs dansantes
+description: Cône de lumières colorées qui <em>aveuglent</em> les cibles.
+school: Illusion
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 round"
-range: "personnelle (cône de 4,50 mètres)"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une poignée de poudre ou de sable, colorée en rouge, jaune et bleu"
+casting_time: 1 action
+duration: 1 round
+range: 'personnelle (cône de 4,50 mètres)'
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une poignée de poudre ou de sable, colorée en rouge, jaune et bleu'
 ---
 Un éventail de lumières colorées éblouissantes jaillit de votre main. Lancez 6d10. Le total représente le nombre de points de vie de créatures que le sort affecte. Les créatures situées dans un cône de 4,50 mètres, prenant votre personne comme point d'origine, sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [_inconscientes_](/gerer-la-sante-du-personnage/#inconscient) et les créatures [_aveuglées_](/gerer-la-sante-du-personnage/#aveugle).
 

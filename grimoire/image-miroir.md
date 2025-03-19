@@ -1,25 +1,25 @@
 ---
-title: "Image miroir"
-description: "Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa place."
-school: "Illusion"
+title: Image miroir
+description: >-
+  Crée trois répliques illusoires du PJ qui peuvent subir les attaques à sa
+  place.
+school: Illusion
 level: 2
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Trois répliques illusoires de votre personne apparaissent dans votre emplacement. Jusqu'à la fin du sort, ces répliques se déplacent en même temps que vous et imitent toutes vos actions, changeant de position de manière à ce qu'il soit impossible de savoir quelles versions de vous sont des images et quelle version est réelle. Vous pouvez utiliser une action pour révoquer les répliques illusoires.
 

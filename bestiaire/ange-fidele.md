@@ -1,52 +1,48 @@
 ---
-title: "Ange fidèle"
-type: "Céleste"
-size: "M"
-alignment: "Loyal Bon"
-challenge: "5"
+title: Ange fidèle
+type: Céleste
+size: M
+alignment: Loyal Bon
+challenge: '5'
 hitDiceCount: 16
-abilityScores:
-  for: 20
-  dex: 18
-  con: 14
-  int: 14
-  sag: 16
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 12
-  special: "vol 12 m (forme d'ange), ou 3 m, vol 24 m (forme d'aigle)"
-senses:
-  darkvision: 18
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "petrifie"
+  - charme
+  - empoisonne
+  - petrifie
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "poison"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - poison
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "acide"
-  - "froid"
+  - acide
+  - froid
 languages:
-  - "commun"
-  - "céleste"
-  - "infernal"
-source: "Livre des monstres"
+  - commun
+  - céleste
+  - infernal
+source: Livre des monstres
 source_page: 20
+abilityScores_for: 20
+abilityScores_dex: 18
+abilityScores_con: 14
+abilityScores_int: 14
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 12
+movement_special: 'vol 12 m (forme d''ange), ou 3 m, vol 24 m (forme d''aigle)'
+senses_darkvision: 18
 ---
 ## Capacités
 _**Métamorphe**_. Un ange a le choix entre plusieurs formes : une forme de céleste ailé, sa forme mortelle d'origine et celle d'un aigle de taille Moyenne. Ses statistiques sont les mêmes, quelle que soit la forme, à l'exception des attaques qu'il peut porter sous forme d'aigle.

@@ -1,53 +1,49 @@
 ---
-title: "Naïna"
-type: "Dragon"
-subtype: "métamorphe"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "11"
+title: Naïna
+type: Dragon
+subtype: métamorphe
+size: G
+alignment: Loyal Mauvais
+challenge: '11'
 hitDiceCount: 22
-abilityScores:
-  for: 20
-  dex: 16
-  con: 21
-  int: 15
-  sag: 18
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "escamotage"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 12
-  fly: 36
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: escamotage
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
-  - "inconscient"
-  - "paralyse"
+  - empoisonne
+  - inconscient
+  - paralyse
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "darakhul"
-  - "draconique"
-  - "elfique"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - darakhul
+  - draconique
+  - elfique
+  - sylvestre
+source: Livre des monstres
 source_page: 315
+abilityScores_for: 20
+abilityScores_dex: 16
+abilityScores_con: 21
+abilityScores_int: 15
+abilityScores_sag: 18
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+movement_fly: 36
+senses_darkvision: 18
 ---
 ## Capacités
 _**Sentir la magie**_. La naïna perçoit la magie comme si elle était constamment sous l'effet de [_détection de la magie_](/grimoire/detection-de-la-magie/).

@@ -1,33 +1,30 @@
 ---
-title: "Grand singe"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Grand singe
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 16
-  dex: 14
-  con: 14
-  int: 6
-  sag: 12
-  cha: 7
-ac: 
-  armorType: null
-skills: 
-  - name: "athletisme"
-  - name: "perception"
-movement: 
-  walk: 9
-  climb: 9
-senses: 
-languages: 
-  - ""
+skills:
+  - name: athletisme
+  - name: perception
+senses: null
+languages:
+  - ''
 environments:
   - Jungle
   - Montagnes
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 307
+abilityScores_for: 16
+abilityScores_dex: 14
+abilityScores_con: 14
+abilityScores_int: 6
+abilityScores_sag: 12
+abilityScores_cha: 7
+ac_armorType: null
+movement_walk: 9
+movement_climb: 9
 ---
 ## Actions
 _**Attaques multiples**_. Le grand singe effectue deux attaques de poing.

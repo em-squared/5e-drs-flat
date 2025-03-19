@@ -1,22 +1,20 @@
 ---
-title: "Invoquer un céleste"
-description: "Invoque un céleste qui obéit aux ordres du PJ."
-school: "Invocation"
+title: Invoquer un céleste
+description: Invoque un céleste qui obéit aux ordres du PJ.
+school: Invocation
 level: 7
 concentration: true
-casting_time: "1 minute"
-duration: "jusqu'à 1 heure"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 minute
+duration: jusqu'à 1 heure
+range: 27 mètres
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous invoquez un céleste doté d'un indice de dangerosité inférieur ou égal à 4. Il apparaît dans une case inoccupée située à portée et dans votre champ de vision. Le céleste disparaît dès qu'il tombe à 0 point de vie ou quand le sort se termine.
 

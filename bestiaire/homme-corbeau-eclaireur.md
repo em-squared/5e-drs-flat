@@ -1,44 +1,40 @@
 ---
-title: "Homme-corbeau, éclaireur"
-type: "Humanoïde"
-subtype: "homme-corbeau"
-size: "M"
-alignment: "Neutre"
-challenge: "0.5"
+title: 'Homme-corbeau, éclaireur'
+type: Humanoïde
+subtype: homme-corbeau
+size: M
+alignment: Neutre
+challenge: '0.5'
 hitDiceCount: 6
-abilityScores:
-  for: 10
-  dex: 14
-  con: 8
-  int: 10
-  sag: 15
-  cha: 12
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure de cuir clouté"
-skills: 
-  - name: "discretion"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "supercherie"
-movement: 
-  walk: 9
-senses: 
-  darkvision: 36
-languages: 
-  - "commun"
-  - "huginn"
-  - "langage des plumes"
+  - name: supercherie
+languages:
+  - commun
+  - huginn
+  - langage des plumes
 environments:
   - Bois / Forêt
   - Collines / Vallées
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 242
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 8
+abilityScores_int: 10
+abilityScores_sag: 15
+abilityScores_cha: 12
+ac_armorType: armure de cuir clouté
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Imitation**_. Un éclaireur homme-corbeau imite la voix d'autrui à la perfection. Il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Charisme (Supercherie) impliquant une imitation sonore.

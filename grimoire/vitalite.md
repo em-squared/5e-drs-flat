@@ -1,22 +1,20 @@
 ---
-title: "Vitalité"
-description: "Jusqu'à six cibles récupèrent 1 point de vie par round."
-school: "Évocation"
+title: Vitalité
+description: Jusqu'à six cibles récupèrent 1 point de vie par round.
+school: Évocation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "9 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 1 minute
+range: 9 mètres
 ritual: false
 classes:
-    - Paladin
-
-source: "Manuel des règles"
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ de vision, récupèrent 1 point de vie par round jusqu'à la fin du sort.
 

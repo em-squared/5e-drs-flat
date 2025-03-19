@@ -1,24 +1,22 @@
 ---
-title: "Sommeil"
-description: "Rend inconscientes les cibles dans un rayon de 6 mètres."
-school: "Enchantement"
+title: Sommeil
+description: Rend inconscientes les cibles dans un rayon de 6 mètres.
+school: Enchantement
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pincée de sable fin, des pétales de rose ou un criquet"
+casting_time: 1 action
+duration: 1 minute
+range: 27 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: 'une pincée de sable fin, des pétales de rose ou un criquet'
 ---
 Ce sort plonge quelques créatures dans un sommeil magique. Lancez 5d8. Le total indique le nombre de points de vie de créatures que le sort affecte. Les créatures qui se trouvent dans un rayon de 6 mètres autour d'un point de votre choix situé à portée sont affectées dans l'ordre croissant de leur total actuel de points de vie (en ignorant les créatures [_inconscientes_](/gerer-la-sante-du-personnage/#inconscient).
 

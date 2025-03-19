@@ -1,54 +1,50 @@
 ---
-title: "Dragon de flammes, vénérable"
-type: "Dragon"
-size: "Gig"
-alignment: "Chaotique Mauvais"
-challenge: "24"
+title: 'Dragon de flammes, vénérable'
+type: Dragon
+size: Gig
+alignment: Chaotique Mauvais
+challenge: '24'
 hitDiceCount: 26
-abilityScores:
-  for: 23
-  dex: 14
-  con: 27
-  int: 19
-  sag: 16
-  cha: 22
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 10
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
+  - name: discretion
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 12
-  climb: 12
-  fly: 24
-senses:
-  blindsight: 18
-  darkvision: 36
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 damageTypeImmunities:
-  - "feu"
+  - feu
 languages:
-  - "commun"
-  - "draconique"
-  - "géant"
-  - "igné"
-  - "infernal"
-  - "orc"
+  - commun
+  - draconique
+  - géant
+  - igné
+  - infernal
+  - orc
 environments:
   - Montagnes
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 128
+abilityScores_for: 23
+abilityScores_dex: 14
+abilityScores_con: 27
+abilityScores_int: 19
+abilityScores_sag: 16
+abilityScores_cha: 22
+ac_armorType: armure naturelle
+ac_value: 10
+movement_walk: 12
+movement_climb: 12
+movement_fly: 24
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si le dragon rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

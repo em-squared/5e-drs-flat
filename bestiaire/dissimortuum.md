@@ -1,40 +1,36 @@
 ---
-title: "Dissimortuum"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Dissimortuum
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 15
-abilityScores:
-  for: 14
-  dex: 10
-  con: 16
-  int: 8
-  sag: 11
-  cha: 18
 savingThrows:
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 18
+  - con
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
+  - charme
+  - empoisonne
+  - epuise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "commun"
-source: "Livre des monstres"
+  - commun
+source: Livre des monstres
 source_page: 122
+abilityScores_for: 14
+abilityScores_dex: 10
+abilityScores_con: 16
+abilityScores_int: 8
+abilityScores_sag: 11
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Pattes d'araignée**_. Un dissimortuum peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.

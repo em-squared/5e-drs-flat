@@ -1,33 +1,29 @@
 ---
-title: "Molosse infernal"
-type: "Fiélon"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "3"
+title: Molosse infernal
+type: Fiélon
+size: M
+alignment: Loyal Mauvais
+challenge: '3'
 hitDiceCount: 7
-abilityScores:
-  for: 17
-  dex: 12
-  con: 14
-  int: 6
-  sag: 13
-  cha: 6
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-skills: 
-  - name: "perception"
+skills:
+  - name: perception
     isExpert: true
-movement: 
-  walk: 15
-senses: 
-  darkvision: 18
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "comprend l'infernal mais ne peut pas parler"
-source: "Créatures & Oppositions"
+damageTypeImmunities:
+  - feu
+languages:
+  - comprend l'infernal mais ne peut pas parler
+source: Créatures & Oppositions
 source_page: 224
+abilityScores_for: 17
+abilityScores_dex: 12
+abilityScores_con: 14
+abilityScores_int: 6
+abilityScores_sag: 13
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 15
+senses_darkvision: 18
 ---
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le molosse obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.

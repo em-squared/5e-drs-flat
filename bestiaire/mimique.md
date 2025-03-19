@@ -1,40 +1,36 @@
 ---
-title: "Mimique"
-type: "Créature monstrueuse"
-subtype: "métamorphe"
-size: "M"
-alignment: "Neutre"
-challenge: "2"
+title: Mimique
+type: Créature monstrueuse
+subtype: métamorphe
+size: M
+alignment: Neutre
+challenge: '2'
 hitDiceCount: 9
-abilityScores:
-  for: 17
-  dex: 12
-  con: 15
-  int: 5
-  sag: 13
-  cha: 8
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-movement:
-  walk: 4,50
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
+  - a-terre
 damageTypeImmunities:
-  - "acide"
+  - acide
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Caverne aménagée
   - Donjon maçonné
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 222
+abilityScores_for: 17
+abilityScores_dex: 12
+abilityScores_con: 15
+abilityScores_int: 5
+abilityScores_sag: 13
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: '4,50'
+senses_darkvision: 18
 ---
 ## Capacités
 _**Collante (forme d'objet uniquement)**_. La mimique colle à tout ce que qu'elle touche. Une créature de taille TG ou plus petite collée à la mimique se retrouve [_empoignée_](/gerer-la-sante-du-personnage/#empoigne) par la créature (évasion DD 13). Les [tests de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) effectués pour échapper à cette empoignade se font avec un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

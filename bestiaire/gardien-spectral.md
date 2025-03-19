@@ -1,53 +1,49 @@
 ---
-title: "Gardien spectral"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Gardien spectral
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 6
-  dex: 18
-  con: 18
-  int: 11
-  sag: 16
-  cha: 18
 savingThrows:
-  - "dex"
-  - "sag"
-ac:
-  armorType: null
-movement:
-  walk: 0
-  fly: 18
-  hover: true
-senses:
-  blindsight: 3
-  darkvision: 18
+  - dex
+  - sag
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "froid"
-  - "necrotique"
-  - "poison"
+  - froid
+  - necrotique
+  - poison
 languages:
-  - "comprend les langues qu'il parlait de son ,vivant mais ne peut pas parler"
-source: "Livre des monstres"
+  - 'comprend les langues qu''il parlait de son ,vivant mais ne peut pas parler'
+source: Livre des monstres
 source_page: 201
+abilityScores_for: 6
+abilityScores_dex: 18
+abilityScores_con: 18
+abilityScores_int: 11
+abilityScores_sag: 16
+abilityScores_cha: 18
+ac_armorType: null
+movement_walk: 0
+movement_fly: 18
+movement_hover: true
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 **_Déplacement intangible._** Le gardien spectral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.

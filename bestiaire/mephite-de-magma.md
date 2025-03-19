@@ -1,40 +1,36 @@
 ---
-title: "Méphite de magma"
-type: "Élémentaire"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Méphite de magma
+type: Élémentaire
+size: P
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 5
-abilityScores:
-  for: 8
-  dex: 12
-  con: 12
-  int: 7
-  sag: 10
-  cha: 10
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-movement:
-  walk: 9
-  fly: 9
-senses:
-  darkvision: 18
+  - name: discretion
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeVulnerabilities:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "ignée"
-  - "terreux"
+  - ignée
+  - terreux
 environments:
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 218
+abilityScores_for: 8
+abilityScores_dex: 12
+abilityScores_con: 12
+abilityScores_int: 7
+abilityScores_sag: 10
+abilityScores_cha: 10
+ac_armorType: null
+movement_walk: 9
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en une gerbe de lave. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 11 ; elles subissent 7 (2d6) dégâts de feu en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.

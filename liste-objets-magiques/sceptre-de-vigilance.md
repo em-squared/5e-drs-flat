@@ -1,10 +1,10 @@
 ---
-title: "Sceptre de vigilance"
-type: "Sceptre"
+title: Sceptre de vigilance
+type: Sceptre
 subtype: false
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Très rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Ce sceptre à la tête en collerette possède les propriétés suivantes.
 

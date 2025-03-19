@@ -1,22 +1,25 @@
 ---
-title: "Simulacre"
-description: "Crée un double illusoire d'une créature, indépendant mais amical envers le PJ."
-school: "Illusion"
+title: Simulacre
+description: 'Crée un double illusoire d''une créature, indépendant mais amical envers le PJ.'
+school: Illusion
 level: 7
 concentration: false
-casting_time: "12 heures"
-duration: "jusqu'à dissipation"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "de la neige ou de la glace en quantité suffisante pour faire une reproduction grandeur nature de la créature à dupliquer  ; des cheveux, des rognures d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1500 po que le sort consume, à saupoudrer sur le double"
+casting_time: 12 heures
+duration: jusqu'à dissipation
+range: contact
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  de la neige ou de la glace en quantité suffisante pour faire une reproduction
+  grandeur nature de la créature à dupliquer  ; des cheveux, des rognures
+  d'ongles ou un autre échantillon de la créature à dupliquer, à placer dans la
+  neige ou la glace, et de la poudre de rubis d'une valeur minimale de 1500 po
+  que le sort consume, à saupoudrer sur le double
 ---
 Vous façonnez un double illusoire d'une bête ou d'un humanoïde à portée pendant toute la durée de l'incantation. Le double est une créature partiellement réelle, faite de neige ou de glace, qui peut accomplir des actions et qui est affectée par les éléments extérieurs comme une créature normale. Il ressemble en tout point à l'original, mais il n'a que la moitié de son maximum de points de vie et n'a pas d'équipement lors de sa création. En dehors de cela, il utilise le profil technique de la créature qu'il représente.
 

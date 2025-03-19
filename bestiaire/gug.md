@@ -1,48 +1,44 @@
 ---
-title: "Gug"
-type: "Géant"
-size: "TG"
-alignment: "Neutre Mauvais"
-challenge: "12"
+title: Gug
+type: Géant
+size: TG
+alignment: Neutre Mauvais
+challenge: '12'
 hitDiceCount: 20
-abilityScores:
-  for: 24
-  dex: 10
-  con: 25
-  int: 10
-  sag: 8
-  cha: 14
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - for
+  - dex
+  - con
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 12
-senses:
-  darkvision: 72
+  - name: athletisme
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
-  - "epuise"
-  - "etourdi"
-  - "paralyse"
+  - empoisonne
+  - epuise
+  - etourdi
+  - paralyse
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "profond"
-  - "géant"
-  - "commun des profondeurs"
+  - profond
+  - géant
+  - commun des profondeurs
 dungeonTypes:
   - Ruines extérieures
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 232
+abilityScores_for: 24
+abilityScores_dex: 10
+abilityScores_con: 25
+abilityScores_int: 10
+abilityScores_sag: 8
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+senses_darkvision: 72
 ---
 ## Capacités
 _**Force de géant**_. Un gug peut soulever jusqu'à 2 tonnes par une action bonus.

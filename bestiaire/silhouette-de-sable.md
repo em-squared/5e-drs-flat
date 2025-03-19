@@ -1,48 +1,44 @@
 ---
-title: "Silhouette de sable"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "6"
+title: Silhouette de sable
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '6'
 hitDiceCount: 14
-abilityScores:
-  for: 18
-  dex: 12
-  con: 17
-  int: 7
-  sag: 12
-  cha: 10
-ac:
-  armorType: "armure naturelle"
-  value: 4
-movement:
-  walk: 9
-  burrow: 9
-senses:
-  darkvision: 18
-  tremorsense: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "celles qu'elle parlait de son vivant"
+  - celles qu'elle parlait de son vivant
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 366
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 17
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+movement_burrow: 9
+senses_darkvision: 18
+senses_tremorsense: 18
 ---
 ## Capacités
 _**Camouflage**_. Quand la silhouette de sable se trouve dans un environnement désertique, elle peut utiliser l'action _se cacher_, même si quelqu'un l'observe directement.

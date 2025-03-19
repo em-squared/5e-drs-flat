@@ -1,48 +1,45 @@
 ---
-title: "Hraesvelgr"
-type: "Géant"
-subtype: "Métamorphe, Titan"
-size: "TG"
-alignment: "Neutre"
-challenge: "19"
-customHP: "241 (12d12 + 105)"
-abilityScores:
-  for: 25
-  dex: 10
-  con: 20
-  int: 16
-  sag: 17
-  cha: 20
+title: Hraesvelgr
+type: Géant
+subtype: 'Métamorphe, Titan'
+size: TG
+alignment: Neutre
+challenge: '19'
+customHP: 241 (12d12 + 105)
 savingThrows:
-  - "dex"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 9
+  - dex
+  - int
+  - sag
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "perception"
-  - name: "survie"
-movement:
-  walk: 15
-  special: "(6 m, vol 36 m sous forme de roc)"
-senses:
+  - name: athletisme
+  - name: perception
+  - name: survie
+senses: null
 conditionImmunities:
-  - "epuise"
+  - epuise
 damageTypeResistances:
-  - "foudre"
-  - "tonnerre"
+  - foudre
+  - tonnerre
 damageTypeImmunities:
-  - "froid"
-  - "c-p-t-non-magique"
+  - froid
+  - c-p-t-non-magique
 languages:
-  - "aérien"
-  - "commun"
-  - "géant (incapable de parler sous forme de roc)"
-source: "Livre des monstres"
+  - aérien
+  - commun
+  - géant (incapable de parler sous forme de roc)
+source: Livre des monstres
 source_page: 204
+abilityScores_for: 25
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 16
+abilityScores_sag: 17
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 9
+movement_walk: 15
+movement_special: '(6 m, vol 36 m sous forme de roc)'
 ---
 ## Capacités
 _**Incantation innée**_. Hraesvelgr utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 19). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles ou somatiques :

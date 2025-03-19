@@ -1,37 +1,34 @@
 ---
-title: "Loup arctique"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "3"
+title: Loup arctique
+type: Créature monstrueuse
+size: G
+alignment: Neutre Mauvais
+challenge: '3'
 hitDiceCount: 10
-abilityScores:
-  for: 18
-  dex: 13
-  con: 14
-  int: 7
-  sag: 12
-  cha: 8
-ac: 
-  armorType: "armure naturelle"
-  value: 2
-skills: 
-  - name: "discretion"
-  - name: "perception"
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 15
-senses: 
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "géant"
-  - "loup arctique"
+senses: null
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - géant
+  - loup arctique
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 311
+abilityScores_for: 18
+abilityScores_dex: 13
+abilityScores_con: 14
+abilityScores_int: 7
+abilityScores_sag: 12
+abilityScores_cha: 8
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 15
 ---
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le loup obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.

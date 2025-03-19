@@ -1,47 +1,43 @@
 ---
-title: "Élémentaire de l'air"
-type: "Élémentaire"
-size: "G"
-alignment: "Neutre"
-challenge: "5"
+title: Élémentaire de l'air
+type: Élémentaire
+size: G
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 14
-  dex: 20
-  con: 14
-  int: 6
-  sag: 10
-  cha: 6
-ac:
-  armorType: null
-movement:
-  walk: 0
-  fly: 27
-  hover: true
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "a-terre"
-  - "empoigne"
-  - "empoisonne"
-  - "entrave"
-  - "epuise"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
+  - a-terre
+  - empoigne
+  - empoisonne
+  - entrave
+  - epuise
+  - inconscient
+  - paralyse
+  - petrifie
 damageTypeResistances:
-  - "foudre"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - foudre
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "aérien"
+  - aérien
 environments:
   - Montagnes
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 134
+abilityScores_for: 14
+abilityScores_dex: 20
+abilityScores_con: 14
+abilityScores_int: 6
+abilityScores_sag: 10
+abilityScores_cha: 6
+ac_armorType: null
+movement_walk: 0
+movement_fly: 27
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Corps d'air**_. L'élémentaire peut entrer dans l'emplacement occupé par une créature hostile et s'y arrêter. Il peut traverser un interstice d'une largeur minimale de 2 à 3 centimètres sans devoir se faufiler.

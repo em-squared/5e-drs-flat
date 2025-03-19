@@ -1,47 +1,43 @@
 ---
-title: "Nuée de chauve-souris"
+title: Nuée de chauve-souris
 isSwarm: true
-swarmSize: "TP"
-type: "Bête"
-size: "M"
-alignment: "non-alignée"
-challenge: "0.25"
+swarmSize: TP
+type: Bête
+size: M
+alignment: non-alignée
+challenge: '0.25'
 hitDiceCount: 5
-abilityScores:
-  for: 5
-  dex: 15
-  con: 10
-  int: 2
-  sag: 12
-  cha: 4
-ac: 
-  armorType: null
-movement: 
-  walk: 0
-  fly: 9
-senses: 
-  blindsight: 18
-conditionImmunities: 
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "entrave"
-  - "etourdi"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeResistances: 
-  - "contondant"
-  - "perforant"
-  - "tranchant"
-languages: 
-  - ""
+conditionImmunities:
+  - a-terre
+  - charme
+  - empoigne
+  - entrave
+  - etourdi
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeResistances:
+  - contondant
+  - perforant
+  - tranchant
+languages:
+  - ''
 dungeonTypes:
   - Caverne aménagée
   - Caverne naturelle
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 313
+abilityScores_for: 5
+abilityScores_dex: 15
+abilityScores_con: 10
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 4
+ac_armorType: null
+movement_walk: 0
+movement_fly: 9
+senses_blindsight: 18
 ---
 ## Capacités
 _**Écholocalisation**_. La nuée ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).

@@ -1,33 +1,30 @@
 ---
-title: "Tyrannosaure"
-type: "Bête"
-subtype: "Dinosaure"
-size: "TG"
-alignment: "non-alignée"
-challenge: "8"
+title: Tyrannosaure
+type: Bête
+subtype: Dinosaure
+size: TG
+alignment: non-alignée
+challenge: '8'
 hitDiceCount: 13
-abilityScores:
-  for: 25
-  dex: 10
-  con: 19
-  int: 2
-  sag: 12
-  cha: 9
-ac: 
-  armorType: "armure naturelle"
-  value: 3
-skills: 
-  - name: "perception"
-movement: 
-  walk: 15
-senses: 
-languages: 
-  - "—"
+skills:
+  - name: perception
+senses: null
+languages:
+  - —
 environments:
   - Bois / Forêt
   - Jungle
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 75
+abilityScores_for: 25
+abilityScores_dex: 10
+abilityScores_con: 19
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 15
 ---
 ## Actions
 _**Attaques multiples**_. Le tyrannosaure effectue deux attaques : une avec sa morsure et une avec sa queue. Il ne peut pas effectuer ces deux attaques contre la même cible.

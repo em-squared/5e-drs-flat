@@ -1,31 +1,27 @@
 ---
-title: "Chiot mastodonte"
-type: "Fée"
-subtype: "Métamorphe"
-size: "TG"
-alignment: "Chaotique Neutre"
-challenge: "5"
+title: Chiot mastodonte
+type: Fée
+subtype: Métamorphe
+size: TG
+alignment: Chaotique Neutre
+challenge: '5'
 hitDiceCount: 9
-abilityScores:
-  for: 21
-  dex: 10
-  con: 18
-  int: 7
-  sag: 14
-  cha: 9
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 12
-senses:
-  custom: "vision réduite 9 m"
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "—"
-source: "Livre des monstres"
+  - —
+source: Livre des monstres
 source_page: 61
+abilityScores_for: 21
+abilityScores_dex: 10
+abilityScores_con: 18
+abilityScores_int: 7
+abilityScores_sag: 14
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+senses_custom: vision réduite 9 m
 ---
 ## Capacités
 _**État calme**_. Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. **Taille** Petite ; **PV** 9 (6d6 – 12) ; **Vitesse** 6 m ; **FOR** 8 (–1) ; **CON** 6 (–2) ; **Langues** commun, sylvestre

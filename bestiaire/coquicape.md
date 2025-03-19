@@ -1,36 +1,32 @@
 ---
-title: "Coquicape"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: Coquicape
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 10
-abilityScores:
-  for: 17
-  dex: 15
-  con: 16
-  int: 13
-  sag: 9
-  cha: 7
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-  swim: 6
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "inconscient"
+  - charme
+  - inconscient
 languages:
-  - "géant"
-  - "sylvestre"
-source: "Livre des monstres"
+  - géant
+  - sylvestre
+source: Livre des monstres
 source_page: 68
+abilityScores_for: 17
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 13
+abilityScores_sag: 9
+abilityScores_cha: 7
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. Le coquicape peut lancer les sorts suivants de manière innée, sans composantes :

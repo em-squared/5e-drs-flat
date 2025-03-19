@@ -1,61 +1,57 @@
 ---
-title: "Akyishigal"
-type: "Fiélon"
-subtype: "Démon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "12"
+title: Akyishigal
+type: Fiélon
+subtype: Démon
+size: G
+alignment: Chaotique Mauvais
+challenge: '12'
 hitDiceCount: 12
-abilityScores:
-  for: 21
-  dex: 17
-  con: 22
-  int: 19
-  sag: 14
-  cha: 24
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - for
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
+  - name: acrobaties
     isExpert: true
-  - name: "athletisme"
-  - name: "discretion"
+  - name: athletisme
+  - name: discretion
     isExpert: true
-  - name: "perception"
-movement:
-  walk: 12
-  burrow: 6
-  climb: 12
-  fly: 12
-senses:
-  darkvision: 36
-  truesight: 18
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "foudre"
-  - "froid"
-  - "poison"
+  - foudre
+  - froid
+  - poison
 languages:
-  - "abyssal"
-  - "commun"
-  - "draconique"
-  - "elfe"
-  - "infernal"
+  - abyssal
+  - commun
+  - draconique
+  - elfe
+  - infernal
 telepathy: 18
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 84
+abilityScores_for: 21
+abilityScores_dex: 17
+abilityScores_con: 22
+abilityScores_int: 19
+abilityScores_sag: 14
+abilityScores_cha: 24
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+movement_burrow: 6
+movement_climb: 12
+movement_fly: 12
+senses_darkvision: 36
+senses_truesight: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'Akyishigal est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

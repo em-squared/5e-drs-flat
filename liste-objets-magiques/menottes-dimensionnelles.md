@@ -1,10 +1,10 @@
 ---
-title: "Menottes dimensionnelles"
-type: "Objet merveilleux"
+title: Menottes dimensionnelles
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Vous pouvez utiliser une action pour menotter une créature [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) avec cet objet. Les menottes s'ajustent aux poignets des créatures de taille P à G. En plus de servir d'entraves traditionnelles, elles empêchent la créature attachée d'utiliser la moindre méthode de déplacement extradimensionnel, y compris la téléportation et les voyages vers d'autres plans d'existence. En revanche, elles n'empêchent pas leur prisonnier de traverser un portail interdimensionnel.
 

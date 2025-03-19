@@ -1,48 +1,44 @@
 ---
-title: "Urochar (Guetteur étrangleur)"
-type: "Aberration"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "17"
+title: Urochar (Guetteur étrangleur)
+type: Aberration
+size: TG
+alignment: Chaotique Mauvais
+challenge: '17'
 hitDiceCount: 19
-abilityScores:
-  for: 24
-  dex: 15
-  con: 24
-  int: 14
-  sag: 14
-  cha: 20
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - dex
+  - con
+  - sag
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 12
-  climb: 6
-senses:
-  truesight: 36
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "terrorise"
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "froid"
-  - "c-p-t-non-argent"
+  - foudre
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "tonnerre"
+  - tonnerre
 languages:
-  - "comprend le darakhul et la langue du Vide"
+  - comprend le darakhul et la langue du Vide
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 391
+abilityScores_for: 24
+abilityScores_dex: 15
+abilityScores_con: 24
+abilityScores_int: 14
+abilityScores_sag: 14
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 12
+movement_climb: 6
+senses_truesight: 36
 ---
 ## Capacités
 _**Spasmes d'agonie**_. Quand un guetteur étrangleur meurt, il libère toute la peur qu'il a consommée au cours de sa vie en une seule vague de terreur à déchirer l'âme. Toutes les créatures dans un rayon de 18 mètres doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 19. Celles qui échouent sont [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise). Une créature effrayée subit 13 (2d12) dégâts psychiques au début de chacun de ses tours à cause de l'effroi accumulé au cours des siècles. Elle refait le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.

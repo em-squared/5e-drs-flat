@@ -1,48 +1,44 @@
 ---
-title: "Diable barbelé"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "5"
+title: Diable barbelé
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '5'
 hitDiceCount: 13
-abilityScores:
-  for: 16
-  dex: 17
-  con: 18
-  int: 12
-  sag: 14
-  cha: 14
 savingThrows:
-  - "for"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - for
+  - con
+  - sag
+  - cha
 skills:
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 36
+  - name: perspicacite
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "infernal"
+  - infernal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 63
+abilityScores_for: 16
+abilityScores_dex: 17
+abilityScores_con: 18
+abilityScores_int: 12
+abilityScores_sag: 14
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Peau barbelée**_. Au début de chacun de ses tours, le diable barbelé inflige 5 (1d10) dégâts perforants aux créatures qui l'empoignent.

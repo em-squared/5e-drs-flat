@@ -1,36 +1,32 @@
 ---
-title: "Canitaupe juggernaut"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Neutre"
-challenge: "5"
+title: Canitaupe juggernaut
+type: Créature monstrueuse
+size: G
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 12
-abilityScores:
-  for: 21
-  dex: 14
-  con: 20
-  int: 2
-  sag: 10
-  cha: 2
-customSavingThrows: "Con +11"
-ac:
-  armorType: "armure naturelle"
-  value: 3
-movement:
-  walk: 9
-  burrow: 3
-  swim: 3
-senses:
-  blindsight: 9
+customSavingThrows: Con +11
 languages:
-  - "—"
+  - —
 environments:
   - Collines / Vallées
   - Montagnes
 dungeonTypes:
   - Caverne naturelle
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 54
+abilityScores_for: 21
+abilityScores_dex: 14
+abilityScores_con: 20
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 2
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 9
+movement_burrow: 3
+movement_swim: 3
+senses_blindsight: 9
 ---
 ## Capacités
 _**Fouissement**_. Les canitaupes juggernauts ne peuvent pas traverser la roche solide mais ils sont capables de creuser à travers les substances plus friables, comme la terre ou des graviers, laissant derrière eux un tunnel de 3 mètres de large.

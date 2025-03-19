@@ -1,31 +1,27 @@
 ---
-title: "Cockatrice"
-type: "Créature monstrueuse"
-size: "P"
-alignment: "non-alignée"
-challenge: "0.5"
+title: Cockatrice
+type: Créature monstrueuse
+size: P
+alignment: non-alignée
+challenge: '0.5'
 hitDiceCount: 6
-abilityScores:
-  for: 6
-  dex: 12
-  con: 12
-  int: 2
-  sag: 13
-  cha: 5
-ac: 
-  armorType: null
-movement: 
-  walk: 6
-  fly: 12
-senses: 
-  darkvision: 18
-languages: 
-  - "—"
+languages:
+  - —
 environments:
   - Collines / Vallées
   - Plaine / Champs / Prairie / Savane
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 43
+abilityScores_for: 6
+abilityScores_dex: 12
+abilityScores_con: 12
+abilityScores_int: 2
+abilityScores_sag: 13
+abilityScores_cha: 5
+ac_armorType: null
+movement_walk: 6
+movement_fly: 12
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une créature.  

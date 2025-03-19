@@ -1,42 +1,38 @@
 ---
-title: "Golem d'argile"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "9"
+title: Golem d'argile
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '9'
 hitDiceCount: 14
-abilityScores:
-  for: 20
-  dex: 9
-  con: 18
-  int: 3
-  sag: 8
-  cha: 1
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 6
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "acide"
-  - "poison"
-  - "psychique"
-  - "c-p-t-non-adamantium"
+  - acide
+  - poison
+  - psychique
+  - c-p-t-non-adamantium
 languages:
-  - "comprend les langues de son créateur mais ne peut pas parler"
+  - comprend les langues de son créateur mais ne peut pas parler
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 169
+abilityScores_for: 20
+abilityScores_dex: 9
+abilityScores_con: 18
+abilityScores_int: 3
+abilityScores_sag: 8
+abilityScores_cha: 1
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Absorption de l'acide**_. Chaque fois que le golem devrait subir des dégâts d'acide, ceux-ci ne lui sont pas infligés et il récupère, à la place, un nombre de points de vie égal aux dégâts d'acide qu'il aurait dû subir.

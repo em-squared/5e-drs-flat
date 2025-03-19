@@ -1,10 +1,10 @@
 ---
-title: "Sac sans fond"
-type: "Objet merveilleux"
+title: Sac sans fond
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
+rarity: Peu courant
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Ce sac abrite un espace intérieur bien plus grand que ce que ses dimensions extérieures laissent présager. Visuellement, il fait une soixantaine de centimètres de diamètre au niveau de l'ouverture pour 1,20 mètre de profondeur. En revanche, il peut contenir jusqu'à 250 kilos de matière, sans dépasser un volume de 2000 litres. Le sac pèse 7,5 kilos, quel que soit son contenu. Il faut dépenser une action pour récupérer un objet dans le sac.
 

@@ -1,42 +1,38 @@
 ---
-title: "Assoiffeur gris"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: Assoiffeur gris
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 6
-abilityScores:
-  for: 12
-  dex: 16
-  con: 15
-  int: 6
-  sag: 12
-  cha: 14
-ac: 
-  armorType: null
-skills: 
-  - name: "discretion"
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
-damageTypeResistances: 
-  - "contondant"
-  - "necrotique"
-damageTypeImmunities: 
-  - "feu"
-  - "poison"
-languages: 
-  - "comprend les langues qu'il parlait de son vivant mais ne peut pas parler"
+skills:
+  - name: discretion
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
+damageTypeResistances:
+  - contondant
+  - necrotique
+damageTypeImmunities:
+  - feu
+  - poison
+languages:
+  - comprend les langues qu'il parlait de son vivant mais ne peut pas parler
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 33
+abilityScores_for: 12
+abilityScores_dex: 16
+abilityScores_con: 15
+abilityScores_int: 6
+abilityScores_sag: 12
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Soif**_. L'assoiffeur gris émet une aura de soif desséchante dans un rayon de 9 mètres. Quand une créature entre dans cette aura pour la première fois de son tour ou quand elle commence son tour en son sein, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 12 ou gagner un niveau d'épuisement. Si elle réussit son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), elle est immunisée contre l'aura de soif de cet assoiffeur pendant les 24 heures qui suivent.

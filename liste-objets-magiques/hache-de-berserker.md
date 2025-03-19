@@ -1,10 +1,10 @@
 ---
-title: "Hache de berserker"
-type: "Arme"
-subtype: "Hache"
-rarity: "Rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Hache de berserker
+type: Arme
+subtype: Hache
+rarity: Rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts liés à cette arme magique. De plus, tant que vous êtes harmonisé avec elle, votre maximum de points de vie augmente de 1 par niveau que vous possédez.
 

@@ -1,21 +1,19 @@
 ---
-title: "Blessure"
-description: "Attaque de contact infligeant 3d10 dégâts nécrotiques."
-school: "Nécromancie"
+title: Blessure
+description: Attaque de contact infligeant 3d10 dégâts nécrotiques.
+school: Nécromancie
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: instantanée
+range: contact
 ritual: false
 classes:
-    - Clerc
-
-source: "Manuel des règles"
+  - Clerc
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Faites une attaque de sort au corps-à-corps contre une créature située à une distance inférieure ou égale à votre allonge. Si vous la touchez, elle subit 3d10 dégâts nécrotiques.
 

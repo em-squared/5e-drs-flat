@@ -1,22 +1,20 @@
 ---
-title: "Contacter un autre plan"
-description: "Le PJ peut poser 5 questions à une entité extraplanaire."
-school: "Divination"
+title: Contacter un autre plan
+description: Le PJ peut poser 5 questions à une entité extraplanaire.
+school: Divination
 level: 5
 concentration: false
-casting_time: "1 minute"
-duration: "1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: false
-  material: false
+casting_time: 1 minute
+duration: 1 minute
+range: personnelle
 ritual: true
 classes:
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: false
 ---
 Vous contactez mentalement un demi-dieu, l'esprit d'un sage décédé depuis longtemps, ou une autre entité mystérieuse issue d'un autre plan. Le contact avec cette intelligence extraplanaire met votre esprit à rude épreuve et risque même de le briser. Quand vous lancez ce sort, vous devez effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) d'intelligence DD 15. En cas d'échec, vous encaissez 6d6 dégâts psychiques et vous devenez fou jusqu'à ce que vous ayez bénéficié d'un repos long. Tant que vous êtes fou, vous ne pouvez pas entreprendre la moindre action, vous ne comprenez pas ce que disent les autres créatures, vous êtes incapable de lire et vous ne bredouillez que des paroles insensées. Une tierce personne peut mettre un terme à cet effet en  vous ciblant avec un sort de [_restauration supérieure_](/grimoire/restauration-superieure/).
 

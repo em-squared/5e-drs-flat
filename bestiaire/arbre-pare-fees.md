@@ -1,48 +1,44 @@
 ---
-title: "Arbre pare-fées"
-type: "Créature artificielle"
-size: "TG"
-alignment: "non-alignée"
-challenge: "8"
+title: Arbre pare-fées
+type: Créature artificielle
+size: TG
+alignment: non-alignée
+challenge: '8'
 hitDiceCount: 9
-abilityScores:
-  for: 26
-  dex: 10
-  con: 18
-  int: 2
-  sag: 11
-  cha: 6
 savingThrows:
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 7
+  - con
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 6
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeImmunities:
-  - "poison"
-  - "psychique"
-  - "c-p-t-non-adamantium"
+  - poison
+  - psychique
+  - c-p-t-non-adamantium
 languages:
-  - "—"
+  - —
 environments:
   - Bois / Forêt
   - Collines / Vallées
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 30
+abilityScores_for: 26
+abilityScores_dex: 10
+abilityScores_con: 18
+abilityScores_int: 2
+abilityScores_sag: 11
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. Un arbre pare-fées est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

@@ -1,53 +1,49 @@
 ---
-title: "Edimmu"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: Edimmu
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 10
-abilityScores:
-  for: 1
-  dex: 19
-  con: 16
-  int: 12
-  sag: 13
-  cha: 13
-ac:
-  armorType: "custom"
-  value: "15"
-movement:
-  walk: 0
-  fly: 18
-  hover: true
-senses:
-  blindsight: 18
 conditionImmunities:
-  - "a-terre"
-  - "charme"
-  - "empoigne"
-  - "empoisonne"
-  - "epuise"
-  - "entrave"
-  - "inconscient"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - a-terre
+  - charme
+  - empoigne
+  - empoisonne
+  - epuise
+  - entrave
+  - inconscient
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "tonnerre"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - froid
+  - tonnerre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
+  - necrotique
+  - poison
 languages:
-  - "commun mais ne peut pas parler"
+  - commun mais ne peut pas parler
 environments:
   - Désert chaud
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 162
+abilityScores_for: 1
+abilityScores_dex: 19
+abilityScores_con: 16
+abilityScores_int: 12
+abilityScores_sag: 13
+abilityScores_cha: 13
+ac_armorType: custom
+ac_value: '15'
+movement_walk: 0
+movement_fly: 18
+movement_hover: true
+senses_blindsight: 18
 ---
 ## Capacités
 _**Reconstitution**_. S'il est détruit, un edimmu se relève de nouveau d'entre les morts au bout de 2d4 jours. Afin de le détruire de manière définitive, il faut enterrer ses restes mortels de manière appropriée sur une terre consacrée ou sanctifiée. Les edimmus s'éloignent rarement de plus de 1,50 kilomètre de l'endroit de leur mort.

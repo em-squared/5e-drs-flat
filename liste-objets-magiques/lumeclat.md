@@ -1,10 +1,10 @@
 ---
-title: "Luméclat"
-type: "Arme"
-subtype: "Pique"
-rarity: "Légendaire"
-attunement: "harmonisation requise par une créature loyale bonne"
-source: "Warlock Grimoire - Kobold Press"
+title: Luméclat
+type: Arme
+subtype: Pique
+rarity: Légendaire
+attunement: harmonisation requise par une créature loyale bonne
+source: Warlock Grimoire - Kobold Press
 ---
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique, et elle inflige 2d8 dégâts radiants supplémentaires à toute créature qu'elle touche.
 

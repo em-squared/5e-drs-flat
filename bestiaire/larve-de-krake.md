@@ -1,48 +1,44 @@
 ---
-title: "Larve de krake"
-type: "Créature monstrueuse"
-size: "TG"
-alignment: "Neutre Mauvais"
-challenge: "9"
+title: Larve de krake
+type: Créature monstrueuse
+size: TG
+alignment: Neutre Mauvais
+challenge: '9'
 hitDiceCount: 12
-abilityScores:
-  for: 24
-  dex: 12
-  con: 22
-  int: 17
-  sag: 15
-  cha: 18
 savingThrows:
-  - "for"
-  - "con"
-  - "int"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 6
-  swim: 9
-senses:
-  darkvision: 18
+  - for
+  - con
+  - int
+  - cha
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
+  - charme
+  - empoisonne
 damageTypeImmunities:
-  - "froid"
-  - "poison"
-  - "psychique"
+  - froid
+  - poison
+  - psychique
 languages:
-  - "commun"
-  - "infernal"
-  - "primordial"
-  - "langue du Vide"
+  - commun
+  - infernal
+  - primordial
+  - langue du Vide
 environments:
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 262
+abilityScores_for: 24
+abilityScores_dex: 12
+abilityScores_con: 22
+abilityScores_int: 17
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amphibie**_. La larve de krake respire à l'air libre et sous l'eau.

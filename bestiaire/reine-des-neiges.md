@@ -1,47 +1,43 @@
 ---
-title: "Reine des neiges"
-type: "Fée"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "16"
+title: Reine des neiges
+type: Fée
+size: M
+alignment: Neutre Mauvais
+challenge: '16'
 hitDiceCount: 19
-abilityScores:
-  for: 16
-  dex: 18
-  con: 14
-  int: 18
-  sag: 20
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
+  - cha
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 12
-senses:
-  blindsight: 3
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-fer-froid"
+  - c-p-t-non-fer-froid
 damageTypeImmunities:
-  - "froid"
+  - froid
 languages:
-  - "commun"
-  - "elfique"
-  - "géant"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - géant
+  - sylvestre
+source: Livre des monstres
 source_page: 182
+abilityScores_for: 16
+abilityScores_dex: 18
+abilityScores_con: 14
+abilityScores_int: 18
+abilityScores_sag: 20
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée de la Reine des Neiges est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de manière innée, sans composantes matérielles :

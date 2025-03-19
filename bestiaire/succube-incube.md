@@ -1,50 +1,46 @@
 ---
-title: "Succube/Incube"
-type: "Fiélon"
-subtype: "métamorphe"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "4"
+title: Succube/Incube
+type: Fiélon
+subtype: métamorphe
+size: M
+alignment: Neutre Mauvais
+challenge: '4'
 hitDiceCount: 12
-abilityScores:
-  for: 8
-  dex: 17
-  con: 13
-  int: 15
-  sag: 12
-  cha: 20
-ac:
-  armorType: "armure naturelle"
-  value: 2
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-  - name: "perspicacite"
+  - name: perspicacite
     isExpert: true
-  - name: "persuasion"
+  - name: persuasion
     isExpert: true
-  - name: "supercherie"
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 9
-  fly: 18
-senses:
-  darkvision: 18
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
-  - "poison"
-  - "c-p-t-non-magique"
+  - feu
+  - foudre
+  - froid
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "abyssal"
-  - "commun"
-  - "infernal"
+  - abyssal
+  - commun
+  - infernal
 telepathy: 18
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 268
+abilityScores_for: 8
+abilityScores_dex: 17
+abilityScores_con: 13
+abilityScores_int: 15
+abilityScores_sag: 12
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Lien télépathique**_. Le fiélon ignore les limites de portée de sa télépathie quand il communique avec une créature qu'il a [_charmée_](/gerer-la-sante-du-personnage/#charme), même s'ils ne sont pas sur le même plan d'existence.

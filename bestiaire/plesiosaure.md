@@ -1,36 +1,33 @@
 ---
-title: "Plésiosaure"
-type: "Bête"
-subtype: "Dinosaure"
-size: "G"
-alignment: "non-alignée"
-challenge: "2"
+title: Plésiosaure
+type: Bête
+subtype: Dinosaure
+size: G
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 18
-  dex: 15
-  con: 16
-  int: 2
-  sag: 12
-  cha: 5
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-skills: 
-  - name: "discretion"
-  - name: "perception"
-movement: 
-  walk: 6
-  swim: 12
-senses: 
-languages: 
-  - "—"
+skills:
+  - name: discretion
+  - name: perception
+senses: null
+languages:
+  - —
 environments:
   - Mer / Océan
 dungeonTypes:
   - Ruines sous-marines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 73
+abilityScores_for: 18
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 2
+abilityScores_sag: 12
+abilityScores_cha: 5
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_swim: 12
 ---
 ## Capacités
 _**Retenir son souffle**_. Le plésiosaure peut retenir son souffle pendant 1 heure.

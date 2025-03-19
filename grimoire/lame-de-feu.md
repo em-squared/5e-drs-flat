@@ -1,22 +1,20 @@
 ---
-title: "Lame de feu"
-description: "Le PJ invoque une lame enflammée qui inflige 3d6 dégâts de feu."
-school: "Évocation"
+title: Lame de feu
+description: Le PJ invoque une lame enflammée qui inflige 3d6 dégâts de feu.
+school: Évocation
 level: 2
 concentration: true
-casting_time: "1 action bonus"
-duration: "jusqu'à 10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "feuille de sumac"
+casting_time: 1 action bonus
+duration: jusqu'à 10 minutes
+range: personnelle
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: feuille de sumac
 ---
 Vous invoquez une lame enflammée dans votre main libre. Au niveau de la taille et de la forme, elle ressemble à un cimeterre et persiste pendant toute la durée du sort. Si vous la lâchez, elle disparaît, mais vous pouvez l'invoquer de nouveau par une action bonus.
 

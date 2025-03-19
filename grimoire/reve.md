@@ -1,24 +1,24 @@
 ---
-title: "Rêve"
-description: "Permet de communiquer à distance avec la cible à travers les rêves."
-school: "Illusion"
+title: Rêve
+description: Permet de communiquer à distance avec la cible à travers les rêves.
+school: Illusion
 level: 5
 concentration: false
-casting_time: "1 minute"
-duration: "8 heures"
-range: "spéciale"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur un oiseau endormi"
+casting_time: 1 minute
+duration: 8 heures
+range: spéciale
 ritual: false
 classes:
-    - Barde
-    - Magicien
-    - Sorcier
-
-source: "Manuel des règles"
+  - Barde
+  - Magicien
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  une poignée de sable, une goutte d'encre et une plume d'écrivain prélevée sur
+  un oiseau endormi
 ---
 Ce sort façonne les rêves d'une créature. Choisissez comme cible une créature de votre connaissance. Elle doit se trouver sur le même plan d'existence que vous. Il est impossible de contacter via ce sort une créature qui ne dort pas, tel un elfe. Vous entrez dans un état de transe et servez de messager, à moins que vous ne confiiez ce rôle à une autre créature consentante. Pendant la transe, le messager est conscient de son environnement, mais il ne peut pas entreprendre d'action ni se déplacer.
 

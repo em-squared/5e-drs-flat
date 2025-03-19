@@ -1,35 +1,37 @@
 ---
-title: "Arbre feuilledragon"
-type: "Plante"
-size: "G"
-alignment: "non-alignée"
-challenge: "8"
+title: Arbre feuilledragon
+type: Plante
+size: G
+alignment: non-alignée
+challenge: '8'
 hitDiceCount: 16
-abilityScores:
-  for: 16
-  dex: 10
-  con: 19
-  int: 3
-  sag: 12
-  cha: 17
-ac:
-  armorType: "armure naturelle"
-  value: 6
-movement:
-  walk: 1,50
-senses:
-  blindsight: 36
 conditionImmunities:
-  - "assourdi"
-  - "aveugle"
-customDamageTypeImmunities: "Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d'acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur airain, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid."
+  - assourdi
+  - aveugle
+customDamageTypeImmunities: >-
+  Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les
+  arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d'acide ;
+  les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ;
+  les arbres couleur airain, or et rouge sont immunisés contre les dégâts de feu
+  ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de
+  froid.
 languages:
-  - "peut comprendre les mêmes langues que son créateur ou son maître désigné"
+  - peut comprendre les mêmes langues que son créateur ou son maître désigné
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 29
+abilityScores_for: 16
+abilityScores_dex: 10
+abilityScores_con: 19
+abilityScores_int: 3
+abilityScores_sag: 12
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: '1,50'
+senses_blindsight: 36
 ---
 ## Capacités
 _**Loyal à un maître dragon**_. Un arbre feuilledragon suit seulement les ordres de son maître désigné (ou de n'importe quelle créature à laquelle celui-ci a confié ce contrôle). Il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts ou effets de charme ou de compulsion. En outre, l'arbre est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de tous les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) visant à résister à un test de Bluff, Diplomatie ou Intimidation qui a pour but de l'influencer à agir contre son maître.

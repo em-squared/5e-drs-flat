@@ -1,47 +1,43 @@
 ---
-title: "Dragon marin, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "9"
+title: 'Dragon marin, jeune'
+type: Dragon
+size: G
+alignment: Neutre Mauvais
+challenge: '9'
 hitDiceCount: 16
-abilityScores:
-  for: 21
-  dex: 10
-  con: 19
-  int: 15
-  sag: 13
-  cha: 17
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  fly: 24
-  swim: 15
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "froid"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - froid
+languages:
+  - commun
+  - draconique
 environments:
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 145
+abilityScores_for: 21
+abilityScores_dex: 10
+abilityScores_con: 19
+abilityScores_int: 15
+abilityScores_sag: 13
+abilityScores_cha: 17
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_fly: 24
+movement_swim: 15
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.

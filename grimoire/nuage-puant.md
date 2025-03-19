@@ -1,25 +1,23 @@
 ---
-title: "Nuage puant"
-description: "Nuage de gaz dans une sphère de 6 mètres qui cause des vomissements."
-school: "Invocation"
+title: Nuage puant
+description: Nuage de gaz dans une sphère de 6 mètres qui cause des vomissements.
+school: Invocation
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un œuf pourri ou des feuilles de chou pourri"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 27 mètres
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un œuf pourri ou des feuilles de chou pourri
 ---
 Vous créez une sphère d'un gaz jaunâtre et nauséabond de 6 mètres de rayon centrée sur un point à portée. Le nuage se répand en contournant les angles et la visibilité est nulle dans toute sa zone. Le nuage persiste dans la zone affectée pendant toute la durée du sort.
 

@@ -1,52 +1,48 @@
 ---
-title: "Goule, Empereur"
-type: "Mort-vivant"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "20"
+title: 'Goule, Empereur'
+type: Mort-vivant
+size: M
+alignment: Neutre Mauvais
+challenge: '20'
 hitDiceCount: 24
-abilityScores:
-  for: 18
-  dex: 14
-  con: 19
-  int: 20
-  sag: 17
-  cha: 21
 savingThrows:
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 8
+  - dex
+  - sag
 skills:
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 9
-  burrow: 4,50
-senses:
-  darkvision: 36
+  - name: perception
+  - name: perspicacite
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "froid"
-  - "necrotique"
+  - froid
+  - necrotique
 damageTypeImmunities:
-  - "poison"
-  - "c-p-t-non-magique"
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "commun"
-  - "darakhul"
-  - "draconique"
-  - "gnoll"
-  - "commun des profondeurs"
-source: "Livre des monstres"
+  - commun
+  - darakhul
+  - draconique
+  - gnoll
+  - commun des profondeurs
+source: Livre des monstres
 source_page: 219
+abilityScores_for: 18
+abilityScores_dex: 14
+abilityScores_con: 19
+abilityScores_int: 20
+abilityScores_sag: 17
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 9
+movement_burrow: '4,50'
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance légendaire (3/jour)**_. Si l'empereur rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

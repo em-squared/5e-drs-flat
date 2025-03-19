@@ -1,37 +1,33 @@
 ---
-title: "Ver givré, larve"
-type: "Élémentaire"
-size: "M"
-alignment: "Neutre"
-challenge: "1"
+title: 'Ver givré, larve'
+type: Élémentaire
+size: M
+alignment: Neutre
+challenge: '1'
 hitDiceCount: 6
-abilityScores:
-  for: 16
-  dex: 12
-  con: 16
-  int: 4
-  sag: 12
-  cha: 3
 savingThrows:
-  - "for"
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 2
-movement:
-  walk: 9
-  swim: 9
-  special: "fouissement (neige, glace) 6 m"
-senses:
-  darkvision: 60
+  - for
+  - con
 damageTypeResistances:
-  - "froid"
+  - froid
 languages:
-  - "—"
+  - —
 environments:
   - Arctique / Subarctique
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 399
+abilityScores_for: 16
+abilityScores_dex: 12
+abilityScores_con: 16
+abilityScores_int: 4
+abilityScores_sag: 12
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+movement_swim: 9
+movement_special: 'fouissement (neige, glace) 6 m'
+senses_darkvision: 60
 ---
 ## Capacités
 _**Nés du givre**_. Une larve de ver givré respire aussi facilement dans l'eau que dans l'air.

@@ -1,41 +1,37 @@
 ---
-title: "Kobold, Alchimiste"
-type: "Humanoïde"
-subtype: "kobold"
-size: "P"
-alignment: "Loyal Neutre"
-challenge: "2"
+title: 'Kobold, Alchimiste'
+type: Humanoïde
+subtype: kobold
+size: P
+alignment: Loyal Neutre
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 7
-  dex: 16
-  con: 15
-  int: 16
-  sag: 9
-  cha: 8
-savingThrows: 
-  - "dex"
-ac: 
-  armorType: "armure de cuir clouté"
-skills: 
-  - name: "arcanes"
-  - name: "medecine"
+savingThrows:
+  - dex
+skills:
+  - name: arcanes
+  - name: medecine
     isExpert: true
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "empoisonne"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "commun"
-  - "draconique"
+conditionImmunities:
+  - empoisonne
+damageTypeImmunities:
+  - poison
+languages:
+  - commun
+  - draconique
 dungeonTypes:
   - Caverne aménagée
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 254
+abilityScores_for: 7
+abilityScores_dex: 16
+abilityScores_con: 15
+abilityScores_int: 16
+abilityScores_sag: 9
+abilityScores_cha: 8
+ac_armorType: armure de cuir clouté
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Apothicaire**_. Par une action bonus, le kobold peut choisir l'un des types de dégâts suivants : acide, froid ou feu. Il est résistant aux dégâts du type choisi jusqu'à ce qu'il utilise de nouveau cette action. De plus, il maîtrise le matériel d'empoisonneur.

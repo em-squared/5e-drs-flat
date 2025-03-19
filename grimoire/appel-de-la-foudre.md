@@ -1,21 +1,19 @@
 ---
-title: "Appel de la foudre"
-description: "Le PJ crée un orage et peut faire frapper la foudre à chaque tour."
-school: "Invocation"
+title: Appel de la foudre
+description: Le PJ crée un orage et peut faire frapper la foudre à chaque tour.
+school: Invocation
 level: 3
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "36 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 36 mètres
 ritual: false
 classes:
-    - Druide
-
-source: "Manuel des règles"
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Un nuage orageux apparaît sous forme d'un cylindre de 3 mètres de haut pour 18 mètres de rayon, centré sur un point situé dans votre champ de vision et à 30 mètres directement au-dessus de vous. Le sort échoue si vous ne pouvez voir le point situé à cette hauteur, là où le nuage doit se former (si vous vous trouvez dans une pièce trop petite pour accueillir le nuage, par exemple).
 

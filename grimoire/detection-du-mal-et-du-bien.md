@@ -1,22 +1,20 @@
 ---
-title: "Détection du mal et du bien"
-description: "Détecte les créatures bénéfiques ou maléfiques par nature."
-school: "Divination"
+title: Détection du mal et du bien
+description: Détecte les créatures bénéfiques ou maléfiques par nature.
+school: Divination
 level: 1
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: personnelle
 ritual: false
 classes:
-    - Clerc
-    - Paladin
-
-source: "Manuel des règles"
+  - Clerc
+  - Paladin
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Pendant toute la durée du sort, vous savez s'il y a une aberration, un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant dans un rayon de 9 mètres autour de vous et vous savez précisément où il se trouve. De même, vous savez si un lieu ou un objet situé dans un rayon de 9 mètres a été consacré ou profané.
 

@@ -1,39 +1,37 @@
 ---
-title: "Garde animé"
-type: "Créature artificielle"
-size: "G"
-alignment: "non-alignée"
-challenge: "7"
+title: Garde animé
+type: Créature artificielle
+size: G
+alignment: non-alignée
+challenge: '7'
 hitDiceCount: 15
-abilityScores:
-  for: 18
-  dex: 8
-  con: 18
-  int: 7
-  sag: 10
-  cha: 3
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-movement: 
-  walk: 9
-senses: 
-  blindsight: 3
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "terrorise"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler"
+conditionImmunities:
+  - charme
+  - terrorise
+  - empoisonne
+  - epuise
+  - paralyse
+damageTypeImmunities:
+  - poison
+languages:
+  - >-
+    comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas
+    parler
 dungeonTypes:
   - Donjon maçonné
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 144
+abilityScores_for: 18
+abilityScores_dex: 8
+abilityScores_con: 18
+abilityScores_int: 7
+abilityScores_sag: 10
+abilityScores_cha: 3
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 9
+senses_blindsight: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Pacte magique**_. Un pacte magique associe le garde animé à une amulette. Aussi longtemps que le garde et son amulette se trouvent sur le même plan d'existence, le porteur de l'amulette peut ordonner par télépathie au garde de le rejoindre. Le garde connaît la distance qui le sépare de l'amulette et la direction qu'il faut emprunter pour la rejoindre. Si le garde se trouve à 18 mètres ou moins du porteur de l'amulette, la moitié des dégâts subis par le porteur (arrondis au supérieur) est transférée au garde.

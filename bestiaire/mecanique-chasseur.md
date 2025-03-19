@@ -1,46 +1,42 @@
 ---
-title: "Mécanique, Chasseur"
-type: "Créature artificielle"
-size: "M"
-alignment: "non-alignée"
-challenge: "3"
+title: 'Mécanique, Chasseur'
+type: Créature artificielle
+size: M
+alignment: non-alignée
+challenge: '3'
 hitDiceCount: 20
-abilityScores:
-  for: 17
-  dex: 14
-  con: 12
-  int: 4
-  sag: 10
-  cha: 1
-savingThrows: 
-  - "for"
-  - "dex"
-ac: 
-  armorType: "custom"
-  value: "14"
-skills: 
-  - name: "perception"
+savingThrows:
+  - for
+  - dex
+skills:
+  - name: perception
     isExpert: true
-  - name: "survie"
+  - name: survie
     isExpert: true
-movement: 
-  walk: 12
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
-damageTypeImmunities: 
-  - "poison"
-  - "psychique"
-languages: 
-  - "comprend le commun"
-source: "Livre des monstres"
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
+damageTypeImmunities:
+  - poison
+  - psychique
+languages:
+  - comprend le commun
+source: Livre des monstres
 source_page: 292
+abilityScores_for: 17
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 4
+abilityScores_sag: 10
+abilityScores_cha: 1
+ac_armorType: custom
+ac_value: '14'
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un chasseur mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

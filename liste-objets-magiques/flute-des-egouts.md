@@ -1,10 +1,10 @@
 ---
-title: "Flûte des égouts"
-type: "Objet merveilleux"
+title: Flûte des égouts
+type: Objet merveilleux
 subtype: false
-rarity: "Peu courant"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+rarity: Peu courant
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte. Tant que vous êtes harmonisé avec elle, les rats ordinaires et les rats géants sont indifférents envers vous et ne vous attaquent pas, à moins que vous ne les menaciez ou les blessiez.
 

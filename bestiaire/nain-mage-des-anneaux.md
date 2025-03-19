@@ -1,38 +1,34 @@
 ---
-title: "Nain, Mage des anneaux"
-type: "Humanoïde"
-subtype: "nain"
-size: "M"
-alignment: "n'importe quel alignement"
-challenge: "7"
+title: 'Nain, Mage des anneaux'
+type: Humanoïde
+subtype: nain
+size: M
+alignment: n'importe quel alignement
+challenge: '7'
 hitDiceCount: 15
-abilityScores:
-  for: 10
-  dex: 14
-  con: 13
-  int: 18
-  sag: 12
-  cha: 9
 savingThrows:
-  - "con"
-  - "int"
-  - "sag"
-ac:
-  armorType: "cuirasse"
+  - con
+  - int
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: histoire
 damageTypeResistances:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-  - "nain"
-source: "Livre des monstres"
+  - commun
+  - nain
+source: Livre des monstres
 source_page: 423
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 13
+abilityScores_int: 18
+abilityScores_sag: 12
+abilityScores_cha: 9
+ac_armorType: cuirasse
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance naine**_. Le mage des anneaux nains est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le poison.

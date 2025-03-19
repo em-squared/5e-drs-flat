@@ -1,31 +1,27 @@
 ---
-title: "Saccageur relevé"
-type: "Mort-vivant"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Saccageur relevé
+type: Mort-vivant
+size: G
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 16
-abilityScores:
-  for: 19
-  dex: 16
-  con: 20
-  int: 9
-  sag: 7
-  cha: 6
-savingThrows: 
-  - "dex"
-ac: 
-  armorType: "armure de cuir clouté"
-skills: 
-  - name: "perception"
-movement: 
-  walk: 12
-senses: 
-  darkvision: 36
-languages: 
-  - "celles qu'il parlait de son vivant"
-source: "Livre des monstres"
+savingThrows:
+  - dex
+skills:
+  - name: perception
+languages:
+  - celles qu'il parlait de son vivant
+source: Livre des monstres
 source_page: 354
+abilityScores_for: 19
+abilityScores_dex: 16
+abilityScores_con: 20
+abilityScores_int: 9
+abilityScores_sag: 7
+abilityScores_cha: 6
+ac_armorType: armure de cuir clouté
+movement_walk: 12
+senses_darkvision: 36
 ---
 ## Capacités
 _**Perception de la vie**_. Le saccageur relevé détecte automatiquement toutes les créatures vivantes dans un rayon de 36 mètres. 90 centimètres de bois, 30 de terre ou de pierre, 2,5 de métal ou une mince feuille de plomb bloquent ce pouvoir.

@@ -1,32 +1,28 @@
 ---
-title: "Tosculi, Combattant"
-type: "Créature monstrueuse"
-size: "P"
-alignment: "Loyal Mauvais"
-challenge: "2"
+title: 'Tosculi, Combattant'
+type: Créature monstrueuse
+size: P
+alignment: Loyal Mauvais
+challenge: '2'
 hitDiceCount: 9
-abilityScores:
-  for: 12
-  dex: 20
-  con: 16
-  int: 10
-  sag: 12
-  cha: 12
-ac: 
-  armorType: null
-movement: 
-  walk: 6
-  fly: 18
-senses: 
-  darkvision: 18
-languages: 
-  - "tosculi"
+languages:
+  - tosculi
 environments:
   - Collines / Vallées
   - Désert chaud
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 387
+abilityScores_for: 12
+abilityScores_dex: 20
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 12
+abilityScores_cha: 12
+ac_armorType: null
+movement_walk: 6
+movement_fly: 18
+senses_darkvision: 18
 ---
 ## Capacités
 _**Grouiller**_. Deux tosculis au maximum peuvent occuper le même emplacement au même moment. Le tosculi est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque quand il partage son emplacement avec celui d'un autre tosculi qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).

@@ -1,37 +1,33 @@
 ---
-title: "Alséide gardienne des bocages"
-type: "Créature monstrueuse"
-size: "M"
-alignment: "Chaotique Neutre"
-challenge: "3"
+title: Alséide gardienne des bocages
+type: Créature monstrueuse
+size: M
+alignment: Chaotique Neutre
+challenge: '3'
 hitDiceCount: 13
-abilityScores:
-  for: 13
-  dex: 17
-  con: 12
-  int: 8
-  sag: 16
-  cha: 8
-ac:
-  armorType: "armure de cuir clouté"
 skills:
-  - name: "discretion"
-  - name: "nature"
+  - name: discretion
+  - name: nature
     isExpert: true
-  - name: "perception"
-  - name: "survie"
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - name: perception
+  - name: survie
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
+  - commun
+  - elfique
+  - sylvestre
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 13
+abilityScores_for: 13
+abilityScores_dex: 17
+abilityScores_con: 12
+abilityScores_int: 8
+abilityScores_sag: 16
+abilityScores_cha: 8
+ac_armorType: armure de cuir clouté
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Amie des bois**_. Quand une alséide est dans une forêt, elle ne laisse pas de trace et sait automatiquement où se trouve le vrai nord.

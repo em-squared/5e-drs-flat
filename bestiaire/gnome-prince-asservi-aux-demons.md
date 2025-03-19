@@ -1,46 +1,42 @@
 ---
-title: "Gnome, Prince asservi aux démons"
-type: "Humanoïde"
-subtype: "gnome"
-size: "P"
-alignment: "n'importe quel alignement mauvais"
-challenge: "9"
+title: 'Gnome, Prince asservi aux démons'
+type: Humanoïde
+subtype: gnome
+size: P
+alignment: n'importe quel alignement mauvais
+challenge: '9'
 hitDiceCount: 19
-abilityScores:
-  for: 10
-  dex: 14
-  con: 15
-  int: 16
-  sag: 12
-  cha: 22
 savingThrows:
-  - "con"
-  - "int"
-  - "cha"
-ac:
-  armorType: "armure du mage"
+  - con
+  - int
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "persuasion"
-  - name: "supercherie"
-movement:
-  walk: 7
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: histoire
+  - name: persuasion
+  - name: supercherie
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "feu"
-  - "froid"
-  - "poison"
-  - "c-p-t-non-argent"
+  - feu
+  - froid
+  - poison
+  - c-p-t-non-argent
 languages:
-  - "commun"
-  - "infernal"
-  - "gnome"
-source: "Livre des monstres"
+  - commun
+  - infernal
+  - gnome
+source: Livre des monstres
 source_page: 424
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 16
+abilityScores_sag: 12
+abilityScores_cha: 22
+ac_armorType: armure du mage
+movement_walk: 7
+senses_darkvision: 18
 ---
 ## Capacités
 _**Mot de bannissement (1/jour)**_. Quand le prince gnome asservi aux démons réussit une attaque, il peut bannir la cible dans les Onze Enfers. Elle disparaît de son emplacement actuel et se trouve [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) jusqu'à son retour. À la fin du prochain tour du prince gnome, elle revient à l'emplacement qu'elle occupait précédemment ou à l'emplacement inoccupé le plus proche et subit 55 (10d10) dégâts psychiques.

@@ -1,42 +1,38 @@
 ---
-title: "Férocien"
-type: "Bête"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "8"
+title: Férocien
+type: Bête
+size: G
+alignment: Neutre Mauvais
+challenge: '8'
 hitDiceCount: 10
-abilityScores:
-  for: 22
-  dex: 14
-  con: 22
-  int: 2
-  sag: 10
-  cha: 13
 savingThrows:
-  - "dex"
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - dex
+  - con
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-  climb: 6
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 languages:
-  - "-"
+  - '-'
 environments:
   - Bois / Forêt
   - Plaine / Champs / Prairie / Savane
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 195
+abilityScores_for: 22
+abilityScores_dex: 14
+abilityScores_con: 22
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 13
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+movement_climb: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Coup puissant**_. Quand le férocien attaque sans se déplacer pendant son tour, son attaque de griffes est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage).

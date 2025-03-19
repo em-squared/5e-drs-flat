@@ -1,36 +1,32 @@
 ---
-title: "Goule"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "1"
+title: Goule
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '1'
 hitDiceCount: 5
-abilityScores:
-  for: 13
-  dex: 15
-  con: 10
-  int: 7
-  sag: 10
-  cha: 6
-ac: 
-  armorType: null
-movement: 
-  walk: 9
-senses: 
-  darkvision: 18
-conditionImmunities: 
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-damageTypeImmunities: 
-  - "poison"
-languages: 
-  - "commun"
+conditionImmunities:
+  - charme
+  - empoisonne
+  - epuise
+damageTypeImmunities:
+  - poison
+languages:
+  - commun
 dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 174
+abilityScores_for: 13
+abilityScores_dex: 15
+abilityScores_con: 10
+abilityScores_int: 7
+abilityScores_sag: 10
+abilityScores_cha: 6
+ac_armorType: null
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Actions
 _**Griffes**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  

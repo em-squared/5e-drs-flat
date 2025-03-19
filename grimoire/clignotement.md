@@ -1,22 +1,20 @@
 ---
-title: "Clignotement"
-description: "Le PJ passe à chaque tour du plan matériel au plan éthéré et vice-versa."
-school: "Transmutation"
+title: Clignotement
+description: Le PJ passe à chaque tour du plan matériel au plan éthéré et vice-versa.
+school: Transmutation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: false
+casting_time: 1 action
+duration: 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
 ---
 Pendant toute la durée du sort, vous lancez 1d20 à la fin de chacun de vos tours. Sur un 11 ou plus, vous disparaissez de votre plan d'existence actuel et apparaissez sur le plan éthéré (si vous vous trouviez déjà là, le sort échoue et l'incantation est gaspillée). Au début de votre tour suivant et quand le sort se termine alors que vous vous trouvez sur le plan éthéré, vous retournez sur un emplacement inoccupé de votre choix que vous pouvez voir dans un rayon de 3 mètres autour de l'emplacement dont vous avez disparu. S'il n'y a pas d'emplacement disponible dans ce rayon, vous apparaissez dans l'espace inoccupé le plus proche (choisi au hasard s'il y en a plusieurs à égale distance). Vous pouvez révoquer ce sort par une action.
 

@@ -1,41 +1,37 @@
 ---
-title: "Chef du culte de l'Ordre d'émeraude"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "Loyal Neutre ou Loyal Mauvais"
-challenge: "8"
+title: Chef du culte de l'Ordre d'émeraude
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: Loyal Neutre ou Loyal Mauvais
+challenge: '8'
 hitDiceCount: 18
-abilityScores:
-  for: 10
-  dex: 10
-  con: 14
-  int: 15
-  sag: 20
-  cha: 15
 savingThrows:
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "cuirasse"
+  - int
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "histoire"
-  - name: "religion"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: arcanes
+  - name: histoire
+  - name: religion
+  - name: supercherie
 damageTypeResistances:
-  - "feu"
-  - "foudre"
-  - "froid"
+  - feu
+  - foudre
+  - froid
 languages:
-  - "trois au choix"
-source: "Livre des monstres"
+  - trois au choix
+source: Livre des monstres
 source_page: 419
+abilityScores_for: 10
+abilityScores_dex: 10
+abilityScores_con: 14
+abilityScores_int: 15
+abilityScores_sag: 20
+abilityScores_cha: 15
+ac_armorType: cuirasse
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Clef de la prophétie**_. Le chef du culte de l'Ordre d'émeraude peut toujours agir lors d'un round de surprise, mais s'il ne remarque pas un ennemi, il est tout de même considéré comme surpris jusqu'à ce qu'il accomplisse une action. Il reçoit un bonus de +3 aux tests d'initiative.

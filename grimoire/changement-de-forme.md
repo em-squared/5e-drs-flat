@@ -1,23 +1,23 @@
 ---
-title: "Changement de forme"
-description: "Le PJ se métamorphose en une créature de son choix."
-school: "Transmutation"
+title: Changement de forme
+description: Le PJ se métamorphose en une créature de son choix.
+school: Transmutation
 level: 9
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un diadème de jade d'une valeur minimale de 1500 po, que vous devez coiffer avant de lancer le sort"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: personnelle
 ritual: false
 classes:
-    - Druide
-    - Magicien
-
-source: "Manuel des règles"
+  - Druide
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: >-
+  un diadème de jade d'une valeur minimale de 1500 po, que vous devez coiffer
+  avant de lancer le sort
 ---
 Vous prenez la forme d'une créature différente pendant toute la durée du sort. Vous pouvez revêtir l'apparence de n'importe quelle créature dotée d'un indice de dangerosité inférieur ou égal à votre niveau. En revanche, vous ne pouvez pas vous changer en une créature artificielle ni en mort-vivant, et vous devez avoir vu au moins une fois la créature que vous imitez. Vous vous changez en un spécimen ordinaire de cette créature, sans niveau de classe et sans l'aptitude incantations.
 

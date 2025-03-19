@@ -1,31 +1,27 @@
 ---
-title: "Amanite myconide"
-type: "Plante"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "4"
+title: Amanite myconide
+type: Plante
+size: M
+alignment: Neutre Mauvais
+challenge: '4'
 hitDiceCount: 12
-abilityScores:
-  for: 12
-  dex: 10
-  con: 16
-  int: 10
-  sag: 11
-  cha: 9
-ac:
-  armorType: "armure naturelle"
-  value: 5
-movement:
-  walk: 6
-senses:
-  darkvision: 18
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 14
+abilityScores_for: 12
+abilityScores_dex: 10
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 11
+abilityScores_cha: 9
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Spores de détresse**_. Quand une amanite myconide reçoit des dégâts, les autres myconides dans un rayon de 72 mètres sentent sa douleur.

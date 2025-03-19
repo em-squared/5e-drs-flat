@@ -1,25 +1,23 @@
 ---
-title: "Vague tonnante"
-description: "Les cibles subissent 2d8 dégâts et sont repoussées de 3 mètres."
-school: "Évocation"
+title: Vague tonnante
+description: Les cibles subissent 2d8 dégâts et sont repoussées de 3 mètres.
+school: Évocation
 level: 1
 concentration: false
-casting_time: "1 action"
-duration: "instantanée"
-range: "personnelle (cube de 4,50 mètres)"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: instantanée
+range: 'personnelle (cube de 4,50 mètres)'
 ritual: false
 classes:
-    - Barde
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Une vague de force tonnante émane de vous. Chaque créature située dans un cube de 4,50 mètres d'arête partant de vous doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Les créatures qui échouent subissent 2d8 dégâts de tonnerre et sont bousculées de 3 mètres en face de vous. Les autres subissent seulement la moitié des dégâts et ne sont pas bousculées.
 

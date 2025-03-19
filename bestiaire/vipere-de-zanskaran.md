@@ -1,32 +1,28 @@
 ---
-title: "Vipère de Zanskaran"
-type: "Bête"
-size: "G"
-alignment: "non-alignée"
-challenge: "1"
+title: Vipère de Zanskaran
+type: Bête
+size: G
+alignment: non-alignée
+challenge: '1'
 hitDiceCount: 4
-abilityScores:
-  for: 12
-  dex: 11
-  con: 18
-  int: 2
-  sag: 13
-  cha: 2
-ac: 
-  armorType: "armure naturelle"
-  value: 4
-movement: 
-  walk: 9
-  climb: 3
-  swim: 9
-senses: 
-  darkvision: 18
-languages: 
-  - "—"
+languages:
+  - —
 environments:
   - Collines / Vallées
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 361
+abilityScores_for: 12
+abilityScores_dex: 11
+abilityScores_con: 18
+abilityScores_int: 2
+abilityScores_sag: 13
+abilityScores_cha: 2
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+movement_climb: 3
+movement_swim: 9
+senses_darkvision: 18
 ---
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +3 pour toucher, allonge 1,50 m, une cible.  

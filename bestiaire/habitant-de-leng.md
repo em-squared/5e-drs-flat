@@ -1,40 +1,37 @@
 ---
-title: "Habitant de Leng"
-type: "Humanoïde"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "2"
+title: Habitant de Leng
+type: Humanoïde
+size: M
+alignment: Neutre Mauvais
+challenge: '2'
 hitDiceCount: 8
-abilityScores:
-  for: 12
-  dex: 15
-  con: 18
-  int: 14
-  sag: 16
-  cha: 22
 savingThrows:
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure de cuir clouté"
+  - dex
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
+  - name: arcanes
+  - name: perception
+  - name: supercherie
+senses: null
 conditionImmunities:
-  - "terrorise"
+  - terrorise
 damageTypeResistances:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "necrotique"
+  - necrotique
 languages:
-  - "commun"
-  - "langue du vide"
-source: "Livre des monstres"
+  - commun
+  - langue du vide
+source: Livre des monstres
 source_page: 233
+abilityScores_for: 12
+abilityScores_dex: 15
+abilityScores_con: 18
+abilityScores_int: 14
+abilityScores_sag: 16
+abilityScores_cha: 22
+ac_armorType: armure de cuir clouté
+movement_walk: 9
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un habitant de Leng est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

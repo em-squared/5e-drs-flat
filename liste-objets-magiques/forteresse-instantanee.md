@@ -1,10 +1,10 @@
 ---
-title: "Forteresse instantanée"
-type: "Objet merveilleux"
+title: Forteresse instantanée
+type: Objet merveilleux
 subtype: false
-rarity: "Rare"
+rarity: Rare
 attunement: false
-source: "Cadre de campagne"
+source: Cadre de campagne
 ---
 Vous pouvez utiliser une action pour poser ce tube de métal de 2,5 centimètres à terre et prononcer son mot de commande. Il grandit rapidement pour se muer en forteresse. Il reste sous cette forme jusqu'à ce que vous dépensiez une action pour prononcer le mot de commande permettant de la révoquer (ce qui fonctionne uniquement si elle est vide).
 

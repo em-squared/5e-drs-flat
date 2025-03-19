@@ -1,24 +1,22 @@
 ---
-title: "Détection des pensées"
-description: "Permet de lire les pensées de certaines créatures."
-school: "Divination"
+title: Détection des pensées
+description: Permet de lire les pensées de certaines créatures.
+school: Divination
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "personnelle"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "une pièce de cuivre"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: personnelle
 ritual: false
 classes:
-    - Barde
-    - Ensorceleur/Sorcelame
-    - Magicien
-
-source: "Manuel des règles"
+  - Barde
+  - Ensorceleur/Sorcelame
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: une pièce de cuivre
 ---
 Pendant toute la durée du sort, vous parvenez à lire les pensées de certaines créatures. Quand vous lancez ce sort, puis en tant qu'action à votre tour jusqu'à la fin du sort, vous pouvez focaliser vos pensées sur une créature située à moins de 9 mètres dans votre champ de vision. Si elle dispose d'une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée.
 

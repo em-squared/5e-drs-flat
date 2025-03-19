@@ -1,35 +1,20 @@
 ---
-title: "Bête d'ombre"
-type: "Fée"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "7"
+title: Bête d'ombre
+type: Fée
+size: M
+alignment: Chaotique Mauvais
+challenge: '7'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 18
-  con: 17
-  int: 14
-  sag: 14
-  cha: 19
 savingThrows:
-  - "dex"
-  - "con"
-ac:
-  armorType: null
+  - dex
+  - con
 skills:
-  - name: "discretion"
-movement:
-  walk: 0
-  fly: 12
-  hover: true
-senses:
-  darkvision: 18
+  - name: discretion
 languages:
-  - "commun"
-  - "elfique"
-  - "umbral"
-  - "langue du Vide"
+  - commun
+  - elfique
+  - umbral
+  - langue du Vide
 environments:
   - Bois / Forêt
   - Mer / Océan
@@ -39,8 +24,19 @@ dungeonTypes:
   - Ruines extérieures
   - Ruines souterraines
   - Ruines sous-marines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 41
+abilityScores_for: 20
+abilityScores_dex: 18
+abilityScores_con: 17
+abilityScores_int: 14
+abilityScores_sag: 14
+abilityScores_cha: 19
+ac_armorType: null
+movement_walk: 0
+movement_fly: 12
+movement_hover: true
+senses_darkvision: 18
 ---
 ## Capacités
 _**Informe**_. La bête d'ombre peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.

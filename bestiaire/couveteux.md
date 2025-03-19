@@ -1,45 +1,41 @@
 ---
-title: "Couveteux"
-type: "Créature artificielle"
-size: "TP"
-alignment: "Neutre"
-challenge: "1"
+title: Couveteux
+type: Créature artificielle
+size: TP
+alignment: Neutre
+challenge: '1'
 hitDiceCount: 10
-abilityScores:
-  for: 8
-  dex: 14
-  con: 16
-  int: 2
-  sag: 10
-  cha: 6
-ac:
-  armorType: "armure naturelle"
-  value: 1
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 6
-  climb: 6
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "petrifie"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - petrifie
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "—"
-source: "Livre des monstres"
+  - —
+source: Livre des monstres
 source_page: 69
+abilityScores_for: 8
+abilityScores_dex: 14
+abilityScores_con: 16
+abilityScores_int: 2
+abilityScores_sag: 10
+abilityScores_cha: 6
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 6
+movement_climb: 6
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme immuable**_. Un couveteux est immunisé à tous les sorts ou effets susceptible d'altérer sa forme.

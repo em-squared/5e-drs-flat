@@ -1,52 +1,48 @@
 ---
-title: "Diable lunaire"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "8"
+title: Diable lunaire
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '8'
 hitDiceCount: 9
-abilityScores:
-  for: 21
-  dex: 21
-  con: 20
-  int: 16
-  sag: 15
-  cha: 18
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 1
+  - for
+  - dex
+  - con
+  - sag
 skills:
-  - name: "perception"
-movement:
-  walk: 12
-  fly: 18
-  hover: true
-  special: "marche sur la lumière 24 m"
-senses:
-  darkvision: 36
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "céleste"
-  - "draconique"
-  - "elfique"
-  - "infernal"
-  - "sylvestre"
+  - céleste
+  - draconique
+  - elfique
+  - infernal
+  - sylvestre
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 114
+abilityScores_for: 21
+abilityScores_dex: 21
+abilityScores_con: 20
+abilityScores_int: 16
+abilityScores_sag: 15
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 12
+movement_fly: 18
+movement_hover: true
+movement_special: marche sur la lumière 24 m
+senses_darkvision: 36
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

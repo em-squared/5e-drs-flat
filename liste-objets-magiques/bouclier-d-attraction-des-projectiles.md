@@ -1,10 +1,10 @@
 ---
-title: "Bouclier d'attraction des projectiles"
-type: "Armure"
-subtype: "Bouclier"
-rarity: "Rare"
-attunement: "harmonisation requise"
-source: "Cadre de campagne"
+title: Bouclier d'attraction des projectiles
+type: Armure
+subtype: Bouclier
+rarity: Rare
+attunement: harmonisation requise
+source: Cadre de campagne
 ---
 Tant que vous tenez ce bouclier, vous bénéficiez d'une résistance contre les dégâts infligés par les attaques d'armes à distance.
 

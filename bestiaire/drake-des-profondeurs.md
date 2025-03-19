@@ -1,49 +1,45 @@
 ---
-title: "Drake des profondeurs"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "9"
+title: Drake des profondeurs
+type: Dragon
+size: G
+alignment: Chaotique Mauvais
+challenge: '9'
 hitDiceCount: 20
-abilityScores:
-  for: 21
-  dex: 19
-  con: 14
-  int: 11
-  sag: 14
-  cha: 12
 savingThrows:
-  - "dex"
-  - "con"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - con
 skills:
-  - name: "athletisme"
-  - name: "perception"
-  - name: "perspicacite"
-movement:
-  walk: 15
-  climb: 9
-  fly: 30
-senses:
-  blindsight: 18
-  darkvision: 36
+  - name: athletisme
+  - name: perception
+  - name: perspicacite
 conditionImmunities:
-  - "inconscient"
-  - "paralyse"
+  - inconscient
+  - paralyse
 damageTypeImmunities:
-  - "necrotique"
+  - necrotique
 languages:
-  - "commun"
-  - "commun des profondeurs"
-  - "darakhul"
-  - "draconique"
+  - commun
+  - commun des profondeurs
+  - darakhul
+  - draconique
 dungeonTypes:
   - Caverne naturelle
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 154
+abilityScores_for: 21
+abilityScores_dex: 19
+abilityScores_con: 14
+abilityScores_int: 11
+abilityScores_sag: 14
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 15
+movement_climb: 9
+movement_fly: 30
+senses_blindsight: 18
+senses_darkvision: 36
 ---
 ## Capacités
 _**Résistance à la magie**_. Le drake est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

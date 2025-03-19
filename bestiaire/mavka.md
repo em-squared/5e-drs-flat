@@ -1,47 +1,43 @@
 ---
-title: "Mavka"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "12"
+title: Mavka
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '12'
 hitDiceCount: 20
-abilityScores:
-  for: 20
-  dex: 15
-  con: 18
-  int: 13
-  sag: 13
-  cha: 18
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - for
+  - dex
+  - con
+  - cha
 skills:
-  - name: "athletisme"
-  - name: "nature"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 27
+  - name: athletisme
+  - name: nature
+  - name: perception
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "necrotique"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - necrotique
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "foudre"
-  - "froid"
+  - foudre
+  - froid
 languages:
-  - "commun"
-  - "infernal"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - infernal
+  - sylvestre
+source: Livre des monstres
 source_page: 289
+abilityScores_for: 20
+abilityScores_dex: 15
+abilityScores_con: 18
+abilityScores_int: 13
+abilityScores_sag: 13
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 9
+senses_darkvision: 27
 ---
 ## Capacités
 _**Incantation innée**_. La mavka utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 16, +8 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :

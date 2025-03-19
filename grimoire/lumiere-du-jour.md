@@ -1,26 +1,24 @@
 ---
-title: "Lumière du jour"
-description: "Crée une sphère de lumière vive."
-school: "Évocation"
+title: Lumière du jour
+description: Crée une sphère de lumière vive.
+school: Évocation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "1 heure"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 1 heure
+range: 18 mètres
 ritual: false
 classes:
-    - Clerc
-    - Druide
-    - Ensorceleur/Sorcelame
-    - Paladin
-    - Rôdeur
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+  - Ensorceleur/Sorcelame
+  - Paladin
+  - Rôdeur
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Une sphère de lumière de 18 mètres de rayon s'étend depuis un point de votre choix situé à portée. Elle émet une lumière vive dans ce rayon et une lumière faible dans un rayon additionnel de 18 mètres.
 

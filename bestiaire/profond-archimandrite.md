@@ -1,48 +1,44 @@
 ---
-title: "Profond, Archimandrite"
-type: "Humanoïde"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "8"
+title: 'Profond, Archimandrite'
+type: Humanoïde
+size: G
+alignment: Chaotique Mauvais
+challenge: '8'
 hitDiceCount: 18
-abilityScores:
-  for: 20
-  dex: 15
-  con: 17
-  int: 12
-  sag: 17
-  cha: 19
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "arcanes"
-  - name: "perception"
-movement:
-  walk: 12
-  swim: 12
-senses:
-  darkvision: 72
+  - name: arcanes
+  - name: perception
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 damageTypeResistances:
-  - "froid"
-  - "tonnerre"
+  - froid
+  - tonnerre
 languages:
-  - "commun"
-  - "langue du Vide"
+  - commun
+  - langue du Vide
 environments:
   - Littoral
   - Mer / Océan
 dungeonTypes:
   - Caverne sous-marine
   - Ruines sous-marines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 343
+abilityScores_for: 20
+abilityScores_dex: 15
+abilityScores_con: 17
+abilityScores_int: 12
+abilityScores_sag: 17
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+movement_swim: 12
+senses_darkvision: 72
 ---
 ## Capacités
 _**Amphibie**_. Un profond peut respirer aussi facilement dans l'eau que dans l'air.

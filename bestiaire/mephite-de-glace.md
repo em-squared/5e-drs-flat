@@ -1,44 +1,40 @@
 ---
-title: "Méphite de glace"
-type: "Élémentaire"
-size: "P"
-alignment: "Neutre Mauvais"
-challenge: "0.5"
+title: Méphite de glace
+type: Élémentaire
+size: P
+alignment: Neutre Mauvais
+challenge: '0.5'
 hitDiceCount: 6
-abilityScores:
-  for: 7
-  dex: 13
-  con: 10
-  int: 9
-  sag: 11
-  cha: 12
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-  fly: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeVulnerabilities:
-  - "contondant"
-  - "feu"
+  - contondant
+  - feu
 damageTypeImmunities:
-  - "froid"
-  - "poison"
+  - froid
+  - poison
 languages:
-  - "aérien"
-  - "aquatique"
+  - aérien
+  - aquatique
 environments:
   - Arctique / Subarctique
   - Montagnes
   - Plans élémentaires
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 218
+abilityScores_for: 7
+abilityScores_dex: 13
+abilityScores_con: 10
+abilityScores_int: 9
+abilityScores_sag: 11
+abilityScores_cha: 12
+ac_armorType: null
+movement_walk: 9
+movement_fly: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en une gerbe d'éclats de glace coupants. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 10 ; elles subissent 4 (1d8) dégâts tranchants en cas de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) raté et la moitié de ces dégâts seulement en cas de réussite.

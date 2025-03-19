@@ -1,55 +1,51 @@
 ---
-title: "Bouffon macabre"
-type: "Mort-vivant"
-size: "M"
-alignment: "Chaotique Mauvais"
-challenge: "11"
+title: Bouffon macabre
+type: Mort-vivant
+size: M
+alignment: Chaotique Mauvais
+challenge: '11'
 hitDiceCount: 16
-abilityScores:
-  for: 14
-  dex: 22
-  con: 18
-  int: 16
-  sag: 16
-  cha: 20
 savingThrows:
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "discretion"
-  - name: "escamotage"
-  - name: "perception"
-  - name: "representation"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: acrobaties
+  - name: discretion
+  - name: escamotage
+  - name: perception
+  - name: representation
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "paralyse"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - paralyse
+  - terrorise
 damageTypeResistances:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "necrotique"
-  - "poison"
-  - "c-p-t-non-magique"
+  - necrotique
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "abyssal"
-  - "céleste"
-  - "commun"
-  - "gnome"
+  - abyssal
+  - céleste
+  - commun
+  - gnome
 telepathy: 18
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 49
+abilityScores_for: 14
+abilityScores_dex: 22
+abilityScores_con: 18
+abilityScores_int: 16
+abilityScores_sag: 16
+abilityScores_cha: 20
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Incantation innée**_. Le bouffon utilise le Charisme comme caractéristique d'incantation (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes :

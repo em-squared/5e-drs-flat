@@ -1,58 +1,54 @@
 ---
-title: "Oiseau de feu"
-type: "Céleste"
-size: "P"
-alignment: "Neutre Bon"
-challenge: "4"
+title: Oiseau de feu
+type: Céleste
+size: P
+alignment: Neutre Bon
+challenge: '4'
 hitDiceCount: 18
-abilityScores:
-  for: 12
-  dex: 19
-  con: 14
-  int: 16
-  sag: 15
-  cha: 21
 savingThrows:
-  - "dex"
-  - "con"
-  - "int"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 2
+  - dex
+  - con
+  - int
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "arcanes"
-  - name: "medecine"
-  - name: "nature"
-  - name: "perception"
+  - name: acrobaties
+  - name: arcanes
+  - name: medecine
+  - name: nature
+  - name: perception
     invalid: true
     value: 7
-  - name: "perspicacite"
-  - name: "religion"
-movement:
-  walk: 6
-  fly: 30
-senses:
-  truesight: 18
+  - name: perspicacite
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "invisible"
-  - "terrorise"
+  - charme
+  - invisible
+  - terrorise
 damageTypeResistances:
-  - "foudre"
-  - "c-p-t-non-magique"
+  - foudre
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "feu"
+  - feu
 languages:
-  - "céleste"
-  - "commun"
-  - "elfique"
-  - "primordial"
-  - "sylvestre"
-source: "Livre des monstres"
+  - céleste
+  - commun
+  - elfique
+  - primordial
+  - sylvestre
+source: Livre des monstres
 source_page: 334
+abilityScores_for: 12
+abilityScores_dex: 19
+abilityScores_con: 14
+abilityScores_int: 16
+abilityScores_sag: 15
+abilityScores_cha: 21
+ac_armorType: armure naturelle
+ac_value: 2
+movement_walk: 6
+movement_fly: 30
+senses_truesight: 18
 ---
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un oiseau de feu est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :

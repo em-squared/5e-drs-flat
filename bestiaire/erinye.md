@@ -1,43 +1,39 @@
 ---
-title: "Érinye"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "12"
+title: Érinye
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '12'
 hitDiceCount: 18
-abilityScores:
-  for: 18
-  dex: 16
-  con: 18
-  int: 14
-  sag: 14
-  cha: 18
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "harnois"
-movement:
-  walk: 9
-  fly: 18
-senses:
-  truesight: 36
+  - dex
+  - con
+  - sag
+  - cha
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "infernal"
+  - infernal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 71
+abilityScores_for: 18
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 14
+abilityScores_sag: 14
+abilityScores_cha: 18
+ac_armorType: harnois
+movement_walk: 9
+movement_fly: 18
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes infernales**_. Les attaques d'arme de l'érinye sont magiques et infligent 13 (3d8) dégâts de poison supplémentaires en cas d'attaque réussie (déjà comptabilisés dans ses attaques).

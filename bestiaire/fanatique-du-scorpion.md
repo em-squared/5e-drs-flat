@@ -1,37 +1,33 @@
 ---
-title: "Fanatique du scorpion"
-type: "Humanoïde"
-subtype: "n'importe quelle race"
-size: "M"
-alignment: "Neutre"
-challenge: "0.5"
+title: Fanatique du scorpion
+type: Humanoïde
+subtype: n'importe quelle race
+size: M
+alignment: Neutre
+challenge: '0.5'
 hitDiceCount: 3
-abilityScores:
-  for: 11
-  dex: 14
-  con: 15
-  int: 10
-  sag: 13
-  cha: 10
-ac:
-  armorType: "armure de cuir"
 skills:
-  - name: "discretion"
-  - name: "dressage"
+  - name: discretion
+  - name: dressage
     invalid: true
     value: 2
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 9
-senses:
-  customPassivePerception: 15
+  - name: perception
+  - name: supercherie
 damageTypeResistances:
-  - "poison"
+  - poison
 languages:
-  - "commun"
-source: "Livre des monstres"
+  - commun
+source: Livre des monstres
 source_page: 422
+abilityScores_for: 11
+abilityScores_dex: 14
+abilityScores_con: 15
+abilityScores_int: 10
+abilityScores_sag: 13
+abilityScores_cha: 10
+ac_armorType: armure de cuir
+movement_walk: 9
+senses_customPassivePerception: 15
 ---
 ## Capacités
 _**Sens aiguisés**_. Le fanatique du scorpion est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception).

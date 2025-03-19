@@ -1,47 +1,43 @@
 ---
-title: "Roi des Ours"
-type: "Fée"
-subtype: "Métamorphe"
-size: "M"
-alignment: "Loyal Neutre"
-challenge: "12"
+title: Roi des Ours
+type: Fée
+subtype: Métamorphe
+size: M
+alignment: Loyal Neutre
+challenge: '12'
 hitDiceCount: 14
-abilityScores:
-  for: 21
-  dex: 10
-  con: 20
-  int: 12
-  sag: 17
-  cha: 16
 savingThrows:
-  - "for"
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 8
+  - for
+  - dex
+  - sag
 skills:
-  - name: "athletisme"
-  - name: "intimidation"
-  - name: "perception"
-movement:
-  walk: 12
-senses:
-  darkvision: 18
+  - name: athletisme
+  - name: intimidation
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "poison"
-  - "c-p-t-non-fer-froid"
+  - poison
+  - c-p-t-non-fer-froid
 languages:
-  - "commun"
-  - "elfique"
-  - "géant"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - géant
+  - sylvestre
+source: Livre des monstres
 source_page: 190
+abilityScores_for: 21
+abilityScores_dex: 10
+abilityScores_con: 20
+abilityScores_int: 12
+abilityScores_sag: 17
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Forme alternative**_. Par une action bonus, le Roi des Ours peut prendre la forme d'un grizzly hirsute ou une forme hybride entre l'humain et l'ours. Dans sa forme alternative, la taille du Roi des Ours devient Grande et il peut faire des attaques de _morsure_ et de _griffes_. Il conserve cette forme jusqu'à ce qu'il reprenne forme humaine par une action bonus, qu'il perde conscience ou qu'il meure.

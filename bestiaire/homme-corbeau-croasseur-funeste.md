@@ -1,41 +1,37 @@
 ---
-title: "Homme-corbeau, croasseur funeste"
-type: "Humanoïde"
-subtype: "homme-corbeau"
-size: "M"
-alignment: "Neutre"
-challenge: "5"
+title: 'Homme-corbeau, croasseur funeste'
+type: Humanoïde
+subtype: homme-corbeau
+size: M
+alignment: Neutre
+challenge: '5'
 hitDiceCount: 16
-abilityScores:
-  for: 10
-  dex: 14
-  con: 12
-  int: 12
-  sag: 18
-  cha: 14
 savingThrows:
-  - "for"
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure de cuir clouté"
+  - for
+  - dex
+  - sag
 skills:
-  - name: "intimidation"
-  - name: "perception"
+  - name: intimidation
+  - name: perception
     isExpert: true
-movement:
-  walk: 9
-senses:
-  darkvision: 36
 languages:
-  - "commun"
-  - "huginn"
-  - "langage des plumes"
+  - commun
+  - huginn
+  - langage des plumes
 environments:
   - Bois / Forêt
   - Collines / Vallées
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 241
+abilityScores_for: 10
+abilityScores_dex: 14
+abilityScores_con: 12
+abilityScores_int: 12
+abilityScores_sag: 18
+abilityScores_cha: 14
+ac_armorType: armure de cuir clouté
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Imitation**_. Un croasseur funeste homme-corbeau imite la voix d'autrui à la perfection. Il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Charisme (Supercherie) impliquant une imitation sonore.

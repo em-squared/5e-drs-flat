@@ -1,43 +1,39 @@
 ---
-title: "Chélicère"
-type: "Aberration"
-size: "G"
-alignment: "Neutre Mauvais"
-challenge: "7"
+title: Chélicère
+type: Aberration
+size: G
+alignment: Neutre Mauvais
+challenge: '7'
 hitDiceCount: 18
-abilityScores:
-  for: 22
-  dex: 17
-  con: 17
-  int: 14
-  sag: 15
-  cha: 14
 savingThrows:
-  - "dex"
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 3
+  - dex
+  - sag
+  - cha
 skills:
-  - name: "acrobaties"
-  - name: "athletisme"
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 12
-  climb: 9
-senses:
-  darkvision: 18
+  - name: acrobaties
+  - name: athletisme
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
+  - charme
+  - empoisonne
 damageTypeImmunities:
-  - "poison"
+  - poison
 languages:
-  - "—"
-source: "Livre des monstres"
+  - —
+source: Livre des monstres
 source_page: 57
+abilityScores_for: 22
+abilityScores_dex: 17
+abilityScores_con: 17
+abilityScores_int: 14
+abilityScores_sag: 15
+abilityScores_cha: 14
+ac_armorType: armure naturelle
+ac_value: 3
+movement_walk: 12
+movement_climb: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Résistance à la magie**_. Une chélicère est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.

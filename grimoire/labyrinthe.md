@@ -1,22 +1,20 @@
 ---
-title: "Labyrinthe"
-description: "Bannit une créature dans un demi-plan labyrinthique."
-school: "Invocation"
+title: Labyrinthe
+description: Bannit une créature dans un demi-plan labyrinthique.
+school: Invocation
 level: 8
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 18 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous bannissez une créature située à portée et dans votre champ de vision dans un demi-plan labyrinthique. La cible y reste pendant toute la durée du sort, ou jusqu'à ce qu'elle s'échappe du dédale.
 

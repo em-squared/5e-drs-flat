@@ -1,39 +1,35 @@
 ---
-title: "Enfant des bruyères"
-type: "Plante"
-size: "TP"
-alignment: "Neutre Mauvais"
-challenge: "1"
+title: Enfant des bruyères
+type: Plante
+size: TP
+alignment: Neutre Mauvais
+challenge: '1'
 hitDiceCount: 20
-abilityScores:
-  for: 6
-  dex: 17
-  con: 11
-  int: 13
-  sag: 10
-  cha: 14
-ac:
-  armorType: null
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
+  - name: perception
     isExpert: true
-movement:
-  walk: 6
-  climb: 3
-senses:
-  darkvision: 18
 damageTypeVulnerabilities:
-  - "feu"
+  - feu
 languages:
-  - "cliquebruyère"
-  - "commun"
-  - "sylvestre"
+  - cliquebruyère
+  - commun
+  - sylvestre
 environments:
   - Bois / Forêt
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 171
+abilityScores_for: 6
+abilityScores_dex: 17
+abilityScores_con: 11
+abilityScores_int: 13
+abilityScores_sag: 10
+abilityScores_cha: 14
+ac_armorType: null
+movement_walk: 6
+movement_climb: 3
+senses_darkvision: 18
 ---
 ## Capacités
 _**Sang féérique**_. Les enfants des bruyères sont considérés à la fois comme des plantes et des fées pour tout effet visant l'un de ces types.

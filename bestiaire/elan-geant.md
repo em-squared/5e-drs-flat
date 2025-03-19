@@ -1,33 +1,30 @@
 ---
-title: "Élan géant"
-type: "Bête"
-size: "TG"
-alignment: "non-alignée"
-challenge: "2"
+title: Élan géant
+type: Bête
+size: TG
+alignment: non-alignée
+challenge: '2'
 hitDiceCount: 5
-abilityScores:
-  for: 19
-  dex: 16
-  con: 14
-  int: 7
-  sag: 14
-  cha: 10
-ac: 
-  armorType: "armure naturelle"
-  value: 1
-skills: 
-  - name: "perception"
-movement: 
-  walk: 18
-senses: 
-languages: 
-  - "élan géant"
-  - "comprend le commun"
-  - "l'elfe et le sylvestre mais ne peut pas les parler"
+skills:
+  - name: perception
+senses: null
+languages:
+  - élan géant
+  - comprend le commun
+  - l'elfe et le sylvestre mais ne peut pas les parler
 environments:
   - Arctique / Subarctique
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 305
+abilityScores_for: 19
+abilityScores_dex: 16
+abilityScores_con: 14
+abilityScores_int: 7
+abilityScores_sag: 14
+abilityScores_cha: 10
+ac_armorType: armure naturelle
+ac_value: 1
+movement_walk: 18
 ---
 ## Capacités
 _**Charge**_. Si l'élan se déplace en ligne droite sur une distance minimale de 6 mètres vers une cible contre laquelle il réussit ensuite une attaque de coup de bélier lors du même tour, celle-ci subit 7 (2d6) dégâts contondants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

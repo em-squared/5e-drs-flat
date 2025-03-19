@@ -1,43 +1,39 @@
 ---
-title: "Diantrefosse"
-type: "Fiélon"
-subtype: "Diable"
-size: "G"
-alignment: "Loyal Mauvais"
-challenge: "20"
+title: Diantrefosse
+type: Fiélon
+subtype: Diable
+size: G
+alignment: Loyal Mauvais
+challenge: '20'
 hitDiceCount: 24
-abilityScores:
-  for: 26
-  dex: 14
-  con: 24
-  int: 22
-  sag: 18
-  cha: 24
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 7
-movement:
-  walk: 9
-  fly: 18
-senses:
-  truesight: 36
+  - dex
+  - con
+  - sag
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "froid"
-  - "c-p-t-non-argent"
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "infernal"
+  - infernal
 telepathy: 36
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 69
+abilityScores_for: 26
+abilityScores_dex: 14
+abilityScores_con: 24
+abilityScores_int: 22
+abilityScores_sag: 18
+abilityScores_cha: 24
+ac_armorType: armure naturelle
+ac_value: 7
+movement_walk: 9
+movement_fly: 18
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du diantrefosse sont magiques.

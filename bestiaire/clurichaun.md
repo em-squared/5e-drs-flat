@@ -1,38 +1,34 @@
 ---
-title: "Clurichaun"
-type: "Fée"
-size: "TP"
-alignment: "Neutre"
-challenge: "0.25"
+title: Clurichaun
+type: Fée
+size: TP
+alignment: Neutre
+challenge: '0.25'
 hitDiceCount: 4
-abilityScores:
-  for: 13
-  dex: 12
-  con: 16
-  int: 10
-  sag: 8
-  cha: 16
 savingThrows:
-  - "con"
-ac:
-  armorType: "custom"
-  value: "14"
+  - con
 skills:
-  - name: "discretion"
-  - name: "perception"
-movement:
-  walk: 9
-senses:
-  darkvision: 18
+  - name: discretion
+  - name: perception
 conditionImmunities:
-  - "empoisonne"
-  - "terrorise"
+  - empoisonne
+  - terrorise
 languages:
-  - "commun"
-  - "elfique"
-  - "sylvestre"
-source: "Livre des monstres"
+  - commun
+  - elfique
+  - sylvestre
+source: Livre des monstres
 source_page: 65
+abilityScores_for: 13
+abilityScores_dex: 12
+abilityScores_con: 16
+abilityScores_int: 10
+abilityScores_sag: 8
+abilityScores_cha: 16
+ac_armorType: custom
+ac_value: '14'
+movement_walk: 9
+senses_darkvision: 18
 ---
 ## Capacités
 _**Chance du clurichaun**_. Les clurichauns ajoutent leurs modificateurs de Dextérité et de Charisme à leur classe d'armure.

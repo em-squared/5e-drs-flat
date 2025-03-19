@@ -1,47 +1,43 @@
 ---
-title: "Dragon rouge, jeune"
-type: "Dragon"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "10"
+title: 'Dragon rouge, jeune'
+type: Dragon
+size: G
+alignment: Chaotique Mauvais
+challenge: '10'
 hitDiceCount: 17
-abilityScores:
-  for: 23
-  dex: 10
-  con: 21
-  int: 14
-  sag: 11
-  cha: 19
-savingThrows: 
-  - "dex"
-  - "con"
-  - "sag"
-  - "cha"
-ac: 
-  armorType: "armure naturelle"
-  value: 8
-skills: 
-  - name: "discretion"
-  - name: "perception"
+savingThrows:
+  - dex
+  - con
+  - sag
+  - cha
+skills:
+  - name: discretion
+  - name: perception
     isExpert: true
-movement: 
-  walk: 12
-  climb: 12
-  fly: 24
-senses: 
-  blindsight: 9
-  darkvision: 36
-damageTypeImmunities: 
-  - "feu"
-languages: 
-  - "commun"
-  - "draconique"
+damageTypeImmunities:
+  - feu
+languages:
+  - commun
+  - draconique
 environments:
   - Montagnes
 dungeonTypes:
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 95
+abilityScores_for: 23
+abilityScores_dex: 10
+abilityScores_con: 21
+abilityScores_int: 14
+abilityScores_sag: 11
+abilityScores_cha: 19
+ac_armorType: armure naturelle
+ac_value: 8
+movement_walk: 12
+movement_climb: 12
+movement_fly: 24
+senses_blindsight: 9
+senses_darkvision: 36
 ---
 ## Actions
 _**Attaques multiples**_. Le dragon effectue trois attaques : une avec sa morsure et deux avec ses griffes.

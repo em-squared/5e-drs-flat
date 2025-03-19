@@ -1,48 +1,44 @@
 ---
-title: "Diable cristallin"
-type: "Fiélon"
-subtype: "Diable"
-size: "M"
-alignment: "Loyal Mauvais"
-challenge: "6"
+title: Diable cristallin
+type: Fiélon
+subtype: Diable
+size: M
+alignment: Loyal Mauvais
+challenge: '6'
 hitDiceCount: 12
-abilityScores:
-  for: 18
-  dex: 12
-  con: 18
-  int: 14
-  sag: 13
-  cha: 15
 savingThrows:
-  - "sag"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - sag
+  - cha
 skills:
-  - name: "perspicacite"
-  - name: "supercherie"
+  - name: perspicacite
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 9
-senses:
-  darkvision: 36
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "froid"
-  - "c-p-t-non-argent"
+  - acide
+  - froid
+  - c-p-t-non-argent
 damageTypeImmunities:
-  - "feu"
-  - "poison"
+  - feu
+  - poison
 languages:
-  - "céleste"
-  - "commun"
-  - "infernal"
+  - céleste
+  - commun
+  - infernal
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 108
+abilityScores_for: 18
+abilityScores_dex: 12
+abilityScores_con: 18
+abilityScores_int: 14
+abilityScores_sag: 13
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Vue du diable**_. Les ténèbres magiques ne gênent pas la vision dans le noir du diable.

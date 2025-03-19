@@ -1,24 +1,23 @@
 ---
 title: Amélioration de caractéristique
-description: "Une des caractéristiques de la cible est augmentée."
+description: Une des caractéristiques de la cible est augmentée.
 school: Transmutation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 heure"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "des poils ou des plumes venant d'un animal"
+casting_time: 1 action
+duration: jusqu'à 1 heure
+range: contact
 classes:
   - Barde
   - Clerc
   - Druide
   - Ensorceleur/Sorcelame
 ritual: false
-source: "Manuel des règles"
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: des poils ou des plumes venant d'un animal
 ---
 Vous touchez une créature pour lui accorder une amélioration magique. Choisissez l'un des effets suivants, dont la cible bénéficiera jusqu'à la fin du sort.
 

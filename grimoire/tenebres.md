@@ -1,25 +1,23 @@
 ---
-title: "Ténèbres"
-description: "Sphère de 4,50 mètres plongée dans le noir complet."
-school: "Évocation"
+title: Ténèbres
+description: 'Sphère de 4,50 mètres plongée dans le noir complet.'
+school: Évocation
 level: 2
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 10 minutes"
-range: "18 mètres"
-components:
-  verbal: true
-  somatic: false
-  material: true
-  materials: "des poils de chauve-souris et une goutte de poix ou un bout de charbon"
+casting_time: 1 action
+duration: jusqu'à 10 minutes
+range: 18 mètres
 ritual: false
 classes:
-    - Ensorceleur/Sorcelame
-    - Magicien
-    - Ombrelame
-    - Sorcier
-
-source: "Manuel des règles"
+  - Ensorceleur/Sorcelame
+  - Magicien
+  - Ombrelame
+  - Sorcier
+source: Manuel des règles
+components_verbal: true
+components_somatic: false
+components_material: true
+components_materials: des poils de chauve-souris et une goutte de poix ou un bout de charbon
 ---
 Des ténèbres magiques se répandent depuis un point de votre choix situé à portée, jusqu'à englober une sphère de 4,50 mètres de rayon. Les ténèbres s'étendent en franchissant tout angle éventuel. La vision dans le noir d'une créature ne suffit pas à percer ces ténèbres et les lumières non-magiques se révèlent incapables de les éclairer.
 

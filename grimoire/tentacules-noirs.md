@@ -1,22 +1,22 @@
 ---
-title: "Tentacules noirs"
-description: "Invoque des tentacules qui <em>entravent</em> les créatures et infligent 3d6 dégâts."
-school: "Invocation"
+title: Tentacules noirs
+description: >-
+  Invoque des tentacules qui <em>entravent</em> les créatures et infligent 3d6
+  dégâts.
+school: Invocation
 level: 4
 concentration: true
-casting_time: "1 action"
-duration: "jusqu'à 1 minute"
-range: "27 mètres"
-components:
-  verbal: true
-  somatic: true
-  material: true
-  materials: "un bout de tentacule appartenant à une pieuvre ou un calmar géant"
+casting_time: 1 action
+duration: jusqu'à 1 minute
+range: 27 mètres
 ritual: false
 classes:
-    - Magicien
-
-source: "Manuel des règles"
+  - Magicien
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: true
+components_materials: un bout de tentacule appartenant à une pieuvre ou un calmar géant
 ---
 Des tentacules noirs grouillants envahissent le sol d'un emplacement de 6 mètres de côté situé à portée et dans votre champ de vision. Pendant toute la durée du sort, ils transforment la zone en terrain difficile.
 

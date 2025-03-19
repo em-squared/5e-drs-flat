@@ -1,23 +1,21 @@
 ---
-title: "Fusion dans la pierre"
-description: "Le PJ peut se fondre dans la pierre."
-school: "Transmutation"
+title: Fusion dans la pierre
+description: Le PJ peut se fondre dans la pierre.
+school: Transmutation
 level: 3
 concentration: false
-casting_time: "1 action"
-duration: "8 heures"
-range: "contact"
-components:
-  verbal: true
-  somatic: true
-  material: false
-  materials: ""
+casting_time: 1 action
+duration: 8 heures
+range: contact
 ritual: true
 classes:
-    - Clerc
-    - Druide
-
-source: "Manuel des règles"
+  - Clerc
+  - Druide
+source: Manuel des règles
+components_verbal: true
+components_somatic: true
+components_material: false
+components_materials: ''
 ---
 Vous entrez dans un objet ou une surface de pierre assez grande pour contenir entièrement votre corps, votre personne et votre équipement fusionnant avec la pierre pendant toute la durée du sort. Vous utilisez votre déplacement pour entrer dans la pierre en un point que vous êtes en mesure de toucher. Il ne reste alors rien de visible ni de détectable indiquant votre présence pour des sens non-magiques.
 

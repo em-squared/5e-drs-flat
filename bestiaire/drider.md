@@ -1,37 +1,33 @@
 ---
-title: "Drider"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Chaotique Mauvais"
-challenge: "6"
+title: Drider
+type: Créature monstrueuse
+size: G
+alignment: Chaotique Mauvais
+challenge: '6'
 hitDiceCount: 13
-abilityScores:
-  for: 16
-  dex: 16
-  con: 18
-  int: 13
-  sag: 14
-  cha: 12
-ac:
-  armorType: "armure naturelle"
-  value: 6
 skills:
-  - name: "discretion"
+  - name: discretion
     isExpert: true
-  - name: "perception"
-movement:
-  walk: 9
-  climb: 9
-senses:
-  darkvision: 36
+  - name: perception
 languages:
-  - "commun des profondeurs"
-  - "elfe"
+  - commun des profondeurs
+  - elfe
 dungeonTypes:
   - Caverne aménagée
   - Ruines souterraines
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 128
+abilityScores_for: 16
+abilityScores_dex: 16
+abilityScores_con: 18
+abilityScores_int: 13
+abilityScores_sag: 14
+abilityScores_cha: 12
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 9
+movement_climb: 9
+senses_darkvision: 36
 ---
 ## Capacités
 _**Ascendance féerique**_. Le drider obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.

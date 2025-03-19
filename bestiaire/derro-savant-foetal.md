@@ -1,43 +1,39 @@
 ---
-title: "Derro, savant fœtal"
-type: "Humanoïde"
-subtype: "Derro"
-size: "TP"
-alignment: "Chaotique Mauvais"
-challenge: "4"
+title: 'Derro, savant fœtal'
+type: Humanoïde
+subtype: Derro
+size: TP
+alignment: Chaotique Mauvais
+challenge: '4'
 hitDiceCount: 4
-abilityScores:
-  for: 1
-  dex: 1
-  con: 6
-  int: 6
-  sag: 12
-  cha: 20
 savingThrows:
-  - "sag"
-  - "cha"
-ac:
-  armorType: "custom"
-  value: "15 (cage)"
+  - sag
+  - cha
 skills:
-  - name: "perception"
-movement:
-  walk: 1,50
-  special: "(0 m en cage)"
-senses:
-  darkvision: 18
+  - name: perception
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeImmunities:
-  - "psychique"
+  - psychique
 languages:
-  - "—"
+  - —
 dungeonTypes:
   - Donjon maçonné
   - Ruines souterraines
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 95
+abilityScores_for: 1
+abilityScores_dex: 1
+abilityScores_con: 6
+abilityScores_int: 6
+abilityScores_sag: 12
+abilityScores_cha: 20
+ac_armorType: custom
+ac_value: 15 (cage)
+movement_walk: '1,50'
+movement_special: (0 m en cage)
+senses_darkvision: 18
 ---
 ## Capacités
 _**Cage enchantée**_. La cage de fer dans laquelle se trouve un savant fœtal lui confère un abri. La cage (CA 19, 10 pv) est considérée comme un objet équipé quand elle est portée par un derro et elle ne peut pas être directement ciblée par une attaque. En outre, la cage protège son occupant de 20 niveaux de sorts de sorts de niveau 4 ou inférieur. Elle ne confère cependant aucune protection aux créatures hors de la cage. Les sorts de niveau 5 ou supérieur fonctionnent normalement contre la cage et son occupant. Une fois que la cage a protégé son occupant contre 20 niveaux de sorts ou plus, elle devient non magique. Si elle est exposée à la lumière directe du soleil pendant un temps cumulé d'une heure, elle est détruite.

@@ -1,42 +1,27 @@
 ---
-title: "Sphinx, Gynosphinx"
-type: "Créature monstrueuse"
-size: "G"
-alignment: "Loyal Neutre"
-challenge: "11"
+title: 'Sphinx, Gynosphinx'
+type: Créature monstrueuse
+size: G
+alignment: Loyal Neutre
+challenge: '11'
 hitDiceCount: 16
-abilityScores:
-  for: 18
-  dex: 15
-  con: 16
-  int: 18
-  sag: 18
-  cha: 18
-ac:
-  armorType: "armure naturelle"
-  value: 5
 skills:
-  - name: "arcanes"
+  - name: arcanes
     isExpert: true
-  - name: "histoire"
+  - name: histoire
     isExpert: true
-  - name: "perception"
-  - name: "religion"
-movement:
-  walk: 12
-  fly: 18
-senses:
-  truesight: 36
+  - name: perception
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "terrorise"
+  - charme
+  - terrorise
 damageTypeResistances:
-  - "c-p-t-non-magique"
+  - c-p-t-non-magique
 damageTypeImmunities:
-  - "psychique"
+  - psychique
 languages:
-  - "commun"
-  - "sphinx"
+  - commun
+  - sphinx
 environments:
   - Arctique / Subarctique
   - Désert chaud
@@ -44,8 +29,19 @@ environments:
 dungeonTypes:
   - Caverne aménagée
   - Ruines extérieures
-source: "Créatures & Oppositions"
+source: Créatures & Oppositions
 source_page: 263
+abilityScores_for: 18
+abilityScores_dex: 15
+abilityScores_con: 16
+abilityScores_int: 18
+abilityScores_sag: 18
+abilityScores_cha: 18
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 12
+movement_fly: 18
+senses_truesight: 36
 ---
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du sphinx sont magiques.

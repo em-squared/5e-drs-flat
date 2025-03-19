@@ -1,10 +1,10 @@
 ---
-title: "Armure du cimetière"
-type: "Armure"
-subtype: "Légère, Intermédiaire ou lourde"
-rarity: "Très rare"
-attunement: "harmonisation requise"
-source: "Warlock Grimoire - Kobold Press"
+title: Armure du cimetière
+type: Armure
+subtype: 'Légère, Intermédiaire ou lourde'
+rarity: Très rare
+attunement: harmonisation requise
+source: Warlock Grimoire - Kobold Press
 ---
 Cette armure porte des symboles du Soleil Éternel en or ou en laiton et ne ternit ni ne rouille jamais. L'armure est immunisée contre les dégâts nécrotiques et les attaques de rouille comme celles portées par un monstre de rouille. Lorsque vous portez cette armure, votre maximum de points de vie ne peut pas être réduit.
 

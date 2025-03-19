@@ -1,51 +1,47 @@
 ---
-title: "Alquam"
-type: "Fiélon"
-subtype: "Démon"
-size: "TG"
-alignment: "Chaotique Mauvais"
-challenge: "21"
+title: Alquam
+type: Fiélon
+subtype: Démon
+size: TG
+alignment: Chaotique Mauvais
+challenge: '21'
 hitDiceCount: 28
-abilityScores:
-  for: 14
-  dex: 19
-  con: 23
-  int: 16
-  sag: 20
-  cha: 16
 savingThrows:
-  - "dex"
-  - "con"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 6
+  - dex
+  - con
+  - sag
 skills:
-  - name: "discretion"
-  - name: "perception"
-  - name: "supercherie"
-movement:
-  walk: 6
-  fly: 30
-senses:
-  truesight: 36
+  - name: discretion
+  - name: perception
+  - name: supercherie
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "epuise"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - epuise
+  - terrorise
 damageTypeResistances:
-  - "feu"
-  - "foudre"
+  - feu
+  - foudre
 damageTypeImmunities:
-  - "froid"
-  - "poison"
-  - "c-p-t-non-magique"
+  - froid
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "toutes"
+  - toutes
 telepathy: 36
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 86
+abilityScores_for: 14
+abilityScores_dex: 19
+abilityScores_con: 23
+abilityScores_int: 16
+abilityScores_sag: 20
+abilityScores_cha: 16
+ac_armorType: armure naturelle
+ac_value: 6
+movement_walk: 6
+movement_fly: 30
+senses_truesight: 36
 ---
 ## Capacités
 _**Né des ténèbres**_. À chaque tour, Alquam peut, par une action bonus, effectuer l'action se cacher quand il se trouve dans une lumière faible ou dans les ténèbres, même si une autre créature est en train de l'observer.

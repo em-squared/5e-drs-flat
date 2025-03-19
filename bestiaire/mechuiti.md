@@ -1,58 +1,54 @@
 ---
-title: "Mechuiti"
-type: "Fiélon"
-subtype: "Démon"
-size: "Gig"
-alignment: "Chaotique Mauvais"
-challenge: "27"
+title: Mechuiti
+type: Fiélon
+subtype: Démon
+size: Gig
+alignment: Chaotique Mauvais
+challenge: '27'
 hitDiceCount: 20
-abilityScores:
-  for: 29
-  dex: 19
-  con: 27
-  int: 18
-  sag: 18
-  cha: 22
 savingThrows:
-  - "for"
-  - "dex"
-  - "sag"
-ac:
-  armorType: "armure naturelle"
-  value: 5
+  - for
+  - dex
+  - sag
 skills:
-  - name: "arcanes"
-  - name: "intimidation"
-  - name: "perception"
-  - name: "perspicacite"
-  - name: "religion"
-movement:
-  walk: 18
-  climb: 18
-senses:
-  truesight: 36
+  - name: arcanes
+  - name: intimidation
+  - name: perception
+  - name: perspicacite
+  - name: religion
 conditionImmunities:
-  - "charme"
-  - "empoisonne"
-  - "etourdi"
-  - "terrorise"
+  - charme
+  - empoisonne
+  - etourdi
+  - terrorise
 damageTypeVulnerabilities:
-  - "froid"
+  - froid
 damageTypeImmunities:
-  - "acide"
-  - "feu"
-  - "foudre"
-  - "poison"
-  - "c-p-t-non-magique"
+  - acide
+  - feu
+  - foudre
+  - poison
+  - c-p-t-non-magique
 languages:
-  - "céleste"
-  - "commun"
-  - "draconique"
-  - "infernal"
-  - "primordial"
+  - céleste
+  - commun
+  - draconique
+  - infernal
+  - primordial
 telepathy: 90
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 90
+abilityScores_for: 29
+abilityScores_dex: 19
+abilityScores_con: 27
+abilityScores_int: 18
+abilityScores_sag: 18
+abilityScores_cha: 22
+ac_armorType: armure naturelle
+ac_value: 5
+movement_walk: 18
+movement_climb: 18
+senses_truesight: 36
 ---
 ## Capacités
 _**Résistance légendaire (4/jour)**_. Si Mechuiti rate un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde), il peut choisir à la place de le réussir.

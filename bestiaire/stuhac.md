@@ -1,47 +1,43 @@
 ---
-title: "Stuhac"
-type: "Fiélon"
-size: "M"
-alignment: "Neutre Mauvais"
-challenge: "13"
+title: Stuhac
+type: Fiélon
+size: M
+alignment: Neutre Mauvais
+challenge: '13'
 hitDiceCount: 20
-abilityScores:
-  for: 22
-  dex: 18
-  con: 20
-  int: 12
-  sag: 16
-  cha: 15
 savingThrows:
-  - "for"
-  - "dex"
-  - "con"
-  - "cha"
-ac:
-  armorType: "armure naturelle"
-  value: 4
+  - for
+  - dex
+  - con
+  - cha
 skills:
-  - name: "supercherie"
+  - name: supercherie
     isExpert: true
-movement:
-  walk: 12
-  climb: 12
-senses:
-  darkvision: 18
 conditionImmunities:
-  - "empoisonne"
+  - empoisonne
 damageTypeResistances:
-  - "acide"
-  - "feu"
-  - "c-p-non-magique"
+  - acide
+  - feu
+  - c-p-non-magique
 damageTypeImmunities:
-  - "froid"
-  - "poison"
+  - froid
+  - poison
 languages:
-  - "commun"
+  - commun
 telepathy: 30
-source: "Livre des monstres"
+source: Livre des monstres
 source_page: 374
+abilityScores_for: 22
+abilityScores_dex: 18
+abilityScores_con: 20
+abilityScores_int: 12
+abilityScores_sag: 16
+abilityScores_cha: 15
+ac_armorType: armure naturelle
+ac_value: 4
+movement_walk: 12
+movement_climb: 12
+senses_darkvision: 18
 ---
 ## Capacités
 _**Pas du montagnard**_. Les pentes de montagne et les escarpements rocheux ne gênent pas les déplacements du stuhac. En montagne, il traverse sans mal les terrains difficiles.
