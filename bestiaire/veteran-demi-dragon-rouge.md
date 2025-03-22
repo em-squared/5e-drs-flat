@@ -1,35 +1,3 @@
----
-title: Vétéran demi-dragon rouge
-type: Humanoïde
-size: M
-alignment: n'importe quel alignement
-challenge: '5'
-hitDiceCount: 10
-skills:
-  - name: athletisme
-    invalid: true
-    value: 5
-  - name: perception
-    invalid: true
-    value: 2
-damageTypeResistances:
-  - feu
-languages:
-  - commun
-  - draconique
-source: Créatures & Oppositions
-source_page: 46
-abilityScores_for: 16
-abilityScores_dex: 13
-abilityScores_con: 14
-abilityScores_int: 10
-abilityScores_sag: 11
-abilityScores_cha: 10
-ac_armorType: harnois
-movement_walk: 9
-senses_blindsight: 3
-senses_darkvision: 18
----
 ## Actions
 _**Arbalète lourde**_. _Attaque d'arme à distance_ : +3 pour toucher, portée 30/120 m, une cible.  
 _Touché_ : 6 (1d10+1) dégâts perforants.

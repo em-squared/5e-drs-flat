@@ -1,11 +1,3 @@
----
-title: Cartes d'illusion
-type: Objet merveilleux
-subtype: false
-rarity: Peu courant
-attunement: false
-source: Cadre de campagne
----
 Cette boîte contient un jeu de cartes faites de parchemin. Le jeu complet compte 34 cartes mais, quand on trouve un jeu, il lui manque souvent 1d20 - 1 cartes.
 
 La magie du jeu fonctionne uniquement si on tire les cartes au hasard (vous pouvez utiliser un jeu de cartes ordinaire modifié pour simuler les _cartes d'illusion_). Vous pouvez dépenser une action pour tirer une carte au hasard dans le jeu et la lancer au sol, à une distance maximum de 9 mètres.

@@ -1,22 +1,17 @@
----
-title: Mot de pouvoir mortel
-description: 'La cible, qui possède moins de 100  PV, meurt instantanément.'
-school: Enchantement
-level: 9
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: 18 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: false
-components_materials: ''
----
+# Mot de pouvoir mortel
+
+**École de magie** : Enchantement
+
+**Niveau** : 9
+
+**Portée** : 18 mètres
+
+**Durée** : instantanée
+
+**Composantes** : V
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous prononcez un mot de pouvoir capable d'obliger une créature située à portée et dans votre champ de vision à mourir instantanément. Si la créature choisie a 100 points de vie ou moins, elle meurt, sinon le sort n'a aucun effet.

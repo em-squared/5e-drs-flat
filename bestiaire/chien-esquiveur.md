@@ -1,30 +1,3 @@
----
-title: Chien esquiveur
-type: Fée
-size: M
-alignment: Loyal Bon
-challenge: '0.25'
-hitDiceCount: 4
-skills:
-  - name: discretion
-  - name: perception
-senses: null
-languages:
-  - chien esquiveur
-  - comprend le sylvestre mais ne peut pas le parler
-environments:
-  - Plaine / Champs / Prairie / Savane
-source: Créatures & Oppositions
-source_page: 302
-abilityScores_for: 12
-abilityScores_dex: 17
-abilityScores_con: 12
-abilityScores_int: 10
-abilityScores_sag: 13
-abilityScores_cha: 11
-ac_armorType: null
-movement_walk: 12
----
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le chien obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

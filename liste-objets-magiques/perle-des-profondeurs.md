@@ -1,11 +1,3 @@
----
-title: Perle des profondeurs
-type: Objet merveilleux
-subtype: false
-rarity: Artefact
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Même les dieux font des erreurs. Il y a des millénaires de cela, l'un d'entre eux créa des créatures gigantesques pour mener une guerre dans les profondeurs des océans : les krakens. Une fois la guerre terminée, les terribles monstres continuèrent de semer la destruction sous et autour des mers. Le dieu décida d'en finir et envoya un Solar pour les exterminer. Ce dernier détruisit plusieurs krakens mais fut finalement vaincu. Son sang fut répandu et une perle en absorba une grande quantité, devenant ainsi divine par essence.
 
 _**Bénédiction des océans**_. Une fois harmonisé à la perle, vous obtenez les bénéfices suivants :

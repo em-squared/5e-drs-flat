@@ -1,31 +1,3 @@
----
-title: Kongamato
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '5'
-hitDiceCount: 15
-skills:
-  - name: perception
-senses: null
-languages:
-  - —
-environments:
-  - Littoral
-  - Mer / Océan
-source: Livre des monstres
-source_page: 258
-abilityScores_for: 19
-abilityScores_dex: 18
-abilityScores_con: 14
-abilityScores_int: 2
-abilityScores_sag: 10
-abilityScores_cha: 7
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 3
-movement_fly: 18
----
 ## Capacités
 _**Repli aérien**_. Le kongamato ne provoque pas d'attaque d'opportunité quand il s'envole hors de portée de la zone d'allonge d'un ennemi.
 

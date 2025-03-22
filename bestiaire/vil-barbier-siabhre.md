@@ -1,35 +1,3 @@
----
-title: Vil barbier (Siabhre)
-type: Fée
-size: P
-alignment: Chaotique Mauvais
-challenge: '2'
-hitDiceCount: 8
-skills:
-  - name: athletisme
-  - name: discretion
-conditionImmunities:
-  - terrorise
-customDamageTypeResistances: >-
-  contondants, perforants et tranchants issus d'armes non magiques qui ne sont
-  pas plaquées argent ou faite de fer froid
-languages:
-  - commun
-  - gobelin
-  - sylvestre
-  - umbral
-source: Livre des monstres
-source_page: 406
-abilityScores_for: 12
-abilityScores_dex: 18
-abilityScores_con: 10
-abilityScores_int: 10
-abilityScores_sag: 8
-abilityScores_cha: 10
-ac_armorType: armure de cuir
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Trancheur rapproché**_. Le vil barbier est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque contre les créatures se trouvant dans le même emplacement que lui.
 

@@ -1,36 +1,3 @@
----
-title: Oni (Ogre mage)
-type: Géant
-size: G
-alignment: Loyal Mauvais
-challenge: '7'
-hitDiceCount: 13
-savingThrows:
-  - dex
-  - con
-  - sag
-  - cha
-skills:
-  - name: arcanes
-  - name: perception
-  - name: supercherie
-    isExpert: true
-languages:
-  - commun
-  - géant
-source: Créatures & Oppositions
-source_page: 238
-abilityScores_for: 19
-abilityScores_dex: 11
-abilityScores_con: 16
-abilityScores_int: 14
-abilityScores_sag: 12
-abilityScores_cha: 15
-ac_armorType: cotte de mailles
-movement_walk: 9
-movement_fly: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme de l'oni sont magiques.
 

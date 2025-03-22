@@ -1,11 +1,3 @@
----
-title: Bâton des forêts
-type: Bâton
-subtype: false
-rarity: Rare
-attunement: harmonisation avec un druide exigée
-source: Cadre de campagne
----
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts.
 
 Le bâton contient 10 charges en ce qui concerne les propriétés suivantes. Il récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un résultat de 1, la magie du bâton disparaît, il perd toutes ses propriétés et devient un bâton non-magique ordinaire.

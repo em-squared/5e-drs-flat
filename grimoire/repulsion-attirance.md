@@ -1,24 +1,19 @@
----
-title: Répulsion/attirance
-description: Oblige ou empêche un type de créature de s'approcher d'une zone.
-school: Enchantement
-level: 8
-concentration: false
-casting_time: 1 heure
-duration: 10 jours
-range: 18 mètres
-ritual: false
-classes:
-  - Druide
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel
-  pour attirance
----
+# Répulsion/attirance
+
+**École de magie** : Enchantement
+
+**Niveau** : 8
+
+**Portée** : 18 mètres
+
+**Durée** : 10 jours
+
+**Composantes** : V, S, M, (un cristal d'alun trempé dans le vinaigre pour répulsion ou une goutte de miel pour attirance)
+
+**Classes** : Druide, Magicien
+
+**Source** : Manuel des règles
+
 Ce sort attire ou refoule les créatures de votre choix. Vous choisissez un objet ou une créature de taille TG ou inférieure situés à portée ou une zone pas plus grande qu'un cube de 60 mètres de côté. Ensuite, vous décrivez une catégorie de créatures intelligentes, comme les dragons rouges, les gobelins ou les vampires. La cible est alors baignée d'une aura qui attire ou refoule ces créatures pendant toute la durée du sort. Vous devez choisir la répulsion ou l'attirance comme effet de l'aura.
 
 **Attirance**. L'enchantement génère chez la créature une envie irrépressible de s'approcher de la cible dès qu'elle se trouve à 18 mètres ou moins d'elle ou dès qu'elle la voit. Quand la créature voit la cible ou se trouve dans un rayon de 18 mètres autour d'elle, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi, à chacun de ses tours, elle se déplace de manière à entrer dans la zone désirée ou à arriver à portée de la cible. Une fois là, la créature ne peut plus s'éloigner de sa propre initiative.

@@ -1,25 +1,17 @@
----
-title: Prestidigitation
-description: Tours de magie basiques.
-school: Transmutation
-level: 0
-concentration: false
-casting_time: 1 action
-duration: jusqu'à 1 heure
-range: 3 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Ombrelame
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Prestidigitation
+
+**École de magie** : Transmutation
+
+**Portée** : 3 mètres
+
+**Durée** : jusqu'à 1 heure
+
+**Composantes** : V, S
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
+
+**Source** : Manuel des règles
+
 Ce sort est un tour de magie basique que les novices utilisent pour s'entraîner. Vous l'utilisez pour créer à portée l'un des effets magiques suivants :
 * Vous créez un effet sensoriel immédiat et inoffensif, comme une pluie d'étincelles, un coup de vent, de faibles notes de musique ou une odeur étrange.
 * Vous allumez ou éteignez instantanément une chandelle, une torche ou un petit feu de camp.

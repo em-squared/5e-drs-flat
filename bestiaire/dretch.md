@@ -1,35 +1,3 @@
----
-title: Dretch
-type: Fiélon
-subtype: Démon
-size: P
-alignment: Chaotique Mauvais
-challenge: '0.25'
-hitDiceCount: 4
-conditionImmunities:
-  - empoisonne
-damageTypeResistances:
-  - feu
-  - foudre
-  - froid
-damageTypeImmunities:
-  - poison
-languages:
-  - abyssal
-telepathy: 18
-source: Créatures & Oppositions
-source_page: 51
-abilityScores_for: 11
-abilityScores_dex: 11
-abilityScores_con: 12
-abilityScores_int: 5
-abilityScores_sag: 8
-abilityScores_cha: 3
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 6
-senses_darkvision: 18
----
 ## Actions
 _**Attaques multiples**_. Le dretch effectue deux attaques : une avec sa morsure et une avec ses griffes.
 

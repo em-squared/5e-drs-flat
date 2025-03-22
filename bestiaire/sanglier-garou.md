@@ -1,35 +1,3 @@
----
-title: Sanglier-garou
-type: Humanoïde
-subtype: 'humain, métamorphe'
-size: M
-alignment: Neutre Mauvais
-challenge: '4'
-hitDiceCount: 12
-skills:
-  - name: perception
-customMovement: 9 m (12 m sous forme de sanglier)
-senses: null
-damageTypeImmunities:
-  - c-p-t-non-argent
-languages:
-  - commun (ne peut pas parler sous forme de sanglier)
-environments:
-  - Bois / Forêt
-source: Créatures & Oppositions
-source_page: 209
-abilityScores_for: 17
-abilityScores_dex: 10
-abilityScores_con: 15
-abilityScores_int: 10
-abilityScores_sag: 11
-abilityScores_cha: 8
-ac_armorType: custom
-ac_value: >-
-  10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de
-  sanglier
-movement_walk: 9
----
 ## Capacités
 _**Charge (forme de sanglier ou hybride)**_. Si le sanglier-garou se déplace de 4,50 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de défenses lors du même tour, celle-ci subit 7 (2d6) dégâts tranchants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 13 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 

@@ -1,29 +1,3 @@
----
-title: Mélasse
-type: Vase
-size: TP
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 4
-skills:
-  - name: supercherie
-    isExpert: true
-languages:
-  - —
-source: Livre des monstres
-source_page: 299
-abilityScores_for: 4
-abilityScores_dex: 6
-abilityScores_con: 17
-abilityScores_int: 1
-abilityScores_sag: 1
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: '4,50'
-movement_climb: 3
-senses_blindsight: 18
----
 ## Capacités
 _**Informe**_. La mélasse peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.
 

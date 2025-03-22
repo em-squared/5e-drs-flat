@@ -1,23 +1,19 @@
----
-title: Téléportation
-description: Le PJ et jusqu'à 8 créatures sont déplacées instantanément.
-school: Invocation
-level: 7
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: 3 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: false
-components_materials: ''
----
+# Téléportation
+
+**École de magie** : Invocation
+
+**Niveau** : 7
+
+**Portée** : 3 mètres
+
+**Durée** : instantanée
+
+**Composantes** : V
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Ce sort vous transporte instantanément à la destination de votre choix, ainsi qu'un maximum de huit créatures consentantes de votre choix situées à portée et dans votre champ de vision ou bien ainsi qu'un unique objet situé à portée et dans votre champ de vision. Si vous prenez un objet pour cible, il doit tenir dans un cube de 3 mètres de côté et il ne doit pas être porté ni transporté par une créature non consentante.
 
 Vous devez choisir une destination connue, située sur le même plan d'existence que vous. C'est votre degré de familiarité avec la destination qui détermine vos chances d'arriver sur place. Le MJ lance 1d100 et consulte la table ci-dessous.

@@ -1,11 +1,3 @@
----
-title: Sceptre de puissance seigneuriale
-type: Sceptre
-subtype: false
-rarity: Légendaire
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Ce sceptre à la tête en collerette fonctionne comme une masse d'armes magique qui confère un bonus de +3 aux jets d'attaque et de dégâts effectués avec elle. Le sceptre possède les propriétés associées aux six boutons différents alignés le long de son manche. Il possède également trois autres propriétés, comme décrit ci-dessous.
 
 _**Six boutons**_. Vous pouvez appuyer sur l'un des six boutons du sceptre par une action bonus. L'effet d'un bouton dure jusqu'au moment où vous appuyez sur un bouton différent ou sur le même bouton à nouveau, auquel cas le sceptre retrouve sa forme normale.

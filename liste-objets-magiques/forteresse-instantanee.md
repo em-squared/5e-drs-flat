@@ -1,11 +1,3 @@
----
-title: Forteresse instantanée
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Vous pouvez utiliser une action pour poser ce tube de métal de 2,5 centimètres à terre et prononcer son mot de commande. Il grandit rapidement pour se muer en forteresse. Il reste sous cette forme jusqu'à ce que vous dépensiez une action pour prononcer le mot de commande permettant de la révoquer (ce qui fonctionne uniquement si elle est vide).
 
 La forteresse est une tour carrée de 6 mètres de côté pour 9 mètres de haut. Tous ses murs sont percés de meurtrières et couronnés de créneaux. L'intérieur se divise en deux étages, reliés par une échelle courant le long d'un mur. Elle se termine sur une trappe donnant sur le toit. Quand vous activez la tour, elle apparaît avec une petite porte en face de vous. Elle s'ouvre uniquement sur votre ordre, quand vous prononcez le mot de commande par une action bonus. Elle est immunisée contre le sort [_déblocage_](/grimoire/deblocage/) et les magies similaires, comme celle d'un [_carillon d'ouverture_](/liste-objets-magiques/carillon-d-ouverture/).

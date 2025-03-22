@@ -1,23 +1,21 @@
----
-title: Portail
-description: Crée une porte qui conduit à un autre plan d'existence.
-school: Invocation
-level: 9
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 18 mètres
-ritual: false
-classes:
-  - Clerc
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un diamant d'une valeur minimale de 5000 po
----
+# Portail
+
+**École de magie** : Invocation
+
+**Niveau** : 9
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un diamant d'une valeur minimale de 5000 po)
+
+**Classes** : Clerc, Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Vous invoquez un portail reliant un espace inoccupé, situé à portée et dans votre champ de vision, à un autre plan d'existence. Ce portail se présente sous la forme d'une ouverture circulaire de 1,50 à 6 mètres de diamètre, à votre guise. Vous pouvez orienter le portail dans la direction de votre choix et il persiste pendant toute la durée du sort.
 
 Le portail a une face avant et une face arrière sur chaque plan où il apparaît. Pour voyager grâce au portail, il faut impérativement le franchir en passant par l'avant. Tout ce qui le traverse ainsi apparaît instantanément sur l'autre plan, dans l'espace inoccupé le plus proche du portail.

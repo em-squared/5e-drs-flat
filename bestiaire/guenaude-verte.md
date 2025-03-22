@@ -1,36 +1,3 @@
----
-title: Guenaude verte
-type: Fée
-size: M
-alignment: Neutre Mauvais
-challenge: '3'
-hitDiceCount: 11
-skills:
-  - name: arcanes
-  - name: discretion
-  - name: perception
-  - name: supercherie
-languages:
-  - commun
-  - draconique
-  - sylvestre
-environments:
-  - Bois / Forêt
-  - Collines / Vallées
-  - Mangrove / Marécage
-source: Créatures & Oppositions
-source_page: 181
-abilityScores_for: 18
-abilityScores_dex: 12
-abilityScores_con: 16
-abilityScores_int: 13
-abilityScores_sag: 14
-abilityScores_cha: 14
-ac_armorType: armure naturelle
-ac_value: 6
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. La guenaude peut respirer à l'air libre et sous l'eau.
 

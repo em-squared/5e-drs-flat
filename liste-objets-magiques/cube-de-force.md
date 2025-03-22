@@ -1,11 +1,3 @@
----
-title: Cube de force
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Ce cube fait 2,5 centimètres d'arête. Chaque face est dotée d'une marque distinctive sur laquelle on peut appuyer. Le cube a 36 charges au départ et, chaque matin à l'aube, il récupère 1d20 charges dépensées.
 
 Vous pouvez utiliser une action pour appuyer sur l'une des faces du cube et dépenser un nombre de charges dépendant de la face choisie, comme indiqué dans la table Faces du cube de force. Chaque face produit un effet différent. Si le cube n'a plus assez de charges pour alimenter l'effet, il ne se passe rien. Sinon, une barrière de force invisible se déploie en un cube de 4,50 mètres d'arête. Elle est centrée sur vous, se déplace avec vous et persiste une minute, jusqu'à ce que vous dépensiez une action pour appuyer sur la sixième face du cube ou jusqu'à ce que le cube ait épuisé toutes ses charges. Vous pouvez changer l'effet de la barrière en appuyant sur une nouvelle face et en dépensant le nombre de charges requis, ce qui réinitialise la durée de l'effet.

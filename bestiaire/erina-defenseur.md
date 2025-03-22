@@ -1,37 +1,3 @@
----
-title: 'Erina, défenseur'
-type: Humanoïde
-subtype: Erina
-size: P
-alignment: Neutre
-challenge: '1'
-hitDiceCount: 8
-skills:
-  - name: athletisme
-    isExpert: true
-  - name: perception
-damageTypeResistances:
-  - poison
-languages:
-  - commun
-  - erina
-environments:
-  - Bois / Forêt
-  - Collines / Vallées
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 172
-abilityScores_for: 11
-abilityScores_dex: 14
-abilityScores_con: 14
-abilityScores_int: 13
-abilityScores_sag: 12
-abilityScores_cha: 11
-ac_armorType: chemise de mailles
-movement_walk: 6
-movement_burrow: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Odorat aiguisé**_. Un erina est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de Sagesse (Perception) basés sur l'odorat.
 

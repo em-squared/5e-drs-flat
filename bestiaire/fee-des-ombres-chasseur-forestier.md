@@ -1,37 +1,3 @@
----
-title: 'Fée des ombres, chasseur forestier'
-type: Humanoïde
-subtype: Elfe
-size: M
-alignment: Loyal Mauvais
-challenge: '5'
-hitDiceCount: 19
-savingThrows:
-  - dex
-  - con
-  - cha
-skills:
-  - name: arcanes
-  - name: discretion
-    isExpert: true
-  - name: perception
-  - name: survie
-languages:
-  - commun
-  - elfique
-  - umbral
-source: Livre des monstres
-source_page: 166
-abilityScores_for: 12
-abilityScores_dex: 18
-abilityScores_con: 12
-abilityScores_int: 11
-abilityScores_sag: 12
-abilityScores_cha: 16
-ac_armorType: chemise de mailles
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Ascendance féerique**_. Une fée des ombres est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état [_charmé_](/gerer-la-sante-du-personnage/#charme) et il est impossible de l'endormir par magie.
 

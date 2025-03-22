@@ -1,30 +1,3 @@
----
-title: Scorpion stygien à large queue
-type: Bête
-size: TP
-alignment: non-alignée
-challenge: '3'
-hitDiceCount: 4
-languages:
-  - —
-environments:
-  - Désert chaud
-dungeonTypes:
-  - Caverne aménagée
-source: Livre des monstres
-source_page: 357
-abilityScores_for: 3
-abilityScores_dex: 16
-abilityScores_con: 10
-abilityScores_int: 1
-abilityScores_sag: 10
-abilityScores_cha: 2
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-movement_climb: 6
-senses_darkvision: 18
----
 ## Actions
 _**Attaques multiples**_. Le scorpion fait trois attaques : deux avec ses _pinces_ et une avec son _dard_.
 

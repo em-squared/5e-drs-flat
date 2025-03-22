@@ -1,32 +1,3 @@
----
-title: Suffragan cœur-de-vers
-type: Mort-vivant
-size: M
-alignment: Chaotique Mauvais
-challenge: '5'
-hitDiceCount: 13
-skills:
-  - name: medecine
-  - name: religion
-damageTypeVulnerabilities:
-  - radiant
-damageTypeResistances:
-  - necrotique
-  - c-p-t-non-magique
-languages:
-  - celles qu'il parlait de son vivant
-source: Livre des monstres
-source_page: 376
-abilityScores_for: 10
-abilityScores_dex: 14
-abilityScores_con: 16
-abilityScores_int: 11
-abilityScores_sag: 16
-abilityScores_cha: 8
-ac_armorType: null
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation innée**_. Le suffragan cœur-de-vers utilise la Sagesse comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants sans composantes matérielles :
 * **À volonté** : [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_injonction_](/grimoire/injonction/)

@@ -1,35 +1,3 @@
----
-title: Croco de verre
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '1'
-hitDiceCount: 7
-skills:
-  - name: discretion
-  - name: perception
-languages:
-  - —
-environments:
-  - Littoral
-  - Mangrove / Marécage
-  - Mer / Océan
-dungeonTypes:
-  - Caverne sous-marine
-source: Livre des monstres
-source_page: 72
-abilityScores_for: 15
-abilityScores_dex: 14
-abilityScores_con: 12
-abilityScores_int: 4
-abilityScores_sag: 10
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 9
-movement_swim: 15
-senses_blindsight: 9
----
 ## Capacités
 _**Amphibie**_. Le croco de verre respire à l'air libre et sous l'eau.
 

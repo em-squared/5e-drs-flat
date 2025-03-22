@@ -1,22 +1,21 @@
----
-title: Toile d'araignée
-description: Cube de 6 mètres dans lequel les créatures sont <em>entravées</em>.
-school: Invocation
-level: 2
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 heure
-range: 18 mètres
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un bout de toile d'araignée
----
+# Toile d'araignée
+
+**École de magie** : Invocation
+
+**Niveau** : 2
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 1 heure
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un bout de toile d'araignée)
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Vous invoquez une masse de toiles d'araignées épaisses et collantes en un point de votre choix situé à portée. Pendant toute la durée du sort, les toiles occupent un cube de 6 mètres d'arête centré sur le point choisi. Elles forment un terrain difficile à la visibilité réduite.
 
 Si les toiles ne sont pas ancrées entre deux éléments solides, comme des murs ou des arbres, ou disposées en couches sur le sol, le plafond ou un mur, elles s'effondrent sur elles-mêmes et le sort se termine au début de votre prochain tour. Des toiles disposées en couches superposées sur une surface plane s'accumulent sur une épaisseur de 1,50 mètre.

@@ -1,35 +1,3 @@
----
-title: Espion
-type: Humanoïde
-subtype: n'importe quelle race
-size: M
-alignment: n'importe quel alignement
-challenge: '1'
-hitDiceCount: 6
-skills:
-  - name: discretion
-  - name: escamotage
-  - name: investigation
-    isExpert: true
-  - name: perception
-    isExpert: true
-  - name: perspicacite
-  - name: persuasion
-  - name: supercherie
-senses: null
-languages:
-  - deux langues au choix
-source: Créatures & Oppositions
-source_page: 334
-abilityScores_for: 10
-abilityScores_dex: 15
-abilityScores_con: 10
-abilityScores_int: 12
-abilityScores_sag: 14
-abilityScores_cha: 16
-ac_armorType: null
-movement_walk: 9
----
 ## Capacités
 _**Action fourbe**_. À chacun de ses tours, l'espion peut utiliser une action bonus pour effectuer une action parmi [_se précipiter_](/combattre/#se-precipiter), [_se désengager_](/combattre/#se-desengager) ou [_se cacher_](/combattre/#se-cacher).
 

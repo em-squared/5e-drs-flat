@@ -1,22 +1,21 @@
----
-title: Agrandir/rétrécir
-description: Augmente ou diminue la taille de la cible.
-school: Transmutation
-level: 2
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-concentration: true
-casting_time: 1 action
-range: 9 mètres
-duration: jusqu'à 1 minute
-ritual: false
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: une pincée de limaille de fer
----
+# Agrandir/rétrécir
+
+**École de magie** : Transmutation
+
+**Niveau** : 2
+
+**Portée** : 9 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une pincée de limaille de fer)
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Vous agrandissez ou rétrécissez une créature ou un objet situé à portée et dans votre champ de vision pendant toute la durée du sort. Choisissez soit une créature, soit un objet qui n'est ni porté ni transporté. Si la cible n'est pas consentante, elle a droit à un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Si elle le réussit, le sort est sans effet. Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transporte change de taille avec elle. En revanche, si elle lâche un objet, il reprend sa taille normale sur-le-champ.
 
 **Agrandir**. La cible double dans toutes les dimensions, et son poids est multiplié par huit. Cette croissance augmente sa catégorie de taille d'un cran, de M à G par exemple. Si la cible n'a pas assez de place pour doubler de volume, elle atteint la taille maximale possible dans l'espace dont elle dispose. Elle bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Force et des jets de sauvegarde de Force jusqu'à la fin du sort. Les armes de la cible grandissent pour s'adapter à sa nouvelle taille. Tant qu'elles sont ainsi agrandies, elles infligent 1d4 dégâts de plus.

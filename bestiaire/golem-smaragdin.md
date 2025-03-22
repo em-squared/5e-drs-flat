@@ -1,36 +1,3 @@
----
-title: Golem smaragdin
-type: Créature artificielle
-size: G
-alignment: non-alignée
-challenge: '14'
-hitDiceCount: 22
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeImmunities:
-  - poison
-  - psychique
-  - c-p-t-non-adamantium
-languages:
-  - comprend les langues de son créateur mais ne peut pas parler
-source: Livre des monstres
-source_page: 215
-abilityScores_for: 24
-abilityScores_dex: 11
-abilityScores_con: 21
-abilityScores_int: 3
-abilityScores_sag: 11
-abilityScores_cha: 1
-ac_armorType: armure naturelle
-ac_value: 7
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Forme immuable**_. Le golem est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
 

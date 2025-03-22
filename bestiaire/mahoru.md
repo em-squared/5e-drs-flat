@@ -1,32 +1,3 @@
----
-title: Mahoru
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '3'
-hitDiceCount: 14
-hitDieSize: 8
-skills:
-  - name: discretion
-  - name: perception
-languages:
-  - —
-environments:
-  - Arctique / Subarctique
-source: Livre des monstres
-source_page: 278
-abilityScores_for: 18
-abilityScores_dex: 19
-abilityScores_con: 14
-abilityScores_int: 3
-abilityScores_sag: 12
-abilityScores_cha: 7
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 3
-movement_swim: 18
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le mahoru respire à l'air libre et sous l'eau.
 

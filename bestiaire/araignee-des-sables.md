@@ -1,35 +1,3 @@
----
-title: Araignée des sables
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '7'
-hitDiceCount: 14
-skills:
-  - name: perception
-  - name: custom
-    value: Discrétion +6 (+9 dans le sable)
-languages:
-  - —
-environments:
-  - Désert chaud
-  - Littoral
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 25
-abilityScores_for: 20
-abilityScores_dex: 17
-abilityScores_con: 14
-abilityScores_int: 4
-abilityScores_sag: 12
-abilityScores_cha: 4
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 9
-movement_burrow: 6
-senses_darkvision: 18
-senses_tremorsense: 18
----
 ## Capacités
 _**Embuscade**_. L'araignée des sables est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre une cible surprise.
 

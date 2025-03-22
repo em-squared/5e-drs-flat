@@ -1,38 +1,3 @@
----
-title: Dragon-tortue
-type: Dragon
-size: Gig
-alignment: Neutre
-challenge: '17'
-hitDiceCount: 22
-savingThrows:
-  - dex
-  - con
-  - sag
-damageTypeResistances:
-  - feu
-languages:
-  - aquatique
-  - draconique
-environments:
-  - Littoral
-  - Mer / Océan
-dungeonTypes:
-  - Caverne sous-marine
-source: Créatures & Oppositions
-source_page: 125
-abilityScores_for: 25
-abilityScores_dex: 10
-abilityScores_con: 20
-abilityScores_int: 10
-abilityScores_sag: 12
-abilityScores_cha: 12
-ac_armorType: armure naturelle
-ac_value: 10
-movement_walk: 6
-movement_swim: 12
-senses_darkvision: 36
----
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.
 

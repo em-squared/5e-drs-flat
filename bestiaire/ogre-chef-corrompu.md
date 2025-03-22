@@ -1,33 +1,3 @@
----
-title: 'Ogre, Chef corrompu'
-type: Géant
-size: G
-alignment: Chaotique Mauvais
-challenge: '6'
-hitDiceCount: 15
-savingThrows:
-  - for
-  - con
-  - cha
-languages:
-  - commun
-  - géant
-environments:
-  - Collines / Vallées
-dungeonTypes:
-  - Ruines extérieures
-source: Livre des monstres
-source_page: 420
-abilityScores_for: 20
-abilityScores_dex: 8
-abilityScores_con: 16
-abilityScores_int: 5
-abilityScores_sag: 7
-abilityScores_cha: 8
-ac_armorType: clibanion
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Agressif**_. Par une action bonus, le chef ogre corrompu peut se déplacer jusqu'au maximum de sa vitesse vers une créature hostile située dans son champ de vision.
 

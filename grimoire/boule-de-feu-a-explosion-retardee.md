@@ -1,22 +1,21 @@
----
-title: Boule de feu à explosion retardée
-description: Explosion qui inflige au moins 12d6 dégâts de feu.
-school: Évocation
-level: 7
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 45 mètres
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: une petite boule de guano de chauve-souris et du soufre
----
+# Boule de feu à explosion retardée
+
+**École de magie** : Évocation
+
+**Niveau** : 7
+
+**Portée** : 45 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une petite boule de guano de chauve-souris et du soufre)
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Un rayon de lumière jaune jaillit de votre doigt tendu et se condense pour former une bille luisante en un point de votre choix situé à portée pendant toute la durée du sort. Quand le sort se termine, soit parce que votre concentration se brise, soit parce que vous y mettez volontairement un terme, la bille se dilate dans un grondement sourd et explose en une gerbe de feu qui s'étend en franchissant les angles éventuels. Toutes les créatures situées dans une sphère de 6 mètres de rayon centrée sur le point où se trouvait la bille doivent faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent un montant de dégâts de feu égal au total de dégâts accumulés (voir plus loin), les autres la moitié seulement.
 
 À la base, le sort inflige 12d6 dégâts de feu. À la fin de votre tour, si la bille n'a pas encore explosé, ces dégâts augmentent de 1d6.

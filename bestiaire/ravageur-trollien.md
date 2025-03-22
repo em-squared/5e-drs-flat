@@ -1,34 +1,3 @@
----
-title: Ravageur trollien
-type: Humanoïde
-subtype: trollien
-size: M
-alignment: Neutre
-challenge: '4'
-hitDiceCount: 11
-savingThrows:
-  - con
-  - sag
-  - cha
-skills:
-  - name: intimidation
-    isExpert: true
-  - name: survie
-languages:
-  - commun
-  - trollien
-source: Livre des monstres
-source_page: 348
-abilityScores_for: 19
-abilityScores_dex: 13
-abilityScores_con: 16
-abilityScores_int: 11
-abilityScores_sag: 12
-abilityScores_cha: 13
-ac_armorType: armure de peau
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Régénération**_. Au début de chacun de ses tours, le ravageur trollien récupère 10 points de vie. Si le ravageur trollien subit des dégâts d'acide ou de feu, ce trait ne fonctionne pas au début de son prochain tour. Il meurt s'il commence un tour avec 0 point de vie et ne se régénère pas.
 

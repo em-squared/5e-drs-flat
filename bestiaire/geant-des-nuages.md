@@ -1,35 +1,3 @@
----
-title: Géant des nuages
-type: Géant
-size: TG
-alignment: Neutre Bon (50  %) ou Neutre Mauvais (50 %)
-challenge: '9'
-hitDiceCount: 16
-savingThrows:
-  - con
-  - sag
-  - cha
-skills:
-  - name: perception
-  - name: perspicacite
-senses: null
-languages:
-  - commun
-  - géant
-environments:
-  - Montagnes
-source: Créatures & Oppositions
-source_page: 149
-abilityScores_for: 27
-abilityScores_dex: 10
-abilityScores_con: 22
-abilityScores_int: 12
-abilityScores_sag: 16
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 12
----
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation du géant est le Charisme. Le géant peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_lumière_](/grimoire/lumiere/), [_nappe de brouillard_](/grimoire/nappe-de-brouillard/)

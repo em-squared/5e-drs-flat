@@ -1,22 +1,21 @@
----
-title: Invoquer des animaux
-description: Le PJ invoque des animaux qui obéissent à ses ordres.
-school: Invocation
-level: 3
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 heure
-range: 18 mètres
-ritual: false
-classes:
-  - Druide
-  - Rôdeur
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Invoquer des animaux
+
+**École de magie** : Invocation
+
+**Niveau** : 3
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 1 heure
+
+**Concentration** : oui
+
+**Composantes** : V, S
+
+**Classes** : Druide, Rôdeur
+
+**Source** : Manuel des règles
+
 Vous invoquez des esprits féeriques qui prennent la forme d'animaux et apparaissent dans des espaces inoccupés situés à portée et dans votre champ de vision. Choisissez l'une des options suivantes pour déterminer quelles créatures apparaissent.
 * Une bête dont l'indice de dangerosité est inférieur ou égal à 2.
 * Deux bêtes dont l'indice de dangerosité est inférieur ou égal à 1.

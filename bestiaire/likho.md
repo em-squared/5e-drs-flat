@@ -1,37 +1,3 @@
----
-title: Likho
-type: Créature monstrueuse
-size: M
-alignment: Chaotique Mauvais
-challenge: '6'
-hitDiceCount: 12
-savingThrows:
-  - dex
-  - cha
-skills:
-  - name: acrobaties
-  - name: discretion
-    isExpert: true
-  - name: perception
-languages:
-  - commun
-  - gobelin
-  - langue du Vide
-environments:
-  - Bois / Forêt
-source: Livre des monstres
-source_page: 269
-abilityScores_for: 16
-abilityScores_dex: 18
-abilityScores_con: 16
-abilityScores_int: 13
-abilityScores_sag: 16
-abilityScores_cha: 21
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Bond agressif**_. Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de _griffes_ au cours du même tour, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14, sans quoi elle se retrouve [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le likho peut utiliser une action bonus pour faire deux attaques de _griffes_ supplémentaires contre elle.
 

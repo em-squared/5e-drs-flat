@@ -1,27 +1,21 @@
----
-title: Scrutation
-description: 'Permet d''observer et d''écouter la cible à distance, à l''insu de la cible.'
-school: Divination
-level: 5
-concentration: true
-casting_time: 10 minutes
-duration: jusqu'à 10 minutes
-range: personnelle
-ritual: false
-classes:
-  - Barde
-  - Clerc
-  - Druide
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  un focaliseur d'une valeur minimale de 1000  po comme une boule de cristal, un
-  miroir en argent ou un bénitier rempli d'eau bénite
----
+# Scrutation
+
+**École de magie** : Divination
+
+**Niveau** : 5
+
+**Portée** : personnelle
+
+**Durée** : jusqu'à 10 minutes
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un focaliseur d'une valeur minimale de 1000  po comme une boule de cristal, un miroir en argent ou un bénitier rempli d'eau bénite)
+
+**Classes** : Barde, Clerc, Druide, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous voyez et entendez une créature donnée de votre choix, à condition qu'elle se trouve sur le même plan d'existence que vous. La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, modifié par le degré de connaissance que vous avez d'elle et le type de lien physique que vous avez établi avec elle. Si la cible sait que vous lancez ce sort, elle peut rater volontairement son [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) si elle veut que vous l'observiez.
 
 <div class="table-container">

@@ -1,26 +1,19 @@
----
-title: Suggestion de groupe
-description: Les cibles suivent les ordres du PJ pendant 24 heures.
-school: Enchantement
-level: 6
-concentration: false
-casting_time: 1 action
-duration: 24 heures
-range: 18 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: true
-components_materials: >-
-  une langue de serpent et soit un rayon de miel, soit une goutte d'huile
-  d'olive
----
+# Suggestion de groupe
+
+**École de magie** : Enchantement
+
+**Niveau** : 6
+
+**Portée** : 18 mètres
+
+**Durée** : 24 heures
+
+**Composantes** : V, M, (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous visez un maximum de douze créatures de votre choix, situées à portée et dans votre champ de vision et à même de vous entendre et de vous comprendre. Vous les influencez par magie de façon à ce qu'elles suivent la conduite que vous leur proposez (en seulement une phrase ou deux). Les créatures qui ne peuvent être [_charmées_](/gerer-la-sante-du-personnage/#charme) sont immunisées contre ce sort. Vous devez formuler votre suggestion de manière à ce que la conduite à tenir semble tout à fait raisonnable. Si vous demandez à une créature de se poignarder, de se laisser tomber sur une lance, de s'immoler ou d'accomplir n'importe quelle action à l'évidence néfaste, l'effet du sort s'annule automatiquement.
 
 Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle fait de son mieux pour suivre la conduite que vous lui avez suggérée et cela peut occuper toute la durée du sort. Si l'action suggérée peut se finir plus rapidement, le sort se termine quand la cible a accompli ce que vous lui aviez demandé.

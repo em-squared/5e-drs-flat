@@ -1,39 +1,3 @@
----
-title: Diable barbu
-type: Fiélon
-subtype: Diable
-size: M
-alignment: Loyal Mauvais
-challenge: '3'
-hitDiceCount: 8
-savingThrows:
-  - for
-  - con
-  - sag
-conditionImmunities:
-  - empoisonne
-damageTypeResistances:
-  - froid
-  - c-p-t-non-argent
-damageTypeImmunities:
-  - feu
-  - poison
-languages:
-  - infernal
-telepathy: 36
-source: Créatures & Oppositions
-source_page: 63
-abilityScores_for: 16
-abilityScores_dex: 15
-abilityScores_con: 15
-abilityScores_int: 9
-abilityScores_sag: 11
-abilityScores_cha: 11
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Inébranlable**_. Le diable ne peut pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise) tant qu'une créature alliée est présente à 9 mètres ou moins dans son champ de vision.
 

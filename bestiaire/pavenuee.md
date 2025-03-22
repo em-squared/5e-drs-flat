@@ -1,39 +1,3 @@
----
-title: Pavenuée
-isSwarm: true
-swarmSize: TP
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '2'
-hitDiceCount: 8
-hitDieSize: 8
-senses: null
-conditionImmunities:
-  - a-terre
-  - charme
-  - etourdi
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeResistances:
-  - contondant
-  - perforant
-  - tranchant
-languages:
-  - —
-source: Livre des monstres
-source_page: 337
-abilityScores_for: 12
-abilityScores_dex: 11
-abilityScores_con: 11
-abilityScores_int: 5
-abilityScores_sag: 12
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: 9
----
 ## Capacités
 _**Faux-semblant**_. Tant que la nuée reste immobile, il est impossible de la distinguer de pierres normales.
 

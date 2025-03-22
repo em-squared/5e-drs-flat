@@ -1,39 +1,3 @@
----
-title: 'Dragon d''or, dragonnet'
-type: Dragon
-size: M
-alignment: Loyal Bon
-challenge: '3'
-hitDiceCount: 8
-savingThrows:
-  - dex
-  - con
-  - sag
-  - cha
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-damageTypeImmunities:
-  - feu
-languages:
-  - draconique
-source: Créatures & Oppositions
-source_page: 124
-abilityScores_for: 19
-abilityScores_dex: 14
-abilityScores_con: 17
-abilityScores_int: 14
-abilityScores_sag: 11
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: 9
-movement_swim: 9
-movement_fly: 18
-senses_blindsight: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le dragon peut respirer à l'air libre et sous l'eau.
 

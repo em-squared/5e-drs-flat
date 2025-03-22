@@ -1,34 +1,3 @@
----
-title: Homme-lémurien
-type: Humanoïde
-subtype: homme-lémurien
-size: P
-alignment: Neutre
-challenge: '0.25'
-hitDiceCount: 4
-skills:
-  - name: acrobaties
-  - name: discretion
-languages:
-  - commun
-  - homme-lémurien
-environments:
-  - Jungle
-source: Livre des monstres
-source_page: 243
-abilityScores_for: 10
-abilityScores_dex: 15
-abilityScores_con: 11
-abilityScores_int: 12
-abilityScores_sag: 10
-abilityScores_cha: 8
-ac_armorType: custom
-ac_value: '13'
-movement_walk: 6
-movement_climb: 3
-movement_fly: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Planeur silencieux**_. L'homme-lémurien peut planer jusqu'à une minute sans faire de bruit. Il gagne une vitesse de 12 mètres et doit se déplacer d'au moins 6 mètres à son tour pour continuer à voler. Un homme-lémurien qui plane est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion).
 

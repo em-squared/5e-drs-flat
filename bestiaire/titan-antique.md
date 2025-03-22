@@ -1,39 +1,3 @@
----
-title: Titan antique
-type: Céleste
-subtype: titan
-size: Gig
-alignment: Neutre Bon
-challenge: '12'
-hitDiceCount: 12
-savingThrows:
-  - con
-  - sag
-  - cha
-skills:
-  - name: athletisme
-  - name: intimidation
-  - name: perception
-damageTypeResistances:
-  - c-p-t-non-magique
-languages:
-  - commun
-  - géant
-  - primordial
-  - titan
-telepathy: 60
-source: Livre des monstres
-source_page: 381
-abilityScores_for: 27
-abilityScores_dex: 13
-abilityScores_con: 22
-abilityScores_int: 16
-abilityScores_sag: 16
-abilityScores_cha: 20
-ac_armorType: cuirasse
-movement_walk: 15
-senses_darkvision: 36
----
 ## Capacités
 _**Résistance à la magie**_. Le titan antique est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 

@@ -1,31 +1,3 @@
----
-title: Hibours
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '3'
-hitDiceCount: 7
-skills:
-  - name: perception
-languages:
-  - —
-environments:
-  - Bois / Forêt
-dungeonTypes:
-  - Caverne naturelle
-source: Créatures & Oppositions
-source_page: 186
-abilityScores_for: 20
-abilityScores_dex: 12
-abilityScores_con: 17
-abilityScores_int: 3
-abilityScores_sag: 12
-abilityScores_cha: 7
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Odorat et vue aiguisés**_. Le hibours obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 

@@ -1,31 +1,3 @@
----
-title: Kalke
-type: Fiélon
-size: P
-alignment: Neutre Mauvais
-challenge: '0.25'
-hitDiceCount: 2
-skills:
-  - name: discretion
-  - name: perception
-languages:
-  - abyssal
-  - commun
-  - infernal
-source: Livre des monstres
-source_page: 252
-abilityScores_for: 8
-abilityScores_dex: 17
-abilityScores_con: 12
-abilityScores_int: 13
-abilityScores_sag: 7
-abilityScores_cha: 13
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-movement_climb: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Éteindre les flammes**_. Un kalke peut éteindre des chandelles, des lampes, des lanternes et des feux de camp couvants dans un rayon de 36 mètres par une action bonus.
 

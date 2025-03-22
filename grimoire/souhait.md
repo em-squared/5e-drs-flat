@@ -1,22 +1,19 @@
----
-title: Souhait
-description: Modifie les fondements de la réalité ou réplique n'importe quel sort.
-school: Invocation
-level: 9
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: personnelle
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: false
-components_materials: ''
----
+# Souhait
+
+**École de magie** : Invocation
+
+**Niveau** : 9
+
+**Portée** : personnelle
+
+**Durée** : instantanée
+
+**Composantes** : V
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Le souhait est le plus puissant des sorts qu'une créature mortelle puisse lancer. Vous pouvez modifier les fondements de la réalité selon vos désirs, simplement en prononçant quelques mots.
 
 L'utilisation basique de ce sort consiste à dupliquer les effets de n'importe quel sort de niveau 8 ou moins. Vous n'avez alors pas besoin de remplir les conditions requises, pas même de fournir les composantes matérielles onéreuses, le sort fait tout simplement effet.

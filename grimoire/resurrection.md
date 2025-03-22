@@ -1,22 +1,19 @@
----
-title: Résurrection
-description: Ramène à la vie une créature décédée depuis moins de 100 ans.
-school: Nécromancie
-level: 7
-concentration: false
-casting_time: 1 heure
-duration: instantanée
-range: contact
-ritual: false
-classes:
-  - Barde
-  - Clerc
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'un diamant d''une valeur minimale de 1000 po, que le sort consume'
----
+# Résurrection
+
+**École de magie** : Nécromancie
+
+**Niveau** : 7
+
+**Portée** : contact
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (un diamant d'une valeur minimale de 1000 po, que le sort consume)
+
+**Classes** : Barde, Clerc
+
+**Source** : Manuel des règles
+
 Vous touchez le cadavre d'une créature décédée depuis 100 ans au maximum, qui n'est pas morte de vieillesse et qui n'est pas un mort-vivant. Si son âme est libre et consentante, la cible ressuscite avec tous ses points de vie.
 
 Ce sort neutralise les poisons et maladies ordinaires qui affectaient éventuellement la cible à sa mort, mais il ne guérit pas les maladies magiques, les malédictions et autres effets de même type. Il faut en débarrasser la cible avant de la ressusciter, sans quoi ils l'affligent de nouveau dès qu'elle revient à la vie.

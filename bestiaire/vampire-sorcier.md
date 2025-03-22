@@ -1,38 +1,3 @@
----
-title: 'Vampire, Sorcier'
-type: Mort-vivant
-subtype: métamorphe
-size: M
-alignment: Loyal Mauvais
-challenge: '13'
-hitDiceCount: 17
-savingThrows:
-  - dex
-  - sag
-  - cha
-skills:
-  - name: discretion
-  - name: perception
-damageTypeResistances:
-  - necrotique
-  - c-p-t-non-magique
-languages:
-  - celles qu'il connaissait de son vivant
-dungeonTypes:
-  - Donjon maçonné
-source: Livre des monstres
-source_page: 426
-abilityScores_for: 18
-abilityScores_dex: 18
-abilityScores_con: 18
-abilityScores_int: 17
-abilityScores_sag: 15
-abilityScores_cha: 18
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Faiblesses des vampires**_. Voici les faiblesses du vampire :  
 * _Pieu dans le cœur_. Si une arme perforante en bois est plantée dans son cœur pendant qu'il est [_neutralisé_](/gerer-la-sante-du-personnage#neutralise) dans son refuge, il est [_paralysé_](/gerer-la-sante-du-personnage#paralyse) tant que le pieu n'est pas retiré.

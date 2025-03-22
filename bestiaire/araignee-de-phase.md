@@ -1,34 +1,3 @@
----
-title: Araignée de phase
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '3'
-hitDiceCount: 5
-skills:
-  - name: discretion
-    isExpert: true
-languages:
-  - ''
-environments:
-  - Bois / Forêt
-dungeonTypes:
-  - Caverne naturelle
-  - Ruines extérieures
-source: Créatures & Oppositions
-source_page: 294
-abilityScores_for: 15
-abilityScores_dex: 15
-abilityScores_con: 12
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-movement_climb: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

@@ -1,23 +1,21 @@
----
-title: Modifier son apparence
-description: Le PJ transforme tout ou partie de son corps.
-school: Transmutation
-level: 2
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 heure
-range: personnelle
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Ombrelame
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Modifier son apparence
+
+**École de magie** : Transmutation
+
+**Niveau** : 2
+
+**Portée** : personnelle
+
+**Durée** : jusqu'à 1 heure
+
+**Concentration** : oui
+
+**Composantes** : V, S
+
+**Classes** : Ensorceleur/Sorcelame, Magicien, Ombrelame
+
+**Source** : Manuel des règles
+
 Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une des options suivantes, dont les effets dureront aussi longtemps que le sort. Tant qu'il est actif, vous pouvez utiliser une action pour mettre un terme à une option afin de bénéficier d'une autre.
 
 **Adaptation aquatique**. Vous adaptez votre corps à un environnement aquatique, générant des branchies et des palmures entre vos doigts. Vous pouvez respirer sous l'eau et gagnez une vitesse de nage égale à votre vitesse de marche.

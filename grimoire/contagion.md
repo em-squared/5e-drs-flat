@@ -1,21 +1,19 @@
----
-title: Contagion
-description: Inocule une maladie à la cible.
-school: Nécromancie
-level: 5
-concentration: false
-casting_time: 1 action
-duration: 7 jours
-range: contact
-ritual: false
-classes:
-  - Clerc
-  - Druide
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
----
+# Contagion
+
+**École de magie** : Nécromancie
+
+**Niveau** : 5
+
+**Portée** : contact
+
+**Durée** : 7 jours
+
+**Composantes** : V, S
+
+**Classes** : Clerc, Druide
+
+**Source** : Manuel des règles
+
 Votre simple contact transmet des maladies. Faites une attaque de sort au corps-à-corps contre une créature à portée. Si vous touchez, vous lui inoculez une maladie de votre choix, à sélectionner parmi celles décrites ci-dessous.
 
 La cible doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Une fois qu'elle en a raté trois, la maladie fait effet pendant toute la durée du sort et la créature n'a plus à faire de [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Si elle réussit trois jets de sauvegarde, elle guérit de sa maladie et le sort se termine.

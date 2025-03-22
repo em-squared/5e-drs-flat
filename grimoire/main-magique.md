@@ -1,21 +1,21 @@
----
-title: Main magique
-description: 'Crée une énorme main de force qui peut agripper, attaquer, s''interposer, etc.'
-school: Évocation
-level: 5
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 36 mètres
-ritual: false
-classes:
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: une coquille d'œuf et un gant en peau de serpent
----
+# Main magique
+
+**École de magie** : Évocation
+
+**Niveau** : 5
+
+**Portée** : 36 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une coquille d'œuf et un gant en peau de serpent)
+
+**Classes** : Magicien
+
+**Source** : Manuel des règles
+
 Vous créez une main de force luisante et translucide, de taille G, dans un espace inoccupé situé à portée et dans votre champ de vision. La main existe pendant toute la durée du sort, se déplace sur votre ordre et imite les mouvements de votre propre main.
 
 La main est un objet doté d'une CA de 20 et d'un nombre de points de vie égal à votre maximum de points de vie. Si elle tombe à 0 point de vie, le sort se dissipe. La main possède une Force de 26 (+8) et une Dextérité de 10 (+0). Elle n'occupe pas la case où elle se trouve.

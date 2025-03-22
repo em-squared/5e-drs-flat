@@ -1,22 +1,17 @@
----
-title: Pas brumeux
-description: Téléportation à 9 mètres pour une action bonus.
-school: Invocation
-level: 2
-concentration: false
-casting_time: 1 action bonus
-duration: instantanée
-range: personnelle
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Ombrelame
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: false
-components_materials: ''
----
+# Pas brumeux
+
+**École de magie** : Invocation
+
+**Niveau** : 2
+
+**Portée** : personnelle
+
+**Durée** : instantanée
+
+**Composantes** : V
+
+**Classes** : Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
+
+**Source** : Manuel des règles
+
 Vous êtes brièvement entouré d'une brume argentée et vous vous téléportez sur un maximum de 9 mètres jusqu'à un emplacement inoccupé situé dans votre champ de vision.

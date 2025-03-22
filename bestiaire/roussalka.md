@@ -1,37 +1,3 @@
----
-title: Roussalka
-type: Mort-vivant
-size: M
-alignment: Chaotique Mauvais
-challenge: '6'
-hitDiceCount: 16
-conditionImmunities:
-  - charme
-  - empoisonne
-  - paralyse
-  - terrorise
-damageTypeImmunities:
-  - necrotique
-  - poison
-  - c-p-t-non-magique
-languages:
-  - commun
-environments:
-  - Littoral
-source: Livre des monstres
-source_page: 353
-abilityScores_for: 17
-abilityScores_dex: 13
-abilityScores_con: 12
-abilityScores_int: 11
-abilityScores_sag: 15
-abilityScores_cha: 18
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 9
-movement_swim: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Tresses desséchées**_. Si la roussalka reste hors de l'eau pendant 24 heures consécutives, ses cheveux et son corps se dessèchent et il n'en reste que des herbes du marais flétries, la créature étant complètement détruite.
 

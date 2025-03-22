@@ -1,36 +1,3 @@
----
-title: Terreur des roches
-type: Créature monstrueuse
-size: G
-alignment: Neutre Mauvais
-challenge: '5'
-hitDiceCount: 12
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-conditionImmunities:
-  - aveugle
-languages:
-  - comprend le commun des profondeurs mais ne parle pas
-dungeonTypes:
-  - Caverne naturelle
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 272
-abilityScores_for: 18
-abilityScores_dex: 12
-abilityScores_con: 16
-abilityScores_int: 7
-abilityScores_sag: 14
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: 9
-movement_burrow: 6
-senses_tremorsense: 18
-senses_blindsight: 18
----
 ## Capacités
 _**Explosion rocheuse**_. Au premier round de combat, si la terreur des roches était camouflée derrière une paroi rocheuse et la fait exploser avec son attaque d'onde vibratoire, ses adversaires doivent réussir un test de Sagesse (Perception) DD 25 ou être [_surpris_](/gerer-la-sante-du-personnage/#surpris). Les éclats de pierre projetés par l'explosion de la roche infligent 11 (2d10) dégâts contondants supplémentaires aux dégâts normaux de l'onde vibratoire (voir ci-après). Une créature qui n'est pas [_surprise_](/gerer-la-sante-du-personnage/#surpris) peut faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour subir seulement la moitié des dégâts provoqués par la projection de pierres. La terreur des roches ne fait pas d'autre attaque dans le tour où elle fait exploser une paroi.
 

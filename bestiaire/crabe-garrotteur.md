@@ -1,31 +1,3 @@
----
-title: Crabe garrotteur
-type: Bête
-size: TP
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 4
-conditionImmunities:
-  - charme
-  - terrorise
-damageTypeImmunities:
-  - psychique
-languages:
-  - —
-source: Livre des monstres
-source_page: 70
-abilityScores_for: 7
-abilityScores_dex: 14
-abilityScores_con: 14
-abilityScores_int: 1
-abilityScores_sag: 10
-abilityScores_cha: 2
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-movement_swim: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le crabe respire à l'air libre et sous l'eau.
 

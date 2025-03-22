@@ -1,35 +1,3 @@
----
-title: 'Monolithique, Valet'
-type: Créature artificielle
-size: G
-alignment: non-alignée
-challenge: '3'
-hitDiceCount: 8
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - terrorise
-damageTypeImmunities:
-  - poison
-  - c-p-t-non-adamantium
-languages:
-  - elfique
-  - umbral
-source: Livre des monstres
-source_page: 309
-abilityScores_for: 18
-abilityScores_dex: 12
-abilityScores_con: 14
-abilityScores_int: 10
-abilityScores_sag: 10
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Renvoi flagrant**_. Tant que le valet monolithique se trouve dans une cour ou un château féerique, il peut substituer un double d'ombre à sa cible quand il réussit un coup à l'épée longue. La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme DD 10, sans quoi elle devient [_invisible_](/gerer-la-sante-du-personnage/#invisible), silencieuse et [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) tandis qu'une version illusoire d'elle-même reste visible et audible... et sous le contrôle du valet, à hurler qu'il faut battre en retraite par exemple. Ce pouvoir ne fonctionne pas en dehors des domaines féeriques.
 

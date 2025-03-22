@@ -1,23 +1,19 @@
----
-title: Cage de force
-description: 'Crée une prison immobile, invisible et infranchissable.'
-school: Évocation
-level: 7
-concentration: false
-casting_time: 1 action
-duration: 1 heure
-range: 30 mètres
-ritual: false
-classes:
-  - Barde
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: poussière de rubis d'une valeur de 1500 po
----
+# Cage de force
+
+**École de magie** : Évocation
+
+**Niveau** : 7
+
+**Portée** : 30 mètres
+
+**Durée** : 1 heure
+
+**Composantes** : V, S, M, (poussière de rubis d'une valeur de 1500 po)
+
+**Classes** : Barde, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Une prison immobile et invisible, en forme de cube et faite de force magique, se forme soudain autour d'une zone de votre choix située à portée. Ce peut être une cage ou une boîte hermétique, à votre guise.
 * Une prison en forme de cage peut faire un maximum de 6 mètres d'arête et dispose de barreaux de 1 centimètre d'épaisseur placés à 1 centimètre d'intervalle.
 * Une prison en forme de boîte peut faire un maximum de 3 mètres d'arête et forme une barrière pleine qui empêche la matière de passer. Elle bloque aussi le passage des sorts lancés vers l'intérieur ou l'extérieur.

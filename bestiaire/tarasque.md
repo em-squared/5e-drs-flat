@@ -1,39 +1,3 @@
----
-title: Tarasque
-type: Créature monstrueuse
-subtype: titan
-size: Gig
-alignment: non-alignée
-challenge: '30'
-hitDiceCount: 33
-savingThrows:
-  - int
-  - sag
-  - cha
-conditionImmunities:
-  - charme
-  - empoisonne
-  - paralyse
-  - terrorise
-damageTypeImmunities:
-  - feu
-  - poison
-  - c-p-t-non-magique
-languages:
-  - ''
-source: Créatures & Oppositions
-source_page: 271
-abilityScores_for: 30
-abilityScores_dex: 11
-abilityScores_con: 30
-abilityScores_int: 3
-abilityScores_sag: 11
-abilityScores_cha: 11
-ac_armorType: armure naturelle
-ac_value: 15
-movement_walk: 12
-senses_blindsight: 36
----
 ## Capacités
 _**Carapace réfléchissante**_. Lancez un d6 chaque fois que la tarasque est la cible d'un sort de [_projectile magique_](/grimoire/projectile-magique/), d'un sort dont la zone d'effet est une ligne ou d'un sort qui nécessite un [jet d'attaque](/combattre/#jets-d-attaque) à distance. Sur un résultat de 1 à 5, la tarasque n'est pas affectée. Sur un résultat de 6, elle n'est pas affectée et l'effet est renvoyé vers le lanceur du sort, comme s'il provenait de la tarasque, et le lanceur du sort en devient la cible.
 

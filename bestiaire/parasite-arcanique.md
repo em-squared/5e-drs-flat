@@ -1,38 +1,3 @@
----
-title: Parasite arcanique
-type: Aberration
-size: TP
-alignment: Neutre
-challenge: '0.25'
-hitDiceCount: 2
-skills:
-  - name: perception
-conditionImmunities:
-  - aveugle
-damageTypeResistances:
-  - acide
-  - feu
-  - foudre
-  - froid
-  - tonnerre
-languages:
-  - –
-dungeonTypes:
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 245
-abilityScores_for: 8
-abilityScores_dex: 15
-abilityScores_con: 11
-abilityScores_int: 2
-abilityScores_sag: 7
-abilityScores_cha: 4
-ac_armorType: null
-movement_walk: 9
-senses_blindsight: 18
-senses_customBlindSight: 18 m (aveugle au-delà)
-senses_customPassivePerception: 8
----
 ## Capacités
 _**Perception des lanceurs de sorts**_. Le parasite arcanique détecte automatiquement et instantanément les créatures usant de sorts ou de pouvoirs magiques dans un rayon de 36 mètres.
 

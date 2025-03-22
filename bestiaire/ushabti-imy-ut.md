@@ -1,33 +1,3 @@
----
-title: 'Ushabti, Imy-ut'
-type: Créature monstrueuse
-size: M
-alignment: Neutre
-challenge: '3'
-hitDiceCount: 15
-savingThrows:
-  - sag
-conditionImmunities:
-  - epuise
-  - terrorise
-damageTypeVulnerabilities:
-  - feu
-damageTypeResistances:
-  - contondant
-languages:
-  - commun (ancien nurien)
-source: Livre des monstres
-source_page: 249
-abilityScores_for: 17
-abilityScores_dex: 14
-abilityScores_con: 15
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 5
-ac_armorType: chemise de mailles
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 **_Régénération._** L'imy-ut ushabti récupère 5 points de vie au début de son tour s'il lui reste au moins 1 point de vie.
 

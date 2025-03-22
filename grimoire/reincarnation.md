@@ -1,21 +1,19 @@
----
-title: Réincarnation
-description: 'Ramène à la vie, dans un nouveau corps, une créature morte depuis 10 jours.'
-school: Transmutation
-level: 5
-concentration: false
-casting_time: 1 heure
-duration: instantanée
-range: contact
-ritual: false
-classes:
-  - Druide
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'huiles et onguents rares d''une valeur minimale de 1000 po, que le sort consume'
----
+# Réincarnation
+
+**École de magie** : Transmutation
+
+**Niveau** : 5
+
+**Portée** : contact
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (huiles et onguents rares d'une valeur minimale de 1000 po, que le sort consume)
+
+**Classes** : Druide
+
+**Source** : Manuel des règles
+
 Vous touchez un humanoïde mort ou un morceau du cadavre d'une telle créature. Si la créature est morte depuis 10 jours ou moins, le sort lui fabrique un nouveau corps adulte et y appelle son âme. Le sort échoue si l'âme n'est pas libre de gagner ce corps ou si elle ne le désire pas.
 
 La magie façonne un nouveau corps pour accueillir l'âme, ce qui risque de modifier la race de la créature. Le MJ lance 1d100 et consulte la table suivante pour déterminer quel sera le corps de la créature ramenée à la vie ou il en choisit un.

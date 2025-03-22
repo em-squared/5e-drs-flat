@@ -1,35 +1,3 @@
----
-title: Éfrit
-type: Élémentaire
-size: G
-alignment: Loyal Mauvais
-challenge: '11'
-hitDiceCount: 16
-savingThrows:
-  - int
-  - sag
-  - cha
-damageTypeImmunities:
-  - feu
-languages:
-  - ignée
-environments:
-  - Désert chaud
-  - Plans élémentaires
-source: Créatures & Oppositions
-source_page: 160
-abilityScores_for: 22
-abilityScores_dex: 12
-abilityScores_con: 24
-abilityScores_int: 16
-abilityScores_sag: 15
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 6
-movement_walk: 12
-movement_fly: 18
-senses_darkvision: 36
----
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation de l'éfrit est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15, +7 pour toucher avec les attaques de sort). L'éfrit peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/)

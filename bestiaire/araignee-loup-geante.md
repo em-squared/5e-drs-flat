@@ -1,33 +1,3 @@
----
-title: Araignée-loup géante
-type: Bête
-size: M
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 2
-skills:
-  - name: discretion
-    isExpert: true
-  - name: perception
-languages:
-  - ''
-environments:
-  - Collines / Vallées
-  - Plaine / Champs / Prairie / Savane
-source: Créatures & Oppositions
-source_page: 296
-abilityScores_for: 12
-abilityScores_dex: 16
-abilityScores_con: 13
-abilityScores_int: 3
-abilityScores_sag: 12
-abilityScores_cha: 4
-ac_armorType: null
-movement_walk: 12
-movement_climb: 12
-senses_blindsight: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

@@ -1,11 +1,3 @@
----
-title: Baguette de terreur
-type: Baguette
-subtype: false
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. Sur un 1, elle est détruite et tombe en cendres.
 
 _**Ordre**_. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 charge et ordonner à une créature de fuir ou de se mettre à plat ventre, comme avec le sort [_injonction_](/grimoire/injonction/) (DD des jets de sauvegarde 15).

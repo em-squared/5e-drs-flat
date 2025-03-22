@@ -1,39 +1,3 @@
----
-title: Beauté abominable
-type: Fée
-size: M
-alignment: Neutre Mauvais
-challenge: '11'
-hitDiceCount: 22
-savingThrows:
-  - dex
-  - con
-  - cha
-skills:
-  - name: perception
-  - name: persuasion
-  - name: representation
-  - name: supercherie
-senses: null
-damageTypeImmunities:
-  - feu
-languages:
-  - commun
-  - draconique
-  - elfique
-  - sylvestre
-source: Livre des monstres
-source_page: 36
-abilityScores_for: 17
-abilityScores_dex: 18
-abilityScores_con: 18
-abilityScores_int: 17
-abilityScores_sag: 16
-abilityScores_cha: 26
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
----
 ## Capacités
 _**Toucher brûlant**_. L'attaque de coup d'une beauté abominable inflige 28 (8d6) dégâts de feu. Une créature qui la touche subit également 28 (8d6) dégâts de feu.
 

@@ -1,26 +1,19 @@
----
-title: Cercle magique
-description: Protège une zone contre un type de créature.
-school: Abjuration
-level: 3
-concentration: false
-casting_time: 1 minute
-duration: 1 heure
-range: 3 mètres
-ritual: false
-classes:
-  - Clerc
-  - Magicien
-  - Paladin
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que
-  le sort consume
----
+# Cercle magique
+
+**École de magie** : Abjuration
+
+**Niveau** : 3
+
+**Portée** : 3 mètres
+
+**Durée** : 1 heure
+
+**Composantes** : V, S, M, (eau bénite ou poudre d'argent et de fer d'une valeur minimale de 100 po, que le sort consume)
+
+**Classes** : Clerc, Magicien, Paladin, Sorcier
+
+**Source** : Manuel des règles
+
 Vous créez un cylindre d'énergie magique de 3 mètres de rayon pour 6 mètres de haut, centré sur un point au sol situé à portée et dans votre champ de vision. Des runes luisantes apparaissent là où le cylindre touche le sol ou une autre surface.
 
 Choisissez l'un des types de créatures suivants : célestes, élémentaires, fées, fiélons ou morts-vivants. Le cercle affecte une créature du type choisi de la manière suivante :

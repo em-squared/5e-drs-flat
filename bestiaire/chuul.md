@@ -1,38 +1,3 @@
----
-title: Chuul
-type: Aberration
-size: G
-alignment: Chaotique Mauvais
-challenge: '4'
-hitDiceCount: 11
-skills:
-  - name: perception
-    isExpert: true
-conditionImmunities:
-  - empoisonne
-damageTypeImmunities:
-  - poison
-languages:
-  - comprend le profond mais ne peut pas parler
-environments:
-  - Mangrove / Marécage
-  - Mer / Océan
-dungeonTypes:
-  - Caverne sous-marine
-source: Créatures & Oppositions
-source_page: 43
-abilityScores_for: 19
-abilityScores_dex: 10
-abilityScores_con: 16
-abilityScores_int: 5
-abilityScores_sag: 11
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 6
-movement_walk: 9
-movement_swim: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le chuul peut respirer à l'air libre et sous l'eau.
 

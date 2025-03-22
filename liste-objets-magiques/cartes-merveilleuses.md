@@ -1,11 +1,3 @@
----
-title: Cartes merveilleuses
-type: Objet merveilleux
-subtype: false
-rarity: Légendaire
-attunement: false
-source: Cadre de campagne
----
 Ce jeu de cartes, en ivoire ou sur vélin, se trouve généralement dans une boîte ou une bourse. La plupart des jeux (75 %) n'ont que treize cartes, mais les autres en ont vingt-deux.
 
 Avant de piocher, vous devez annoncer combien de cartes vous comptez tirer, puis vous les piochez au hasard (vous pouvez utiliser un jeu de cartes ordinaire modifié pour représenter les _cartes merveilleuses_). Toute carte tirée en plus du nombre indiqué reste sans effet. En dehors de cela, la magie d'une carte s'active dès que vous la piochez. Il ne doit pas s'écouler plus d'une heure entre le tirage de deux cartes : si vous ne piochez pas le nombre de cartes que vous avez annoncé, des cartes s'envolent du jeu pour atteindre ce nombre et font effet toutes en même temps.

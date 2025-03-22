@@ -1,11 +1,3 @@
----
-title: Bâton de tonnerre et de foudre
-type: Bâton
-subtype: false
-rarity: Très rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Il possède également les propriétés supplémentaires suivantes. Quand une de ces propriétés est utilisée, il faut attendre l'aube suivante avant de pouvoir l'utiliser à nouveau.
 
 _**Foudre**_. Quand vous réussissez une attaque au corps à corps avec le bâton, vous pouvez faire en sorte que la cible subisse 2d6 dégâts de foudre supplémentaires.

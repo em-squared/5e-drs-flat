@@ -1,11 +1,3 @@
----
-title: Robe aux yeux multiples
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Cette robe est ornée de motifs en forme d'yeux. Vous bénéficiez des avantages suivants tant que vous portez cette robe :
 * La robe vous permet de voir dans toutes les directions et vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.
 * Vous disposez de la vision dans le noir sur une distance de 36 mètres.

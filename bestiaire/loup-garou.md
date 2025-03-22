@@ -1,36 +1,3 @@
----
-title: Loup-garou
-type: Humanoïde
-subtype: 'humain, métamorphe'
-size: M
-alignment: Chaotique Mauvais
-challenge: '3'
-hitDiceCount: 9
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-customMovement: 9 m (12 m sous forme de loup)
-senses: null
-damageTypeImmunities:
-  - c-p-t-non-argent
-languages:
-  - commun (ne peut pas parler sous forme de loup)
-environments:
-  - Bois / Forêt
-  - Montagnes
-source: Créatures & Oppositions
-source_page: 206
-abilityScores_for: 15
-abilityScores_dex: 13
-abilityScores_con: 14
-abilityScores_int: 10
-abilityScores_sag: 11
-abilityScores_cha: 10
-ac_armorType: custom
-ac_value: '11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup'
-movement_walk: 9
----
 ## Capacités
 _**Métamorphe**_. Le loup-garou peut utiliser son action pour se métamorphoser en hybride d'humanoïde et de loup, en loup, ou pour reprendre sa véritable forme d'humanoïde. Ses statistiques, à l'exception de sa CA, restent les mêmes, quelle que soit la forme adoptée. Ses objets équipés ou transportés ne sont pas transformés. Le loup-garou reprend sa forme véritable s'il meurt.
 

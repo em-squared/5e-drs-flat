@@ -1,30 +1,3 @@
----
-title: Araignée
-type: Bête
-size: TP
-alignment: non-alignée
-challenge: '0'
-hitDiceCount: 1
-skills:
-  - name: discretion
-languages:
-  - ''
-environments:
-  - Bois / Forêt
-  - Jungle
-source: Créatures & Oppositions
-source_page: 294
-abilityScores_for: 2
-abilityScores_dex: 14
-abilityScores_con: 8
-abilityScores_int: 1
-abilityScores_sag: 10
-abilityScores_cha: 2
-ac_armorType: null
-movement_walk: 6
-movement_climb: 6
-senses_darkvision: 9
----
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

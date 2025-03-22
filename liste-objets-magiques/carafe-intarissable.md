@@ -1,11 +1,3 @@
----
-title: Carafe intarissable
-type: Objet merveilleux
-subtype: false
-rarity: Peu courant
-attunement: false
-source: Cadre de campagne
----
 Cette carafe coiffée d'un couvercle fait un bruit de liquide quand on la secoue, comme si elle contenait de l'eau. Elle pèse 1 kilo.
 
 Vous pouvez dépenser une action pour enlever le couvercle et prononcer l'un des trois mots de commande. De l'eau douce ou salée (à vous de choisir) se déverse alors. Elle cesse de couler au début de votre prochain tour. Choisissez l'une des options suivantes.

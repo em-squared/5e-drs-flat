@@ -1,31 +1,3 @@
----
-title: Hippogriffe
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '1'
-hitDiceCount: 3
-skills:
-  - name: perception
-    isExpert: true
-senses: null
-languages:
-  - —
-environments:
-  - Littoral
-  - Montagnes
-source: Créatures & Oppositions
-source_page: 186
-abilityScores_for: 17
-abilityScores_dex: 13
-abilityScores_con: 13
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 8
-ac_armorType: null
-movement_walk: 12
-movement_fly: 18
----
 ## Capacités
 _**Vue aiguisée**_. L'hippogriffe obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur la vue.
 

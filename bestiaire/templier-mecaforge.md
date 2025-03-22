@@ -1,38 +1,3 @@
----
-title: Templier mécaforgé
-type: Humanoïde
-subtype: mécaforgé
-size: M
-alignment: Loyal Neutre
-challenge: '6'
-hitDiceCount: 11
-savingThrows:
-  - dex
-  - con
-skills: null
-senses: null
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - terrorise
-damageTypeResistances:
-  - c-p-t-non-magique
-damageTypeImmunities:
-  - poison
-languages:
-  - commun
-source: Livre des monstres
-source_page: 379
-abilityScores_for: 20
-abilityScores_dex: 9
-abilityScores_con: 15
-abilityScores_int: 12
-abilityScores_sag: 16
-abilityScores_cha: 10
-ac_armorType: harnois
-movement_walk: 9
----
 ## Capacités
 _**Zone de défense**_. Le templier mécaforgé peut faire une attaque d'opportunité quand une créature entre dans sa zone d'allonge.
 

@@ -1,38 +1,3 @@
----
-title: Ratatosk
-type: Céleste
-size: TP
-alignment: Chaotique Neutre
-challenge: '4'
-hitDiceCount: 12
-savingThrows:
-  - sag
-  - cha
-skills:
-  - name: discretion
-  - name: perception
-    invalid: true
-    value: 6
-  - name: supercherie
-damageTypeResistances:
-  - c-p-t-non-magique
-languages:
-  - céleste
-  - commun
-telepathy: 30
-source: Livre des monstres
-source_page: 347
-abilityScores_for: 4
-abilityScores_dex: 18
-abilityScores_con: 12
-abilityScores_int: 17
-abilityScores_sag: 10
-abilityScores_cha: 18
-ac_armorType: null
-movement_walk: 6
-movement_climb: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation innée**_. Le ratatosk utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles ni somatiques :
 * **À volonté** : [_message_](/grimoire/message/), [_messager animal_](/grimoire/messager-animal/), [_moquerie cruelle_](/grimoire/moquerie-cruelle/)

@@ -1,32 +1,3 @@
----
-title: Minotaure
-type: Créature monstrueuse
-size: G
-alignment: Chaotique Mauvais
-challenge: '3'
-hitDiceCount: 9
-skills:
-  - name: perception
-    isExpert: true
-languages:
-  - abyssal
-dungeonTypes:
-  - Caverne aménagée
-  - Donjon maçonné
-  - Ruines extérieures
-source: Créatures & Oppositions
-source_page: 223
-abilityScores_for: 18
-abilityScores_dex: 11
-abilityScores_con: 16
-abilityScores_int: 6
-abilityScores_sag: 16
-abilityScores_cha: 9
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Charge**_. Si le minotaure se déplace de 9 mètres au moins en ligne droite vers une cible contre laquelle il réussit ensuite une attaque de coup de corne lors du même tour, celle-ci subit 9 (2d8) dégâts perforants supplémentaires. Si la cible est une créature, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être repoussée de 3 mètres et se retrouver [_à terre_](/gerer-la-sante-du-personnage/#a-terre).
 

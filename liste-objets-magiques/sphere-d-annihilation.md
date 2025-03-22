@@ -1,11 +1,3 @@
----
-title: Sphère d'annihilation
-type: Objet merveilleux
-subtype: false
-rarity: Légendaire
-attunement: false
-source: Cadre de campagne
----
 Cette sphère noire de 60 centimètres de diamètre est un trou dans le multivers, en lévitation dans l'espace et stabilisé grâce au champ magique qui l'enveloppe.
 
 La sphère oblitère toute matière qui la traverse. Seuls les artefacts ne sont pas détruits. À moins qu'il ne soit sensible aux dégâts infligés par une _sphère d'annihilation_, un artefact passe à travers la sphère sans subir le moindre dégât. Tout autre chose qui entre en contact avec la sphère – mais n'est pas complètement engloutie et donc oblitérée par elle – subit 4d10 dégâts de force.

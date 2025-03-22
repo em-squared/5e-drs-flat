@@ -1,39 +1,3 @@
----
-title: Diable des chaînes
-type: Fiélon
-subtype: Diable
-size: M
-alignment: Loyal Mauvais
-challenge: '8'
-hitDiceCount: 10
-savingThrows:
-  - con
-  - sag
-  - cha
-conditionImmunities:
-  - empoisonne
-damageTypeResistances:
-  - froid
-  - c-p-t-non-argent
-damageTypeImmunities:
-  - feu
-  - poison
-languages:
-  - infernal
-telepathy: 36
-source: Créatures & Oppositions
-source_page: 66
-abilityScores_for: 18
-abilityScores_dex: 15
-abilityScores_con: 18
-abilityScores_int: 11
-abilityScores_sag: 12
-abilityScores_cha: 14
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Résistance à la magie**_. Le diable obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 

@@ -1,37 +1,3 @@
----
-title: Liche canine
-type: Mort-vivant
-size: M
-alignment: Neutre Mauvais
-challenge: '4'
-hitDiceCount: 14
-customSavingThrows: 'Dex +4, Con +4, Cha +3'
-skills:
-  - name: acrobaties
-  - name: perception
-    isExpert: true
-conditionImmunities:
-  - empoisonne
-  - epuise
-damageTypeResistances:
-  - c-p-non-magique
-damageTypeImmunities:
-  - poison
-languages:
-  - comprend le darakhul
-source: Livre des monstres
-source_page: 268
-abilityScores_for: 10
-abilityScores_dex: 18
-abilityScores_con: 18
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 16
-ac_armorType: null
-movement_walk: 9
-movement_fly: 15
-senses_blindsight: 30
----
 ## Capacités
 _**Odorat et ouïe aiguisés**_. La liche canine est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.
 

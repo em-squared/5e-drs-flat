@@ -1,36 +1,3 @@
----
-title: Ver pêcheur
-type: Créature monstrueuse
-size: TG
-alignment: non-alignée
-challenge: '4'
-hitDiceCount: 14
-conditionImmunities:
-  - a-terre
-  - assourdi
-  - aveugle
-  - charme
-  - empoisonne
-damageTypeImmunities:
-  - poison
-languages:
-  - —
-dungeonTypes:
-  - Caverne naturelle
-source: Livre des monstres
-source_page: 400
-abilityScores_for: 14
-abilityScores_dex: 5
-abilityScores_con: 16
-abilityScores_int: 3
-abilityScores_sag: 14
-abilityScores_cha: 1
-ac_armorType: armure naturelle
-ac_value: 7
-movement_walk: 6
-movement_climb: 6
-senses_tremorsense: 18
----
 ## Capacités
 _**Pattes d'araignée**_. Le ver peut escalader des surfaces difficiles, y compris les plafonds tête en bas et grimper le long des fils avec lesquels il fabrique ses pièges, sans qu'un test de caractéristique soit nécessaire. Le ver pêcheur ne peut pas se trouver [_entravé_](/gerer-la-sante-du-personnage/#entrave) par ses propres pièges ou ceux d'un autre ver pêcheur.
 

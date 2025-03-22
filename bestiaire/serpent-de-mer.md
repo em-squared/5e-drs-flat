@@ -1,33 +1,3 @@
----
-title: Serpent de mer
-type: Créature monstrueuse
-size: Gig
-alignment: non-alignée
-challenge: '16'
-proficiencyBonus: 4
-hitDiceCount: 14
-savingThrows:
-  - con
-  - sag
-languages:
-  - ''
-environments:
-  - Mer / Océan
-dungeonTypes:
-  - Ruines sous-marines
-source: Créatures & Oppositions
-source_page: 257
-abilityScores_for: 28
-abilityScores_dex: 10
-abilityScores_con: 22
-abilityScores_int: 3
-abilityScores_sag: 10
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 8
-movement_swim: 15
-senses_blindsight: 18
----
 ## Capacités
 _**Amphibie**_. Le serpent de mer peut respirer à l'air libre et sous l'eau.
 

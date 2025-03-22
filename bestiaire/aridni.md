@@ -1,36 +1,3 @@
----
-title: Aridni
-type: Fée
-size: P
-alignment: Neutre Mauvais
-challenge: '5'
-hitDiceCount: 15
-savingThrows:
-  - dex
-skills:
-  - name: acrobaties
-    isExpert: true
-  - name: discretion
-    isExpert: true
-  - name: perception
-languages:
-  - commun
-  - gnoll
-  - langue du Vide
-  - sylvestre
-source: Livre des monstres
-source_page: 31
-abilityScores_for: 9
-abilityScores_dex: 21
-abilityScores_con: 14
-abilityScores_int: 12
-abilityScores_sag: 11
-abilityScores_cha: 16
-ac_armorType: null
-movement_walk: 6
-movement_fly: 18
-senses_darkvision: 18
----
 ## Capacités
 _**Repli aérien**_. Un aridni ne provoque par d'attaque d'opportunité quand il vole hors de portée d'un ennemi.
 

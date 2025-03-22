@@ -1,24 +1,19 @@
----
-title: Manoir somptueux
-description: Crée une vaste demeure extraplanaire pendant 24 heures.
-school: Invocation
-level: 7
-concentration: false
-casting_time: 1 minute
-duration: 24 heures
-range: 90 mètres
-ritual: false
-classes:
-  - Barde
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une
-  minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po
----
+# Manoir somptueux
+
+**École de magie** : Invocation
+
+**Niveau** : 7
+
+**Portée** : 90 mètres
+
+**Durée** : 24 heures
+
+**Composantes** : V, S, M, (un portrait miniature gravé dans de l'ivoire, un bout de marbre poli et une minuscule cuillère en argent, chaque objet devant valoir au minimum 5 po)
+
+**Classes** : Barde, Magicien
+
+**Source** : Manuel des règles
+
 Vous invoquez une demeure extraplanaire à portée qui persiste pendant toute la durée du sort. À vous de choisir où se situe sa seule entrée. Cette dernière scintille légèrement et mesure 1,50 mètre de large pour 3 mètres de haut. Vous et toutes les créatures que vous désignez lors de l'incantation êtes libres d'entrer et de sortir de cette demeure extraplanaire, tant que son portail reste ouvert. Vous pouvez l'ouvrir ou le fermer si vous vous tenez à 9 mètres ou moins de lui. Quand le portail est fermé, il est invisible.
 
 Un splendide vestibule s'ouvre derrière le portail et dessert de nombreuses pièces. Les lieux sont propres et l'atmosphère tiède et agréable.

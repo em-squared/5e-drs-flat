@@ -1,31 +1,3 @@
----
-title: Géant thursir
-type: Géant
-size: G
-alignment: Neutre Mauvais (50%) ou Loyal Mauvais (50%)
-challenge: '3'
-hitDiceCount: 12
-savingThrows:
-  - con
-skills:
-  - name: athletisme
-  - name: perception
-languages:
-  - commun
-  - nain
-  - géant
-source: Livre des monstres
-source_page: 208
-abilityScores_for: 19
-abilityScores_dex: 10
-abilityScores_con: 18
-abilityScores_int: 13
-abilityScores_sag: 15
-abilityScores_cha: 11
-ac_armorType: chemise de mailles
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Estomac en titane**_. Le géant peut dévorer la moitié de son poids en nourriture sans effet néfaste. Il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre tout ce qui pourrait lui donner l'état [_empoisonné_](/gerer-la-sante-du-personnage/#empoisonne). On trouve fréquemment de la nourriture empoisonnée ou gâtée dans l'antre d'un thursir.
 

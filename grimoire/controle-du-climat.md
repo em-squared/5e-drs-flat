@@ -1,23 +1,21 @@
----
-title: Contrôle du climat
-description: 'Le PJ contrôle la météo dans un rayon de 7,5 kilomètres.'
-school: Transmutation
-level: 8
-concentration: true
-casting_time: 10 minutes
-duration: jusqu'à 8 heures
-range: 'personnelle (rayon de 7,5 kilomètres)'
-ritual: false
-classes:
-  - Clerc
-  - Druide
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: encens incandescent et un peu de bois et de terre mélangés dans de l'eau
----
+# Contrôle du climat
+
+**École de magie** : Transmutation
+
+**Niveau** : 8
+
+**Portée** : personnelle (rayon de 7,5 kilomètres)
+
+**Durée** : jusqu'à 8 heures
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (encens incandescent et un peu de bois et de terre mélangés dans de l'eau)
+
+**Classes** : Clerc, Druide, Magicien
+
+**Source** : Manuel des règles
+
 Vous prenez le contrôle de la météo dans un rayon de 7,5  kilomètres autour de vous pendant toute la durée du sort. Vous devez être en extérieur au moment de l'incantation. Si vous vous rendez dans un endroit d'où vous ne voyez pas directement le ciel, le sort se termine prématurément.
 
 Au moment de l'incantation, vous changez les conditions météorologiques actuelles déterminées par le MJ en fonction du climat et de la saison. Vous pouvez modifier les précipitations, la température et le vent. Il faut 1d4×10 minutes pour que les nouvelles conditions s'installent. Vous pouvez ensuite les modifier à nouveau. Le temps retourne progressivement à la normale une fois le sort terminé.

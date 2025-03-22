@@ -1,21 +1,19 @@
----
-title: Embruns prismatiques
-description: Huit rayons aux effets aléatoires frappent les cibles à 18 mètres.
-school: Évocation
-level: 7
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: personnelle (cône de 18 mètres)
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
----
+# Embruns prismatiques
+
+**École de magie** : Évocation
+
+**Niveau** : 7
+
+**Portée** : personnelle (cône de 18 mètres)
+
+**Durée** : instantanée
+
+**Composantes** : V, S
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une couleur différente et possède des pouvoirs et objectifs distincts. Chaque créature présente dans un cône de 18 mètres doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Lancez 1d8 par cible pour savoir quelle couleur l'affecte.
 
 1. **_Rouge_**. La cible subit 10d6 dégâts de feu si elle rate son jet de sauvegarde, la moitié seulement si elle le réussit.

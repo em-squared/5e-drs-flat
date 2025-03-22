@@ -1,27 +1,3 @@
----
-title: Noctin
-type: Humanoïde
-subtype: noctin
-size: M
-alignment: Neutre Mauvais
-challenge: '2'
-hitDiceCount: 8
-senses: null
-conditionImmunities:
-  - terrorise
-languages:
-  - commun et les langues que parle le maître fext du noctin
-source: Livre des monstres
-source_page: 323
-abilityScores_for: 12
-abilityScores_dex: 13
-abilityScores_con: 14
-abilityScores_int: 10
-abilityScores_sag: 11
-abilityScores_cha: 16
-ac_armorType: armure de cuir clouté
-movement_walk: 9
----
 ## Capacités
 _**Résistance à la magie**_. Le noctin est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts et autres effets magiques.
 

@@ -1,33 +1,3 @@
----
-title: Wyrm des sables
-type: Dragon
-size: G
-alignment: non-aligné
-challenge: '6'
-hitDiceCount: 15
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-languages:
-  - —
-environments:
-  - Désert chaud
-source: Livre des monstres
-source_page: 410
-abilityScores_for: 20
-abilityScores_dex: 12
-abilityScores_con: 18
-abilityScores_int: 5
-abilityScores_sag: 13
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 6
-movement_burrow: 12
-senses_darkvision: 18
-senses_tremorsense: 36
----
 ## Capacités
 _**Piège osseux**_. Quand le wyrm des sables est sous terre avec ses excroissances osseuses à l'air libre, il peut les refermer sur une créature de Grande taille, deux de taille Moyenne ou quatre de Petite taille ou inférieure qui se trouvent juste au-dessus de lui. Chaque créature doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15, sans quoi elle est [_entravée_](/gerer-la-sante-du-personnage/#entrave). Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) peut dépenser une action pour faire un test de Force DD 15 pour se libérer ou libérer une autre créature [_entravée_](/gerer-la-sante-du-personnage/#entrave), mettant fin à l'effet si elle réussit. Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) par ce trait se déplace avec le wyrm des sables. L'attaque de _dard_ du wyrm est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) contre les créatures [_entravées_](/gerer-la-sante-du-personnage/#entrave) par ce trait.
 

@@ -1,21 +1,21 @@
----
-title: Communion avec la nature
-description: Le PJ obtient des informations sur la région qui l'entoure.
-school: Divination
-level: 5
-concentration: false
-casting_time: 1 minute
-duration: instantanée
-range: personnelle
-ritual: true
-classes:
-  - Druide
-  - Rôdeur
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
----
+# Communion avec la nature
+
+**École de magie** : Divination
+
+**Niveau** : 5
+
+**Rituel** : oui
+
+**Portée** : personnelle
+
+**Durée** : instantanée
+
+**Composantes** : V, S
+
+**Classes** : Druide, Rôdeur
+
+**Source** : Manuel des règles
+
 Pendant un court instant, vous ne faites plus qu'un avec la nature et obtenez des informations sur le territoire environnant. En extérieur, ce sort vous transmet des informations sur le terrain qui vous entoure dans un rayon de 4,5 kilomètres. Dans une grotte ou un autre environnement naturel souterrain, le rayon d'action est de 90 mètres. Ce sort ne fonctionne pas là où les constructions ont remplacé la nature, comme en ville ou dans un donjon.
 
 Vous obtenez instantanément des informations sur un maximum de trois éléments de votre choix portant sur l'un des sujets suivants dans votre zone.

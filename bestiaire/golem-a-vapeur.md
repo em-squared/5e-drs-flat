@@ -1,37 +1,3 @@
----
-title: Golem à vapeur
-type: Créature artificielle
-size: G
-alignment: non-alignée
-challenge: '13'
-hitDiceCount: 18
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeImmunities:
-  - feu
-  - poison
-  - psychique
-  - c-p-t-non-adamantium
-languages:
-  - comprend les langues de son créateur mais ne peut pas parler
-source: Livre des monstres
-source_page: 212
-abilityScores_for: 26
-abilityScores_dex: 12
-abilityScores_con: 18
-abilityScores_int: 3
-abilityScores_sag: 10
-abilityScores_cha: 1
-ac_armorType: armure naturelle
-ac_value: 7
-movement_walk: 12
-senses_darkvision: 36
----
 ## Capacités
 _**Faiblesse de chaudière**_. Si le golem de vapeur est immergé dans l'eau ou si l'on déverse au moins 80 litres d'eau sur sa chaudière (avec un élémentaire de l'eau par exemple), il peut se figer tant la pression de la vapeur diminue. Si un élémentaire de l'eau imbibe le golem, cet élémentaire est détruit et le golem doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 20. S'il le réussit, l'eau s'évapore et le golem continue de fonctionner normalement, s'il le rate sa flamme s'éteint et sa chaudière perd de la pression. Le golem agit alors comme sous l'effet de lenteur pendant 1d3 rounds puis se trouve [_paralysé_](/gerer-la-sante-du-personnage/#paralyse) jusqu'à ce que l'on rallume son feu et qu'il passe 15 minutes à accumuler de la pression.
 

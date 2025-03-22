@@ -1,31 +1,3 @@
----
-title: Sutureuse
-type: Bête
-size: TP
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 3
-skills:
-  - name: discretion
-languages:
-  - —
-environments:
-  - Bois / Forêt
-  - Mangrove / Marécage
-source: Livre des monstres
-source_page: 377
-abilityScores_for: 1
-abilityScores_dex: 19
-abilityScores_con: 10
-abilityScores_int: 1
-abilityScores_sag: 12
-abilityScores_cha: 4
-ac_armorType: null
-movement_walk: 3
-movement_fly: 12
-movement_hover: true
-senses_darkvision: 18
----
 ## Capacités
 _**Camouflage**_. En forêt, la sutureuse est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion).
 

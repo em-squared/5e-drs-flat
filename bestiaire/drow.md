@@ -1,32 +1,3 @@
----
-title: Drow
-type: Humanoïde
-subtype: elfe
-size: M
-alignment: Neutre Mauvais
-challenge: '0.25'
-hitDiceCount: 3
-skills:
-  - name: discretion
-  - name: perception
-languages:
-  - commun des profondeurs
-  - elfe
-dungeonTypes:
-  - Caverne aménagée
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 130
-abilityScores_for: 10
-abilityScores_dex: 14
-abilityScores_con: 10
-abilityScores_int: 11
-abilityScores_sag: 11
-abilityScores_cha: 12
-ac_armorType: chemise de mailles
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Ascendance féerique**_. Le drow obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre l'état spécial [_charmé_](/gerer-la-sante-du-personnage/#charme) et la magie ne peut pas l'endormir.
 

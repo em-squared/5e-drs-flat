@@ -1,11 +1,3 @@
----
-title: Havresac magique
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Ce sac à dos dispose d'une poche centrale et de deux poches latérales, chacune donnant sur un espace extradimensionnel. Chaque poche latérale peut recevoir jusqu'à 10 kilos de matériel, sans dépasser un volume de 30 litres. La grande poche centrale peut accueillir jusqu'à 120 litres ou 40 kilos de matériel. Le sac pèse toujours 2,5 kilos, quel que soit son contenu.
 
 Pour placer un objet dans le havresac, vous devez suivre les règles habituelles d'interaction avec les objets. Pour récupérer un objet dans le sac, vous devez dépenser une action. Quand vous plongez la main dans le havresac pour y prendre un objet précis, ce dernier se trouve toujours par magie au sommet de la pile.

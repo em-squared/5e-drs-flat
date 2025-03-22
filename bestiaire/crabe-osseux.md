@@ -1,33 +1,3 @@
----
-title: Crabe osseux
-type: Bête
-size: P
-alignment: Neutre
-challenge: '0.5'
-hitDiceCount: 6
-skills:
-  - name: discretion
-  - name: perception
-damageTypeResistances:
-  - contondant
-languages:
-  - —
-environments:
-  - Littoral
-source: Livre des monstres
-source_page: 71
-abilityScores_for: 10
-abilityScores_dex: 14
-abilityScores_con: 14
-abilityScores_int: 1
-abilityScores_sag: 12
-abilityScores_cha: 4
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 6
-movement_swim: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le crabe respire à l'air libre et sous l'eau.
 

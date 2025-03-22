@@ -1,32 +1,3 @@
----
-title: Canitaupe
-type: Bête
-size: M
-alignment: Neutre
-challenge: '1'
-hitDiceCount: 11
-languages:
-  - —
-environments:
-  - Bois / Forêt
-  - Collines / Vallées
-  - Montagnes
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 53
-abilityScores_for: 14
-abilityScores_dex: 17
-abilityScores_con: 15
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-movement_burrow: 3
-movement_swim: 3
-senses_blindsight: 9
----
 ## Capacités
 _**Fouissement**_. Les canitaupes ne peuvent pas traverser la roche solide mais ils sont capables de creuser à travers les substances plus friables, comme la terre ou des graviers, laissant derrière eux un tunnel de 1,50 mètre de large.
 

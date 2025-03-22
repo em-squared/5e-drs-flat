@@ -1,36 +1,3 @@
----
-title: Shabti
-type: Créature artificielle
-size: M
-alignment: non-alignée
-challenge: '8'
-hitDiceCount: 12
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeImmunities:
-  - poison
-  - psychique
-  - c-p-t-non-adamantium
-languages:
-  - comprend les langues de son créateur mais ne peut pas parler
-source: Livre des monstres
-source_page: 363
-abilityScores_for: 14
-abilityScores_dex: 20
-abilityScores_con: 18
-abilityScores_int: 6
-abilityScores_sag: 11
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Forme immuable**_. Le shabti est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
 

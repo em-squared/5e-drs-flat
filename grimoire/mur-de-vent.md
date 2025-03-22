@@ -1,22 +1,21 @@
----
-title: Mur de vent
-description: Invoque un mur d'air qui empêche le tir de projectiles.
-school: Évocation
-level: 3
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 36 mètres
-ritual: false
-classes:
-  - Druide
-  - Rôdeur
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un petit éventail et une plume exotique
----
+# Mur de vent
+
+**École de magie** : Évocation
+
+**Niveau** : 3
+
+**Portée** : 36 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un petit éventail et une plume exotique)
+
+**Classes** : Druide, Rôdeur
+
+**Source** : Manuel des règles
+
 Un mur de vent fort se lève soudain depuis le sol en un point de votre choix à portée. Vous pouvez lui faire couvrir jusqu'à 15 mètres de long, 4,50 mètres de haut et 30 centimètres d'épaisseur. Vous pouvez lui donner la forme que vous voulez tant qu'il dessine un chemin continu au sol. Ce mur persiste pendant toute la durée du sort.
 
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Les créatures qui échouent subissent 3d8 dégâts contondants, les autres la moitié seulement.

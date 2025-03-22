@@ -1,11 +1,3 @@
----
-title: Talisman du mal ultime
-type: Objet merveilleux
-subtype: false
-rarity: Légendaire
-attunement: harmonisation avec une créature d'alignement mauvais exigée
-source: Cadre de campagne
----
 Ce talisman est un puissant symbole du mal. Une créature dont l'alignement n'est ni bon ni mauvais subit 6d6 dégâts nécrotiques quand elle le touche. Une créature d'alignement bon subit 8d6 dégâts nécrotiques quand elle le touche. Quand elles tiennent en main ou portent le talisman sur elles, ces deux types de créature subissent une nouvelle fois les dégâts à la fin de chacun de leurs tours.
 
 Si vous êtes un clerc ou un paladin d'alignement mauvais, le talisman peut faire office de symbole sacré et vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts tant que vous le portez sur vous ou le tenez en main.

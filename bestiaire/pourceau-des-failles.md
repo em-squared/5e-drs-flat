@@ -1,28 +1,3 @@
----
-title: Pourceau des failles
-type: Aberration
-size: G
-alignment: Chaotique Neutre
-challenge: '5'
-hitDiceCount: 13
-damageTypeResistances:
-  - force
-  - poison
-languages:
-  - —
-source: Livre des monstres
-source_page: 340
-abilityScores_for: 18
-abilityScores_dex: 10
-abilityScores_con: 17
-abilityScores_int: 4
-abilityScores_sag: 12
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Vision à 360 degrés**_. Les yeux supplémentaires du pourceau des failles l'_avantagent_ sur les tests de Sagesse (Perception) basés sur la vue.
 

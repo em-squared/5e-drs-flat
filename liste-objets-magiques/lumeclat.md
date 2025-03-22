@@ -1,11 +1,3 @@
----
-title: Luméclat
-type: Arme
-subtype: Pique
-rarity: Légendaire
-attunement: harmonisation requise par une créature loyale bonne
-source: Warlock Grimoire - Kobold Press
----
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique, et elle inflige 2d8 dégâts radiants supplémentaires à toute créature qu'elle touche.
 
 _**Rayonnement de l'aube.**_ Luméclat peut choisir de répandre une lumière vive dans un rayon de 9&nbsp;mètres et une lumière faible sur 9&nbsp;mètres supplémentaires. Il s'agit d'une lumière solaire.

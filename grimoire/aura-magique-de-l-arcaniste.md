@@ -1,22 +1,19 @@
----
-title: Aura magique de l'arcaniste
-description: Crée une fausse aura magique autour de la cible.
-school: Illusion
-level: 2
-concentration: false
-casting_time: 1 action
-duration: 24 heures
-range: contact
-ritual: false
-classes:
-  - Magicien
-  - Ombrelame
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un petit carré de soie
----
+# Aura magique de l'arcaniste
+
+**École de magie** : Illusion
+
+**Niveau** : 2
+
+**Portée** : contact
+
+**Durée** : 24 heures
+
+**Composantes** : V, S, M, (un petit carré de soie)
+
+**Classes** : Magicien, Ombrelame
+
+**Source** : Manuel des règles
+
 Vous enveloppez la créature ou l'objet touché d'une illusion, afin que les sorts de divination révèlent des informations erronées à son propos. La cible du sort doit être une créature consentante ou un objet qui n'est ni porté ni transporté par une autre créature.
 
 Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les deux, qui persistent pendant toute la durée du sort. Si vous lancez ce sort sur la même créature ou le même objet chaque jour pendant 30 jours, en lui attribuant le même effet à chaque fois, l'illusion persiste jusqu'à ce que quelqu'un la dissipe.

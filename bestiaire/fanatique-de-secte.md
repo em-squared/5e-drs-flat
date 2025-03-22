@@ -1,29 +1,3 @@
----
-title: Fanatique de secte
-type: Humanoïde
-subtype: n'importe quelle race
-size: M
-alignment: n'importe quel alignement autre que Bon
-challenge: '2'
-hitDiceCount: 6
-skills:
-  - name: persuasion
-  - name: religion
-  - name: supercherie
-senses: null
-languages:
-  - une langue au choix (commun le plus souvent)
-source: Créatures & Oppositions
-source_page: 334
-abilityScores_for: 11
-abilityScores_dex: 14
-abilityScores_con: 12
-abilityScores_int: 10
-abilityScores_sag: 13
-abilityScores_cha: 14
-ac_armorType: armure de cuir
-movement_walk: 9
----
 ## Capacités
 _**Incantation**_. Le fanatique est un lanceur de sorts de niveau 4. Sa caractéristique d'incantation est la Sagesse (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 11, +3 pour toucher avec les attaques de sort). Voici les sorts de clerc préparés par le fanatique :
 * **Tours de magie (à volonté)** : [_flamme sacrée_](/grimoire/flamme-sacree/), [_lumière_](/grimoire/lumiere/), [_thaumaturgie_](/grimoire/thaumaturgie/)

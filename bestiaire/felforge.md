@@ -1,38 +1,3 @@
----
-title: Felforgé
-type: Créature artificielle
-size: M
-alignment: Loyal Mauvais
-challenge: '5'
-hitDiceCount: 18
-customSavingThrows: For +8
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-damageTypeResistances:
-  - acide
-  - feu
-  - foudre
-  - froid
-damageTypeImmunities:
-  - necrotique
-  - poison
-languages:
-  - celles qu'il parlait de son vivant
-source: Livre des monstres
-source_page: 194
-abilityScores_for: 14
-abilityScores_dex: 12
-abilityScores_con: 17
-abilityScores_int: 12
-abilityScores_sag: 14
-abilityScores_cha: 15
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Expulsion d'esprit**_. Bien que le corps d'un felforgé ait été conçu pour être lié à un esprit, l'âme-en-peine qui l'occupe reste vulnérable aux tentatives de renvoi. Si une tentative de renvoi réussit, l'âme-en-peine se trouve donc éjectée de son corps mécanique. L'âme-en-peine éjectée conserve ses points de vie actuels et se bat normalement. La créature artificielle meurt si elle n'est pas animée par un esprit.
 

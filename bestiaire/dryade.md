@@ -1,32 +1,3 @@
----
-title: Dryade
-type: Fée
-size: M
-alignment: Neutre
-challenge: '1'
-hitDiceCount: 5
-skills:
-  - name: discretion
-    isExpert: true
-  - name: perception
-languages:
-  - elfe
-  - sylvestre
-environments:
-  - Bois / Forêt
-source: Créatures & Oppositions
-source_page: 132
-abilityScores_for: 10
-abilityScores_dex: 12
-abilityScores_con: 11
-abilityScores_int: 14
-abilityScores_sag: 15
-abilityScores_cha: 18
-ac_armorType: custom
-ac_value: 11 (16 avec peau d'écorce)
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Communication avec les bêtes et les plantes**_. La dryade peut communiquer avec les bêtes et les plantes comme s'ils parlaient la même langue.
 

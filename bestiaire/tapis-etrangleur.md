@@ -1,38 +1,3 @@
----
-title: Tapis étrangleur
-type: Créature artificielle
-size: G
-alignment: non-alignée
-challenge: '2'
-hitDiceCount: 6
-conditionImmunities:
-  - assourdi
-  - aveugle
-  - charme
-  - empoisonne
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeImmunities:
-  - poison
-  - psychique
-languages:
-  - —
-dungeonTypes:
-  - Donjon maçonné
-source: Créatures & Oppositions
-source_page: 234
-abilityScores_for: 17
-abilityScores_dex: 14
-abilityScores_con: 10
-abilityScores_int: 1
-abilityScores_sag: 3
-abilityScores_cha: 1
-ac_armorType: null
-movement_walk: 3
-senses_blindsight: 18
-senses_customBlindSight: 18 m (aveugle au-delà de cette distance)
----
 ## Capacités
 _**Faux semblant**_. Tant que le tapis reste immobile, il est impossible de le distinguer d'un tapis ordinaire.
 

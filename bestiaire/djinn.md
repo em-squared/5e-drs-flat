@@ -1,36 +1,3 @@
----
-title: Djinn
-type: Élémentaire
-size: G
-alignment: Chaotique Bon
-challenge: '11'
-hitDiceCount: 14
-savingThrows:
-  - dex
-  - sag
-  - cha
-damageTypeImmunities:
-  - foudre
-  - tonnerre
-languages:
-  - aérien
-environments:
-  - Montagnes
-  - Plans élémentaires
-source: Créatures & Oppositions
-source_page: 158
-abilityScores_for: 21
-abilityScores_dex: 15
-abilityScores_con: 22
-abilityScores_int: 15
-abilityScores_sag: 16
-abilityScores_cha: 20
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: 9
-movement_fly: 27
-senses_darkvision: 36
----
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation du djinn est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 17, +9 pour toucher avec les attaques de sort). Le djinn peut lancer les sorts suivants de manière innée sans aucune composante matérielle :
 * _**À volonté**_ : [_détection de la magie_](/grimoire/detection-de-la-magie/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_vague tonnante_](/grimoire/vague-tonnante/)

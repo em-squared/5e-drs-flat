@@ -1,11 +1,3 @@
----
-title: Orbe des dragons
-type: Objet merveilleux
-subtype: false
-rarity: Artefact
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Il y a une éternité, les elfes et les humains ont mené une guerre terrible contre les dragons maléfiques. Alors que le monde semblait condamné, de puissants magiciens se sont réunis pour produire ensemble la plus importante de leurs magies et forger les cinq _orbes des dragons_ (ou _orbes draconiques_) afin de les aider à vaincre ces créatures. Les orbes ont été emportés dans chacune des cinq tours de magie et, là-bas, ils ont servi à mettre un terme rapide et victorieux à la guerre. Les magiciens ont utilisé les orbes pour attirer à eux les dragons afin de les détruire ensuite de leur puissante magie.
 
 Les tours sont tombées au fil du temps, et les orbes ont été détruits ou sont devenus de simples légendes. Seuls trois d'entre eux ont survécu. Les siècles ont déformé et perverti leur magie et, même s'ils ont toujours pour principal objectif d'appeler à eux les dragons, ils confèrent également un contrôle précaire sur ces créatures.

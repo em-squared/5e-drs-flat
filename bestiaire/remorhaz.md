@@ -1,32 +1,3 @@
----
-title: Remorhaz
-type: Créature monstrueuse
-size: TG
-alignment: non-alignée
-challenge: '11'
-hitDiceCount: 17
-damageTypeImmunities:
-  - feu
-  - froid
-languages:
-  - —
-environments:
-  - Arctique / Subarctique
-source: Créatures & Oppositions
-source_page: 249
-abilityScores_for: 24
-abilityScores_dex: 13
-abilityScores_con: 21
-abilityScores_int: 4
-abilityScores_sag: 10
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 6
-movement_walk: 9
-movement_burrow: 6
-senses_tremorsense: 18
-senses_darkvision: 18
----
 ## Capacités
 _**Corps surchauffé**_. Une créature qui touche le remorhaz ou qui réussit une attaque au corps à corps contre lui à une distance maximale de 1,50 mètre subit 10 (3d6) dégâts de feu.
 

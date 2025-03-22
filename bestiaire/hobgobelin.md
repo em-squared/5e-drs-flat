@@ -1,31 +1,3 @@
----
-title: Hobgobelin
-type: Humanoïde
-subtype: gobelinoïde
-size: M
-alignment: Loyal Mauvais
-challenge: '0.5'
-hitDiceCount: 2
-languages:
-  - commun
-  - gobelin
-environments:
-  - Plaine / Champs / Prairie / Savane
-dungeonTypes:
-  - Ruines extérieures
-source: Créatures & Oppositions
-source_page: 188
-abilityScores_for: 13
-abilityScores_dex: 12
-abilityScores_con: 12
-abilityScores_int: 10
-abilityScores_sag: 10
-abilityScores_cha: 9
-ac_armorType: cotte de mailles
-ac_hasShield: true
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Avantage martial**_. Une fois par tour, le hobgobelin peut infliger 7 (2d6) dégâts supplémentaires à une créature contre laquelle il réussit une attaque d'arme, si cette créature se trouve à 1,50 mètre ou moins d'un allié du hobgobelin et si cet allié n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 

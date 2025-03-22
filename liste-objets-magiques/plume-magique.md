@@ -1,11 +1,3 @@
----
-title: Plume magique
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Ce petit bibelot ressemble à une plume. Il existe plusieurs types de plume, chacune produisant un effet différent à usage unique. C'est au MJ de décider du type ou de le déterminer au hasard.
 
 |D100|Plume magique|

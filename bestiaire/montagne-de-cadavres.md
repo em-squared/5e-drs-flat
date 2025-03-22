@@ -1,38 +1,3 @@
----
-title: Montagne de cadavres
-type: Mort-vivant
-size: TG
-alignment: Neutre Mauvais
-challenge: '11'
-hitDiceCount: 18
-savingThrows:
-  - con
-  - int
-  - sag
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - terrorise
-damageTypeResistances:
-  - necrotique
-damageTypeImmunities:
-  - poison
-languages:
-  - comprend le commun mais ne peut pas parler
-source: Livre des monstres
-source_page: 310
-abilityScores_for: 24
-abilityScores_dex: 11
-abilityScores_con: 21
-abilityScores_int: 8
-abilityScores_sag: 10
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 6
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Absorption des morts**_. Quand une créature qui n'est pas morte-vivante de taille Petite ou supérieure meurt dans un rayon de 6 mètres autour d'une montagne de cadavres, le corps de la créature se joint à cette dernière, qui regagne 10 points de vie.
 

@@ -1,24 +1,19 @@
----
-title: Coercition mystique
-description: La cible est charmée pendant 30 jours et doit obéir aux ordres du PJ.
-school: Enchantement
-level: 5
-concentration: false
-casting_time: 1 minute
-duration: 30 jours
-range: 18 mètres
-ritual: false
-classes:
-  - Barde
-  - Clerc
-  - Druide
-  - Magicien
-  - Paladin
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: false
----
+# Coercition mystique
+
+**École de magie** : Enchantement
+
+**Niveau** : 5
+
+**Portée** : 18 mètres
+
+**Durée** : 30 jours
+
+**Composantes** : V
+
+**Classes** : Barde, Clerc, Druide, Magicien, Paladin
+
+**Source** : Manuel des règles
+
 Vous imposez une coercition magique à une créature située à portée et dans votre champ de vision, l'obligeant à vous accorder un service ou l'empêchant de commettre une action ou une suite d'actions, comme bon vous semble. Si la créature comprend votre langue, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse sans quoi elle est [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Pendant toute cette période, elle subit 5d10 dégâts psychiques chaque fois qu'elle agit de manière directement opposée à vos instructions, mais jamais plus d'une fois par jour. Si la créature ne vous comprend pas, ce sort n'a aucun effet sur elle.
 
 Vous pouvez lui donner n'importe quel ordre de votre choix, en dehors de ceux qui la mènent directement à la mort. Le sort se termine immédiatement si jamais vous donnez un ordre suicidaire.

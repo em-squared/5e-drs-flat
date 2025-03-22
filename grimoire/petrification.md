@@ -1,22 +1,21 @@
----
-title: Pétrification
-description: 'La cible est <em>entravée</em>, et potentiellement <em>pétrifiée</em>.'
-school: Transmutation
-level: 6
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 18 mètres
-ritual: false
-classes:
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'une pincée de chaux, de l''eau et de la terre'
----
+# Pétrification
+
+**École de magie** : Transmutation
+
+**Niveau** : 6
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une pincée de chaux, de l'eau et de la terre)
+
+**Classes** : Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous tentez de changer en pierre une créature située à portée et dans votre champ de vision. Si le corps de la cible est fait de chair, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou se retrouver [_entravée_](/gerer-la-sante-du-personnage/#entrave), car sa chair se met à durcir.
 
 Une créature [_entravée_](/gerer-la-sante-du-personnage/#entrave) par ce sort doit effectuer un nouveau [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution à la fin de chacun de ses tours. Si elle en réussit trois, le sort se termine. Si elle en rate trois, elle se change en pierre et se retrouve [_pétrifiée_](/gerer-la-sante-du-personnage/#petrifie) pendant toute la durée du sort. Il est inutile que les succès et les échecs soient consécutifs, notez juste leur nombre jusqu'à ce que la cible arrive à en accumuler trois d'une sorte ou de l'autre.

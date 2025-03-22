@@ -1,23 +1,21 @@
----
-title: Jeter une malédiction
-description: 'La cible subit des <em>désavantages</em>, des dégâts ou perd ses actions.'
-school: Nécromancie
-level: 3
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: contact
-ritual: false
-classes:
-  - Barde
-  - Clerc
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Jeter une malédiction
+
+**École de magie** : Nécromancie
+
+**Niveau** : 3
+
+**Portée** : contact
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S
+
+**Classes** : Barde, Clerc, Magicien
+
+**Source** : Manuel des règles
+
 Vous touchez une créature qui doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle est maudite pour toute la durée du sort. À vous de choisir la nature de cette malédiction parmi les options suivantes au moment de l'incantation.
 * Choisissez une caractéristique. Tant que la cible est maudite, elle est affectée par un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests et des jets de sauvegarde basés sur cette caractéristique.
 * Tant que la cible est maudite, elle subit un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque contre vous.

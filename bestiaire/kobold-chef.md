@@ -1,39 +1,3 @@
----
-title: 'Kobold, Chef'
-type: Humanoïde
-subtype: kobold
-size: P
-alignment: Loyal Mauvais
-challenge: '4'
-hitDiceCount: 15
-savingThrows:
-  - dex
-  - cha
-skills:
-  - name: discretion
-  - name: intimidation
-    isExpert: true
-conditionImmunities:
-  - charme
-  - terrorise
-languages:
-  - commun
-  - draconique
-dungeonTypes:
-  - Caverne aménagée
-source: Livre des monstres
-source_page: 256
-abilityScores_for: 10
-abilityScores_dex: 17
-abilityScores_con: 14
-abilityScores_int: 11
-abilityScores_sag: 13
-abilityScores_cha: 14
-ac_armorType: armure de cuir clouté
-ac_hasShield: true
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Tactique de meute**_. Le chef kobold est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque contre une créature si au moins l'un de ses alliés se trouve dans un rayon de 1,50 mètre autour d'elle et n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise).
 

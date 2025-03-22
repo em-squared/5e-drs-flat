@@ -1,24 +1,21 @@
----
-title: Image silencieuse
-description: Permet de créer une image illusoire silencieuse.
-school: Illusion
-level: 1
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 10 minutes
-range: 18 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Ombrelame
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un morceau de toison
----
+# Image silencieuse
+
+**École de magie** : Illusion
+
+**Niveau** : 1
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 10 minutes
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un morceau de toison)
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame
+
+**Source** : Manuel des règles
+
 Vous créez l'image d'un objet, d'une créature ou d'un phénomène visible tenant dans un cube de 4,50 mètres de côté. L'image apparaît en un point situé à portée et persiste pendant toute la durée du sort. L'image comporte seulement des composantes visuelles, elle ne s'accompagne pas d'odeur, de son, ni d'autre effet sensoriel.
 
 Vous pouvez utiliser votre action pour déplacer l'image vers un autre point à portée. Pendant qu'elle se déplace, vous pouvez modifier son apparence pour donner l'impression d'un mouvement naturel. Par exemple, si vous créez l'image d'une créature et que vous la déplacez, vous pouvez modifier l'image pour donner l'impression que la créature est en train de marcher.

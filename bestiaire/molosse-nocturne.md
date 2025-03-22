@@ -1,37 +1,3 @@
----
-title: Molosse nocturne
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '5'
-hitDiceCount: 15
-savingThrows:
-  - dex
-  - con
-  - sag
-skills:
-  - name: discretion
-  - name: intimidation
-  - name: perception
-damageTypeVulnerabilities:
-  - feu
-damageTypeResistances:
-  - froid
-languages:
-  - comprend l'elfique et l'umbral mais ne peut pas parler
-source: Livre des monstres
-source_page: 306
-abilityScores_for: 20
-abilityScores_dex: 16
-abilityScores_con: 14
-abilityScores_int: 9
-abilityScores_sag: 14
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Flair du limier**_. Un molosse nocturne peut suivre une piste olfactive malgré les changements de phase, les déplacements dans l'éther, les [_portes dimensionnelles_](/grimoire/porte-dimensionnelle/) et les pas féériques de tout type. En revanche, la [_téléportation_](/grimoire/teleportation/) et les [_changements de plan_](/grimoire/changement-de-plan/) dépassent leurs compétences.
 

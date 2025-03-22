@@ -1,30 +1,3 @@
----
-title: 'Kobold, Forgepiège'
-type: Humanoïde
-subtype: kobold
-size: P
-alignment: Loyal Neutre
-challenge: '1'
-hitDiceCount: 8
-skills:
-  - name: discretion
-languages:
-  - commun
-  - draconique
-dungeonTypes:
-  - Caverne aménagée
-source: Livre des monstres
-source_page: 257
-abilityScores_for: 7
-abilityScores_dex: 16
-abilityScores_con: 12
-abilityScores_int: 16
-abilityScores_sag: 13
-abilityScores_cha: 8
-ac_armorType: armure de cuir
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Sensibilité à la lumière du soleil**_. Le forgepiège kobold est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé à la lumière du soleil.
 

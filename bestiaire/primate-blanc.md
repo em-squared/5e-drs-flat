@@ -1,35 +1,3 @@
----
-title: Primate blanc
-type: Créature monstrueuse
-size: G
-alignment: Neutre
-challenge: '6'
-hitDiceCount: 12
-skills:
-  - name: acrobaties
-  - name: athletisme
-  - name: discretion
-  - name: intimidation
-  - name: perception
-languages:
-  - commun
-environments:
-  - Collines / Vallées
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 341
-abilityScores_for: 18
-abilityScores_dex: 16
-abilityScores_con: 18
-abilityScores_int: 8
-abilityScores_sag: 14
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 12
-movement_climb: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Haine des lanceurs de sorts**_. Le primate blanc inflige un dé de dégâts de plus (respectivement d8 ou d10) par attaque contre un ennemi s'il l'a vu lancer un sort.
 

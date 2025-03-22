@@ -1,28 +1,3 @@
----
-title: Ours noir
-type: Bête
-size: M
-alignment: non-alignée
-challenge: '0.5'
-hitDiceCount: 3
-skills:
-  - name: perception
-senses: null
-languages:
-  - ''
-source: Créatures & Oppositions
-source_page: 316
-abilityScores_for: 15
-abilityScores_dex: 10
-abilityScores_con: 14
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 7
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 12
-movement_climb: 9
----
 ## Capacités
 _**Odorat aiguisé**_. L'ours obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat.
 

@@ -1,21 +1,19 @@
----
-title: Sanctification
-description: Protège une large zone contre certaines créatures et y ajoute un effet.
-school: Évocation
-level: 5
-concentration: false
-casting_time: 24 heures
-duration: jusqu'à dissipation
-range: contact
-ritual: false
-classes:
-  - Clerc
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'herbes, huiles et encens d''une valeur minimale de 1000 po, que le sort consume'
----
+# Sanctification
+
+**École de magie** : Évocation
+
+**Niveau** : 5
+
+**Portée** : contact
+
+**Durée** : jusqu'à dissipation
+
+**Composantes** : V, S, M, (herbes, huiles et encens d'une valeur minimale de 1000 po, que le sort consume)
+
+**Classes** : Clerc
+
+**Source** : Manuel des règles
+
 Vous touchez un point et imprégnez la zone qui l'entoure de puissance bénie (ou impie). Cette zone possède un rayon maximal de 18 mètres, sachant que le sort échoue si cette zone chevauche une autre zone déjà sous l'effet d'un sort de _sanctification_. La zone affectée est soumise aux effets suivants.
 
 Premièrement, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants ne peuvent entrer dans la zone. Les créatures qui se trouvent dans la zone ne peuvent être [_charmées_](/gerer-la-sante-du-personnage/#charme), [_terrorisées_](/gerer-la-sante-du-personnage/#terrorise) ou possédées par l'une de ces créatures. Une créature déjà [_charmée_](/gerer-la-sante-du-personnage/#charme), [_terrorisée_](/gerer-la-sante-du-personnage/#terrorise) ou possédée par l'une de ces créatures ne l'est plus dès qu'elle pénètre dans la zone. Vous pouvez décider qu'un ou plusieurs des types de créatures mentionnés ne seront pas affectés par cet effet.

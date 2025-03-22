@@ -1,30 +1,3 @@
----
-title: Vautour
-type: Bête
-size: M
-alignment: non-alignée
-challenge: '0'
-hitDiceCount: 1
-skills:
-  - name: perception
-senses: null
-languages:
-  - ''
-environments:
-  - Désert chaud
-  - Plaine / Champs / Prairie / Savane
-source: Créatures & Oppositions
-source_page: 324
-abilityScores_for: 7
-abilityScores_dex: 10
-abilityScores_con: 13
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 4
-ac_armorType: null
-movement_walk: 3
-movement_fly: 15
----
 ## Capacités
 _**Odorat et vue aiguisés**_. Le vautour obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 

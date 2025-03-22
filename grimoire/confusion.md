@@ -1,25 +1,21 @@
----
-title: Confusion
-description: Les cibles agissent de manière aléatoire.
-school: Enchantement
-level: 4
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 27 mètres
-ritual: false
-classes:
-  - Barde
-  - Druide
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Ombrelame
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: trois coquilles de noix
----
+# Confusion
+
+**École de magie** : Enchantement
+
+**Niveau** : 4
+
+**Portée** : 27 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (trois coquilles de noix)
+
+**Classes** : Barde, Druide, Ensorceleur/Sorcelame, Magicien, Ombrelame
+
+**Source** : Manuel des règles
+
 Ce sort assaille et pervertit l'esprit des créatures, génère des hallucinations et provoque des réactions incontrôlées. Toutes les créatures situées dans une sphère de 3 mètres de rayon autour d'un point de votre choix situé à portée doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse ou être affectées par ce sort.
 
 Une cible affectée ne peut pas utiliser de réaction et doit lancer 1d10 au début de chacun de ses tours pour déterminer comment elle se comporte pendant le tour.

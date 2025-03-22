@@ -1,21 +1,19 @@
----
-title: Manteau de givre
-description: Le PJ devient résistant aux dégâts de la prochaine attaque.
-school: Abjuration
-level: 1
-concentration: false
-casting_time: 1 action
-duration: 8 heures
-range: personnelle
-ritual: false
-classes:
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un peu d'eau
----
+# Manteau de givre
+
+**École de magie** : Abjuration
+
+**Niveau** : 1
+
+**Portée** : personnelle
+
+**Durée** : 8 heures
+
+**Composantes** : V, S, M, (un peu d'eau)
+
+**Classes** : Sorcier
+
+**Source** : Manuel des règles
+
 Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistance aux dégâts contre la prochaine attaque réussie contre vous, tandis que la créature qui vous a attaqué subit la moitié des dégâts de son attaque sous forme de dégâts de froid. Ensuite, le sort cesse de faire effet.
 
 **À plus haut niveau**. Si vous lancez ce sort en utilisant un emplacement de niveau 2 ou supérieur, le sort fait effet sur une attaque supplémentaire par niveau au-dessus du premier.

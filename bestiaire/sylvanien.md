@@ -1,35 +1,3 @@
----
-title: Sylvanien
-type: Plante
-size: TG
-alignment: Chaotique Bonne
-challenge: '9'
-hitDiceCount: 12
-senses: null
-damageTypeVulnerabilities:
-  - feu
-damageTypeResistances:
-  - contondant
-  - perforant
-languages:
-  - commun
-  - elfe
-  - druidique
-  - sylvestre
-environments:
-  - Bois / Forêt
-source: Créatures & Oppositions
-source_page: 269
-abilityScores_for: 23
-abilityScores_dex: 8
-abilityScores_con: 21
-abilityScores_int: 12
-abilityScores_sag: 16
-abilityScores_cha: 12
-ac_armorType: armure naturelle
-ac_value: 6
-movement_walk: 9
----
 ## Capacités
 _**Faux-semblant**_. Aussi longtemps que le sylvanien reste immobile, il est impossible de le distinguer d'un arbre ordinaire.
 

@@ -1,32 +1,3 @@
----
-title: Manteleur
-type: Aberration
-size: G
-alignment: Chaotique Neutre
-challenge: '8'
-hitDiceCount: 12
-skills:
-  - name: discretion
-languages:
-  - commun des profondeurs
-  - profond
-dungeonTypes:
-  - Caverne naturelle
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 213
-abilityScores_for: 17
-abilityScores_dex: 15
-abilityScores_con: 12
-abilityScores_int: 13
-abilityScores_sag: 12
-abilityScores_cha: 14
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 3
-movement_fly: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Faux-semblant**_. Aussi longtemps que le manteleur reste immobile sans exposer son ventre, il est impossible de le distinguer d'un manteau de cuir sombre ordinaire.
 

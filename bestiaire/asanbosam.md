@@ -1,33 +1,3 @@
----
-title: Asanbosam
-type: Aberration
-size: G
-alignment: Chaotique Mauvais
-challenge: '5'
-hitDiceCount: 12
-skills:
-  - name: acrobaties
-  - name: discretion
-  - name: perception
-languages:
-  - géant
-environments:
-  - Bois / Forêt
-  - Jungle
-source: Livre des monstres
-source_page: 32
-abilityScores_for: 18
-abilityScores_dex: 13
-abilityScores_con: 17
-abilityScores_int: 11
-abilityScores_sag: 10
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 12
-movement_climb: '4,50'
-senses_darkvision: 18
----
 ## Capacités
 _**Pattes d'araignée**_. Un asanbosam peut escalader des surfaces difficiles et même évoluer tête en bas au plafond sans avoir besoin de faire de test de caractéristique.
 

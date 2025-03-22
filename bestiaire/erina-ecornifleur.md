@@ -1,33 +1,3 @@
----
-title: 'Erina, écornifleur'
-type: Humanoïde
-subtype: Erina
-size: P
-alignment: Neutre
-challenge: '0.25'
-hitDiceCount: 4
-damageTypeResistances:
-  - poison
-languages:
-  - commun
-  - erina
-environments:
-  - Bois / Forêt
-  - Collines / Vallées
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 172
-abilityScores_for: 9
-abilityScores_dex: 12
-abilityScores_con: 14
-abilityScores_int: 13
-abilityScores_sag: 10
-abilityScores_cha: 11
-ac_armorType: armure de cuir
-movement_walk: 6
-movement_burrow: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Odorat aiguisé**_. Un erina est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses tests de Sagesse (Perception) basés sur l'odorat.
 

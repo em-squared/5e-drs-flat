@@ -1,27 +1,21 @@
----
-title: Suggestion
-description: Impose la conduite à suivre à la cible.
-school: Enchantement
-level: 2
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 8 heures
-range: 9 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Ombrelame
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: false
-components_material: true
-components_materials: >-
-  une langue de serpent et soit un rayon de miel, soit une goutte d'huile
-  d'olive
----
+# Suggestion
+
+**École de magie** : Enchantement
+
+**Niveau** : 2
+
+**Portée** : 9 mètres
+
+**Durée** : jusqu'à 8 heures
+
+**Concentration** : oui
+
+**Composantes** : V, M, (une langue de serpent et soit un rayon de miel, soit une goutte d'huile d'olive)
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien, Ombrelame, Sorcier
+
+**Source** : Manuel des règles
+
 Vous visez une créature située à portée et dans votre champ de vision et à même de vous entendre et de vous comprendre. Vous l'influencez par magie de façon à ce qu'elle suive la conduite que vous lui proposez (en seulement une phrase ou deux). Les créatures qui ne peuvent être [_charmées_](/gerer-la-sante-du-personnage/#charme) sont immunisées contre ce sort. Vous devez formuler votre suggestion de manière à ce que la conduite à tenir semble tout à fait raisonnable. Si vous demandez à une créature de se poignarder, de se laisser tomber sur une lance, de s'immoler ou d'accomplir n'importe quelle action à l'évidence néfaste, le sort se termine automatiquement.
 
 La cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi elle fait de son mieux pour suivre la conduite que vous lui avez suggérée et cela peut continuer pendant toute la durée du sort. Si l'action suggérée peut se finir plus rapidement, le sort se termine quand la cible a accompli ce que vous lui aviez demandé.

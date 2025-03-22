@@ -1,38 +1,3 @@
----
-title: Esprit du feu
-type: Élémentaire
-size: P
-alignment: Neutre Mauvais
-challenge: '2'
-hitDiceCount: 25
-skills:
-  - name: perception
-conditionImmunities:
-  - a-terre
-  - empoigne
-  - empoisonne
-  - epuise
-  - entrave
-  - inconscient
-  - paralyse
-  - petrifie
-damageTypeImmunities:
-  - feu
-  - poison
-languages:
-  - primordial
-source: Livre des monstres
-source_page: 174
-abilityScores_for: 7
-abilityScores_dex: 18
-abilityScores_con: 10
-abilityScores_int: 4
-abilityScores_sag: 16
-abilityScores_cha: 6
-ac_armorType: null
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Caché par la lueur du feu**_. Quand il se trouve dans une zone éclairée seulement par des flammes non magiques, un esprit du feu gagne un bonus de +2 à ses tests de Discrétion. Ce bonus devient +4 quand il se cache dans le feu.
 

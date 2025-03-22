@@ -1,22 +1,19 @@
----
-title: Cône de froid
-description: Cône de 18 mètres dans lequel les cibles subissent 8d8 dégâts de froid.
-school: Évocation
-level: 5
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: personnelle (cône de 18 mètres)
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un petit cône de cristal ou de verre
----
+# Cône de froid
+
+**École de magie** : Évocation
+
+**Niveau** : 5
+
+**Portée** : personnelle (cône de 18 mètres)
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (un petit cône de cristal ou de verre)
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Une bouffée d'air froid jaillit de vos mains. Toutes les créatures présentes dans un cône de 18 mètres doivent effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution. Celles qui le ratent subissent 8d8 dégâts de froid, les autres la moitié seulement.
 
 Une créature qui succombe suite à ce sort se transforme en statue de glace jusqu'à ce qu'elle fonde.

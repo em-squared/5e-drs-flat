@@ -1,24 +1,21 @@
----
-title: Métamorphose
-description: Transforme la cible en bête au choix du PJ.
-school: Transmutation
-level: 4
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 heure
-range: 18 mètres
-ritual: false
-classes:
-  - Barde
-  - Druide
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un cocon de chenille
----
+# Métamorphose
+
+**École de magie** : Transmutation
+
+**Niveau** : 4
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 1 heure
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un cocon de chenille)
+
+**Classes** : Barde, Druide, Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Ce sort change la forme d'une créature située à portée et dans votre champ de vision. Une créature non consentante doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse pour éviter cet effet. Le sort n'a aucun effet sur un métamorphe ou une créature à 0 point de vie.
 
 La transformation persiste pendant toute la durée du sort ou jusqu'à ce que la cible tombe à 0 point de vie ou meure. Vous pouvez donner comme nouvelle forme celle de n'importe quelle bête dont l'indice de dangerosité est égal ou inférieur à celui de la cible (ou à son niveau, si elle n'a pas d'indice de dangerosité). Le profil technique de la cible, y compris ses valeurs de caractéristique mentales, est remplacé par celui de la bête choisie. Elle conserve en revanche son alignement et sa personnalité.

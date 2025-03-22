@@ -1,30 +1,3 @@
----
-title: Harpie
-type: Créature monstrueuse
-size: M
-alignment: Chaotique Mauvais
-challenge: '1'
-hitDiceCount: 7
-senses: null
-languages:
-  - commun
-environments:
-  - Littoral
-  - Montagnes
-dungeonTypes:
-  - Ruines extérieures
-source: Créatures & Oppositions
-source_page: 184
-abilityScores_for: 12
-abilityScores_dex: 13
-abilityScores_con: 12
-abilityScores_int: 7
-abilityScores_sag: 10
-abilityScores_cha: 13
-ac_armorType: null
-movement_walk: 6
-movement_fly: 12
----
 ## Actions
 _**Attaques multiples**_. La harpie effectue deux attaques : une avec ses griffes et une avec son gourdin.
 

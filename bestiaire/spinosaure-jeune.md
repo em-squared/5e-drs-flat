@@ -1,32 +1,3 @@
----
-title: 'Spinosaure, jeune'
-type: Bête
-subtype: Dinosaure
-size: TG
-alignment: non-alignée
-challenge: '5'
-hitDiceCount: 10
-skills:
-  - name: perception
-senses: null
-languages:
-  - —
-environments:
-  - Jungle
-  - Mangrove / Marécage
-source: Livre des monstres
-source_page: 120
-abilityScores_for: 23
-abilityScores_dex: 11
-abilityScores_con: 19
-abilityScores_int: 2
-abilityScores_sag: 11
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 15
-movement_swim: 9
----
 ## Capacités
 _**Apprivoisé**_. Un spinosaure n'attaque jamais volontairement un humanoïde reptilien et, s'il est forcé ou poussé magiquement à le faire, il est [_désavantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'attaque. Le spinosaure peut être chevauché par un maximum de trois créatures de taille Moyenne ou d'une créature de Grande taille au même moment. Le spinosaure perd ce trait s'il passe un mois entier loin d'un quelconque humanoïde reptilien.
 

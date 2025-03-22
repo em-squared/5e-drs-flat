@@ -1,33 +1,3 @@
----
-title: Subek
-type: Humanoïde
-subtype: subek
-size: G
-alignment: Loyal Neutre
-challenge: '5'
-hitDiceCount: 8
-skills:
-  - name: histoire
-  - name: investigation
-languages:
-  - commun
-environments:
-  - Littoral
-  - Mangrove / Marécage
-source: Livre des monstres
-source_page: 375
-abilityScores_for: 19
-abilityScores_dex: 10
-abilityScores_con: 18
-abilityScores_int: 14
-abilityScores_sag: 13
-abilityScores_cha: 13
-ac_armorType: armure naturelle
-ac_value: 7
-movement_walk: 9
-movement_swim: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Retenir son souffle**_. Le subek peut retenir son souffle 15 minutes.
 

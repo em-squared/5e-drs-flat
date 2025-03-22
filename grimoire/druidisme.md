@@ -1,20 +1,17 @@
----
-title: Druidisme
-description: Le PJ crée divers effets magiques mineurs liés à la nature.
-school: Transmutation
-level: 0
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: 9 mètres
-ritual: false
-classes:
-  - Druide
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
----
+# Druidisme
+
+**École de magie** : Transmutation
+
+**Portée** : 9 mètres
+
+**Durée** : instantanée
+
+**Composantes** : V, S
+
+**Classes** : Druide
+
+**Source** : Manuel des règles
+
 Vous créez l'un des effets suivants à portée après quelques murmures adressés aux esprits de la nature.
 * Vous créez un effet sensoriel réduit et inoffensif qui annonce le temps qu'il fera là où vous vous trouvez pendant les 24 heures à venir. Cet effet peut prendre la forme d'un orbe doré si le temps va rester dégagé, d'un nuage s'il va pleuvoir, de flocons pour une averse de neige etc. L'effet persiste pendant 1 round.
 * Vous faites éclore une fleur ou un bourgeon ou germer une graine.

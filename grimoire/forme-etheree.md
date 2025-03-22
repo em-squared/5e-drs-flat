@@ -1,25 +1,19 @@
----
-title: Forme éthérée
-description: Le PJ entre sur le plan éthéré et peut s'y déplacer.
-school: Transmutation
-level: 7
-concentration: false
-casting_time: 1 action
-duration: jusqu'à 8 heures
-range: personnelle
-ritual: false
-classes:
-  - Barde
-  - Clerc
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Forme éthérée
+
+**École de magie** : Transmutation
+
+**Niveau** : 7
+
+**Portée** : personnelle
+
+**Durée** : jusqu'à 8 heures
+
+**Composantes** : V, S
+
+**Classes** : Barde, Clerc, Ensorceleur/Sorcelame, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous pénétrez dans la région frontalière du plan éthéré, dans une zone où il chevauche votre plan actuel. Vous restez sur la frontière éthérée pendant toute la durée du sort ou jusqu'à ce que vous utilisiez une action pour y mettre fin. Pendant cette période, vous pouvez vous déplacer dans n'importe quelle direction. Si vous optez pour un déplacement vers le haut ou le bas, le prix du mouvement est doublé, chaque mètre de déplacement vous coûtant 1 mètre supplémentaire. Vous voyez et entendez ce qui se passe sur le plan d'où vous venez, mais tout y est gris et vous ne voyez plus rien au-delà de 18 mètres.
 
 Une fois sur le plan éthéré, vous pouvez affecter uniquement des créatures situées sur ce plan, et elles sont les seules à pouvoir vous affecter. Celles qui ne se trouvent pas sur ce plan ne vous perçoivent pas et sont incapables d'interagir avec vous, à moins qu'un pouvoir spécial ou magique ne le leur permette.

@@ -1,36 +1,3 @@
----
-title: Méphite de vapeur
-type: Élémentaire
-size: P
-alignment: Neutre Mauvais
-challenge: '0.25'
-hitDiceCount: 6
-conditionImmunities:
-  - empoisonne
-damageTypeImmunities:
-  - feu
-  - poison
-languages:
-  - aquatique
-  - ignée
-environments:
-  - Littoral
-  - Plans élémentaires
-dungeonTypes:
-  - Caverne sous-marine
-source: Créatures & Oppositions
-source_page: 219
-abilityScores_for: 5
-abilityScores_dex: 11
-abilityScores_con: 10
-abilityScores_int: 11
-abilityScores_sag: 10
-abilityScores_cha: 12
-ac_armorType: null
-movement_walk: 9
-movement_fly: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Explosion finale**_. Quand le méphite meurt, il explose en un nuage de vapeur. Les créatures situées à 1,50 mètre ou moins de lui doivent chacune réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 10 pour ne pas subir 4 (1d8) dégâts de feu.
 

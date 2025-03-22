@@ -1,37 +1,3 @@
----
-title: Rejeton d'Arbeyach
-type: Fiélon
-subtype: Diable
-size: M
-alignment: Loyal Mauvais
-challenge: '5'
-hitDiceCount: 12
-savingThrows:
-  - sag
-skills:
-  - name: discretion
-  - name: perception
-conditionImmunities:
-  - empoisonne
-damageTypeImmunities:
-  - poison
-languages:
-  - infernal
-source: Livre des monstres
-source_page: 100
-abilityScores_for: 18
-abilityScores_dex: 15
-abilityScores_con: 15
-abilityScores_int: 10
-abilityScores_sag: 13
-abilityScores_cha: 12
-ac_armorType: armure naturelle
-ac_value: 5
-movement_walk: 12
-movement_climb: 6
-senses_darkvision: 18
-senses_tremorsense: 18
----
 ## Capacités
 _**Esprit de ruche**_. Les rejetons d'Arbeyach et tous les autres membres de leur ruche partagent un lien qui leur accorde une perception accrue. Ainsi, tant qu'un rejeton se trouve dans un rayon de 18 mètres d'au moins un de ses camarades de ruche, il est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de ses jets d'initiative et à ses tests de Sagesse (Perception). Si un rejeton prend conscience d'un danger, tous les autres membres de la ruche en ont conscience également. Au début d'une rencontre, aucun des rejetons qui partagent un esprit de ruche ne peut être surpris, sauf si tous les membres de la ruche le sont.
 

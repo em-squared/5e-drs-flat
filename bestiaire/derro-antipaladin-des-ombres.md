@@ -1,38 +1,3 @@
----
-title: 'Derro, antipaladin des ombres'
-type: Humanoïde
-subtype: Derro
-size: P
-alignment: Chaotique Mauvais
-challenge: '5'
-hitDiceCount: 11
-savingThrows:
-  - for
-  - sag
-  - cha
-skills:
-  - name: discretion
-  - name: perception
-conditionImmunities: null
-languages:
-  - derro
-  - commun des profondeurs
-dungeonTypes:
-  - Donjon maçonné
-  - Ruines souterraines
-source: Livre des monstres
-source_page: 94
-abilityScores_for: 11
-abilityScores_dex: 18
-abilityScores_con: 18
-abilityScores_int: 11
-abilityScores_sag: 5
-abilityScores_cha: 14
-ac_armorType: cuirasse
-ac_hasShield: true
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Esquiveur**_. Quand il se trouve confronté à un effet qui lui donne la possibilité de tenter un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité pour diminuer les dégâts qu'il a reçus de moitié, le derro ne subit aucun dégât en cas de réussite et seulement la moitié en cas d'échec.
 

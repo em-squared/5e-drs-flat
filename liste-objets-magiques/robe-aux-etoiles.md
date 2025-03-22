@@ -1,11 +1,3 @@
----
-title: Robe aux étoiles
-type: Objet merveilleux
-subtype: false
-rarity: Très rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Cette robe noire ou bleue foncée est brodée de petites étoiles blanches ou argentées. Vous bénéficiez d'un bonus de +1 aux jets de sauvegarde tant que vous la portez.
 
 Six étoiles, situées sur la partie avant supérieure de la robe, sont particulièrement grandes. Tant que vous portez cette robe, vous pouvez effectuer une action pour détacher une de ces étoiles et l'utiliser pour lancer [_projectile magique_](/grimoire/projectile-magique/) comme un sort de niveau 5. Tous les jours au crépuscule, 1d6 étoiles détachées réapparaissent sur la robe.

@@ -1,35 +1,3 @@
----
-title: Scheznyki
-type: Fée
-size: P
-alignment: Chaotique Mauvais
-challenge: '6'
-hitDiceCount: 18
-customSavingThrows: 'For +10, Con +10'
-conditionImmunities:
-  - inconscient
-languages:
-  - commun
-  - darakhul
-  - elfique
-environments:
-  - Collines / Vallées
-dungeonTypes:
-  - Ruines souterraines
-source: Livre des monstres
-source_page: 356
-abilityScores_for: 19
-abilityScores_dex: 15
-abilityScores_con: 18
-abilityScores_int: 15
-abilityScores_sag: 15
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 6
-movement_climb: '4,50'
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation innée**_. Le scheznyki utilise le Charisme comme caractéristique d'incantation innée (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : [_lumières dansantes_](/grimoire/lumieres-dansantes/), [_ténèbres_](/grimoire/tenebres/), [_détection du mal et du bien_](/grimoire/detection-du-mal-et-du-bien/), [_lueurs féeriques_](/grimoire/lueurs-feeriques/), [_invisibilité_](/grimoire/invisibilite/)\*, [_vol_](/grimoire/vol/)\*, [_main du mage_](/grimoire/main-du-mage/), [_rayon de givre_](/grimoire/rayon-de-givre/) (\*seulement quand il porte un chapeau de volatilisateur)

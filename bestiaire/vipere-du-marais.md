@@ -1,26 +1,3 @@
----
-title: Vipère du marais
-type: Bête
-size: P
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 4
-languages:
-  - —
-environments:
-  - Mangrove / Marécage
-source: Livre des monstres
-source_page: 361
-abilityScores_for: 4
-abilityScores_dex: 16
-abilityScores_con: 12
-abilityScores_int: 1
-abilityScores_sag: 10
-abilityScores_cha: 4
-ac_armorType: null
-movement_walk: 9
-senses_blindsight: 3
----
 ## Capacités
 _**Camouflage du marais**_. La vipère du marais est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion) quand elle est en terrain marécageux.
 

@@ -1,22 +1,21 @@
----
-title: Lenteur
-description: 'Les cibles voient leur vitesse, leur CA et leur nombre d''actions diminués.'
-school: Transmutation
-level: 3
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 36 mètres
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: une goutte de mélasse
----
+# Lenteur
+
+**École de magie** : Transmutation
+
+**Niveau** : 3
+
+**Portée** : 36 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une goutte de mélasse)
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Vous modifiez le cours du temps autour d'un maximum de six créatures de votre choix situées dans un cube de 12 mètres d'arête situé à portée. Chaque cible doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse, sans quoi le sort l'affecte pendant toute sa durée.
 
 Une cible affectée voit sa vitesse réduite de moitié. De plus, elle subit un malus de -2 à la CA et aux jets de sauvegarde de Dextérité et ne peut plus utiliser de réaction. À son tour, elle peut utiliser une action ou une action bonus, mais pas les deux. Elle ne peut pas faire plus d'une attaque au corps-à-corps ou à distance à son tour, quels que soient ses aptitudes et ses objets magiques.

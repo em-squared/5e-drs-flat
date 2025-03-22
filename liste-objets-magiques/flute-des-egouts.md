@@ -1,11 +1,3 @@
----
-title: Flûte des égouts
-type: Objet merveilleux
-subtype: false
-rarity: Peu courant
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte. Tant que vous êtes harmonisé avec elle, les rats ordinaires et les rats géants sont indifférents envers vous et ne vous attaquent pas, à moins que vous ne les menaciez ou les blessiez.
 
 La flûte a trois charges. Si vous utilisez une action pour jouer de la flûte, vous pouvez dépenser une action bonus pour utiliser de 1 à 3 charges et appeler une [nuée de rats](/bestiaire/nuee-de-rats/) par charge dépensée, à condition qu'il y ait assez de rats dans un rayon d'un kilomètre pour répondre ainsi à votre appel (c'est au MJ d'en décider). S'il n'y a pas assez de rats pour former une nuée, la charge est gaspillée. Une nuée ainsi appelée se précipite vers l'origine de la musique par le chemin le plus court, mais vous ne la contrôlez pas. Chaque jour à l'aube, la flûte récupère 1d3 charges dépensées.

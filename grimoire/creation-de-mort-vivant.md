@@ -1,25 +1,19 @@
----
-title: Création de mort-vivant
-description: Crée des goules au service du PJ.
-school: Nécromancie
-level: 6
-concentration: false
-casting_time: 1 minute
-duration: instantanée
-range: 3 mètres
-ritual: false
-classes:
-  - Clerc
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau
-  saumâtre et un onyx noir d'une valeur de 150 po par cadavre
----
+# Création de mort-vivant
+
+**École de magie** : Nécromancie
+
+**Niveau** : 6
+
+**Portée** : 3 mètres
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (un pot d'argile rempli de poussière tombale, un pot d'argile rempli d'eau saumâtre et un onyx noir d'une valeur de 150 po par cadavre)
+
+**Classes** : Clerc, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Ce sort se lance uniquement de nuit. Choisissez jusqu'à trois cadavres de créatures humanoïdes de taille M ou P situés à portée. Chacun se change en goule placée sous votre contrôle. (Le MJ dispose du profil technique de ces créatures).
 
 À chacun de vos tours, vous pouvez utiliser une action bonus pour contrôler mentalement les créatures que vous avez animées avec ce sort si elles se trouvent dans un rayon de 36 mètres (si vous en contrôlez plusieurs, vous pouvez en commander une ou plusieurs à la fois, à condition de donner le même ordre à toutes). Vous pouvez décider de l'action que la créature va entreprendre et de l'endroit où elle va se rendre lors de son prochain tour, ou donner des consignes plus génériques, comme de garder une salle ou un couloir. En l'absence d'ordre de votre part, la créature se contente de se défendre contre les créatures hostiles. Dès qu'une créature a reçu un ordre, elle s'y conforme jusqu'à avoir accompli sa tâche.

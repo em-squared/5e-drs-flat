@@ -1,22 +1,21 @@
----
-title: Modification de mémoire
-description: Permet de remodeler les souvenirs de la cible.
-school: Enchantement
-level: 5
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 9 mètres
-ritual: false
-classes:
-  - Barde
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Modification de mémoire
+
+**École de magie** : Enchantement
+
+**Niveau** : 5
+
+**Portée** : 9 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S
+
+**Classes** : Barde, Magicien
+
+**Source** : Manuel des règles
+
 Vous tentez de remodeler les souvenirs d'autrui. Une créature située dans votre champ de vision doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse. Si vous combattez cette créature, elle a l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du jet. Si elle échoue, elle est [_charmée_](/gerer-la-sante-du-personnage/#charme) par vous pendant toute la durée du sort. Elle est alors [_neutralisée_](/gerer-la-sante-du-personnage/#neutralise) et n'a plus conscience de ce qui l'entoure, mais elle vous entend toujours. Le sort se termine si elle subit le moindre dégât ou si elle est la cible d'un autre sort, auquel cas ses souvenirs restent tous intacts.
 
 Tant que le sort persiste, vous pouvez influer sur les souvenirs de la cible liés à un événement qui s'est déroulé dans les 24 heures précédentes et qui n'a pas duré plus de 10 minutes. Vous pouvez éliminer définitivement tout souvenir de cet événement, permettre à la cible de s'en souvenir parfaitement dans les moindres détails, modifier les détails dont elle se souvient ou créer un souvenir décrivant un tout autre événement.

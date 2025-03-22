@@ -1,37 +1,3 @@
----
-title: Chevalier fantôme
-type: Mort-vivant
-size: M
-alignment: Loyal Mauvais
-challenge: '6'
-hitDiceCount: 15
-skills:
-  - name: athletisme
-  - name: discretion
-  - name: dressage
-  - name: perception
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-damageTypeResistances:
-  - necrotique
-damageTypeImmunities:
-  - poison
-languages:
-  - commun
-source: Livre des monstres
-source_page: 421
-abilityScores_for: 17
-abilityScores_dex: 15
-abilityScores_con: 14
-abilityScores_int: 8
-abilityScores_sag: 10
-abilityScores_cha: 7
-ac_armorType: demi-plate
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Charge**_. Si le chevalier fantôme est à cheval et se déplace d'au moins 9 mètres en ligne droite en direction d'une cible qu'il touche avec une attaque de corps à corps pendant le même tour, cette cible subit 7 (2d6) dégâts de plus.
 

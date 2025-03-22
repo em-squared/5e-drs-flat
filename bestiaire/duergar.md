@@ -1,32 +1,3 @@
----
-title: Duergar
-type: Humanoïde
-subtype: nain
-size: M
-alignment: Loyal Mauvais
-challenge: '1'
-hitDiceCount: 4
-damageTypeResistances:
-  - poison
-languages:
-  - commun des profondeurs
-  - nain
-dungeonTypes:
-  - Donjon maçonné
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 134
-abilityScores_for: 14
-abilityScores_dex: 11
-abilityScores_con: 14
-abilityScores_int: 11
-abilityScores_sag: 10
-abilityScores_cha: 9
-ac_armorType: armure d'écailles
-ac_hasShield: true
-movement_walk: '7,50'
-senses_darkvision: 36
----
 ## Capacités
 _**Résilience des duergars**_. Le duergar obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le poison, les sorts et les illusions, et tous ceux effectués pour résister aux états spéciaux [_charmé_](/gerer-la-sante-du-personnage/#charme) et [_paralysé_](/gerer-la-sante-du-personnage/#paralyse).
 

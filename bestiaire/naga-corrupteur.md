@@ -1,39 +1,3 @@
----
-title: Naga corrupteur
-type: Créature monstrueuse
-size: G
-alignment: Chaotique Mauvais
-challenge: '8'
-hitDiceCount: 10
-savingThrows:
-  - dex
-  - con
-  - sag
-  - cha
-conditionImmunities:
-  - charme
-  - empoisonne
-damageTypeImmunities:
-  - poison
-languages:
-  - abyssal
-  - commun
-dungeonTypes:
-  - Caverne aménagée
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 229
-abilityScores_for: 18
-abilityScores_dex: 17
-abilityScores_con: 14
-abilityScores_int: 16
-abilityScores_sag: 15
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation**_. Le naga est un lanceur de sorts de niveau 10. Sa caractéristique d'incantation est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 14, +6 pour toucher avec les attaques de sort) et seules les composantes verbales sont nécessaires pour lancer ses sorts. Voici les sorts de magicien préparés par le naga :
 * _**Tours de magie (à volonté)**_ : [_illusion mineure_](/grimoire/illusion-mineure/), [_main du mage_](/grimoire/main-du-mage/), [_rayon de givre_](/grimoire/rayon-de-givre/)

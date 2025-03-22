@@ -1,11 +1,3 @@
----
-title: Lanterne du jugement
-type: Objet merveilleux
-subtype: false
-rarity: Très rare
-attunement: harmonisation requise
-source: Warlock Grimoire - Kobold Press
----
 Cette lanterne en mithral et en or est ornée du symbole de Soleil Éternel. Lorsque vous tenez la lanterne, vous bénéficiez d'un _avantage_ aux tests de Sagesse (Perspicacité) et d'Intelligence (Investigation).
 
 Par une action bonus, vous pouvez prononcer un mot de commande pour provoquer l'un des effets suivants :

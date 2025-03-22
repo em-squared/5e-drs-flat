@@ -1,31 +1,3 @@
----
-title: Vagabond éonique
-type: Humanoïde
-subtype: humain
-size: M
-alignment: Chaotique Neutre
-challenge: '1'
-hitDiceCount: 10
-skills:
-  - name: arcanes
-  - name: histoire
-senses: null
-languages:
-  - commun
-  - éonique
-  - géant
-  - sylvestre
-source: Livre des monstres
-source_page: 394
-abilityScores_for: 9
-abilityScores_dex: 14
-abilityScores_con: 14
-abilityScores_int: 18
-abilityScores_sag: 11
-abilityScores_cha: 13
-ac_armorType: armure de cuir
-movement_walk: 9
----
 ## Actions
 _**Attaques multiples**_. Le vagabond éonique peut soit utiliser _dérive en arrière_, soit faire deux attaques avec son _bâton de distorsion temporelle_. La version future du vagabond éonique (si elle a été invoquée) ne peut utiliser que _dérive en avant_.
 

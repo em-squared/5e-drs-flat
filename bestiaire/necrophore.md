@@ -1,31 +1,3 @@
----
-title: Nécrophore
-type: Bête
-size: G
-alignment: Neutre
-challenge: '4'
-hitDiceCount: 15
-conditionImmunities:
-  - paralyse
-languages:
-  - —
-dungeonTypes:
-  - Caverne naturelle
-source: Livre des monstres
-source_page: 317
-abilityScores_for: 19
-abilityScores_dex: 12
-abilityScores_con: 17
-abilityScores_int: 1
-abilityScores_sag: 13
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-movement_burrow: 6
-movement_climb: 3
-senses_darkvision: 18
----
 ## Actions
 _**Attaques multiples**_. Le nécrophore porte une attaque de _morsure_ et deux de _griffes_.
 

@@ -1,33 +1,3 @@
----
-title: 'Orc, chaman'
-type: Humanoïde
-subtype: demi-orc
-size: M
-alignment: Neutre Mauvais
-challenge: '2'
-hitDiceCount: 6
-skills:
-  - name: persuasion
-  - name: religion
-languages:
-  - commun
-  - orc
-dungeonTypes:
-  - Caverne aménagée
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 241
-abilityScores_for: 15
-abilityScores_dex: 11
-abilityScores_con: 13
-abilityScores_int: 10
-abilityScores_sag: 14
-abilityScores_cha: 12
-ac_armorType: custom
-ac_value: Classe d'armure 13 (armure de cuir)
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Sombre dévotion**_. Le chaman bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués pour ne pas être [_charmé_](/gerer-la-sante-du-personnage/#charme) ou terrorisé.
 

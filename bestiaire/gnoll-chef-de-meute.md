@@ -1,31 +1,3 @@
----
-title: 'Gnoll, chef de meute '
-type: Humanoïde
-subtype: gnoll
-size: M
-alignment: Chaotique Mauvais
-challenge: '2'
-hitDiceCount: 8
-languages:
-  - gnoll
-environments:
-  - Collines / Vallées
-  - Plaine / Champs / Prairie / Savane
-dungeonTypes:
-  - Ruines extérieures
-source: Créatures & Oppositions
-source_page: 162
-abilityScores_for: 16
-abilityScores_dex: 12
-abilityScores_con: 13
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 9
-ac_armorType: armure de peau
-ac_hasShield: true
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Chef de meute**_. Tous les gnolls au contact du chef de meute obtiennent un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) en attaque tant que le chef de meute n'est pas neutralisé ou inconscient.
 

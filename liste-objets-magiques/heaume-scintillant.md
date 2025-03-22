@@ -1,11 +1,3 @@
----
-title: Heaume scintillant
-type: Objet merveilleux
-subtype: false
-rarity: Très rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Ce heaume éblouissant est serti de 1d10 diamants, 2d10 rubis, 3d10 opales de feu et 4d10 opales. Toute gemme arrachée au heaume tombe en poussière. Le heaume perd ses pouvoirs magiques une fois que toutes ses gemmes ont été détruites ou arrachées.
 
 Tant que vous portez le heaume, vous bénéficiez des avantages suivants :

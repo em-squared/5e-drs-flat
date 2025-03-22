@@ -1,34 +1,3 @@
----
-title: Marcheflèche
-type: Fée
-size: TP
-alignment: Neutre
-challenge: '3'
-customHP: 38 (11d4 + 22)
-customSavingThrows: Dex +7
-senses: null
-damageTypeResistances:
-  - p-non-magique
-damageTypeImmunities:
-  - foudre
-  - tonnerre
-languages:
-  - commun
-  - sylvestre
-environments:
-  - Littoral
-source: Livre des monstres
-source_page: 288
-abilityScores_for: 3
-abilityScores_dex: 18
-abilityScores_con: 14
-abilityScores_int: 11
-abilityScores_sag: 10
-abilityScores_cha: 14
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 6
----
 ## Capacités
 _**Corps électrisé**_. Si une créature touche le marcheflèche lors d'une attaque de corps à corps avec une arme métallique, elle subit 5 (1d10) dégâts de foudre.
 

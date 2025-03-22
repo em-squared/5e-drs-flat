@@ -1,23 +1,19 @@
----
-title: Rappel à la vie
-description: Ramène à la vie une créature décédée depuis moins de 10 jours.
-school: Nécromancie
-level: 5
-concentration: false
-casting_time: 1 heure
-duration: instantanée
-range: contact
-ritual: false
-classes:
-  - Barde
-  - Clerc
-  - Paladin
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'un diamant d''une valeur minimale de 500 po, que le sort consume'
----
+# Rappel à la vie
+
+**École de magie** : Nécromancie
+
+**Niveau** : 5
+
+**Portée** : contact
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (un diamant d'une valeur minimale de 500 po, que le sort consume)
+
+**Classes** : Barde, Clerc, Paladin
+
+**Source** : Manuel des règles
+
 Vous touchez une créature décédée et la ramenez à la vie, à condition que son trépas ne remonte pas à plus de 10 jours. Si l'âme de la créature est désireuse de rejoindre son corps et libre de le faire, le défunt revient à la vie avec 1 point de vie.
 
 Ce sort neutralise également les poisons et soigne les maladies non-magiques qui affectaient la créature au moment de sa mort. En revanche, il ne la débarrasse pas des maladies magiques, des malédictions et des effets similaires. Si on ne supprime pas ces effets sur le cadavre avant de lancer le sort, ils affectent de nouveau la créature ressuscitée. Ce sort est incapable de ramener un mort-vivant à la vie.

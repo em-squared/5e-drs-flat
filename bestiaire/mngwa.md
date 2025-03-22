@@ -1,34 +1,3 @@
----
-title: Mngwa
-type: Aberration
-size: M
-alignment: Neutre Mauvais
-challenge: '4'
-hitDiceCount: 14
-skills:
-  - name: discretion
-    isExpert: true
-  - name: perception
-languages:
-  - commun
-  - sylvestre
-  - peut parler aux félins
-environments:
-  - Collines / Vallées
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 305
-abilityScores_for: 19
-abilityScores_dex: 17
-abilityScores_con: 15
-abilityScores_int: 11
-abilityScores_sag: 17
-abilityScores_cha: 17
-ac_armorType: custom
-ac_value: '16'
-movement_walk: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Odorat aiguisé**_. Le mngwa est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Perception) basés sur l'odorat.
 

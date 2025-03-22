@@ -1,30 +1,3 @@
----
-title: Eala
-type: Créature monstrueuse
-size: P
-alignment: non-alignée
-challenge: '2'
-hitDiceCount: 9
-savingThrows:
-  - dex
-damageTypeImmunities:
-  - feu
-languages:
-  - —
-source: Livre des monstres
-source_page: 161
-abilityScores_for: 10
-abilityScores_dex: 16
-abilityScores_con: 12
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 3
-movement_fly: 18
-senses_darkvision: 18
----
 ## Actions
 _**Attaques multiples**_. Un eala fait deux attaques avec ses _rémiges tranchantes_.
 

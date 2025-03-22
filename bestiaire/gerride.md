@@ -1,30 +1,3 @@
----
-title: Gerridé
-type: Fée
-size: G
-alignment: Neutre
-challenge: '1'
-hitDiceCount: 9
-languages:
-  - —
-environments:
-  - Littoral
-  - Mer / Océan
-source: Livre des monstres
-source_page: 210
-abilityScores_for: 16
-abilityScores_dex: 15
-abilityScores_con: 17
-abilityScores_int: 2
-abilityScores_sag: 13
-abilityScores_cha: 7
-ac_armorType: custom
-ac_value: '14'
-movement_walk: 3
-movement_climb: 3
-movement_swim: 24
-senses_darkvision: 18
----
 ## Capacités
 _**Élevé comme monture**_. Un gerridé ne subit pas de malus de déplacement ni de vitesse s'il est encombré ou porte un unique cavalier.
 

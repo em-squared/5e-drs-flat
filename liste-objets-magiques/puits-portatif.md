@@ -1,11 +1,3 @@
----
-title: Puits portatif
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Cette mince étoffe noire, aussi douce que de la soie, est repliée pour tenir aussi peu de place qu'un mouchoir. Dépliée, elle se présente sous forme d'un disque de 1,80 mètre de diamètre.
 
 Vous pouvez utiliser une action pour déplier le _puits portatif_ et le poser sur ou contre une surface solide, où il crée un trou extradimensionnel de 3 mètres de profondeur. L'espace cylindrique qui forme le trou existe sur un autre plan, il est donc impossible de se servir du puits pour créer un passage. Si une créature se trouve dans le _puits portatif_ alors qu'il est ouvert, il lui suffit d'escalader la paroi pour en sortir.

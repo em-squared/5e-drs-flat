@@ -1,35 +1,3 @@
----
-title: Goule impériale
-type: Mort-vivant
-size: M
-alignment: Loyal Mauvais
-challenge: '4'
-hitDiceCount: 17
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-damageTypeImmunities:
-  - poison
-languages:
-  - commun
-  - darakhul
-  - commun des profondeurs
-dungeonTypes:
-  - Ruines souterraines
-source: Livre des monstres
-source_page: 222
-abilityScores_for: 16
-abilityScores_dex: 14
-abilityScores_con: 12
-abilityScores_int: 13
-abilityScores_sag: 14
-abilityScores_cha: 14
-ac_armorType: cuirasse
-movement_walk: 9
-movement_burrow: '4,50'
-senses_darkvision: 18
----
 ## Capacités
 _**Braver le renvoi**_. La goule impériale et toutes les goules dans un rayon de 9 mètres autour d'elle sont [_avantagées_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre le renvoi des morts-vivants.
 

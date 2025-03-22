@@ -1,32 +1,3 @@
----
-title: Bondisseur aquatique
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '4'
-hitDiceCount: 13
-languages:
-  - —
-environments:
-  - Littoral
-  - Mer / Océan
-dungeonTypes:
-  - Caverne sous-marine
-source: Livre des monstres
-source_page: 44
-abilityScores_for: 16
-abilityScores_dex: 14
-abilityScores_con: 15
-abilityScores_int: 4
-abilityScores_sag: 12
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: '1,50'
-movement_fly: 15
-movement_swim: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le bondisseur aquatique respire à l'air libre et sous l'eau.
 

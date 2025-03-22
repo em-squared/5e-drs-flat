@@ -1,32 +1,3 @@
----
-title: Merrow
-type: Créature monstrueuse
-size: G
-alignment: Chaotique Mauvais
-challenge: '2'
-hitDiceCount: 6
-languages:
-  - abyssal
-  - aquatique
-environments:
-  - Littoral
-dungeonTypes:
-  - Caverne sous-marine
-  - Ruines sous-marines
-source: Créatures & Oppositions
-source_page: 221
-abilityScores_for: 18
-abilityScores_dex: 10
-abilityScores_con: 15
-abilityScores_int: 8
-abilityScores_sag: 10
-abilityScores_cha: 9
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 3
-movement_swim: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Amphibie**_. Le merrow peut respirer à l'air libre et sous l'eau.
 

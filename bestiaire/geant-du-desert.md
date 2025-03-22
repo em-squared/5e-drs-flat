@@ -1,38 +1,3 @@
----
-title: Géant du désert
-type: Géant
-size: TG
-alignment: Neutre
-challenge: '9'
-hitDiceCount: 14
-savingThrows:
-  - for
-  - con
-  - cha
-skills:
-  - name: discretion
-  - name: perception
-  - name: survie
-senses: null
-damageTypeImmunities:
-  - feu
-languages:
-  - commun
-  - géant
-environments:
-  - Désert chaud
-source: Livre des monstres
-source_page: 203
-abilityScores_for: 27
-abilityScores_dex: 10
-abilityScores_con: 22
-abilityScores_int: 13
-abilityScores_sag: 18
-abilityScores_cha: 15
-ac_armorType: armure naturelle
-ac_value: 7
-movement_walk: 12
----
 ## Capacités
 **_Camouflage sablonneux._** Le géant est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion) pour se cacher en zone sablonneuse.
 

@@ -1,39 +1,3 @@
----
-title: Couatl
-type: Céleste
-size: M
-alignment: Loyal Bon
-challenge: '4'
-hitDiceCount: 13
-savingThrows:
-  - con
-  - sag
-  - cha
-damageTypeResistances:
-  - radiant
-damageTypeImmunities:
-  - psychique
-  - c-p-t-non-magique
-languages:
-  - toutes
-telepathy: 36
-environments:
-  - Jungle
-  - Mangrove / Marécage
-source: Créatures & Oppositions
-source_page: 44
-abilityScores_for: 16
-abilityScores_dex: 20
-abilityScores_con: 17
-abilityScores_int: 18
-abilityScores_sag: 20
-abilityScores_cha: 18
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-movement_fly: 27
-senses_truesight: 36
----
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du couatl sont magiques.
 

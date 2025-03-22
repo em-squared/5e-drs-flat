@@ -1,34 +1,3 @@
----
-title: Rejeton d'Akyishigal
-type: Fiélon
-subtype: Démon
-size: M
-alignment: Chaotique Mauvais
-challenge: '5'
-hitDiceCount: 14
-savingThrows:
-  - dex
-conditionImmunities:
-  - empoisonne
-damageTypeImmunities:
-  - poison
-languages:
-  - infernal
-  - rejeton d'Akyishigal
-source: Livre des monstres
-source_page: 85
-abilityScores_for: 15
-abilityScores_dex: 13
-abilityScores_con: 19
-abilityScores_int: 10
-abilityScores_sag: 11
-abilityScores_cha: 12
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-movement_climb: '4,50'
-senses_darkvision: 18
----
 ## Capacités
 _**Contrôle de la vermine**_. Les rejetons d'Akyishigal peuvent donner des ordres à des bêtes de Très Petite taille d'une Intelligence de 2 ou moins, qui se trouvent dans un rayon de 9 mètres et ne sont pas contrôlées par magie. La vermine obéit aux ordres du rejeton au mieux de ses capacités sans se soucier de sa propre sécurité.
 

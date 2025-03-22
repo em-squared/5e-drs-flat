@@ -1,36 +1,3 @@
----
-title: Drakon
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '5'
-hitDiceCount: 14
-skills:
-  - name: discretion
-  - name: perception
-conditionImmunities:
-  - paralyse
-damageTypeResistances:
-  - acide
-languages:
-  - —
-environments:
-  - Littoral
-source: Livre des monstres
-source_page: 158
-abilityScores_for: 14
-abilityScores_dex: 19
-abilityScores_con: 15
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 9
-movement_fly: 18
-movement_swim: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Regard dissolvant**_. Quand une créature qui peut voir les yeux d'un drakon se trouve dans un rayon de 9 mètres de lui et que ce dernier n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise) et peut également la voir, il peut la forcer à faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 13. Sur un échec, la créature subit 3 (1d6) dégâts d'acide, son maximum de points de vie est réduit du même nombre de points (jusqu'à ce qu'elle ait terminé un repos long) et elle est [_paralysée_](/gerer-la-sante-du-personnage/#paralyse) jusqu'au début de son prochain tour. Sauf si elle est _surprise_, une créature peut détourner le regard au début de son tour pour éviter d'avoir à faire ce [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde). Si la créature choisit cette option, elle ne peut pas voir le drakon jusqu'au début de son prochain tour, et doit à ce moment choisir de nouveau si elle détourne le regard ou non. Si la créature regarde en direction du drakon avant le début de son tour suivant, elle doit immédiatement faire le [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde).
 

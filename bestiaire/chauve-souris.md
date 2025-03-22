@@ -1,30 +1,3 @@
----
-title: Chauve-souris
-type: Bête
-size: TP
-alignment: non-alignée
-challenge: '0'
-hitDiceCount: 1
-languages:
-  - ''
-environments:
-  - Bois / Forêt
-dungeonTypes:
-  - Caverne naturelle
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 299
-abilityScores_for: 2
-abilityScores_dex: 15
-abilityScores_con: 8
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 4
-ac_armorType: null
-movement_walk: '1,50'
-movement_fly: 9
-senses_blindsight: 18
----
 ## Capacités
 _**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 

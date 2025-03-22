@@ -1,23 +1,19 @@
----
-title: Sommeil
-description: Rend inconscientes les cibles dans un rayon de 6 mètres.
-school: Enchantement
-level: 1
-concentration: false
-casting_time: 1 action
-duration: 1 minute
-range: 27 mètres
-ritual: false
-classes:
-  - Barde
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'une pincée de sable fin, des pétales de rose ou un criquet'
----
+# Sommeil
+
+**École de magie** : Enchantement
+
+**Niveau** : 1
+
+**Portée** : 27 mètres
+
+**Durée** : 1 minute
+
+**Composantes** : V, S, M, (une pincée de sable fin, des pétales de rose ou un criquet)
+
+**Classes** : Barde, Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Ce sort plonge quelques créatures dans un sommeil magique. Lancez 5d8. Le total indique le nombre de points de vie de créatures que le sort affecte. Les créatures qui se trouvent dans un rayon de 6 mètres autour d'un point de votre choix situé à portée sont affectées dans l'ordre croissant de leur total actuel de points de vie (en ignorant les créatures [_inconscientes_](/gerer-la-sante-du-personnage/#inconscient).
 
 Chaque créature affectée par le sort tombe [_inconsciente_](/gerer-la-sante-du-personnage/#inconscient), en commençant par celle qui possède actuellement le moins de vie. Elle reste ainsi jusqu'à la fin de la durée du sort, jusqu'à ce qu'elle subisse des dégâts ou jusqu'à ce que quelqu'un utilise son action pour la réveiller en la secouant ou en la giflant. Soustrayez le nombre de points de vie de la créature endormie du total auquel vous avez droit avant de passer à la suivante, c'est-à-dire celle qui a le moins de points de vie après elle. Le nombre de points de vie de la créature doit être égal ou inférieur au total vous restant, sinon le sort n'affecte pas la créature.

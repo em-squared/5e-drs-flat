@@ -1,37 +1,3 @@
----
-title: Golem de chair
-type: Créature artificielle
-size: M
-alignment: Neutre
-challenge: '5'
-hitDiceCount: 11
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeImmunities:
-  - foudre
-  - poison
-  - c-p-t-non-adamantium
-languages:
-  - comprend les langues de son créateur mais ne peut pas parler
-dungeonTypes:
-  - Donjon maçonné
-source: Créatures & Oppositions
-source_page: 170
-abilityScores_for: 19
-abilityScores_dex: 9
-abilityScores_con: 18
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 5
-ac_armorType: null
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Absorption de la foudre**_. Chaque fois que le golem devrait subir des dégâts de foudre, ceux-ci ne lui sont pas infligés et il récupère, à la place, un nombre de points de vie égal aux dégâts de foudre qu'il aurait dû subir.
 

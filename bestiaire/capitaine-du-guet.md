@@ -1,28 +1,3 @@
----
-title: Capitaine du guet
-type: Humanoïde
-subtype: n'importe quelle race
-size: M
-alignment: Loyal Neutre
-challenge: '4'
-hitDiceCount: 14
-skills:
-  - name: perception
-senses: null
-languages:
-  - une seule (généralement le commun)
-source: Livre des monstres
-source_page: 418
-abilityScores_for: 13
-abilityScores_dex: 16
-abilityScores_con: 14
-abilityScores_int: 10
-abilityScores_sag: 11
-abilityScores_cha: 13
-ac_armorType: custom
-ac_value: 17 (armure d'écailles)
-movement_walk: 9
----
 ## Capacités
 _**Intuition tactique**_. Le capitaine du guet est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur ses tests d'initiative. Les soldats du guet sous les ordres du capitaine jouent à la même initiative que lui.
 

@@ -1,22 +1,19 @@
----
-title: Animation des morts
-description: Crée un zombi ou un squelette sous le contrôle du PJ.
-school: Nécromancie
-level: 3
-concentration: false
-casting_time: 1 minute
-duration: instantanée
-range: 3 mètres
-ritual: false
-classes:
-  - Clerc
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: 'une goutte de sang, un lambeau de chair et une pincée de poudre d''os'
----
+# Animation des morts
+
+**École de magie** : Nécromancie
+
+**Niveau** : 3
+
+**Portée** : 3 mètres
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (une goutte de sang, un lambeau de chair et une pincée de poudre d'os)
+
+**Classes** : Clerc, Magicien
+
+**Source** : Manuel des règles
+
 Ce sort crée un serviteur mort-vivant. Choisissez un tas d'os ou le cadavre d'un humanoïde de taille M ou P situé à portée. Votre sort imprègne la cible d'un ignoble simulacre de vie, la relevant sous forme de mort-vivant. Elle devient un squelette si vous avez lancé le sort sur un tas d'os, et un zombi si vous avez opté pour un cadavre (le MJ dispose du profil technique de la créature).
 
 À chacun de vos tours, vous pouvez utiliser une action bonus pour donner un ordre mental à la créature générée via ce sort si elle se trouve dans un rayon de 18 mètres autour de vous (si vous contrôlez plusieurs créatures, vous pouvez donner un ordre à l'une d'elles, certaines d'entre elles ou à toutes à la fois, à condition de transmettre le même ordre à chacune). À vous de décider quelles actions la créature va entreprendre et à quel endroit elle se déplace au cours du tour suivant, mais vous pouvez aussi lui donner un ordre plus générique, comme de garder une salle ou un couloir. En l'absence d'ordre, la créature se contente de se défendre contre les créatures hostiles. Une fois qu'elle a reçu un ordre, elle continue à le suivre jusqu'à ce qu'elle ait accompli sa tâche.

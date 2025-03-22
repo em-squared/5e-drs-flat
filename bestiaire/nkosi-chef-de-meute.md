@@ -1,29 +1,3 @@
----
-title: 'Nkosi, Chef de meute'
-type: Humanoïde
-subtype: 'métamorphe, nkosi'
-size: M
-alignment: Loyal Neutre
-challenge: '4'
-hitDiceCount: 17
-skills:
-  - name: survie
-languages:
-  - commun
-environments:
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 319
-abilityScores_for: 18
-abilityScores_dex: 18
-abilityScores_con: 12
-abilityScores_int: 10
-abilityScores_sag: 10
-abilityScores_cha: 14
-ac_armorType: armure de cuir clouté
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Métamorphe**_. Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15 mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
 

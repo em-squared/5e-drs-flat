@@ -1,37 +1,3 @@
----
-title: Vættir
-type: Mort-vivant
-size: M
-alignment: Loyal Mauvais
-challenge: '4'
-hitDiceCount: 16
-savingThrows:
-  - dex
-  - con
-  - sag
-  - cha
-conditionImmunities:
-  - charme
-  - empoisonne
-  - terrorise
-damageTypeImmunities:
-  - necrotique
-  - poison
-languages:
-  - celles qu'il parlait de son vivant
-source: Livre des monstres
-source_page: 393
-abilityScores_for: 20
-abilityScores_dex: 14
-abilityScores_con: 16
-abilityScores_int: 10
-abilityScores_sag: 12
-abilityScores_cha: 14
-ac_armorType: chemise de mailles
-movement_walk: 9
-senses_truesight: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Lien avide**_. Un vættir d'un noir cadavérique voit le visage de toute créature portant ou transportant un objet lui ayant appartenu. Il connaît également la direction dans laquelle se trouvent les objets lui ayant appartenu et la distance à laquelle ils se trouvent, à condition qu'ils se trouvent en possession de quelqu'un d'autre. Si l'objet change de main, son nouveau détenteur devient la cible du vættir. Un vættir d'un blanc d'os voit les individus qui l'ont offensé. Le temps et la distance n'ont aucun effet sur ces aptitudes, tant que les protagonistes se trouvent sur le même plan.
 

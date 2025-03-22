@@ -1,25 +1,19 @@
----
-title: Possession
-description: >-
-  Le PJ envoie son âme dans le corps d'autrui, l'âme de la cible est
-  prisonnière.
-school: Nécromancie
-level: 6
-concentration: false
-casting_time: 1 minute
-duration: jusqu'à dissipation
-range: personnelle
-ritual: false
-classes:
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une
-  valeur minimale de 500 po
----
+# Possession
+
+**École de magie** : Nécromancie
+
+**Niveau** : 6
+
+**Portée** : personnelle
+
+**Durée** : jusqu'à dissipation
+
+**Composantes** : V, S, M, (une gemme, un cristal, un reliquaire ou un autre réceptacle ornemental d'une valeur minimale de 500 po)
+
+**Classes** : Magicien
+
+**Source** : Manuel des règles
+
 Votre corps tombe en catatonie tandis que votre âme le quitte et pénètre dans le réceptacle utilisé comme composante de sort. Tant qu'elle se trouve là, vous percevez votre environnement comme si votre corps occupait le même espace que le réceptacle. En revanche, vous ne pouvez pas bouger ni utiliser de réaction. Vous ne pouvez accomplir qu'une action : projeter votre âme dans un rayon de 30 mètres au maximum autour du réceptacle, soit pour retourner dans votre corps (ce qui met fin au sort), soit pour prendre possession d'un autre corps humanoïde.
 
 Vous pouvez tenter de prendre possession de n'importe quel humanoïde situé dans votre champ de vision et dans un rayon de 30 mètres (sachant que les créatures protégées par une [_protection contre le mal et le bien_](/grimoire/protection-contre-le-mal-et-le-bien/) ou par un [_cercle magique_](/grimoire/cercle-magique/) sont immunisées contre la possession). La cible doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Charisme. Si elle échoue, votre âme s'installe dans son corps et la sienne est prisonnière du réceptacle. Si elle réussit son test, elle résiste à votre tentative de possession et vous ne pouvez plus essayer de la posséder pendant 24 heures.

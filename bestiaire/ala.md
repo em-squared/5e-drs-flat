@@ -1,38 +1,3 @@
----
-title: Ala
-type: Fée
-size: M
-alignment: Chaotique Mauvais
-challenge: '8'
-hitDiceCount: 15
-skills:
-  - name: athletisme
-  - name: discretion
-  - name: perception
-    isExpert: true
-conditionImmunities:
-  - empoisonne
-damageTypeImmunities:
-  - foudre
-  - poison
-  - tonnerre
-languages:
-  - commun
-  - draconique
-source: Livre des monstres
-source_page: 11
-abilityScores_for: 20
-abilityScores_dex: 16
-abilityScores_con: 18
-abilityScores_int: 10
-abilityScores_sag: 16
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-movement_fly: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Repli aérien**_. Une ala ne provoque par d'attaque d'opportunité quand elle vole hors de portée d'un ennemi.
 

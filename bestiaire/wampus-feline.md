@@ -1,32 +1,3 @@
----
-title: Wampus féline
-type: Créature monstrueuse
-size: M
-alignment: Chaotique Neutre
-challenge: '1'
-hitDiceCount: 9
-skills:
-  - name: persuasion
-  - name: supercherie
-languages:
-  - commun
-environments:
-  - Bois / Forêt
-  - Collines / Vallées
-source: Livre des monstres
-source_page: 409
-abilityScores_for: 14
-abilityScores_dex: 18
-abilityScores_con: 15
-abilityScores_int: 12
-abilityScores_sag: 14
-abilityScores_cha: 16
-ac_armorType: null
-movement_walk: 12
-movement_climb: 6
-movement_swim: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Animosité focalisée**_. La wampus féline est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des attaques au corps à corps contre un individu de sexe masculin qu'elle a vu utiliser la magie divine ou brandir un symbole sacré.
 

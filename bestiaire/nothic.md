@@ -1,35 +1,3 @@
----
-title: Nothic
-type: Aberration
-size: M
-alignment: Neutre Mauvais
-challenge: '2'
-hitDiceCount: 6
-savingThrows: null
-skills:
-  - name: arcanes
-  - name: discretion
-  - name: perception
-  - name: perspicacite
-    isExpert: true
-languages:
-  - Commun des profondeurs
-telepathy: null
-environments: null
-dungeonTypes: null
-source: Basic Rules
-source_page: 146
-abilityScores_for: 14
-abilityScores_dex: 16
-abilityScores_con: 16
-abilityScores_int: 13
-abilityScores_sag: 10
-abilityScores_cha: 18
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 9
-senses_truesight: 36
----
 ## Capacités
 _**Vue aiguisée**_. Le nothic a un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) basés sur la vue.
 

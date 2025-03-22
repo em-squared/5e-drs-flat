@@ -1,11 +1,3 @@
----
-title: Armure de résistance
-type: Armure
-subtype: 'Légère, intermédiaire ou lourde'
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Tant que vous portez cette armure, vous êtes résistant à un type de dégâts. C'est au MJ de choisir ce type ou de le déterminer au hasard parmi les options suivantes.
 
 |D10|Type de dégâts|

@@ -1,23 +1,21 @@
----
-title: Mur de pierre
-description: Crée un mur de pierre qui peut devenir permanent.
-school: Évocation
-level: 5
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 10 minutes
-range: 36 mètres
-ritual: false
-classes:
-  - Druide
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un petit bloc de granite
----
+# Mur de pierre
+
+**École de magie** : Évocation
+
+**Niveau** : 5
+
+**Portée** : 36 mètres
+
+**Durée** : jusqu'à 10 minutes
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un petit bloc de granite)
+
+**Classes** : Druide, Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Vous créez un mur de pierre non magique qui se matérialise en un point de votre choix à portée. Il fait 15 centimètres d'épaisseur et se compose de dix panneaux de 3 mètres sur 3. Chaque panneau doit être contigu à un autre. Sinon, vous pouvez opter pour des panneaux de 3 mètres sur 6 de seulement 7,5 centimètres d'épaisseur.
 
 Si le mur passe par l'emplacement d'une créature lorsqu'il apparaît, il l'expulse d'un côté ou de l'autre (à vous de choisir). Si une créature est placée de telle manière qu'elle devrait se retrouver entourée de toutes parts par le mur (ou par le mur et une autre surface solide), elle doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle le réussit, elle peut utiliser sa réaction pour se déplacer à sa vitesse au maximum afin de ne plus être encerclée par le mur.

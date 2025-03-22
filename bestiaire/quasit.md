@@ -1,37 +1,3 @@
----
-title: Quasit
-type: Fiélon
-subtype: 'Démon, Métamorphe'
-size: TP
-alignment: Chaotique Mauvais
-challenge: '1'
-hitDiceCount: 3
-skills:
-  - name: discretion
-conditionImmunities:
-  - empoisonne
-damageTypeResistances:
-  - feu
-  - foudre
-  - froid
-  - c-p-t-non-magique
-damageTypeImmunities:
-  - poison
-languages:
-  - abyssal
-  - commun
-source: Créatures & Oppositions
-source_page: 55
-abilityScores_for: 5
-abilityScores_dex: 17
-abilityScores_con: 10
-abilityScores_int: 7
-abilityScores_sag: 10
-abilityScores_cha: 10
-ac_armorType: null
-movement_walk: 12
-senses_darkvision: 36
----
 ## Capacités
 _**Métamorphe**_. Le quasit peut utiliser son action pour se métamorphoser en l'une des bêtes suivantes : chauve-souris (vitesse 3 m, vol 12 m), millepattes (12 m, escalade 12 m) ou crapaud (12 m, nage 12 m), ou pour reprendre sa véritable forme. Ses statistiques restent les mêmes, quelle que soit la forme adoptée, à l'exception de la vitesse indiquée. Ses objets équipés ou transportés ne sont pas transformés. Le quasit reprend sa forme véritable s'il meurt.
 

@@ -1,33 +1,3 @@
----
-title: Médazur à défenses
-type: Aberration
-size: G
-alignment: Loyal Bon
-challenge: '4'
-hitDiceCount: 12
-damageTypeImmunities:
-  - foudre
-languages:
-  - —
-environments:
-  - Collines / Vallées
-dungeonTypes:
-  - Plaine / Champs / Prairie / Savane
-source: Livre des monstres
-source_page: 298
-abilityScores_for: 17
-abilityScores_dex: 12
-abilityScores_con: 17
-abilityScores_int: 3
-abilityScores_sag: 14
-abilityScores_cha: 10
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: '1,50'
-movement_fly: 6
-movement_hover: true
-senses_darkvision: 18
----
 ## Capacités
 _**Rideau de tentacules**_. Quand la médazur vole, ses minces tentacules électrifiés pendent sous elle et touchent toutes les créatures situées dans les 6 mètres directement sous l'espace qu'elle occupe en se déplaçant. Toute créature qui se trouve sur ce chemin subit 10 (3d6) dégâts de foudre, ou moitié moins si elle réussit un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 13.
 

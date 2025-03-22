@@ -1,36 +1,3 @@
----
-title: Mimique carte
-type: Créature monstrueuse
-subtype: métamorphe
-size: TP
-alignment: Neutre
-challenge: '0.25'
-hitDiceCount: 5
-hitDieSize: 8
-conditionImmunities:
-  - a-terre
-damageTypeImmunities:
-  - acide
-languages:
-  - —
-dungeonTypes:
-  - Caverne aménagée
-  - Donjon maçonné
-  - Ruines souterraines
-source: Livre des monstres
-source_page: 302
-abilityScores_for: 10
-abilityScores_dex: 15
-abilityScores_con: 14
-abilityScores_int: 13
-abilityScores_sag: 15
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 9
-movement_fly: '4,50'
-senses_darkvision: 18
----
 ## Capacités
 _**Métamorphe**_. La mimique peut utiliser une action pour se changer en objet ou reprendre son apparence normale, informe. Ses statistiques sont les mêmes, quelle que soit sa forme. Les objets dont elle est équipée ou vêtue ne sont pas transformés. Elle reprend sa forme normale si elle meurt.
 

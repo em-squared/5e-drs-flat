@@ -1,11 +1,3 @@
----
-title: Bateau pliable
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Cet objet ressemble à une boîte en bois de 30 centimètres de long pour 15 de large et 15 de profondeur. Il pèse 2 kilos et flotte. On peut l'ouvrir pour stocker des objets à l'intérieur. Il répond à trois mots de commande, chacun nécessitant une action.
 
 Le premier déplie la boîte qui se transforme en bateau de 3 mètres de long pour 1,20 mètre de large et 60 centimètres de profondeur. Il est doté d'une paire de rames, d'une ancre, d'un mât et d'une voile latine. Quatre créatures de taille M au maximum peuvent s'y installer confortablement.

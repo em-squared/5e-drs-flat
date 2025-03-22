@@ -1,30 +1,3 @@
----
-title: Chauve-souris géante
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 4
-languages:
-  - ''
-environments:
-  - Jungle
-dungeonTypes:
-  - Caverne naturelle
-  - Ruines souterraines
-source: Créatures & Oppositions
-source_page: 299
-abilityScores_for: 15
-abilityScores_dex: 16
-abilityScores_con: 11
-abilityScores_int: 2
-abilityScores_sag: 12
-abilityScores_cha: 6
-ac_armorType: null
-movement_walk: 3
-movement_fly: 18
-senses_blindsight: 18
----
 ## Capacités
 _**Écholocalisation**_. La chauve-souris ne peut pas utiliser sa vision aveugle si elle est [_assourdie_](/gerer-la-sante-du-personnage/#assourdi).
 

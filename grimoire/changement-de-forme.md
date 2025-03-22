@@ -1,24 +1,21 @@
----
-title: Changement de forme
-description: Le PJ se métamorphose en une créature de son choix.
-school: Transmutation
-level: 9
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 heure
-range: personnelle
-ritual: false
-classes:
-  - Druide
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  un diadème de jade d'une valeur minimale de 1500 po, que vous devez coiffer
-  avant de lancer le sort
----
+# Changement de forme
+
+**École de magie** : Transmutation
+
+**Niveau** : 9
+
+**Portée** : personnelle
+
+**Durée** : jusqu'à 1 heure
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (un diadème de jade d'une valeur minimale de 1500 po, que vous devez coiffer avant de lancer le sort)
+
+**Classes** : Druide, Magicien
+
+**Source** : Manuel des règles
+
 Vous prenez la forme d'une créature différente pendant toute la durée du sort. Vous pouvez revêtir l'apparence de n'importe quelle créature dotée d'un indice de dangerosité inférieur ou égal à votre niveau. En revanche, vous ne pouvez pas vous changer en une créature artificielle ni en mort-vivant, et vous devez avoir vu au moins une fois la créature que vous imitez. Vous vous changez en un spécimen ordinaire de cette créature, sans niveau de classe et sans l'aptitude incantations.
 
 Votre profil technique est remplacé par celui de la créature choisie, mais vous conservez votre alignement et vos valeurs d'Intelligence, de Sagesse et de Charisme. Vous conservez également vos compétences et vos maîtrises de jet de sauvegarde, en plus de gagner celles de la créature. Si elle possède les mêmes maîtrises que vous, mais que son bonus est plus élevé, utilisez-le à la place du vôtre. Vous ne pouvez pas utiliser les actions d'antre ni les actions légendaires de la créature.

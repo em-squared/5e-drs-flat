@@ -1,11 +1,3 @@
----
-title: Bâton du grand essaim
-type: Bâton
-subtype: false
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Ce bâton contient 10 charges. Il récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un résultat de 1, un nuée d'insectes dévore et détruit le bâton, puis se disperse.
 
 _**Sorts**_. Tant que vous tenez le bâton en main, vous pouvez utiliser une action pour dépenser plusieurs de ses charges et lancer un des sorts suivants par son biais, en appliquant le DD des jets de sauvegarde contre vos sorts : [_fléau d'insectes_](/grimoire/fleau-d-insectes/) (5 charges) ou [_insecte géant_](/grimoire/insecte-geant/) (4 charges).

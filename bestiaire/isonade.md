@@ -1,36 +1,3 @@
----
-title: Isonade
-type: Créature monstrueuse
-size: Gig
-alignment: Chaotique Neutre
-challenge: '14'
-hitDiceCount: 12
-customSavingThrows: 'For +14, Con +12, Sag +8'
-skills:
-  - name: athletisme
-    invalid: true
-    value: 14
-  - name: perception
-    invalid: true
-    value: 8
-customDamageTypeImmunities: réduction/diminution permanente de caractéristique
-languages:
-  - comprend l'aquatique et le céleste mais ne peut pas parler
-environments:
-  - Littoral
-source: Livre des monstres
-source_page: 250
-abilityScores_for: 30
-abilityScores_dex: 14
-abilityScores_con: 26
-abilityScores_int: 6
-abilityScores_sag: 18
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 6
-movement_swim: 30
-senses_darkvision: 27
----
 ## Capacités
 _**Immunité atmosphérique**_. L'isonade vit confortablement à n'importe quelle profondeur marine et ne souffre pas de malus liés à la profondeur.
 

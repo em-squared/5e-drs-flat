@@ -1,11 +1,3 @@
----
-title: Bouteille de l'éfrit
-type: Objet merveilleux
-subtype: false
-rarity: Très rare
-attunement: false
-source: Cadre de campagne
----
 Cette bouteille en laiton est ornée de peintures et pèse 0,5 kilo. Si vous utilisez une action pour la déboucher, un épais nuage de fumée s'en échappe. La fumée se dissipe à la fin de votre tour dans un éclair de feu inoffensif et un [éfrit](/bestiaire/efrit/) apparaît dans un emplacement inoccupé dans un rayon de 9 mètres autour de vous.
 
 Le MJ lance un dé dans la table suivante quand quelqu'un ouvre la bouteille pour la première fois afin de déterminer ce qu'il se produit.

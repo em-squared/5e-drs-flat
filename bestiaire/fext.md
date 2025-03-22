@@ -1,39 +1,3 @@
----
-title: Fext
-type: Mort-vivant
-size: M
-alignment: n'importe quel alignement
-challenge: '6'
-hitDiceCount: 11
-savingThrows:
-  - dex
-  - sag
-  - cha
-skills:
-  - name: perception
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - terrorise
-damageTypeResistances:
-  - c-p-t-non-magique
-languages:
-  - les langues parlées par son protecteur
-source: Livre des monstres
-source_page: 196
-abilityScores_for: 14
-abilityScores_dex: 16
-abilityScores_con: 12
-abilityScores_int: 14
-abilityScores_sag: 12
-abilityScores_cha: 18
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un fext est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : _maléfice_

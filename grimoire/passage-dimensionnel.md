@@ -1,23 +1,21 @@
----
-title: Passage dimensionnel
-description: Forme un passage permettant la téléportation à 150 mètres.
-school: Invocation
-level: 6
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 10 minutes
-range: 150 mètres
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Passage dimensionnel
+
+**École de magie** : Invocation
+
+**Niveau** : 6
+
+**Portée** : 150 mètres
+
+**Durée** : jusqu'à 10 minutes
+
+**Concentration** : oui
+
+**Composantes** : V, S
+
+**Classes** : Ensorceleur/Sorcelame, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous désignez un point sur une surface à portée dans votre champ de vision et créez une ouverture circulaire de 1,50 mètre de diamètre entourée de runes rayonnantes. Avant la fin du sort, par une action bonus, vous désignez un deuxième point sur une autre surface située à 150 mètres ou moins de la première pour créer une seconde ouverture faisant le lien avec la première et formant un passage extra-dimensionnelle bidirectionnel. Les surfaces ne doivent pas forcément avoir la même inclinaison mais doivent être planes et solides (ex: sol, mur ou plafond) et ne pas comporter de métal.
 
 Toute créature ou objet solide entrant par une ouverture ressort instantanément par l'autre, perpendiculairement à l'ouverture et en conservant sa vitesse. Il est ainsi possible de lancer un objet ou de tirer un projectile par l'ouverture, de ramasser un objet de l'autre côté, de laisser tomber un objet lourd par une ouverture dans le sol pour qu'il retombe de l'autre côté, de sauter au travers pour accéder de l'autre côté sur un passage en hauteur, etc.

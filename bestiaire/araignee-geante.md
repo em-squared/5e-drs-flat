@@ -1,36 +1,3 @@
----
-title: Araignée géante
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '1'
-hitDiceCount: 4
-skills:
-  - name: discretion
-    isExpert: true
-languages:
-  - ''
-environments:
-  - Bois / Forêt
-  - Jungle
-dungeonTypes:
-  - Caverne naturelle
-  - Ruines extérieures
-source: Créatures & Oppositions
-source_page: 295
-abilityScores_for: 14
-abilityScores_dex: 16
-abilityScores_con: 12
-abilityScores_int: 2
-abilityScores_sag: 11
-abilityScores_cha: 4
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 9
-movement_climb: 9
-senses_blindsight: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Marche dans les toiles**_. L'araignée ignore les restrictions de déplacement imposées par les toiles d'araignée.
 

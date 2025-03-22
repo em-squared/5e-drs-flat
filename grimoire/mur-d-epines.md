@@ -1,21 +1,21 @@
----
-title: Mur d'épines
-description: Crée un mur de buissons hérissés d'épines.
-school: Invocation
-level: 6
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 10 minutes
-range: 36 mètres
-ritual: false
-classes:
-  - Druide
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: une poignée d'épines
----
+# Mur d'épines
+
+**École de magie** : Invocation
+
+**Niveau** : 6
+
+**Portée** : 36 mètres
+
+**Durée** : jusqu'à 10 minutes
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une poignée d'épines)
+
+**Classes** : Druide
+
+**Source** : Manuel des règles
+
 Vous créez un mur fait de buissons souples et robustes, enchevêtrés et hérissés d'épines acérées. Il apparaît à portée sur une surface solide et persiste pendant toute la durée du sort. Vous pouvez créer un mur de 18 mètres de long, 3 mètres de haut et 1,50 mètre d'épaisseur, ou le disposer en un cercle de 6 mètres de diamètre pour une hauteur maximum de 6 mètres et une épaisseur de 1,50 mètre. Le mur bloque le champ de vision.
 
 Quand le mur apparaît, chaque créature située dans sa zone doit effectuer un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Celles qui échouent subissent 7d8 dégâts perforants, les autres la moitié seulement.

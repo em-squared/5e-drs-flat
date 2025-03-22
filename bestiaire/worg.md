@@ -1,32 +1,3 @@
----
-title: Worg
-type: Créature monstrueuse
-size: G
-alignment: Neutre Mauvais
-challenge: '0.5'
-hitDiceCount: 4
-skills:
-  - name: perception
-    isExpert: true
-languages:
-  - gobelin
-  - worg
-environments:
-  - Collines / Vallées
-  - Montagnes
-source: Créatures & Oppositions
-source_page: 325
-abilityScores_for: 16
-abilityScores_dex: 13
-abilityScores_con: 13
-abilityScores_int: 7
-abilityScores_sag: 11
-abilityScores_cha: 8
-ac_armorType: armure naturelle
-ac_value: 2
-movement_walk: 15
-senses_darkvision: 18
----
 ## Capacités
 _**Odorat et ouïe aiguisés**_. Le worg obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou l'ouïe.
 

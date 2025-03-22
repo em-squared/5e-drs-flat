@@ -1,35 +1,3 @@
----
-title: Gobelours
-type: Humanoïde
-subtype: gobelinoïde
-size: M
-alignment: Chaotique Mauvais
-challenge: '1'
-hitDiceCount: 5
-skills:
-  - name: discretion
-    isExpert: true
-  - name: survie
-languages:
-  - commun
-  - gobelin
-environments:
-  - Collines / Vallées
-dungeonTypes:
-  - Caverne aménagée
-source: Créatures & Oppositions
-source_page: 167
-abilityScores_for: 15
-abilityScores_dex: 14
-abilityScores_con: 13
-abilityScores_int: 8
-abilityScores_sag: 11
-abilityScores_cha: 9
-ac_armorType: armure de peau
-ac_hasShield: true
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Attaque surprise**_. Si le gobelours surprend une créature et réussit une attaque contre elle lors du premier round de combat, cette attaque inflige 7 (2d6) dégâts supplémentaires à la cible.
 

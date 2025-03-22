@@ -1,23 +1,21 @@
----
-title: Tempête de neige
-description: Invoque une tempête qui fait chuter les créatures.
-school: Invocation
-level: 3
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: 45 mètres
-ritual: false
-classes:
-  - Druide
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: une pincée de poussière et quelques gouttes d'eau
----
+# Tempête de neige
+
+**École de magie** : Invocation
+
+**Niveau** : 3
+
+**Portée** : 45 mètres
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (une pincée de poussière et quelques gouttes d'eau)
+
+**Classes** : Druide, Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Jusqu'à la fin du sort, une averse de flocons et de neige fondue s'abat dans un cylindre de 6 mètres de haut pour un rayon de 12 mètres centré sur un point de votre choix situé à portée. Dans la zone, la visibilité est nulle et les flammes à nu s'éteignent.
 
 Le sol de la zone est couvert d'une couche de verglas si glissante que le terrain devient difficile. Quand une créature entre dans la zone d'effet pour la première fois de son tour ou y débute son tour, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité ou tomber [_à terre_](/gerer-la-sante-du-personnage/#a-terre).

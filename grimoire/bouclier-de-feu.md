@@ -1,21 +1,19 @@
----
-title: Bouclier de feu
-description: Protection contre les dégâts de feu ou de froid qui blesse les assaillants.
-school: Évocation
-level: 4
-concentration: false
-casting_time: 1 action
-duration: 10 minutes
-range: personnelle
-ritual: false
-classes:
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un morceau de phosphore ou une luciole
----
+# Bouclier de feu
+
+**École de magie** : Évocation
+
+**Niveau** : 4
+
+**Portée** : personnelle
+
+**Durée** : 10 minutes
+
+**Composantes** : V, S, M, (un morceau de phosphore ou une luciole)
+
+**Classes** : Magicien
+
+**Source** : Manuel des règles
+
 De fines volutes de flammes enveloppent votre corps pendant toute la durée du sort, émettant une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon additionnel de 3 mètres. Vous pouvez mettre prématurément un terme au sort en utilisant une action.
 
 Les flammes vous offrent un bouclier chaud ou froid, comme bon vous semble. Le bouclier chaud vous apporte une résistance contre les dégâts de froid, le bouclier froid une résistance contre les dégâts de feu.

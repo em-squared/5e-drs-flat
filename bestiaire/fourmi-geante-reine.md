@@ -1,25 +1,3 @@
----
-title: 'Fourmi géante, Reine'
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '4'
-hitDiceCount: 10
-languages:
-  - —
-source: Livre des monstres
-source_page: 199
-abilityScores_for: 17
-abilityScores_dex: 13
-abilityScores_con: 16
-abilityScores_int: 2
-abilityScores_sag: 11
-abilityScores_cha: 4
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 12
-senses_blindsight: 18
----
 ## Capacités
 _**Odorat aiguisé**_. Une reine fourmi géante est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) aux tests de Sagesse (Perception) basés sur l'odeur.
 

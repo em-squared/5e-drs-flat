@@ -1,29 +1,3 @@
----
-title: Éléphant
-type: Bête
-size: TG
-alignment: non-alignée
-challenge: '4'
-hitDiceCount: 8
-senses: null
-languages:
-  - ''
-environments:
-  - Désert chaud
-  - Jungle
-  - Plaine / Champs / Prairie / Savane
-source: Créatures & Oppositions
-source_page: 306
-abilityScores_for: 22
-abilityScores_dex: 9
-abilityScores_con: 17
-abilityScores_int: 3
-abilityScores_sag: 11
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 12
----
 ## Capacités
 _**Charge écrasante**_. Si l'éléphant se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit ensuite une attaque de coup de défense lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 12 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), l'éléphant peut effectuer contre elle une attaque de piétinement par une action bonus.
 

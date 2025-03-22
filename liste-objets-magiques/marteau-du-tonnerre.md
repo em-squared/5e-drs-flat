@@ -1,11 +1,3 @@
----
-title: Marteau du tonnerre
-type: Arme
-subtype: Merlin
-rarity: Légendaire
-attunement: false
-source: Cadre de campagne
----
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
 
 _**Tueur de géant (harmonisation requise)**_. Pour vous harmoniser avec cette arme, vous devez porter un ceinturon de force de géant et des gantelets de puissance d'ogre. L'harmonisation se rompt si vous ôtez l'un de ces objets. Tant que vous êtes harmonisé avec cette arme et que vous la tenez en main, votre valeur de Force augmente de 4 et peut dépasser 20, mais pas 30. Quand vous obtenez un 20 au dé sur un jet d'attaque effectué avec cette arme contre un géant, ce dernier doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution DD 17 ou mourir sur-le-champ.

@@ -1,21 +1,19 @@
----
-title: Mur prismatique
-description: Crée un mur aveuglant dont chaque couche à un effet différent.
-school: Abjuration
-level: 9
-concentration: false
-casting_time: 1 action
-duration: 10 minutes
-range: 18 mètres
-ritual: false
-classes:
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Mur prismatique
+
+**École de magie** : Abjuration
+
+**Niveau** : 9
+
+**Portée** : 18 mètres
+
+**Durée** : 10 minutes
+
+**Composantes** : V, S
+
+**Classes** : Magicien
+
+**Source** : Manuel des règles
+
 Un plan de lumière scintillante multicolore forme un mur opaque vertical centré sur un point situé à portée et dans votre champ de vision. Ce mur fait au maximum 27 mètres de long, 9 mètres de haut et 2,5 centimètres d'épaisseur. Sinon, vous pouvez façonner le mur de manière à ce qu'il forme une sphère d'au maximum 9 mètres de diamètre centrée sur un point de votre choix situé à portée. Le mur reste en place pendant toute la durée du sort. Si vous positionnez le mur de manière à ce qu'il passe par un emplacement occupé par une créature, le sort échoue : votre action et l'emplacement du sort sont gaspillés.
 
 Le mur émet une lumière vive dans un rayon de 30  mètres et une lumière faible dans un rayon de 30 mètres de plus. Vous et les créatures que vous désignez au moment de l'incantation pouvez traverser le mur et rester à côté sans conséquence. Si une créature qui voit le mur s'en approche à 6 mètres ou moins, ou qu'elle démarre son tour dans ce périmètre, elle doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Constitution ou être [_aveuglée_](/gerer-la-sante-du-personnage/#aveugle) pendant 1 minute.

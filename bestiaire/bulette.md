@@ -1,35 +1,3 @@
----
-title: Bulette
-type: Créature monstrueuse
-size: G
-alignment: non-alignée
-challenge: '5'
-hitDiceCount: 9
-skills:
-  - name: perception
-    isExpert: true
-languages:
-  - —
-environments:
-  - Bois / Forêt
-  - Collines / Vallées
-dungeonTypes:
-  - Caverne naturelle
-source: Créatures & Oppositions
-source_page: 36
-abilityScores_for: 19
-abilityScores_dex: 11
-abilityScores_con: 21
-abilityScores_int: 2
-abilityScores_sag: 10
-abilityScores_cha: 5
-ac_armorType: armure naturelle
-ac_value: 7
-movement_walk: 12
-movement_burrow: 12
-senses_tremorsense: 18
-senses_darkvision: 18
----
 ## Capacités
 _**Saut sans élan**_. La bulette saute sur une longueur maximale de 9 mètres et une hauteur maximale de 4,50 mètres, avec ou sans élan préalable.
 

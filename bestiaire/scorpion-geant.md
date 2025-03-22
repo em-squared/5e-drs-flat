@@ -1,29 +1,3 @@
----
-title: Scorpion géant
-type: Bête
-size: G
-alignment: non-alignée
-challenge: '3'
-hitDiceCount: 7
-languages:
-  - ''
-environments:
-  - Désert chaud
-dungeonTypes:
-  - Caverne naturelle
-source: Créatures & Oppositions
-source_page: 322
-abilityScores_for: 15
-abilityScores_dex: 13
-abilityScores_con: 15
-abilityScores_int: 1
-abilityScores_sag: 9
-abilityScores_cha: 3
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 12
-senses_blindsight: 18
----
 ## Actions
 _**Attaques multiples**_. Le scorpion effectue trois attaques : deux avec ses pinces et une avec son dard.
 

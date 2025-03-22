@@ -1,37 +1,3 @@
----
-title: Noctegarm
-type: Créature monstrueuse
-size: G
-alignment: Chaotique Mauvais
-challenge: '6'
-hitDiceCount: 12
-skills:
-  - name: discretion
-  - name: perception
-customDamageTypeVulnerabilities: radiants ; aux armes en argent
-damageTypeResistances:
-  - foudre
-  - tonnerre
-  - c-p-t-non-argent
-languages:
-  - commun
-  - géant
-  - gobelin
-  - télépathie à 60 m (avec les factices uniquement)
-source: Livre des monstres
-source_page: 322
-abilityScores_for: 20
-abilityScores_dex: 14
-abilityScores_con: 18
-abilityScores_int: 10
-abilityScores_sag: 15
-abilityScores_cha: 16
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 6
-movement_special: 12 m (quadrupède)
-senses_darkvision: 18
----
 ## Capacités
 ***Créer un factice***. Si la noctegarme passe un round entier à dévorer un cadavre humanoïde, elle entre immédiatement en gestation. Neuf heures plus tard, elle donne naissance à un double de la créature dévorée. Ce double appelé « factice » possède tous les souvenirs et toutes les caractéristiques de l'original, mais sert loyalement sa mère, un peu comme un familier sert son magicien. Une noctegarm peut avoir 14 factices au maximum sous son contrôle. Elle peut communiquer avec eux par télépathie dans un rayon de 60 mètres.
 

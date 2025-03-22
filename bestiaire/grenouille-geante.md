@@ -1,32 +1,3 @@
----
-title: Grenouille géante
-type: Bête
-size: M
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 4
-skills:
-  - name: discretion
-  - name: perception
-languages:
-  - ''
-environments:
-  - Mangrove / Marécage
-dungeonTypes:
-  - Caverne sous-marine
-source: Créatures & Oppositions
-source_page: 307
-abilityScores_for: 12
-abilityScores_dex: 13
-abilityScores_con: 11
-abilityScores_int: 2
-abilityScores_sag: 10
-abilityScores_cha: 3
-ac_armorType: null
-movement_walk: 9
-movement_swim: 9
-senses_darkvision: 9
----
 ## Capacités
 _**Amphibie**_. La grenouille peut respirer à l'air libre et sous l'eau.
 

@@ -1,33 +1,3 @@
----
-title: Enlaceur
-type: Créature monstrueuse
-size: G
-alignment: Neutre Mauvais
-challenge: '5'
-hitDiceCount: 11
-skills:
-  - name: discretion
-    isExpert: true
-  - name: perception
-languages:
-  - —
-dungeonTypes:
-  - Caverne aménagée
-  - Caverne naturelle
-source: Créatures & Oppositions
-source_page: 138
-abilityScores_for: 18
-abilityScores_dex: 8
-abilityScores_con: 17
-abilityScores_int: 7
-abilityScores_sag: 16
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 11
-movement_walk: 3
-movement_climb: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Faux-semblant**_. Aussi longtemps que l'enlaceur reste immobile, il est impossible de le distinguer d'une formation rocheuse telle qu'une stalagmite.
 

@@ -1,34 +1,3 @@
----
-title: Gladiateur
-type: Humanoïde
-subtype: n'importe quelle race
-size: M
-alignment: n'importe quel alignement
-challenge: '5'
-hitDiceCount: 15
-savingThrows:
-  - for
-  - dex
-  - con
-skills:
-  - name: athletisme
-    isExpert: true
-  - name: intimidation
-senses: null
-languages:
-  - une langue au choix (commun le plus souvent)
-source: Créatures & Oppositions
-source_page: 335
-abilityScores_for: 18
-abilityScores_dex: 15
-abilityScores_con: 16
-abilityScores_int: 10
-abilityScores_sag: 12
-abilityScores_cha: 15
-ac_armorType: armure de cuir clouté
-ac_hasShield: true
-movement_walk: 9
----
 ## Capacités
 _**Brave**_. Le gladiateur obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) effectués pour ne pas être [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise).
 

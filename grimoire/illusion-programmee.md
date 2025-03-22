@@ -1,22 +1,19 @@
----
-title: Illusion programmée
-description: Illusion qui se déclenche selon les conditions spécifiées.
-school: Illusion
-level: 6
-concentration: false
-casting_time: 1 action
-duration: jusqu'à dissipation
-range: 36 mètres
-ritual: false
-classes:
-  - Barde
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: un morceau de toison et de la poussière de jade d'une valeur de 25 po
----
+# Illusion programmée
+
+**École de magie** : Illusion
+
+**Niveau** : 6
+
+**Portée** : 36 mètres
+
+**Durée** : jusqu'à dissipation
+
+**Composantes** : V, S, M, (un morceau de toison et de la poussière de jade d'une valeur de 25 po)
+
+**Classes** : Barde, Magicien
+
+**Source** : Manuel des règles
+
 Vous créez une illusion représentant un objet, une créature ou un autre phénomène visible à portée. Elle s'active une fois les conditions spécifiques remplies ; en attendant, elle est imperceptible. L'illusion doit tenir dans un cube de 9 mètres d'arête. Vous décidez de son comportement et des sons qu'elle émet au moment où vous lancez le sort. Ce comportement programmé peut durer un maximum de 5 minutes.
 
 Quand les conditions spécifiées se présentent, l'illusion apparaît et se comporte comme vous l'avez décidé. Sa représentation finie, elle disparaît et reste en hibernation pendant 10 minutes. Ensuite, elle peut se réactiver de nouveau.

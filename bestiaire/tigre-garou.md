@@ -1,34 +1,3 @@
----
-title: Tigre-garou
-type: Humanoïde
-subtype: 'humain, métamorphe'
-size: M
-alignment: Neutre
-challenge: '4'
-hitDiceCount: 16
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-customMovement: 9 m (12 m sous forme de tigre)
-damageTypeImmunities:
-  - c-p-t-non-argent
-languages:
-  - commun (ne peut pas parler sous forme de tigre)
-environments:
-  - Jungle
-source: Créatures & Oppositions
-source_page: 210
-abilityScores_for: 17
-abilityScores_dex: 15
-abilityScores_con: 16
-abilityScores_int: 10
-abilityScores_sag: 13
-abilityScores_cha: 11
-ac_armorType: null
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Bond agressif (forme hybride ou de tigre uniquement)**_. Si le tigre-garou se déplace en ligne droite sur une distance minimale de 4,50 mètres vers une créature contre laquelle il réussit ensuite une attaque de griffe lors du même tour, celle-ci doit réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force DD 14 pour ne pas être jetée [_à terre_](/gerer-la-sante-du-personnage/#a-terre). Si la cible est [_à terre_](/gerer-la-sante-du-personnage/#a-terre), le tigre-garou peut effectuer une attaque de _morsure_ contre elle par une action bonus.
 

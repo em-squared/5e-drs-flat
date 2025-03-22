@@ -1,31 +1,3 @@
----
-title: 'Kobold, saigneur'
-type: Humanoïde
-subtype: kobold
-size: P
-alignment: Neutre Mauvais
-challenge: '0.5'
-hitDiceCount: 5
-languages:
-  - commun
-  - draconique
-environments:
-  - Jungle
-  - Mangrove / Marécage
-dungeonTypes:
-  - Caverne aménagée
-source: Créatures & Oppositions
-source_page: 194
-abilityScores_for: 7
-abilityScores_dex: 16
-abilityScores_con: 10
-abilityScores_int: 10
-abilityScores_sag: 9
-abilityScores_cha: 9
-ac_armorType: null
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Attaque sournoise**_. Une fois par tour, le kobold fourbe inflige 3 (1d6) dégâts supplémentaires quand il touche une cible avec une attaque d'arme et s'il bénéficie d'un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors du [jet d'attaque](/combattre/#jets-d-attaque).
 

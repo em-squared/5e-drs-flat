@@ -1,11 +1,3 @@
----
-title: Anneau de lune
-type: Anneau
-subtype: false
-rarity: Artefact
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Cet anneau en pierre grisâtre, d'apparence très banale, fut forgé à partir d'une pierre tombée du ciel. Le forgeron fut maudit dès qu'il passa l'anneau : à chaque pleine lune, il se transformait en créature mi-homme, mi-loup. Il devint le premier loup-garou et fut à l'origine de la dissémination de la lycanthropie sur le monde.
 
 _**L'appel du sang**_. L'anneau attire irrémédiablement les humanoïdes qui le voient. Ces derniers doivent réussir un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Sagesse (DD 18) ou tout faire pour passer l'anneau, même tuer si cela s'avère nécessaire.

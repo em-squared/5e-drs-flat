@@ -1,11 +1,3 @@
----
-title: Hache de berserker
-type: Arme
-subtype: Hache
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts liés à cette arme magique. De plus, tant que vous êtes harmonisé avec elle, votre maximum de points de vie augmente de 1 par niveau que vous possédez.
 
 _**Malédiction**_. Cette hache est maudite et vous transmet sa malédiction dès que vous vous harmonisez avec elle. Tant que vous êtes maudit, vous refusez catégoriquement de vous séparer de la hache et la gardez à portée de main en toute circonstance. Vous subissez un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) si vous effectuez un jet d'attaque avec une autre arme, à moins que vous ne voyiez et n'entendiez pas d'ennemis dans un rayon de 18 mètres.

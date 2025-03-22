@@ -1,11 +1,3 @@
----
-title: Tapis volant
-type: Objet merveilleux
-subtype: false
-rarity: Très rare
-attunement: false
-source: Cadre de campagne
----
 Quand vous prononcez le mot de commande de ce tapis par une action, il flotte dans les airs. Il se déplace en volant selon vos indications vocales tant que vous vous trouvez à 9 mètres ou moins de lui.
 
 Il existe quatre tailles de tapis. C'est au MJ de choisir celle de chaque tapis ou de la déterminer au hasard.

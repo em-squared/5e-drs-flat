@@ -1,39 +1,3 @@
----
-title: Behtu
-type: Humanoïde
-size: P
-alignment: Chaotique Mauvais
-challenge: '2'
-hitDiceCount: 8
-savingThrows:
-  - dex
-skills:
-  - name: athletisme
-  - name: discretion
-damageTypeResistances:
-  - feu
-  - foudre
-  - froid
-languages:
-  - behtu
-  - commun
-  - infernal
-environments:
-  - Jungle
-source: Livre des monstres
-source_page: 37
-abilityScores_for: 17
-abilityScores_dex: 16
-abilityScores_con: 16
-abilityScores_int: 12
-abilityScores_sag: 11
-abilityScores_cha: 7
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 6
-movement_climb: 6
-senses_darkvision: 18
----
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +5 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 (1d6 + 3) dégâts perforants.

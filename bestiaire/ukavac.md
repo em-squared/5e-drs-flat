@@ -1,38 +1,3 @@
----
-title: Ukavac
-type: Créature monstrueuse
-size: G
-alignment: Neutre Mauvais
-challenge: '9'
-hitDiceCount: 21
-savingThrows:
-  - dex
-  - con
-skills:
-  - name: discretion
-    isExpert: true
-  - name: perception
-    isExpert: true
-damageTypeImmunities:
-  - tonnerre
-languages:
-  - sylvestre
-environments:
-  - Mangrove / Marécage
-source: Livre des monstres
-source_page: 389
-abilityScores_for: 20
-abilityScores_dex: 17
-abilityScores_con: 18
-abilityScores_int: 7
-abilityScores_sag: 15
-abilityScores_cha: 12
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: 12
-movement_swim: 6
-senses_darkvision: 18
----
 ## Capacités
 _**Retenir son souffle**_. Un ukavac peut retenir son souffle pendant 20 minutes.
 

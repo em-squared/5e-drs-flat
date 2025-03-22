@@ -1,39 +1,3 @@
----
-title: Dorreq
-type: Aberration
-size: M
-alignment: Neutre Mauvais
-challenge: '4'
-hitDiceCount: 17
-savingThrows:
-  - dex
-skills:
-  - name: discretion
-    isExpert: true
-  - name: intimidation
-    isExpert: true
-  - name: perception
-    isExpert: true
-damageTypeResistances:
-  - acide
-  - foudre
-  - froid
-languages:
-  - langue du Vide
-source: Livre des monstres
-source_page: 125
-abilityScores_for: 19
-abilityScores_dex: 19
-abilityScores_con: 13
-abilityScores_int: 11
-abilityScores_sag: 8
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 6
-movement_climb: '4,50'
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée d'un dorreq est l'Intelligence (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 10). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **3/jour chacun** : [_briser_](/grimoire/briser/), [_clignotement_](/grimoire/clignotement/), [_hâte_](/grimoire/hate/), [_porte dimensionnelle_](/grimoire/porte-dimensionnelle/)

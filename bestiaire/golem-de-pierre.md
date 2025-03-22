@@ -1,38 +1,3 @@
----
-title: Golem de pierre
-type: Créature artificielle
-size: G
-alignment: non-alignée
-challenge: '10'
-hitDiceCount: 17
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - petrifie
-  - terrorise
-damageTypeImmunities:
-  - poison
-  - psychique
-  - c-p-t-non-adamantium
-languages:
-  - comprend les langues de son créateur mais ne peut pas parler
-dungeonTypes:
-  - Donjon maçonné
-source: Créatures & Oppositions
-source_page: 171
-abilityScores_for: 22
-abilityScores_dex: 9
-abilityScores_con: 20
-abilityScores_int: 3
-abilityScores_sag: 11
-abilityScores_cha: 1
-ac_armorType: armure naturelle
-ac_value: 8
-movement_walk: 9
-senses_darkvision: 36
----
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du golem sont magiques.
 

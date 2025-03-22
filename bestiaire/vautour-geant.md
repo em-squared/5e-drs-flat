@@ -1,29 +1,3 @@
----
-title: Vautour géant
-type: Bête
-size: G
-alignment: Neutre Mauvais
-challenge: '1'
-hitDiceCount: 3
-skills:
-  - name: perception
-senses: null
-languages:
-  - comprend le commun mais ne peut pas parler
-environments:
-  - Plaine / Champs / Prairie / Savane
-source: Créatures & Oppositions
-source_page: 325
-abilityScores_for: 15
-abilityScores_dex: 10
-abilityScores_con: 15
-abilityScores_int: 6
-abilityScores_sag: 12
-abilityScores_cha: 7
-ac_armorType: null
-movement_walk: 3
-movement_fly: 18
----
 ## Capacités
 _**Odorat et vue aiguisés**_. Le vautour obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) basés sur l'odorat ou la vue.
 

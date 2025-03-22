@@ -1,22 +1,21 @@
----
-title: Télékinésie
-description: Le PJ peut déplacer des créatures ou des objets à distance.
-school: Transmutation
-level: 5
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 10 minutes
-range: 18 mètres
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Télékinésie
+
+**École de magie** : Transmutation
+
+**Niveau** : 5
+
+**Portée** : 18 mètres
+
+**Durée** : jusqu'à 10 minutes
+
+**Concentration** : oui
+
+**Composantes** : V, S
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Vous devenez capable de déplacer ou de manipuler des créatures ou des objets par la pensée. Lorsque vous lancez ce sort, puis en tant qu'action à chaque round pendant toute la durée du sort, vous pouvez exercer votre force de volonté sur une créature ou un objet situés à portée et dans votre champ de vision, ce qui provoque l'effet approprié indiqué plus bas. Vous pouvez affecter la même cible, round après round, ou en choisir une nouvelle quand vous le désirez. Si vous changez de cible, la précédente n'est plus affectée.
 
 **Créatures**. Vous pouvez essayer de déplacer une créature de taille TG ou inférieure. Faites un [test de caractéristique](/utiliser-les-caracteristiques/#tests-de-caracteristique) avec votre caractéristique d'incantation, opposé à un test de Force de la cible. Si vous l'emportez, vous déplacez la créature d'un maximum de 9 mètres dans la direction de votre choix, y compris en hauteur, mais pas hors de portée du sort. Jusqu'à la fin de votre prochain tour, la créature est entravée dans votre étreinte télékinétique. Une créature soulevée dans les airs reste suspendue dans le vide.

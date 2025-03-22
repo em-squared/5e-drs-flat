@@ -1,11 +1,3 @@
----
-title: Sac à malice
-type: Objet merveilleux
-subtype: false
-rarity: Peu courant
-attunement: false
-source: Cadre de campagne
----
 Ce banal sac gris, rouille ou brun semble vide. Cependant, si l'on plonge la main à l'intérieur, on sent un petit objet duveteux. Le sac pèse 250 grammes.
 
 Vous pouvez dépenser une action pour sortir l'objet duveteux du sac et le lancer à une distance maximale de 6 mètres. Quand il atterrit, il se transforme en une créature que vous déterminez en lançant un d8 dans la table correspondant à la couleur du sac.

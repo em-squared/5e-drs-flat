@@ -1,32 +1,3 @@
----
-title: Xanka
-type: Créature artificielle
-size: P
-alignment: non-alignée
-challenge: '0.25'
-hitDiceCount: 4
-conditionImmunities:
-  - charme
-  - empoisonne
-  - epuise
-  - paralyse
-  - terrorise
-languages:
-  - 'comprend les langues de son créateur, mais ne peut pas parler'
-source: Livre des monstres
-source_page: 411
-abilityScores_for: 10
-abilityScores_dex: 15
-abilityScores_con: 12
-abilityScores_int: 4
-abilityScores_sag: 10
-abilityScores_cha: 7
-ac_armorType: armure naturelle
-ac_value: 3
-movement_walk: '7,50'
-movement_climb: '4,50'
-senses_blindsight: 36
----
 ## Capacités
 _**Armes magiques**_. Les attaques d'arme du xanka sont magiques.
 

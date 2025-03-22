@@ -1,11 +1,3 @@
----
-title: Gemme lumineuse
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Ce prisme a 50 charges. Tant que vous le tenez, vous pouvez utiliser une action pour prononcer l'un des trois mots de commande qui provoquent l'un des effets suivants.
 
 Grâce au premier mot de commande, la gemme émet une vive lumière dans un rayon de 9 mètres et une faible lumière dans un rayon de 9 mètres de plus. Cet effet ne dépense aucune charge. Il se maintient jusqu'à ce que vous utilisiez une action bonus pour répéter le mot de commande ou jusqu'à ce que vous utilisiez une autre fonction de la gemme.

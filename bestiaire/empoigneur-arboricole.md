@@ -1,31 +1,3 @@
----
-title: Empoigneur arboricole
-type: Aberration
-size: M
-alignment: Neutre Mauvais
-challenge: '3'
-hitDiceCount: 12
-skills:
-  - name: acrobaties
-  - name: discretion
-languages:
-  - —
-environments:
-  - Jungle
-source: Livre des monstres
-source_page: 170
-abilityScores_for: 16
-abilityScores_dex: 16
-abilityScores_con: 16
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 1
-movement_walk: 3
-movement_climb: 12
-senses_darkvision: 18
----
 ## Capacités
 _**Pattes d'araignée**_. Un empoigneur arboricole peut escalader des surfaces difficiles et même évoluer tête en bas au plafond sans avoir besoin de faire de test de caractéristique.
 

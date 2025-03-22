@@ -1,25 +1,19 @@
----
-title: Glyphe de protection
-description: Piège magique déclenchant un sort ou une explosion.
-school: Abjuration
-level: 3
-concentration: false
-casting_time: 1 heure
-duration: jusqu'à dissipation ou déclenchement
-range: contact
-ritual: false
-classes:
-  - Barde
-  - Clerc
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  encens et poudre de diamant d'une valeur minimale de 200  po, que le sort
-  consume
----
+# Glyphe de protection
+
+**École de magie** : Abjuration
+
+**Niveau** : 3
+
+**Portée** : contact
+
+**Durée** : jusqu'à dissipation ou déclenchement
+
+**Composantes** : V, S, M, (encens et poudre de diamant d'une valeur minimale de 200  po, que le sort consume)
+
+**Classes** : Barde, Clerc, Magicien
+
+**Source** : Manuel des règles
+
 Lorsque vous lancez ce sort, vous inscrivez un glyphe capable de blesser autrui, soit sur une surface quelconque comme une table, le sol ou un mur, soit dans un objet que l'on peut refermer pour dissimuler l'inscription, comme un livre, un parchemin ou un coffre au trésor. Si vous optez pour une surface, le glyphe peut couvrir une zone de 3 mètres de diamètre au maximum. Si vous choisissez un objet, il ne faut plus le déplacer par la suite : si quelqu'un le déplace à plus de 3 mètres de l'endroit où vous avez jeté ce sort, le glyphe se brise et le sort se termine sans avoir été déclenché.
 
 Le glyphe est presque invisible. Pour le discerner, il faut réussir un test d'Intelligence (Investigation) contre le DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de votre sort.

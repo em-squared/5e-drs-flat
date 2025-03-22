@@ -1,27 +1,3 @@
----
-title: Malfrat
-type: Humanoïde
-subtype: n'importe quelle race
-size: M
-alignment: n'importe quel alignement autre que Bon
-challenge: '0.5'
-hitDiceCount: 5
-skills:
-  - name: intimidation
-senses: null
-languages:
-  - une langue au choix (commun le plus souvent)
-source: Créatures & Oppositions
-source_page: 336
-abilityScores_for: 15
-abilityScores_dex: 11
-abilityScores_con: 14
-abilityScores_int: 10
-abilityScores_sag: 10
-abilityScores_cha: 11
-ac_armorType: armure de cuir
-movement_walk: 9
----
 ## Capacités
 _**Tactique de groupe**_. Le malfrat obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors d'un [jet d'attaque](/combattre/#jets-d-attaque) effectué contre une créature si au moins un des alliés du malfrat, qui n'est pas [_neutralisé_](/gerer-la-sante-du-personnage/#neutralise), se trouve à 1,50 mètre ou moins de la créature qu'il attaque.
 

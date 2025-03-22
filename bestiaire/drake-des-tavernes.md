@@ -1,35 +1,3 @@
----
-title: Drake des tavernes
-type: Dragon
-size: TP
-alignment: Chaotique Neutre
-challenge: '0.5'
-hitDiceCount: 10
-savingThrows:
-  - dex
-skills:
-  - name: perspicacite
-  - name: persuasion
-  - name: supercherie
-conditionImmunities:
-  - inconscient
-  - paralyse
-languages:
-  - commun
-  - draconique
-source: Livre des monstres
-source_page: 155
-abilityScores_for: 7
-abilityScores_dex: 16
-abilityScores_con: 19
-abilityScores_int: 11
-abilityScores_sag: 12
-abilityScores_cha: 16
-ac_armorType: null
-movement_walk: 12
-movement_fly: 24
-senses_darkvision: 18
----
 ## Capacités
 _**Incantation innée**_. La caractéristique d'incantation innée du drake est le Charisme (DD du [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les sorts 13, +5 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles :
 * **À volonté** : _amis_, [_moquerie cruelle_](/grimoire/moquerie-cruelle/)

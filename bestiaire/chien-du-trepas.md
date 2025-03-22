@@ -1,31 +1,3 @@
----
-title: Chien du trépas
-type: Créature monstrueuse
-size: M
-alignment: Neutre Mauvais
-challenge: '1'
-hitDiceCount: 6
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-languages:
-  - ''
-environments:
-  - Désert chaud
-  - Plaine / Champs / Prairie / Savane
-source: Créatures & Oppositions
-source_page: 302
-abilityScores_for: 15
-abilityScores_dex: 14
-abilityScores_con: 14
-abilityScores_int: 3
-abilityScores_sag: 13
-abilityScores_cha: 6
-ac_armorType: null
-movement_walk: 12
-senses_darkvision: 36
----
 ## Capacités
 _**Bicéphale**_. Le chien obtient un [_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) et des [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) contre les états spéciaux [_assourdi_](/gerer-la-sante-du-personnage/#assourdi), [_aveuglé_](/gerer-la-sante-du-personnage/#aveugle), [_charmé_](/gerer-la-sante-du-personnage/#charme), [_terrorisé_](/gerer-la-sante-du-personnage/#terrorise), [_étourdi_](/gerer-la-sante-du-personnage/#etourdi) et [_inconscient_](/gerer-la-sante-du-personnage/#inconscient).
 

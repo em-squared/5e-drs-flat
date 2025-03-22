@@ -1,11 +1,3 @@
----
-title: Pigments merveilleux
-type: Objet merveilleux
-subtype: false
-rarity: Très rare
-attunement: false
-source: Cadre de campagne
----
 Ces pigments se trouvent généralement dans 1d4 pots rangés dans une boîte de bois en compagnie d'un pinceau (le tout pesant 0,5 kilo). Ils vous permettent de créer des objets en trois dimensions en les peignant en deux dimensions. La peinture coule du pinceau pour dessiner l'objet désiré alors que vous vous concentrez sur son image.
 
 Chaque pot de peinture permet de couvrir 90 mètres carrés de surface, ce qui vous permet de créer des objets inanimés ou des caractéristiques paysagères (comme une porte, un puits, des fleurs, des arbres, une cellule, une pièce, une arme...) d'au maximum 280 mètres cubes. Il faut 10 minutes pour couvrir une surface de 9 mètres carrés.

@@ -1,30 +1,3 @@
----
-title: Arbuste éveillé
-type: Plante
-size: P
-alignment: non-alignée
-challenge: '0'
-hitDiceCount: 3
-senses: null
-damageTypeVulnerabilities:
-  - feu
-damageTypeResistances:
-  - perforant
-languages:
-  - une langue connue de son créateur
-environments:
-  - Bois / Forêt
-source: Créatures & Oppositions
-source_page: 297
-abilityScores_for: 3
-abilityScores_dex: 8
-abilityScores_con: 11
-abilityScores_int: 10
-abilityScores_sag: 10
-abilityScores_cha: 6
-ac_armorType: null
-movement_walk: 6
----
 ## Capacités
 _**Faux-semblant**_. Aussi longtemps que l'arbuste reste immobile, il est impossible de le distinguer d'un arbrisseau ordinaire.
 

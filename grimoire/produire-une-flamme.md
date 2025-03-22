@@ -1,21 +1,17 @@
----
-title: Produire une flamme
-description: Fait apparaître une flamme dans la main du PJ.
-school: Invocation
-level: 0
-concentration: false
-casting_time: 1 action
-duration: 10 minutes
-range: personnelle
-ritual: false
-classes:
-  - Druide
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: false
-components_materials: ''
----
+# Produire une flamme
+
+**École de magie** : Invocation
+
+**Portée** : personnelle
+
+**Durée** : 10 minutes
+
+**Composantes** : V, S
+
+**Classes** : Druide
+
+**Source** : Manuel des règles
+
 Une flamme vacillante apparaît dans votre main. Elle y reste pendant toute la durée du sort et ne vous blesse pas, pas plus qu'elle n'endommage votre équipement. La flamme émet une lumière vive dans un rayon de 3 mètres et une lumière faible dans un rayon additionnel de 3 mètres. Le sort se termine si vous le révoquez par une action ou si vous le lancez de nouveau.
 
 Vous pouvez attaquer avec la flamme, mais cela met fin au sort. Pour cela, quand vous lancez le sort, ou par une action lors d'un tour ultérieur, vous lancez la flamme sur une créature située dans un rayon de 9 mètres. Faites une attaque de sort à distance. Si vous touchez, la cible subit 1d8 dégâts de feu.

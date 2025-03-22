@@ -1,11 +1,3 @@
----
-title: Anneau de maîtrise élémentaire
-type: Anneau
-subtype: false
-rarity: Légendaire
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Cet anneau est lié à l'un des quatre plans Élémentaires. Le MJ choisit ou détermine au hasard le plan concerné.
 
 Tant que vous portez cet anneau au doigt, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre les élémentaires originaires du plan lié et ceux-ci subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des jets d'attaque contre vous. De plus, vous avez accès aux propriétés associées au plan auquel il est lié.

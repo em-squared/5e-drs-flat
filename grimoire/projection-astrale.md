@@ -1,26 +1,19 @@
----
-title: Projection astrale
-description: Le PJ et ses alliés sont projetés sur le plan astral.
-school: Nécromancie
-level: 9
-concentration: false
-casting_time: 1 heure
-duration: spéciale
-range: 3 mètres
-ritual: false
-classes:
-  - Clerc
-  - Magicien
-  - Sorcier
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: >-
-  un zircon jaune d'une valeur minimale de 1000  po et un lingot d'argent gravé
-  d'une valeur minimale de 100 po par créature ; le sort consomme ces
-  composantes
----
+# Projection astrale
+
+**École de magie** : Nécromancie
+
+**Niveau** : 9
+
+**Portée** : 3 mètres
+
+**Durée** : spéciale
+
+**Composantes** : V, S, M, (un zircon jaune d'une valeur minimale de 1000  po et un lingot d'argent gravé d'une valeur minimale de 100 po par créature ; le sort consomme ces composantes)
+
+**Classes** : Clerc, Magicien, Sorcier
+
+**Source** : Manuel des règles
+
 Vous et un maximum de huit créatures consentantes à portée projetez vos corps astraux sur le plan astral (si vous vous trouvez déjà sur ce plan, le sort échoue et l'incantation est gâchée). Les corps physiques que vous laissez derrière vous sont [_inconscients_](/gerer-la-sante-du-personnage/#inconscient), en état d'animation suspendue. Ils n'ont pas besoin de nourriture ni d'air et ne vieillissent pas.
 
 Votre corps astral ressemble fort à votre corps physique, jusqu'à reproduire son profil technique et dupliquer ses possessions. La principale différence, c'est le cordon argenté qui sort entre vos omoplates et se prolonge derrière vous, disparaissant du champ de vision après une trentaine de centimètres. C'est lui qui vous relie à votre corps physique. Tant que ce lien est intact, vous pourrez rentrer chez vous, mais s'il est coupé (ce qui se produit seulement si un effet le précise), votre âme est soudain séparée de votre corps et vous mourez sur-le-champ.

@@ -1,30 +1,3 @@
----
-title: Homme-rat
-type: Humanoïde
-subtype: homme-rat
-size: P
-alignment: Neutre
-challenge: '0.25'
-hitDiceCount: 2
-skills:
-  - name: perception
-languages:
-  - commun
-dungeonTypes:
-  - Caverne aménagée
-source: Livre des monstres
-source_page: 245
-abilityScores_for: 7
-abilityScores_dex: 15
-abilityScores_con: 11
-abilityScores_int: 14
-abilityScores_sag: 10
-abilityScores_cha: 10
-ac_armorType: armure de cuir clouté
-movement_walk: '7,50'
-movement_swim: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Agilité**_. L'homme-rat peut traverser l'emplacement qu'occupe une créature de taille Moyenne ou supérieure.
 

@@ -1,22 +1,21 @@
----
-title: Dissipation du mal et du bien
-description: Protège le PJ contre les attaques de certaines créatures.
-school: Abjuration
-level: 5
-concentration: true
-casting_time: 1 action
-duration: jusqu'à 1 minute
-range: personnelle
-ritual: false
-classes:
-  - Clerc
-  - Paladin
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: eau bénite ou poudre d'argent et de fer
----
+# Dissipation du mal et du bien
+
+**École de magie** : Abjuration
+
+**Niveau** : 5
+
+**Portée** : personnelle
+
+**Durée** : jusqu'à 1 minute
+
+**Concentration** : oui
+
+**Composantes** : V, S, M, (eau bénite ou poudre d'argent et de fer)
+
+**Classes** : Clerc, Paladin
+
+**Source** : Manuel des règles
+
 Une énergie scintillante vous entoure et vous protège contre les fées, les morts-vivants et les créatures originaires d'un autre plan que le plan matériel. Pendant toute la durée du sort, les célestes, les élémentaires, les fées, les fiélons et les morts-vivants subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors de leurs attaques contre vous.
 
 Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spéciales suivantes.

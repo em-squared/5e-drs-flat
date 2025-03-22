@@ -1,11 +1,3 @@
----
-title: Ceinturon des nains
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Tant que vous portez ce ceinturon, vous bénéficiez des avantages suivants :
 * Votre valeur de Constitution augmente de 2, sans dépasser un maximum de 20.
 * Vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Charisme (Persuasion) pour interagir avec des nains.

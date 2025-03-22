@@ -1,11 +1,3 @@
----
-title: Sceptre de vigilance
-type: Sceptre
-subtype: false
-rarity: Très rare
-attunement: harmonisation requise
-source: Cadre de campagne
----
 Ce sceptre à la tête en collerette possède les propriétés suivantes.
 
 _**Vigilance**_. Tant que vous tenez le sceptre en main, vous obtenez l'[_avantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) lors des tests de Sagesse (Perception) et des jets d'initiative.

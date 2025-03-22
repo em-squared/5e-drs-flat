@@ -1,39 +1,3 @@
----
-title: Araignée marchespectre
-type: Créature monstrueuse
-size: G
-alignment: Neutre Mauvais
-challenge: '9'
-hitDiceCount: 14
-savingThrows:
-  - dex
-  - cha
-skills:
-  - name: perception
-conditionImmunities:
-  - empoisonne
-damageTypeImmunities:
-  - poison
-languages:
-  - comprend le commun des profondeurs mais ne peut pas parler
-environments:
-  - Bois / Forêt
-dungeonTypes:
-  - Caverne naturelle
-source: Livre des monstres
-source_page: 27
-abilityScores_for: 15
-abilityScores_dex: 20
-abilityScores_con: 17
-abilityScores_int: 9
-abilityScores_sag: 14
-abilityScores_cha: 8
-ac_armorType: null
-movement_walk: 15
-movement_climb: 15
-senses_blindsight: 3
-senses_darkvision: 18
----
 ## Capacités
 _**Marchespectre**_. L'araignée marchespectre devient [_invisible_](/gerer-la-sante-du-personnage/#invisible) et intangible par une action bonus. Cette invisibilité ne se dissipe pas si elle attaque. Tant que l'araignée est [_invisible_](/gerer-la-sante-du-personnage/#invisible), elle est [_avantagée_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Dextérité (Discrétion) et gagne les avantages suivants :
 * **Résistance aux dégâts** d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques

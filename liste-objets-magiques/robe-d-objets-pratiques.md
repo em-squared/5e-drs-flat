@@ -1,11 +1,3 @@
----
-title: Robe d'objets pratiques
-type: Objet merveilleux
-subtype: false
-rarity: Peu courant
-attunement: false
-source: Cadre de campagne
----
 Cette robe est couverte de pièces de tissu de formes et de couleurs diverses. Tant que vous portez ce vêtement, vous pouvez effectuer une action pour détacher une des pièces et provoquer sa transformation en l'objet ou la créature qu'elle représente. Dès que la dernière pièce est détachée, la robe devient un vêtement ordinaire.
 
 Deux pièces de chacun des éléments suivants sont cousues sur la robe :

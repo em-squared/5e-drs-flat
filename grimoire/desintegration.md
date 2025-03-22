@@ -1,22 +1,19 @@
----
-title: Désintégration
-description: Rayon qui inflige 10d6+40 dégâts et peut désintégrer sa cible.
-school: Transmutation
-level: 6
-concentration: false
-casting_time: 1 action
-duration: instantanée
-range: 18 mètres
-ritual: false
-classes:
-  - Ensorceleur/Sorcelame
-  - Magicien
-source: Manuel des règles
-components_verbal: true
-components_somatic: true
-components_material: true
-components_materials: de la magnétite et une pincée de poussière
----
+# Désintégration
+
+**École de magie** : Transmutation
+
+**Niveau** : 6
+
+**Portée** : 18 mètres
+
+**Durée** : instantanée
+
+**Composantes** : V, S, M, (de la magnétite et une pincée de poussière)
+
+**Classes** : Ensorceleur/Sorcelame, Magicien
+
+**Source** : Manuel des règles
+
 Un mince rayon de lumière verte jaillit de votre doigt pointé vers une cible située dans votre champ de vision et à portée. La cible peut être une créature, un objet ou une création de force magique, comme une barrière issue d'un [_mur de force_](/grimoire/mur-de-force/).
 
 Une créature visée par ce sort doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité. Si elle le rate, elle subit 10d6+40 dégâts de force. Si ces dégâts la réduisent à 0 point de vie, elle est désintégrée.

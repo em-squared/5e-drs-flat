@@ -1,11 +1,3 @@
----
-title: Baguette des entraves
-type: Baguette
-subtype: false
-rarity: Rare
-attunement: harmonisation avec un lanceur de sorts exigée
-source: Cadre de campagne
----
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. Sur un 1, elle est détruite et tombe en cendres.
 
 _**Sorts**_. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser certaines de ses charges et lancer un des sorts suivants (DD des jets de sauvegarde 17) : [_immobiliser un monstre_](/grimoire/immobiliser-un-monstre/) (5 charges) ou [_immobiliser un humanoïde_](/grimoire/immobiliser-un-humanoide/) (2 charges).

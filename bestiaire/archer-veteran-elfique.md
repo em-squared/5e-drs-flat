@@ -1,32 +1,3 @@
----
-title: Archer vétéran elfique
-type: Humanoïde
-subtype: elfe
-size: M
-alignment: Chaotique Bon ou Chaotique Neutre
-challenge: '3'
-hitDiceCount: 14
-skills:
-  - name: discretion
-  - name: nature
-  - name: perception
-    isExpert: true
-  - name: survie
-senses: null
-languages:
-  - commun
-  - elfique
-source: Livre des monstres
-source_page: 418
-abilityScores_for: 11
-abilityScores_dex: 16
-abilityScores_con: 12
-abilityScores_int: 11
-abilityScores_sag: 13
-abilityScores_cha: 11
-ac_armorType: armure de cuir clouté
-movement_walk: 9
----
 ## Capacités
 _**Chasseur de bêtes**_. L'archer vétéran elfique est [_avantagé_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur les tests de Sagesse (Survie) pour suivre la piste d'une bête et sur les tests d'Intelligence (Nature) pour se souvenir d'une information à propos d'une bête.
 

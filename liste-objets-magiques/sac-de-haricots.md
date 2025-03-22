@@ -1,11 +1,3 @@
----
-title: Sac de haricots
-type: Objet merveilleux
-subtype: false
-rarity: Rare
-attunement: false
-source: Cadre de campagne
----
 Ce lourd sac de toile contient 3d4 haricots secs. Il pèse 250 grammes plus 125 grammes par haricot.
 
 Si vous jetez le contenu du sac par terre, les haricots explosent, la déflagration affectant un rayon de 3 mètres autour d'eux. Chaque créature située dans la zone, vous compris, doit faire un [jet de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Dextérité DD 15. Celles qui échouent subissent 5d4 dégâts de feu, les autres moitié moins. Le feu embrase les objets inflammables de la zone, sauf ceux qui sont déjà équipés ou transportés.

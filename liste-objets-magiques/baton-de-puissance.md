@@ -1,11 +1,3 @@
----
-title: Bâton de puissance
-type: Bâton
-subtype: false
-rarity: Très rare
-attunement: 'harmonisation avec un ensorceleur, un magicien ou un sorcier exigée'
-source: Cadre de campagne
----
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 à la Classe d'Armure, aux jets de sauvegarde et aux jets d'attaque des sorts.
 
 Le bâton contient 20 charges en ce qui concerne l'utilisation des propriétés suivantes. Il récupère 2d8+4 charges dépensées à l'aube. Si vous dépensez la dernière charge, lancez un d20. Le bâton conserve son bonus de +2 aux jets d'attaque et de dégâts mais perd toutes ses autres propriétés sur un résultat de 1. Le bâton récupère 1d8+2 charges sur un résultat de 20.

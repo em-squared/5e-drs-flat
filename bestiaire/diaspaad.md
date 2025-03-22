@@ -1,27 +1,3 @@
----
-title: Diaspaad
-type: Aberration
-size: G
-alignment: Chaotique Neutre
-challenge: '10'
-hitDiceCount: 19
-damageTypeResistances: null
-languages:
-  - diaspaad
-  - répète des mots sans les comprendre
-source: Créatures & Oppositions
-source_page: 72
-abilityScores_for: 20
-abilityScores_dex: 12
-abilityScores_con: 18
-abilityScores_int: 6
-abilityScores_sag: 10
-abilityScores_cha: 6
-ac_armorType: custom
-ac_value: '14'
-movement_walk: 9
-senses_darkvision: 18
----
 ## Capacités
 _**Division**_. Quand un diaspaad de taille P ou plus grand subit au moins 25 points de dégâts tranchants, il se divise en deux nouveaux diaspaad d'une catégorie de taille inférieure. Ces deux nouveaux diaspaads ont la moitié des points de vie du diaspaad dont ils sont issus. Ils subissent un [_désavantage_](/utiliser-les-caracteristiques/#avantage-et-desavantage) sur leurs tests de Force et leurs [jets de sauvegarde](/utiliser-les-caracteristiques/#jets-de-sauvegarde) de Force. Leurs dégâts sont réduits de 1 point et d'une catégorie de dé par taille inférieure à la taille G.
 

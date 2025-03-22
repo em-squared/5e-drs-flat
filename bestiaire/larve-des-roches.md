@@ -1,35 +1,3 @@
----
-title: Larve des roches
-type: Créature monstrueuse
-size: M
-alignment: Neutre
-challenge: '1'
-hitDiceCount: 5
-skills:
-  - name: discretion
-  - name: perception
-    isExpert: true
-conditionImmunities:
-  - aveugle
-languages:
-  - ''
-dungeonTypes:
-  - Caverne naturelle
-source: Créatures & Oppositions
-source_page: 273
-abilityScores_for: 15
-abilityScores_dex: 12
-abilityScores_con: 14
-abilityScores_int: 3
-abilityScores_sag: 14
-abilityScores_cha: 6
-ac_armorType: armure naturelle
-ac_value: 4
-movement_walk: 6
-movement_burrow: 6
-senses_tremorsense: 12
-senses_blindsight: 12
----
 ## Actions
 _**Morsure**_. _Attaque d'arme au corps à corps_ : +4 pour toucher, allonge 1,50 m, une cible.  
 _Touché_ : 6 (1d8+2) dégâts perforants.
